@@ -1,0 +1,5 @@
+.silverbullet*
+.chrome-data/
+_plug/
+*.db
+*.db-*
