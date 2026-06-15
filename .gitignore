@@ -1,5 +1,6 @@
+# Internals de SilverBullet (no versionar la memoria de Brisa con basura del editor)
 .silverbullet*
-.chrome-data/
+.chrome-data
 _plug/
 *.db
 *.db-*
