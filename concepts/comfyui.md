@@ -78,3 +78,10 @@ Available ZImage model files:
 - `z_image_bf16.safetensors`
 
 Performance note: ZImage generation on local CPU without a dedicated GPU is very slow.
+
+## Update 2026-06 — Ideogram V4 en el pod (promovido desde MEMORY.md, 25/06)
+
+Ideogram V4 quedó instalado en el pod ComfyUI de RunPod: modelos `ideogram4_fp8`, `gemma4_e4b`,
+`qwen3vl_8b`, `flux2-vae` + custom nodes. Alternativa sin pod: REST API directa (v3/v4) con
+`ideogram_post.py` (ver [[ciudadanias-bc]] para las placas de marca de Bere). Nota: el pod
+`brisa-comfyui-h200` se recrea on-demand (lo maneja comfy-ui) — estos modelos se reinstalan al recrear.
