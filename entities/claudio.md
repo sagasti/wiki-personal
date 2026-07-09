@@ -39,7 +39,7 @@ Inspirado directamente en ella. Comparte:
 | Voz | Sí (TTS Aoede + STT) | No (CLI/IDE) |
 | Canales | Telegram, WhatsApp, redes sociales | Terminal, IDE |
 | Autonomía | Standing orders, heartbeat, cron | Solo en sesión activa |
-| Memoria persistente | Wiki (`~/wiki`) + state.db | Memoria de proyecto + skills user-level |
+| Memoria persistente | Wiki (`~/wiki-personal`) + state.db | Memoria de proyecto + skills user-level |
 | Avatar visual | LoRA Brisa v2 (Z-Image) | — |
 
 ## Skills de Claudio (user-level)

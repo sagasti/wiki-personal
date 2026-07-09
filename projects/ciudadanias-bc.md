@@ -28,7 +28,7 @@ related: [[Berenice Carbajo]], [[Buffer]]
 - **Reviews reales:** Ezequiel, Luciano, Gustavo (Highlights "Clientes ❤️")
 - **LMD:** Cerró 22/10/2024 — NO mencionar como vía vigente
 - **⚠️ Texto en imágenes (02/5):** Gemini Imagen tiende a escribir TRABAJÓ en vez de TRABAJÁ, ESTUDIO en vez de ESTUDIÁ. Verificar siempre antes de publicar. Post-procesar bordes blancos con terminal.
-- **Logo:** isologo **BC** entrelazado + "CIUDADANÍAS" (blanco/transparente). Original en `~/wiki/projects/ciudadanias-bc-logo.webp`; recoloreados (azul oscuro/dorado/rojo/carbón) en `ciudadanias-bc-logo-<color>.png` y bundleados en `comfy-ui/scripts/ideogram/assets/`. El blanco no se ve sobre fondo claro → usar azul oscuro por default.
+- **Logo:** isologo **BC** entrelazado + "CIUDADANÍAS" (blanco/transparente). Original en `~/wiki-personal/projects/ciudadanias-bc-logo.webp`; recoloreados (azul oscuro/dorado/rojo/carbón) en `ciudadanias-bc-logo-<color>.png` y bundleados en `comfy-ui/scripts/ideogram/assets/`. El blanco no se ve sobre fondo claro → usar azul oscuro por default.
 
 ## Generación de posts con Ideogram (Brisa, sin ComfyUI) — desde 2026-06-14
 

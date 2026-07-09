@@ -29,6 +29,6 @@ confidence: "medium"
 
 1. Write HTML with inline styles
 2. Render to image via PIL (`imgkit` or similar)
-3. Save to `~/wiki/projects/ciudadanias-bc-cartel-<service>.png`
+3. Save to `~/wiki-personal/projects/ciudadanias-bc-cartel-<service>.png`
 
 See also: [[berenice-carbajo]], [[ciudadanias-bc]], [[ciudadanias-bc-portuguesa-services]]

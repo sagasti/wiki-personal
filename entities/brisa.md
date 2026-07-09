@@ -21,7 +21,7 @@ related: [[Jorge Sagasti]], [[hermes-ai-assistant]], [[LLM-Wiki]], [[claudio]]
 - **Redes sociales:** X (@brisa_sagasti), Instagram, Threads
 - **Social launch (25/4):** Fase 1 teaser completada — "Algo se está cocinando... 👁️‍🗨️" posted a Instagram via Buffer. Próximo: "making of" + introducción oficial.
 - **Autoridad:** Solo Jorge, Bere, Vivi, Lorena pueden darle órdenes
-- **Conocimiento:** [[LLM-Wiki]] (wiki/ directory)
+**- **Conocimiento:** [[LLM-Wiki]] (wiki-personal/)
 - **Modelo:** llm-gateway/glm-5.1
 
 ## Personalidad — cómo respondo (system prompt)

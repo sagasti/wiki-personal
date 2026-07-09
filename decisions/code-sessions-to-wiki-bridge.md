@@ -15,7 +15,7 @@ confidence: medium
 
 ## El gap detectado
 
-[[brisa]] hace **nightly consolidation** que escribe al wiki (`~/wiki/log.md` lleva el track). Esa consolidación lee de:
+[[brisa]] hace **nightly consolidation** que escribe al wiki (`~/wiki-personal/log.md` lleva el track). Esa consolidación lee de:
 
 - `~/hermes/data/sessions/*.jsonl` (sesiones de Telegram, WhatsApp, cron)
 - Logs de Hermes
@@ -78,9 +78,9 @@ sources = [
 
 **Cómo:** crear `~/.hermes/scripts/code-sessions-extract.py` que:
 1. Escanea `~/.claude/projects/*/`
-2. Por cada sesión nueva desde último run, extrae los user messages + assistant tool calls a Edit/Write en `~/wiki/`
+2. Por cada sesión nueva desde último run, extrae los user messages + assistant tool calls a Edit/Write en `~/wiki-personal/`
 3. Genera un `raw/code-session-<uuid>.md` con timestamp + project + summary
-4. Brisa lo levanta en el próximo cron porque ya está en `~/wiki/raw/`
+4. Brisa lo levanta en el próximo cron porque ya está en `~/wiki-personal/raw/`
 
 **Pros:**
 - No toca Hermes, solo agrega un script

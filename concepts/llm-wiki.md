@@ -27,7 +27,7 @@ Migrado a [[LLM-Wiki]] el 15/04. Ver decisión en `wiki/decisions/supermemory-to
 - Traceable: citas a fuente original
 
 ## Implementación en Hermes
-- Directorio: `~/wiki/`
+- Directorio: `~/wiki-personal/`
 - Brisa mantiene las páginas como parte de su operación normal
 - Auto-capture → escribir en wiki en vez de llamar a API
 - Auto-recall → leer wiki pages relevantes antes de responder

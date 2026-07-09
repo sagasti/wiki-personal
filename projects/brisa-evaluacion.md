@@ -243,7 +243,7 @@ Veredictos: ✅ gusta | ❌ no | ⚠️ parcial | ⏳ pendiente
 - Mejor entendimiento de qué NO funciona (score tags en FLUX, CFG alto en FLUX)
 
 **Recomendación:**
-- Migrar los scripts a Hermes (ya copiados a `~/wiki/projects/brisa-character-archive/`)
+- Migrar los scripts a Hermes (ya copiados a `~/wiki-personal/projects/brisa-character-archive/`)
 - Implementar Pipeline E/F (2-model) como skill de Hermes
 - Agregar IP-Adapter FaceID a los tests FLUX
 - Probar FLUX + FaceID + Pony refine como Pipeline G

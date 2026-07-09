@@ -23,7 +23,7 @@ related: [[hermes-ai-assistant]], [[Brisa]], [[LLM-Wiki]]
 - Brisa Score → `concepts/brisa-score.md`
 - Standing orders → `concepts/heartbeat.md` + `concepts/brisa-tools.md`
 - D-ID config → `concepts/did-video.md`
-- LLM-Wiki → este wiki (~/wiki/)
+- LLM-Wiki → este wiki (~/wiki-personal/)
 
 ## Lo que NO se migró (ya no necesario)
 - wacli (WhatsApp CLI, roto)
