@@ -1,52 +1,47 @@
 # Brisa → Solo Asistente Personal
 
-**Fecha**: 2026-06-12
-**Estado**: En progreso (transición gradual)
+**Fecha original**: 2026-06-12  
+**Última reafirmación**: 2026-07-09  
+**Estado**: Activo (hard rule)
 
 ## Decisión
 
-Jorge decidió que Brisa pasa a ser **exclusivamente asistente personal**. Lo laboral (OpenPass, Jira, calendar trabajo, reuniones 💼) se delega a **Cacho**, otro agente Hermes con perfil separado.
+Jorge decidió que Brisa es **exclusivamente asistente personal**. Lo laboral (OpenPass, Jira, calendar trabajo, reuniones 💼, clientes, facturación, proyectos OpenPass) se delega a **Cacho** / otros agentes con perfil separado — Brisa no lo toca.
 
-## Contexto
+## Frontera de wiki (reafirmada 2026-07-09)
 
-- Jorge tiene otros agentes para lo laboral — Brisa no necesita redundar
-- La wiki no se toca (otros agentes la usan)
-- Solo se saca de **memoria** (MEMORY.md) lo laboral, no de la wiki
-- Transición gradual: "pasitos de bebé", de a uno
+- **Única memoria personal writable**: `~/.hermes/personal/` → symlink a **`/Users/jorge/wiki-personal`**.
+- **Fuera de alcance total**: `~/wiki` (wiki laboral). No leer, no escribir, no listar, no referenciar como workspace.
+- Skill de scope: `wiki-personal`.
+- Hermes project creado: slug **`wiki-personal`** (`p_9945067a`), path `/Users/jorge/wiki-personal` — anclar sesiones ahí; no abrir chats con cwd en `~/wiki`.
+- Ejemplos **100% laborales** (fuera de la wiki-personal): `bub-2.0`, `vas-analizer` (y similares OpenPass). No inventar páginas ni copiarlos acá.
+- En `projects/` de la wiki-personal **quedan** emprendimientos/personales/históricos listados (Brisa, Ciudadanías BC, bere-lora, ComfyUI/RunPod personal, Luz Estudio discontinuado, Mundomac histórico, etc.). No purgar lo personal solo por cruce técnico.
 
-## Qué cambia
+## Qué hace Brisa (personal)
 
-### Brisa (personal)
-- Calendario: solo `jorge@sagasti.com`
-- News interests: sigue siendo de Brisa (contenido personal)
-- Morning brief: solo clima, noticias, eventos 🏠
-- Wiki: lectura/escritura (compartido)
+- Calendario personal / vida diaria
+- News interests, morning brief no-laboral
+- [[ciudadanias-bc]] (negocio de Bere — personal/familia)
+- Personaje [[brisa]], LoRAs, ComfyUI personal, redes de Brisa
+- Memoria durable en wiki-personal + MEMORY/USER punteros cortos
 
-### Cacho (laboral)
-- Calendario: solo `jorge@openpass.com.ar`
-- Morning brief: reuniones 💼, Jira IYD
-- Reunion prep + 15min alert: solo eventos laborales
-- Kibana token refresh
-- Se arregla solo para hacer lo que se le pide (sin scripts pre-hechos)
+## Qué NO hace Brisa
 
-## Pendiente
+- OpenPass / IYD / Jira laboral / clientes OpenPass
+- Escribir o operar sobre `~/wiki`
+- Tareas de Cacho u otros agentes laborales
 
-- [ ] Crear/configurar perfil Cacho en Hermes
-- [ ] Brisa: pausar cron jobs laborales cuando Cacho esté andando
-- [ ] Brisa: ajustar scripts calendar para solo ver sagasti.com
-- [ ] MEMORY.md: limpiar entries laborales de Brisa
-- [ ] USER.md: actualizar rol de Brisa
+## Historial Cacho (prompts eliminados)
 
-## Prompts para Cacho (definidos)
+1. ~~Work Morning Brief~~ — ELIMINADO 2026-06-13  
+2. ~~Reunion Prep~~ — ELIMINADO 2026-06-13  
+3. ~~Reunion 15min Alert~~ — ELIMINADO 2026-06-13  
+4. ~~Kibana Token Refresh~~ — ELIMINADO 2026-06-13  
 
-1. ~~**Work Morning Brief**~~ — **ELIMINADO** (2026-06-13): Jorge decidió que no lo necesita.
+## Fuentes
 
-2. ~~**Reunion Prep**~~ — **ELIMINADO** (2026-06-13): Jorge decidió que no lo necesita.
-
-3. ~~**Reunion 15min Alert**~~ — **ELIMINADO** (2026-06-13): Jorge decidió que no lo necesita.
-
-4. ~~**Kibana Token Refresh**~~ — **ELIMINADO** (2026-06-13): Brisa no accede a Kibana.
+- Sesión desktop 2026-07-09: `20260709_133922_9da651` — confirmación explícita “solo wiki-personal”, ejemplos laborales, fix de cwd/proyecto.
 
 ## Tags
 
-#decision #hermes #agent-roles #personal-vs-work #cacho
+#decision #hermes #agent-roles #personal-vs-work #cacho #wiki-personal

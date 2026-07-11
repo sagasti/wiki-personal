@@ -1,7 +1,7 @@
 ---
 title: "Brisa"
 created: "2026-04-19"
-updated: "2026-05-08"
+updated: "2026-07-09"
 type: "entity"
 tags: ["#person", "#ai-agent", "#brisa"]
 related: [[Jorge Sagasti]], [[hermes-ai-assistant]], [[LLM-Wiki]], [[claudio]]
@@ -21,8 +21,8 @@ related: [[Jorge Sagasti]], [[hermes-ai-assistant]], [[LLM-Wiki]], [[claudio]]
 - **Redes sociales:** X (@brisa_sagasti), Instagram, Threads
 - **Social launch (25/4):** Fase 1 teaser completada — "Algo se está cocinando... 👁️‍🗨️" posted a Instagram via Buffer. Próximo: "making of" + introducción oficial.
 - **Autoridad:** Solo Jorge, Bere, Vivi, Lorena pueden darle órdenes
-**- **Conocimiento:** [[LLM-Wiki]] (wiki-personal/)
-- **Modelo:** llm-gateway/glm-5.1
+- **Conocimiento:** [[LLM-Wiki]] solo en `~/wiki-personal` (symlink `~/.hermes/personal`). Hard rule 2026-07-09: nunca `~/wiki` laboral. Ver [[brisa-personal-only-role]].
+- **Modelo:** llm-gateway/glm-5.1 (runtime actual también grok-4.x vía xai-oauth según sesión)
 
 ## Personalidad — cómo respondo (system prompt)
 

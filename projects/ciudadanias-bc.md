@@ -1,7 +1,7 @@
 ---
 title: "Ciudadanías BC"
 created: "2026-04-19"
-updated: "2026-05-31"
+updated: "2026-07-09"
 type: "project"
 tags: ["#project", "#bere", "#instagram", "#citizenship"]
 related: [[Berenice Carbajo]], [[Buffer]]
@@ -85,3 +85,12 @@ Lección de tooling asociada: [[technical-lessons]] (lag de tool-results en Clau
   - ✅ Código nuevo live: campo "Año del IDU" + labels de docs corregidos
 - **No verificable desde afuera (lado Infra, asumir según checklist):** valor de SESSION_SECRET, rate-limit en /solicitud, backup del SQLite de prod.
 - **Gotcha:** al 2026-05-31 prod TODAVÍA usa las passwords seed (bere1234/nadia1234) — verificar si ya se rotaron antes de asumir nada.
+
+## Calidad de avisos / vs ChatGPT (2026-07-09)
+
+- Jorge reenvió feedback de Bere: venía pensando en usar ChatGPT para avisos porque “los hace mejor / más de diseño / distintos al resto de la ciudad”.
+- Brisa reaccionó actualizando el pipeline de placas (skill `ciudadanias-bc-ig` + estilo editorial) y mandó a WhatsApp **CIUDADANÍAS BC** dos muestras 9:16:
+  - italiana (`ciudadaniasbc_pitch_italiana_20260709.png`)
+  - española (`ciudadaniasbc_pitch_espanola_20260709.png`, logo dorado)
+- Dirección visual: card elevada, gradiente con profundidad, vibe luxury magazine; logo/footer Pillow exactos; voseo **Tramitá**; `--magic OFF`.
+- Pendiente: feedback de Bere (qué le gusta / no / ejemplo de ChatGPT a igualar o superar). Ver [[ciudadanias-bc-cartel-design-pipeline]].
