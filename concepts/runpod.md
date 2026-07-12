@@ -1,24 +1,27 @@
 ---
 title: "RunPod GPU Setup"
 created: "2026-04-26"
-updated: "2026-06-14"
+updated: "2026-07-12"
 type: "concept"
 tags: ["#reference", "#devops", "#ai"]
 date: "2026-04-26"
 source: "MEMORY.md rotation (weekly maintenance)"
-valid_until: "2026-05-26"
+valid_until: "2026-08-12"
 ---
 
 # RunPod GPU Setup
 
-## Pod Activo
-- **Name:** brisa-comfyui-h200
-- **Pod ID:** gt7xw3blwtrthx
+## Pod brisa-comfyui-h200 (on-demand)
+
+> **2026-07:** el pod **se recrea on-demand** (skill `comfy-ui` / `runpod`). No asumir IP/Pod ID fijos de entradas viejas. Verificar con skill antes de usar. **Nunca levantar sin OK de Jorge** (caro).
+
+- **Name histórico:** brisa-comfyui-h200
+- **Pod ID (puede cambiar):** gt7xw3blwtrthx (último documentado; re-chequear)
 - **GPU:** H200 143GB VRAM
-- **SSH:** verificar con `runpod` skill (cambia cada restart). Key `/opt/data/.ssh/id_ed25519` funciona en pods creados con template `t9hgwtx2xb` (después del 13/6).
-- **Network Volume:** f4uirc6q1f (300GB, us-nc-1)
+- **SSH:** cambia cada restart/recreate. Key histórica `/opt/data/.ssh/id_ed25519` en pods con template `t9hgwtx2xb` (post 13/6).
+- **Network Volume:** f4uirc6q1f (300GB, us-nc-1) — estable
 - **ComfyUI URL:** https://comfy.sagasti.com (Basic auth `api:$COMFYUI_API_PASSWORD`)
-- **Autostart:** Template `t9hgwtx2xb` arranca ComfyUI + nginx + cloudflared tunnel automáticamente (~45s).
+- **Autostart:** Template `t9hgwtx2xb` → ComfyUI + nginx + cloudflared (~45s).
 
 ## Pod ideogram-nc1 (experimental)
 - **Pod ID:** 8jx9xeju7h2fsi
@@ -40,7 +43,7 @@ valid_until: "2026-05-26"
 
 ## Notas
 - Pod ID y SSH cambian con cada restart/recreate. Verificar antes de usar.
-- `valid_until` set a 1 mes — revisar si el pod sigue activo.
+- `valid_until` renovado 2026-07-12 → 2026-08-12 (pod on-demand; revalidar ID/SSH al usar).
 
 ---
 *Promovido desde MEMORY.md el 2026-04-26 (mantenimiento semanal)*
