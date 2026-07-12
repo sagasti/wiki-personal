@@ -62,7 +62,7 @@ platforms:
 1. La persona te manda un mensaje (será rechazado pero el bridge loggea el LID)
 2. Sacar el LID:
    ```bash
-   tail -100 ~/.hermes/whatsapp/bridge.log | grep allowlist_mismatch | tail -5
+   tail -100 ~/.hermes/platforms/whatsapp/bridge.log | grep allowlist_mismatch | tail -5
    ```
 3. Append al `.env`:
    ```bash
@@ -77,7 +77,7 @@ platforms:
 ps aux | grep whatsapp-bridge | grep -v grep
 # debería mostrar: ... --mode bot
 
-tail -3 ~/.hermes/whatsapp/bridge.log
+tail -3 ~/.hermes/platforms/whatsapp/bridge.log
 # debería mostrar:
 # 🌉 WhatsApp bridge listening on port 3000 (mode: bot)
 # 🔒 Allowed users: 233642076930156, 90761618051243, ...

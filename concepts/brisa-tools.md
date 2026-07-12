@@ -92,7 +92,7 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 hermes message send --channel whatsapp --target "+5491176399809" --message "texto"
 ```
 
-Funciona para **contactos resueltos** (los que están en sesión activa del bridge — ver `~/.hermes/whatsapp/session/lid-mapping-*.json` o conversación previa).
+Funciona para **contactos resueltos** (los que están en sesión activa del bridge — ver `~/.hermes/platforms/whatsapp/session/lid-mapping-*.json` o conversación previa).
 
 ✅ Lorena, Vivi, Bere, Jorge → siempre funciona (preexistentes en sesión)
 ❌ Falla con `Cannot destructure property 'user' of jidDecode(...)` para contactos nuevos sin mapping
@@ -115,7 +115,7 @@ curl -X POST http://localhost:3000/send-media \
   -d '{"chatId":"<lid_o_phone>@s.whatsapp.net","filePath":"/path/file.ogg"}'
 ```
 
-> Tip: el `chatId` puede ser `<phone>@s.whatsapp.net` o `<lid>@lid` — el bridge resuelve. Buscá el LID en `~/.hermes/whatsapp/session/lid-mapping-*.json` o usalo del último mensaje recibido.
+> Tip: el `chatId` puede ser `<phone>@s.whatsapp.net` o `<lid>@lid` — el bridge resuelve. Buscá el LID en `~/.hermes/platforms/whatsapp/session/lid-mapping-*.json` o usalo del último mensaje recibido.
 
 **Cuándo usar:** Fer Palermo y futuros nuevos hasta que el bug del gateway esté fixeado upstream. Detalle en [[whatsapp-bridge-lid-and-jiddecode-pitfalls]].
 

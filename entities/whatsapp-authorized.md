@@ -1,10 +1,10 @@
 ---
 title: "Contactos autorizados — WhatsApp Brisa"
 created: "2026-04-21"
-updated: "2026-05-08"
+updated: "2026-07-12"
 type: "entity"
 tags: ["#whatsapp", "#brisa", "#authorization", "#contacts"]
-related: [[brisa]], [[whatsapp-bot-mode-allowlist-by-lid]], [[whatsapp-pairing-over-allowlist]], [[whatsapp-bridge-lid-and-jiddecode-pitfalls]], [[whatsapp-lid-allowlist-mismatch]]
+related: [[brisa]], [[whatsapp-bot-mode-allowlist-by-lid]], [[whatsapp-pairing-over-allowlist]], [[whatsapp-bridge-lid-and-jiddecode-pitfalls]], [[whatsapp-lid-allowlist-mismatch]], [[hermes-whatsapp-bridge-failure-mode]]
 confidence: high
 ---
 
@@ -25,7 +25,7 @@ confidence: high
 - **`config.yaml`:** `unauthorized_dm_behavior: pairing` (queda configurado pero **rara vez se ejecuta** — el bridge filtra primero)
 - **Flujo de un contacto nuevo:**
   1. La persona te manda un mensaje
-  2. Bridge lo descarta con `allowlist_mismatch` y loggea el LID en `~/.hermes/whatsapp/bridge.log`
+  2. Bridge lo descarta con `allowlist_mismatch` y loggea el LID en `~/.hermes/platforms/whatsapp/bridge.log`
   3. Vos sacás el LID del log, lo agregás al `WHATSAPP_ALLOWED_USERS`, restart del gateway
   4. Próximo mensaje pasa
 
@@ -33,7 +33,7 @@ confidence: high
 
 - **Phone:** `+5491170639820`
 - **LID:** `241837310791736@lid`
-- **No se agrega al allowlist** — sus mensajes son `fromMe`, no se filtran. Aparece en `~/.hermes/whatsapp/session/lid-mapping-5491170639820.json` como artifact natural del setup del bridge.
+- **No se agrega al allowlist** — sus mensajes son `fromMe`, no se filtran. Aparece en `~/.hermes/platforms/whatsapp/session/lid-mapping-5491170639820.json` como artifact natural del setup del bridge.
 
 ## Contactos autorizados
 
@@ -49,7 +49,7 @@ confidence: high
 
 ## LID mappings (cache local)
 
-Archivo simple por contacto en `~/.hermes/whatsapp/session/`:
+Archivo simple por contacto en `~/.hermes/platforms/whatsapp/session/`:
 
 - `lid-mapping-{phone}.json` — contiene un único string con el LID
 - `lid-mapping-{lid}_reverse.json` — contiene el phone
@@ -61,14 +61,14 @@ Solo existen para contactos con **interacción previa via bridge**. Si el LID no
 ### 1. Si la persona ya te mandó algo alguna vez
 
 ```bash
-cat ~/.hermes/whatsapp/session/lid-mapping-{PHONE_SIN_PLUS}.json
+cat ~/.hermes/platforms/whatsapp/session/lid-mapping-{PHONE_SIN_PLUS}.json
 # → "LIDXXXXX"
 ```
 
 O listar todos los conocidos:
 
 ```bash
-cd ~/.hermes/whatsapp/session && for f in lid-mapping-*.json; do
+cd ~/.hermes/platforms/whatsapp/session && for f in lid-mapping-*.json; do
   case "$f" in
     *_reverse.json) ;;
     *)
@@ -85,7 +85,7 @@ done
 El bridge la rechaza pero loggea el LID:
 
 ```bash
-tail -100 ~/.hermes/whatsapp/bridge.log | grep allowlist_mismatch | tail -5
+tail -100 ~/.hermes/platforms/whatsapp/bridge.log | grep allowlist_mismatch | tail -5
 # → {"event":"ignored","reason":"allowlist_mismatch","chatId":"XXX@lid","senderId":"XXX@lid"}
 ```
 
