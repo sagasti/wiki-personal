@@ -17,7 +17,7 @@ Amigo de toda la vida de Jorge. Vive en Montevideo, Uruguay.
 **Hijos:** Mateo y un segundo (nombre por confirmar)
 **Teléfono:** +598 99 699 673
 
-**Historia compartida:** Cofundador de [[mundomac-website]] junto a Jorge y [[walter-soto]]. Ya no son socios pero siguen muy amigos los tres.
+**Historia compartida:** Cofundador de [[mundomac-website]] junto a Jorge y [[walter-soto]] — **Sagasti Palermo y Soto S.R.L.**, **Montevideo** (1995). Ya no son socios pero siguen muy amigos los tres. MundoMac Montevideo fue la base **mucho antes** del local **MundoMac Punta**.
 
 **Relación con Brisa:** Autorizado para conversar por WhatsApp.
 

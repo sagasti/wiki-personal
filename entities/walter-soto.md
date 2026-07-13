@@ -11,6 +11,6 @@ confidence: "medium"
 
 # Walter Soto
 
-- **Role**: Third co-founder (socio) of [[mundomac-website]] alongside Jorge Sagasti and [[fernando-palermo]]
+- **Role**: Third co-founder (socio) of [[mundomac-website]] alongside Jorge Sagasti and [[fernando-palermo]] — **Sagasti Palermo y Soto S.R.L.**, **Montevideo**, desde 1995
 - **Relationship**: Close friend of Jorge; friendship persisted after business partnership ended
-- **Context**: Part of the mundomac founding trio
+- **Context**: Part of the MundoMac founding trio (base UY, años antes de MundoMac Punta)
