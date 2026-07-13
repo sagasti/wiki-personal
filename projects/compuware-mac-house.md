@@ -13,13 +13,19 @@ confidence: medium
 
 Empresa de cursos Mac/Apple asociada a Jorge.
 
-Según Jorge (2026-07-13): tuvo **The Mac House** con una empresa llamada **Compuware**, en **Buenos Aires**, **misma época que GetInfo** (fines de los 80 / principios de los 90). Rol: **socio y docente**.
+Según Jorge (2026-07-13): tuvo **The Mac House** con una empresa llamada **Compuware**, en **Buenos Aires**, **misma época que GetInfo** (fines de los 80 / principios de los 90). Rol: **socio y docente**. Otro socio de The Mac House: **Gabriel Sokek**.
+
+## Personas
+
+- [[jorge-sagasti]] — socio y docente
+- **Gabriel Sokek** — socio de The Mac House (confirmado por Jorge 2026-07-13)
 
 ## Estado
 
-- Confirmado: vínculo **The Mac House ↔ Compuware**, ciudad **Buenos Aires**, época **~fines 80 / principios 90**, Jorge **socio + docente**
-- Pendiente: cursos que dictaban, otros socios, material histórico, solapamiento con GetInfo
-- Hipótesis web (por validar): `machouse.com.ar` ~1998 en Av. Córdoba 466 Loc. 1, CABA (puede ser más tarde o otro negocio con nombre parecido)
+- Confirmado: vínculo **The Mac House ↔ Compuware**, ciudad **Buenos Aires**, época **~fines 80 / principios 90**, Jorge **socio + docente**, socio **Gabriel Sokek**
+- Evidencia web: **Apple Center Compuware**, Av. Córdoba **456** CABA (archive 1998–2000), menú **MacHouse**, **Seminarios ExpoMac '98**, sección **Cursos**; liquidación ~oct 2000. Rama **Compuware Córdoba** (2010, Leticia/Julián Bialet) ASAP Apple.
+- Pendiente: cursos exactos, material histórico, perfil/contacto de Sokek
+- Nota: `machouse.com.ar` / Córdoba 466 vs 456 — misma manzana/época, validar si era el mismo local
 
 ## Tags
 

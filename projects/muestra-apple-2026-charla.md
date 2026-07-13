@@ -36,7 +36,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | Período | Hito | Empresa / rol | Servicios / qué hacía | Personas | Relación |
 |--------|------|---------------|----------------------|----------|----------|
 | **1986** | Primera app Mac publicada en EE.UU. | Personal / USA | Desarrollo Mac | — | Developer (bio Smalltalks 2025) |
-| **fines 80 / principios 90** | Fundación de **GetInfo** (user group BA + newsletter impreso) y **The Mac House** con **Compuware** (cursos) | GetInfo / Compuware–The Mac House | Comunidad Mac + formación | Luis Alejandro Masanti (GetInfo) | Fundador GetInfo; **socio y docente** en Mac House/Compuware |
+| **fines 80 / principios 90** | Fundación de **GetInfo** (user group BA + newsletter impreso) y **The Mac House** con **Compuware** (cursos) | GetInfo / Compuware–The Mac House | Comunidad Mac + formación | Luis Alejandro Masanti (GetInfo); **Gabriel Sokek** (socio Mac House) | Fundador GetInfo; **socio y docente** en Mac House/Compuware |
 | Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
 | **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
 | may 1995 | Primer gran cliente: **El País** (UY). **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación fundacional de la empresa |
