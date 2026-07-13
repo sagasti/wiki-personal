@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "86f40ec1c23220b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6b3b07ed2ecf69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf14a026b2538be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de4771de3c5e3d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1026a3b06ee888d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "444e72b2768d02fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3945b4fe0202ec8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4ba466b0cb5faddb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "388dfe1793d0c865",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e4970e2570616c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7e0a397892139eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "bb76730d7b0656ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "c63a45e2807e33b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e325293ef553b7db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "f7a1cd6b85d82089",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3945b4fe0202ec8a",
+  "lastOpenFiles": [
+    "projects/muestra-apple-2026-assets/org/20080918__29d00e86__jorge saltando-iPhone.m4v",
+    "projects/muestra-apple-2026-assets/contracts/20081201__f2e31063__MMS_pieMail_FA.jpg",
+    "projects/muestra-apple-2026-assets/org/20100202__9a96217c__Mickey&Minnie2.jpeg",
+    "projects/muestra-apple-2026-assets/org/20060720__58b7f7b7__iCards.jpg",
+    "projects/muestra-apple-2026-assets/org/20051230__7821f187__P1010001.JPG",
+    "projects/muestra-apple-2026-assets/travel",
+    "projects/muestra-apple-2026-assets/training",
+    "projects/muestra-apple-2026-assets/signatures",
+    "projects/muestra-apple-2026-assets/org",
+    "projects/muestra-apple-2026-assets/misc",
+    "projects/muestra-apple-2026-assets/contracts",
+    "projects/muestra-apple-2026-assets/badge",
+    "projects/muestra-apple-2026-assets"
+  ]
+}

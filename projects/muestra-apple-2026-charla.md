@@ -46,6 +46,59 @@ Fuente: mails **Trip Authorization / International Travel Request** a nombre de 
 
 Esto documenta el **circuito regional real** (no solo charlas 98): training HQ, channel training, customer/vendor visits, Road Tour, WWDC.
 
+## Cómo minar mails `@apple.com` (playbook)
+
+**Fuente:** IMAP iCloud `sagasti@mac.com` (corpus ~2003–2008). Gmail jorge@sagasti.com **no** tiene este archivo.
+
+### Volúmenes (barrido 2026-07-13)
+| Query | ≈ N |
+|-------|------|
+| FROM `@apple.com` | **7.391** |
+| TO `sagasti@apple.com` | **4.388** |
+| FROM `sagasti@apple.com` | **611** (casi todo **2006–2007**) |
+| FROM `eestrada@apple.com` | **1.430** |
+| FROM `cvelosa@apple.com` | **588** |
+| FROM `manny@apple.com` | **434** |
+| FROM `tribeiro@apple.com` | **357** |
+| FROM `fribeiro@apple.com` | **143** |
+| FROM `travel.res@apple.com` | **76** |
+| FROM `delgranado@apple.com` | **39** |
+
+### Keywords que rinden
+`Trip Authorization`, `International Travel Request`, `AATC`, `ACSA`, `ACTC`, `Channel training`, `ALAC`, `F&CS`, `Xsan`, `Xserve`, `WWDC`, `Road Tour`, `consulting agreement`, `Merlin`, `iForm`, `badge`, `Macaldia`, `PO`/`PR`, `bonus`, `org chart`, `phone list`, `Business cards`.
+
+### Gente / listas ilegibles
+- **Manager:** Edwin Estrada (F&CS)  
+- **Ops/contracts:** Caro Velosa — saluda **“Jorge(IC) Sagasti”**  
+- **PA Coral Gables:** Luli Antelo · Office: One Alhambra Plaza, Coral Gables  
+- **Peers SE:** Tiago/Fabio Ribeiro, Manny Cernuda, Sandra Illanes, Rodrigo Gómez…  
+- **Listas:** `alac_all@`, `alac_bde_se@` group.apple.com  
+
+### Hits de oro (cómo se usa el corpus)
+| Fecha | Qué | Para qué charla |
+|-------|-----|-----------------|
+| **15 abr 2003** | Edwin: **Macaldia consulting agreement** a firmar | Formaliza IC vía Macaldia |
+| **5 jun 2003** | **Merlin** IC; contract/badge **C419643** (HR Bethany Kopstick) | ID contractor en sistemas Apple |
+| **1 jul 2003** | **ITIN** IRS para Emiliano Jorge Sagasti (Macaldia US tax) | Setup fiscal contractor |
+| **24 abr 2004** | **F&CS Team Highlights** (Edwin) | Qué hacía el equipo: training, Xserve cert MX/SP/Miami, WWDC SE |
+| **ago 2004** | New Hire Roundtable: contactar **Manny o Jorge** para curso Server Miami | Jorge cualquiera pintado como referencia de training |
+| **feb 2005** | iForm + badge **#419643** aprobado | Placa física Apple |
+| **22 ago 2005** | Caro → **Jorge(IC)**: Macaldia **bonus** | IC con bonus |
+| **13 abr 2006** | Business cards + **email stamp** | Alinieación de “tarjeta” / firma oficial |
+| **4 may 2006** | **Org chart** ALAC Q306 PDF a SEs | Estructura del geo |
+| **13 oct 2006** | **Macaldia Consulting Services FY07** (1/10/06–31/3/07) + loan MBP 17" | Renovación contrato IC |
+| **2006–07** | Torrente **AATC** (Soluciones MAC AR, TEC Milenio, vouchers, Leopard) | Rol en canal de training |
+| **~oct 2007** | Últimos FROM `sagasti@apple` (Leopard, Sales access, IRAM) | Cierre operativo |
+
+### Método práctico
+1. Por persona (`eestrada`, `cvelosa`…) + keyword de subject.  
+2. Contratos: `consulting` + `Merlin` + `(IC)` + adjuntos PDF.  
+3. Pedagógico: `AATC` + FROM `sagasti@apple.com`.  
+4. Viajes: solo `travel.res@apple.com` / Trip Authorization.  
+5. Ignorar newsletters ASW / App Store post-2008 en FROM @apple.com.  
+6. Adjuntos clave se pueden FETCH por IMAP (org chart, phone list, contratos FY07, Jorge's ID.pdf).
+
+---
 
 Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: hacia **1989** **Olduvai** publicó **MultiClip** (con **José Maestro**). Cofundador de **GetInfo** y socio/docente de **The Mac House** (con Gabriel Sobek, Compuware, Córdoba 466). Con **Paul Waller**, **primer AppleCentre de Latinoamérica** — **Sagasti & Waller**, Av. Santa Fe entre Suipacha y Esmeralda (~1990–92). Cofundador de **MundoMac** en **Montevideo** (1995) con **Fernando Palermo** y **Walter Soto** — **Sagasti Palermo y Soto S.R.L.**; más tarde **MundoMac Punta** en Galería Sagasti, Punta del Este. **Contractor de Apple ALAC** (~1998–2007): prensa 1998 gerente Ventas sur LATAM; mail 2003–07 **Senior System Engineer** + **Mentor** F&CS (vía Macaldia). Charlas y training de canal en **toda LATAM**. Luego **Radar.Media**, **Macaldia** vendor y **Totalneo** (seguridad eléctrica + ENACOM). Vendió Totalneo **24/4/2026**.
 
@@ -71,7 +124,8 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | **may–jun 1998** | **Apple Product Road Tour / Road Show ALAC** (invite + schedule en Drive). Tour: Caracas 18/5, México DF 21/5, San Juan 26/5, Bogotá 28/5, Santiago 2/6, **BA 4/6** (Paseo La Plaza, Sala Pablo Neruda), San Pablo 9/6. Partners en invite: **Microsoft, Adobe, Oracle, Macromedia, Symantec**. Agenda BA: hardware (CPUs, PowerBooks) + Mac OS 8.1 + slots partners. Autor schedule: Marcelo Giles. | Apple ALAC + partners | Evangelización multi-país | Partners creativos | Circuito LATAM 1998 (pre-contrato feb 99) |
 | **1 feb 1999 – 31 ene 2000** | **Contrato formal Apple Computer, Inc. — Agreement for Consulting Services (Fixed Term)** con Jorge Sagasti. Rol: **sales and marketing consultant / manufacturer’s representative** para **Argentina, Chile y Perú**. Fee **US$ 8.333,33/mes**. **Independent contractor** explícito. Autor .doc: **Fernando del Granado**. Drive: *Sagasti Contrato 99*. | Apple Computer | Sales & marketing LATAM Sur | Fernando del Granado | **Contractor** documentado |
 | **sep 1998** | **ExpoMac** BA (Sheraton Retiro), org. **Compuware**. Jorge (gerente ventas regional sur LATAM Apple) presenta iMac / OS 8.5 / G3 vs PC; MacHouse en stands; Gabriel Sobek arma seminarios. | Apple + Compuware | Seminarios / canal | Sobek, Freiberg, del Granado, Caram, Estrada | **Contractor** Apple en expo |
-| **sep 1998–~oct 2007** | Continuidad Apple ALAC como **contractor**: prensa 1998 gerente Ventas; mail 2003–07 **Senior System Engineer** + Mentor (F&CS); Macaldia IC; salida `@apple.com` ~fin 2007. | Apple ALAC / Macaldia | SE, mentor, training, canal | Estrada, Manny, Velosa… | **Contractor/IC** |
+| **abr–jul 2003** | **Macaldia consulting agreement** (Edwin); entra en **Merlin** como **independent contractor** **C419643**; **ITIN** IRS emitido. Agenda soft/hard copy a Coral Gables (Luli). | Macaldia → Apple | IC setup | Estrada, Luli, Kopstick HR | Prueba fuerte de contractor formal |
+| **sep 1998–~oct 2007** | Continuidad Apple ALAC como **contractor**: prensa 1998 gerente Ventas; mail 2003–07 **Senior System Engineer** + Mentor (F&CS); outbound `sagasti@apple` ~2006–oct 2007. | Apple ALAC / Macaldia | SE, mentor, training, canal | Estrada, Manny, Velosa, Ribeiro… | **Contractor/IC** |
 | **nov 2003–jun 2007** | Decenas de **Trip Authorization** Apple Corporate Travel a nombre de Jorge: Miami/Coral Gables (training/HQ), **Cupertino** (Rack, Xsan T3), **Maine SummerCamp '04**, **Monterrey** customer, **Santiago** customer/vendor, **WWDC**, **Channel Training** BUE, evento **Young&Rubicam PDE** con **Estrada + Tiago Ribeiro**. Div **56/5055**, badge **C419643**. | Apple ALAC F&CS | Viajes de trabajo documentados | Estrada, Ribeiro, Manny, travel.res | Evidencia fuerte de rol regional en movimiento |
 | **nov 1998** | **AppleWorld Brasil** (San Pablo). Misma prensa lo cita como gerente de Ventas sur LATAM; anuncia **Apple Punta** y **AppleWorld Argentina** | Apple | Ventas regionales / eventos | Mike Caram, Luciano Kubrulsky, F. del Granado, Jeff Martin | Continuidad rol regional |
 | 1998–2000 | Planes **Apple Punta** y **AppleWorld Argentina** | Apple | Eventos de marca | — | Continuidad rol regional |
