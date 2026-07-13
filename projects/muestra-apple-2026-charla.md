@@ -71,6 +71,27 @@ Fuente: mails **Trip Authorization / International Travel Request** a nombre de 
 
 **También:** Road Tour Edwin sep 2003; **Tiago Ribeiro** “My trip to Argentina” feb 2005; WWDC needles 2004–2008 (en 2008 solo “Ticket for WWDC…” de Edwin — post-salida formal). Badge **C419643**. Dump: `viajes_apple_result.txt`.
 
+## Fase A — Training / canal / servidor (subjects 2026-07-13)
+
+**Método:** SUBJECT-only INBOX iCloud; **565** mails únicos (**2003–2007**). Dump: `muestra-apple-2026-assets/phase_a_training_subjects.txt` (+ Desktop).
+
+| Tag | n | Lectura para la charla |
+|-----|---|------------------------|
+| **AATC** | **154** | Authorized Training Centers LATAM; apps, SAP, beneficios PR; **Tec MTY / ITESM** (MX) 2007; Pro Apps AATC |
+| **Xserve** | **139** | Desde **2003** “Programa de Certificación Xserve”; incidentes; **Xserve en Perú**; cursos **Miami may 2007** |
+| **Trainer** | **110** | Rol instructor + schedules |
+| **Xsan** | **101** | Training, T3, Rack&Roll, Miami; Jorge escribe Xsan/FCP training 2006 |
+| **Channel Training** | **~32** | FY06 channel train + calendars ALAC certs (Sandra/Tiago/Luli) |
+| **ACSA** | **15** | Path System Admin |
+| **Soluciones** | **11** | Academia **Soluciones** en ecosistema AATC |
+| **FROM sagasti@apple (training)** | **45** | Tu voz: AATC apps, Xsan Miami, Final Cut, Leopard materials para AATCs |
+
+**Geografía en subjects:** México (25, ITESM 13), Miami (12). Poca AR en subject (4) → campo AR vía Xserve/canal.
+
+**Arco 30s:** formaste **canal AATC/ACT**, subiste **Xserve/Xsan** enterprise/pro video LATAM, y participaste del **calendario de training** del F&CS — no solo “andaba de viaje”.
+
+**Siguiente pasito (B cuando toque):** 4 hilos *highlights* + 5 AATC 2007 *from me* a cuerpo; adjuntos contratos/org restantes.
+
 ## Cómo minar mails `@apple.com` (playbook)
 
 **Fuente:** IMAP iCloud `sagasti@mac.com` (corpus ~2003–2008). Gmail jorge@sagasti.com **no** tiene este archivo.
