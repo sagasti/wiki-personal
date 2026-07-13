@@ -126,12 +126,12 @@ MD **Javier Vargas**. **Edwin Estrada** F&CS. En el organigrama: **Jorge Sagasti
 Inventario early OS X: use Microsoft/Macromedia, **Apple Argentina Launch**, T3 Austin, Boot Camps multi-país, iSummit Bahamas… ~59 person-days.
 
 ### Photos (personas)
-- **Manny Cernuda** y **Edwin Estrada** matcheados en Photos (1 cada uno, misma foto):
-  - **2003-01-11** — mesa con cervezas, menú **Bosco’s**, mural tipo show. **4 hombres**: tags Photos = **Edwin + Jorge + Manny** + 1 unknown. **Uno lleva buzo negro con logo Apple blanco** (merch corporativo, ideal slide). Export: `assets/photos-colleagues/2003-01-11_D75735B6-…JPG` + 4 del mismo cluster.
-- **2003-01-03** — Jorge en sala con **14 caras unknown** + laptops/desk (posible reunión/team). Exportado.
-- **2002-07-11/12** — cluster **classroom/pizarra/laptops** (vos en algunas); candidato a training Mac OS X pre-Merlin 2003. Export `photos-colleagues/`.
+- **Manny Cernuda** + **Edwin Estrada**: **2003-01-11** (misma foto). Resto/pub **Bosco’s**, 4 hombres; **buzo negro con logo Apple**. Export `assets/photos-colleagues/2003-01-11_D75735B6-…`. Cluster del mismo día (4 fotos extras).
+- **Jose Prieto** (nuevo tag 2026-07-13): **1 foto 2002-07-17** — `7494B842-…JPG` exportada. Contexto semanal jul 2002 = varias aula/pizarra/laptop (posible training).
+- **Person stubs creados sin caras aún** (Photos tiene el nombre, `facecount=0`): **Tiago Ribeiro**, **Fabio Ribeiro**, **Paul Waller**, **Santiago Cuenya**. Hay que **asignar al menos una cara** a cada nombre para que el matching dispare.
+- **2003-01-03**: Jorge + **14 unknown** + laptops. **2002-07-11/12**: classroom cluster exportado.
 
-**Ribeiro:** 0 personas Tiago/Fabio todavía — conviene taggear caras en Photos.
+**Próximo en Photos:** tocar caras del cluster jul 2002 / ene 2003 y linkear a Tiago/Fabio/Paul/Santiago.
 
 ---
 
