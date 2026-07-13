@@ -17,6 +17,13 @@ confidence: high
 `https://docs.google.com/document/d/1YSiijlHKc_HbywqbVU7557mUnnvKDgR8SUlZAHLevxE/edit`  
 **Sede material histórico:** Espacio TEC · Thompson 665, Bahía Blanca · Museo de Informática  
 
+**Meeting en curso (calendar, 2026-07-13):** desayuno **ETEC Diego <> Jorge** en **Tostado Obelisco**, Av. Corrientes 999, CABA. Primera invite **jueves 16/7 8–10**; update: *“Día equivocado, era miércoles, no jueves”* → **miércoles 15/7 8–10** (GMT-3). From `Diego Akerman <doglan@drwn.com.ar>`.
+
+**Miércoles 15/7 — día “material + ETEC” (plan cruzado):**
+1. **08:00–10:00** desayuno Akerman @ Tostado Obelisco  
+2. **~10:00** visita **Luis Masanti** @ **Bulnes 2015 5º K** (Alto Palermo) — *Luis sale 11–13*; Jorge apuntó medialunas 10:00 y luego Canning/partido.  
+3. Objetivo visita Luis: rescatar **Macanas (col. completa ed. pequeña)** + **libritos The Mac House**; posibles Time Capsule / teclado Titanium; donación posible a Espacio TEC.
+
 Formulario del doc pide: mini bio, línea de tiempo (período / hitos / empresa / servicios / personas / relación), material histórico (revistas, hardware, software).
 
 ---
@@ -338,7 +345,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | Tema | Qué dijo Jorge | Estado búsqueda |
 |------|----------------|-----------------|
 | **The Mac House / MacHouse** | Cursos + software + soporte diseño gráfico; **Córdoba 466 1º**; con **Gabriel Sobek** (cofundador; LinkedIn: Trainings/Software/Support) y Compuware | Confirmado Jorge + About Sobek + web 1998 + ExpoMac. Equipo: Duarte (coord.), Turró (profesora). Ver [[compuware-mac-house]], [[gabriel-sobek]]. |
-| **GetInfo / Macanas** | User group Apple/Mac en **BA** (fines 80 / principios 90). Jorge **fundador** (con gente clave **Luis Alejandro Masanti**). Newsletter impreso: **Macanas** (no “Get Info” — ese era el grupo). | Confirmado Jorge 2026-07-13. Buscar material físico Macanas; mail Ping a Masanti (thread 19f5bc1e3eeecac6). |
+| **GetInfo / Macanas** | User group Apple/Mac en **BA** (fines 80 / principios 90). Jorge **fundador** (con gente clave **Luis Alejandro Masanti**). Newsletter impreso: **Macanas** (no “Get Info” — ese era el grupo). | **Reply Masanti 2026-07-13** (thread `19f5bc1e3eeecac6`): tiene **colección completa Macanas (ed. pequeña)** + **libritos de The Mac House** que él hizo; ofrece dárselos a Jorge. **Visita mié 15/7 ~10:00** Bulnes 2015 5ºK Alto Palermo (tel 11 4822-4506). Dump: `assets/masanti_ping_thread_2026-07-13.txt`. Ver [[luis-alejandro-masanti]]. |
 | **Apple empleo / IC** | Título y fechas | **Contractor** todo el arco (Jorge 2026-07-13 + mails). **Merlin 5/6/2003** C419643 *independent contractor*; IS&T ago 2003 “Jorge is a contractor”; Caro saluda **Jorge(IC)** 2005; **Ind Contractor Agreement 2nd Part FY07** mar 2007; POs Macaldia **US$40k** oct06–sep07. Firma outbox 2006–**~18 oct 2007**: *Senior System Engineer · ACSA/Mentor · ALAC*. Outbox FROM no arranca antes de **2006**. Prensa 1998: gerente Ventas sur LATAM. |
 | **1986 primera app Mac USA** | **MultiClip** con José Maestro / Olduvai | **Corregido a ~1989** (review Bobker + MR). Bio Smalltalks dice 1986 — desactualizada. Ver [[multiclip-1986]]. |
 | **Macaldia + sede Apple BA “el Rulero”** | Cuando Apple se instaló en BA en un edificio que llamaban **“el Rulero”**, en **Carlos Pellegrini**, Macaldia les dio **servicio**. | Confirmado Jorge 2026-07-13. Mails 2007: **Carlos Pellegrini 1135, 1º piso (C1009)**. Edificio Prourban = “el Rulero” (Libertador/Pellegrini). |
