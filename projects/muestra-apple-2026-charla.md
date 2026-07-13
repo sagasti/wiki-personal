@@ -327,13 +327,27 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 4. **La Nación (nov 1998)** — AppleWorld Brasil; Jorge Sagasti gerente de Ventas sur de América Latina de Apple; Apple Punta / AppleWorld Argentina.  
    https://www.lanacion.com.ar/tecnologia/apple-se-mostro-en-san-pablo-nid178314/
 
-5. **LatinSpots (oct 2002)** — Expo Aldeamac; presenta Jaguar; “profesionales más reconocidos del mundo Apple en la región”.  
+5. **La Nación — “Confirmados para ApplePunta”** — gerentes de Ventas regionales: **Jorge Sagasti (Cono Sur)**, Luciano Kubrusly (Brasil), Ricardo Shahin (México); menciona **Apple center Compuware** como dealer autorizado.  
+   https://www.lanacion.com.ar/tecnologia/confirmados-para-applepunta-nid178610/
+
+6. **La Nación (2004)** — “La Mac cumple 20 años”: cita a **Sagasti** eligiendo la **Mac II** como favorita (“revolución de color… boom de periféricos”).  
+   https://www.lanacion.com.ar/tecnologia/la-mac-cumple-20-anos-nid566645/
+
+7. **LatinSpots (oct 2002)** — Expo Aldeamac; presenta Jaguar; “profesionales más reconocidos del mundo Apple en la región”.  
    https://www.latinspots.com/noticia/expo-aldeamac-en-buenos-aires/3676
 
-6. **Aviso Diario Oficial UY 2002** — Sagasti Palermo y Soto S.R.L. (Mundo Mac).
+8. **Aviso Diario Oficial UY 2002** — Sagasti Palermo y Soto S.R.L. (Mundo Mac).
 
-7. **Macintosh Repository** — MultiClip (Olduvai Corporation, ~1989).  
-   https://www.macintoshrepository.org/40086-multiclip
+9. **Macintosh Repository + 32by32 (Expo notes)** — MultiClip (Olduvai). Repo: https://www.macintoshrepository.org/40086-multiclip · 32by32 Macworld Expo notes muestran **MultiClip en 1988 Boston / 1989 SF** (Olduvai clipboard/Scrapbook replacement) — refuerza ancla **pre-Bobker review**, no “1986”.  
+   https://32by32.com/macworld-expo-1989-san-francisco/
+
+10. **Susana Cortés blog (2011, agenda histórica)** — Expo Apple **27–31 may 1995** Palais de Glace; “Video y animación…” **coordinado por Paul Waller (Presidente Apple Argentina)**. Ancla pública Waller post-Sagasti Waller.  
+   http://susanacortes-dgeditorial.blogspot.com/2011/?m=0
+
+### Web gaps 2026-07-13 (Brave)
+- **“Sagasti Waller” / Apple Centre**: **0 hits** en Brave en esta pasada (aceptar gap; LI Waller + relato Jorge siguen siendo la evidencia).
+- **MacHouse Córdoba / Compuware**: ruido de homónimos US/GR/VN; sin nueva fuente BA en esta pasada (seguimos con ExpoMac + Sobek LI).
+- Brave **429** en query ancha “Jorge Sagasti Apple…” → parar y reintentar más tarde.
 
 ---
 
