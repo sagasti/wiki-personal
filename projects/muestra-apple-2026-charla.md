@@ -39,7 +39,8 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
 | **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
 | may 1995 | Primer gran cliente: **El País** (UY). **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación fundacional de la empresa |
-| **~Apple years (≈ dos décadas)** | **Systems Engineer + Mentor** en Apple; liderazgo técnico y de ventas en **ALAC** | **Apple** | SE, mentoría de equipos técnicos/comerciales, canal | Manny Cernuda, Fernando Del Granado, Edwin Estrada, Isidro Corominas, Bruno Berman, etc. (Old School ALAC) | Empleado Apple; red “familia” ALAC aún viva en mails 2017–2023 |
+| **~1998–1999** | **MacHouse** (`machouse.com.ar`): tienda Mac en Córdoba 466 Loc. 1 CABA (posible “The Mac House”); ventas hardware/software. Cursos: **por confirmar** | MacHouse / The Mac House? | Retail + ¿training? | — | **Validar con Jorge** si es la misma y rol (dueño/socio/docente) |
+| **~Apple years (≈ dos décadas)** | **Systems Engineer + Mentor** en Apple; liderazgo técnico y de ventas en **ALAC** | **Apple** | SE, mentoría de equipos técnicos/comerciales, canal; cursos (ej. Xserve Miami) | Manny Cernuda, Fernando Del Granado, Edwin Estrada, Isidro Corominas, Bruno Berman, etc. (Old School ALAC) | Empleado Apple; red “familia” ALAC aún viva en mails 2017–2023 |
 | **nov 1998** | **AppleWorld Brasil**. La Nación: **gerente de Ventas sur de América Latina** de Apple; anuncia Apple Punta y AppleWorld Argentina | Apple | Ventas regionales, eventos | Mike Caram, Luciano Kubrulsky, Fernando del Granado, Jeff Martin | Rol ejecutivo regional (prensa) |
 | 1998–2000 | Planes **Apple Punta** y **AppleWorld Argentina** | Apple | Eventos de marca | — | Continuidad rol regional |
 | **oct 2002** | **Expo Aldeamac** (BA): presenta **Mac OS X 10.2 Jaguar** | Referente / Apple ecosystem | Conferencia OS X | Comunidad Mac hispana | Speaker regional |
@@ -53,13 +54,15 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | 2017–2022+ | Walter/Fer siguen escribiendo (aniversarios MundoMac, familia) | MundoMac | — | Walter, Fer | Amistad |
 | **2026** | MBP M3 Max 36 GB · charla Muestra Apple 50 años | Personal | Testimonio de vida | Diego Akerman | Speaker |
 
-### Pendiente de documentar (poco rastro público online)
+### Pendiente / hallazgos parciales
 
 | Tema | Qué dijo Jorge | Estado búsqueda |
 |------|----------------|-----------------|
-| **The Mac House** | Empresa de **cursos** que tuvo | Sin hits útiles en Gmail jorge@sagasti.com, Drive, ni web AR confiable. `themachouse.com` archive = otra empresa (Sioux Falls). **Requiere Mac local / memoria / dominio viejo** |
-| **Get Info** | Organización con **newsletter** “Get Info” | Sin hits en mail/Drive. getinfo.org/com archive = ISP Ohio, no Mac. **Muy probable nombre de user-group o boletin propio de época Mac OS clásico** — buscar en Mac local, backups, papel |
-| Título exacto **Senior** Systems Engineer | “fui mentor y senior systems engineer para apple” | Bio pública dice **Systems Engineer and Mentor** (no siempre “Senior”). La Nación dice **gerente de Ventas** LATAM Sur. Alinear títulos con Jorge |
+| **The Mac House / MacHouse** | Empresa de **cursos** que tuvo | **Hallazgo fuerte:** `machouse.com.ar` (©1998 MacHouse) — tienda/ofertas Mac en **Av. Córdoba 466 Local 1, CABA**, tel **4312-0033**, `info@machouse.com.ar`. Snapshot 28/4/1999: PowerMac G3, iMac, PowerBook, software Adobe/Macromedia. ~2001 el dominio pasa a **Interlink Network** (ISP; misma manzana Córdoba 466; “comunidad virtual de usuarios Macintosh de América Latina” / Interlink BBS). **No hay rastro digital de catálogo de cursos** aún — confirmar si MacHouse = “The Mac House” de cursos y si Jorge era dueño/docente. |
+| **Get Info** | Organización con **newsletter** “Get Info” | Sin hits en Gmail/Drive/Spotlight. Dominios getinfo.* genéricos no matchean. **Hipótesis:** boletín de user group / Interlink BBS / lista Mac local jugando con el Cmd-I “Get Info”. **Falta:** año, ciudad, si era papel/email, nombre legal. |
+| **Senior Systems Engineer + Mentor** | “mentor y senior systems engineer para apple” | **Confirmado en bio pública** (Smalltalks 2025): “two decades at Apple as **Systems Engineer and Mentor** leading technical and sales teams”. Red **Old School ALAC** (Manny Cernuda, Del Granado, Estrada…). La Nación 1998: gerente de Ventas LATAM Sur. “Senior” en el título formal: validar con Jorge. Andrés Silvera (LinkedIn) menciona curso de **Xserve en Miami** con Jorge → rol formador. |
+| **1986 primera app Mac USA** | (bio Smalltalks) | Nombre de la app / plataforma aún no hallado en archivos locales. |
+| **Radar.Media** | Post-Apple, geomessaging | Dominio `radar.media` expirado ~2023; backends Firebase/GCP apagados 2025. |
 
 ---
 
