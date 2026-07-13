@@ -1,0 +1,204 @@
+FILE_LIST.txt
+badge/20030605__16d00e16__Jorge's ID.pdf
+contracts/20030415__2f326c42__Macaldia consulting US 4203
+contracts/20030415__d7845033__Macaldia consulting US 4203
+contracts/20031126__1fb981ee__Acciones 2003 oficial.xls
+contracts/20031126__361c280f__Numeración de títulos.doc
+contracts/20031126__c6a85229__Numeración de títulos.doc
+contracts/20041214__8214b0da__image.tiff
+contracts/20050222__64c558db__Scan1.JPG
+contracts/20050822__4f2e019e__FY05 Bonus Schedule Macaldia-2.xls
+contracts/20050822__570284fc__Picture 2.png
+contracts/20051127__dbc3af6b__image.jpg
+contracts/20051127__fcc7f65e__image.jpg
+contracts/20060105__3dfdb9a5__Current_AATCProApps_Jan06.xls
+contracts/20060118__d8177e73__AATC_Contract_Dec2005.doc
+contracts/20060526__e46331ac__suberbielle- vanguardia- arrdto. mod DEF 26.5.06.doc
+contracts/20060707__8ef3035d__MacBook Loan agreement.pdf
+contracts/20060707__c971ec47__MacBook Loan agreement.pdf
+contracts/20060721__5cf4b92e__Picture 1.png
+contracts/20060721__dbc3af6b__image.jpg
+contracts/20060721__fcc7f65e__image.jpg
+contracts/20060804__7ecbebdd__Corporativo-AATC Pro Apps.pdf
+contracts/20061013__36e5b78c__Macaldia Consulting Services FY07.pdf
+contracts/20061013__a4e8543e__MacBook Loan agreement2.pdf
+contracts/20061019__f3e209cd__image.jpg
+contracts/20061201__7ecbebdd__Corporativo-AATC Pro Apps.pdf
+contracts/20070109__db3cb7ea__AATCPro_ALAC_Packet_Aug05.pdf
+contracts/20070205__770b0736__Macaldia consulting US FY07-v2.pdf
+contracts/20070208__f3e209cd__unknown.jpg
+contracts/20070219__7ecbebdd__Corporativo-AATC Pro Apps.pdf
+contracts/20070809__f9bcc1b5__Soluciones-AATC.pdf
+contracts/20071012__85eac56f__NOTARESPUESTA2.doc
+contracts/20080226__1fa94e16__unknown.png
+contracts/20081201__f2e31063__MMS_pieMail_FA.jpg
+contracts/20101010__3746dc16__pie mail.jpg
+contracts/Apple_RoadTour_Invite.pdf
+contracts/Product_Road_Show_Schedule
+contracts/SOW-Product-Certification-Services.pdf
+contracts/Sagasti_Agreement_1999.doc
+contracts/Services_Agreement_Macaldia_20150702-signed.pdf
+contracts/Services_Agreement_Macaldia_20150702.pdf
+contracts/macaldia.txt
+drive-apple-admin/aatc/AATC_FRD_Jan2005.pdf
+drive-apple-admin/aatc/AATC_Forecast_07.xls
+drive-apple-admin/aatc/ALAC_Certified_Trainers.xls
+drive-apple-admin/aatc/ALAC_Training_Status.xls
+drive-apple-admin/contracts/SOW-Product-Certification-Services.pdf
+drive-apple-admin/contracts/Sagasti_Agreement_1999.doc
+drive-apple-admin/contracts/Services_Agreement_Macaldia_20150702-signed.pdf
+drive-apple-admin/contracts/Services_Agreement_Macaldia_20150702.pdf
+drive-apple-admin/importadores/Listado_Importadores_Apple.doc
+drive-apple-admin/importadores/Listado_Importadores_Apple.pdf
+drive-apple-admin/letterhead/Apples_Header.pdf
+drive-apple-admin/letterhead/Firma.pdf
+drive-apple-admin/loan/MacBook_Loan_agreement.pdf
+drive-apple-admin/misc/Apple_Developer_Connection_Member_Site.pdf
+drive-apple-admin/misc/Apple_Events.xls
+drive-apple-admin/misc/Escenario_Macaldia.xls
+drive-apple-admin/misc/FCPAPolicy.doc
+drive-apple-admin/misc/Intl_Credit_App_2_07.pdf
+drive-apple-admin/misc/Questionnaire_Distributor_Application.doc
+drive-apple-admin/misc/Questionnaire_Distributor_Application.pdf
+drive-apple-admin/roadtour/Apple_RoadTour_Invite.pdf
+drive-apple-admin/roadtour/Product_Road_Show_Schedule
+misc/20040224__3c5f6911__JorgeSagasti.pdf
+misc/20050401__bca25009__8019292390.pdf
+misc/20050822__4f2e019e__FY05 Bonus Schedule Macaldia-2.xls
+misc/20050822__570284fc__Picture 2.png
+misc/20051230__7821f187__P1010001.JPG
+misc/20060405__73467a3b__ProPue.jpg
+misc/20060720__58b7f7b7__iCards.jpg
+misc/20061208__be16c83f__iWoz.jpg
+misc/20061208__f4728603__iWoz.jpg
+misc/20061220__395c53ee__iCards.jpg
+misc/20070715__d3a55aeb__leitstand_stadion_extralarge.jpg
+misc/20071126__0fc33879__COPITEC - Sagasti - Apple A1213.pdf
+misc/20071126__8ccadda7__COPITEC - Sagasti - Apple A1255.pdf
+misc/20071126__916f81cc__F2 - SAGASTI JORGE EMILIANO.pdf
+misc/20080828__289d323b__mx_Q22_wall_zoom2 (1) (1) (1) (1).jpg
+misc/20080828__381be2b2__mx_Q22_wall_fishEye (1) (1) (1) (1).jpg
+misc/20080828__55a1fe7c__mx_Q22_ceiling_fishEye (1) (1) (1) (1).jpg
+misc/20080828__c6c75eca__mx_Q22_ceiling_Zoom2 (1) (1) (1) (1).jpg
+misc/20080828__c73a6247__mx_Q22_ceiling_Zoom1 (1) (1) (1) (1).jpg
+misc/20080828__dbfea6be__mx_Q22_wall_zoom1 (1) (1) (1) (1).jpg
+misc/20080828__e8af135c__MX_Q22_360 (1) (1) (1).pdf
+misc/20110128__f77649df__image.jpg
+misc/20130112__93a229c4__server.png
+misc/20130207__93a229c4__server.png
+misc/20130213__93a229c4__server.png
+org/20031122__0884d5a9__image007.gif
+org/20031122__417a2103__image013.gif
+org/20031122__8510c936__image008.gif
+org/20031122__8ce21dd0__image002.gif
+org/20031122__8d2d56b1__image001.gif
+org/20031122__90f5fdeb__image012.gif
+org/20031122__9ad43480__image010.gif
+org/20031122__c848dbcd__image006.gif
+org/20031122__c92dbe75__image011.gif
+org/20031122__c97e1c3b__image009.gif
+org/20031122__c98df8ae__image005.gif
+org/20031122__e59005f4__image003.gif
+org/20040224__3c5f6911__JorgeSagasti.pdf
+org/20040823__5ddf2692__iCal.ics
+org/20050405__4e2ad3b0__IRAM Importers-updated.doc
+org/20050510__5f82cb13__ALAC Phone List.pdf
+org/20051230__7821f187__P1010001.JPG
+org/20060106__bc8aa162__DB Christmas.jpg
+org/20060111__fb369dfb__Listado Equipos Disponibles.xls
+org/20060430__73467a3b__ProPue.jpg
+org/20060504__d1df6f16__Q306_ ALAC Org Chart.pdf
+org/20060720__58b7f7b7__iCards.jpg
+org/20060720__f5890202__iCards.jpg
+org/20060721__14f52ede__PostCard.jpg
+org/20060721__4684f88a__PostCard.jpg
+org/20061208__be16c83f__iWoz.jpg
+org/20061208__f4728603__iWoz.jpg
+org/20070329__9ee4f815__ALAC Phone List.xls
+org/20070813__dfa6e397__AppleIRAM08-09-07.xls
+org/20071126__0fc33879__COPITEC - Sagasti - Apple A1213.pdf
+org/20071126__8ccadda7__COPITEC - Sagasti - Apple A1255.pdf
+org/20071126__916f81cc__F2 - SAGASTI JORGE EMILIANO.pdf
+org/20071204__0948b838__meeting.ics
+org/20071204__b20714c9__meeting.ics
+org/20071205__3c74b000__meeting.ics
+org/20080214__a389da9b__APPLE F2 EDITABLE, DATOS SOLICITANTE.xls
+org/20080214__f7c437b7__FCERT Apple Modelo A1254.doc
+org/20080227__a389da9b__APPLE F2 EDITABLE, DATOS SOLICITANTE.xls
+org/20080227__f7c437b7__FCERT Apple Modelo A1254.doc
+org/20080707__aab3c57c__MMS_pieMail_FP.jpg
+org/20080828__289d323b__mx_Q22_wall_zoom2 (1) (1) (1) (1).jpg
+org/20080828__381be2b2__mx_Q22_wall_fishEye (1) (1) (1) (1).jpg
+org/20080828__55a1fe7c__mx_Q22_ceiling_fishEye (1) (1) (1) (1).jpg
+org/20080828__c6c75eca__mx_Q22_ceiling_Zoom2 (1) (1) (1) (1).jpg
+org/20080828__c73a6247__mx_Q22_ceiling_Zoom1 (1) (1) (1) (1).jpg
+org/20080828__dbfea6be__mx_Q22_wall_zoom1 (1) (1) (1) (1).jpg
+org/20080828__e8af135c__MX_Q22_360 (1) (1) (1).pdf
+org/20080918__29d00e86__jorge saltando-iPhone.m4v
+org/20100202__9a96217c__Mickey&Minnie2.jpeg
+org/20110127__fee97883__msg0004.wav
+org/20110128__f77649df__image.jpg
+signatures/Apple_Bagde_Number.textClipping
+signatures/Apple_Bagde_Number_1.textClipping
+signatures/Apples_Header.pdf
+signatures/Firma.pdf
+training/20060118__31509836__AATC Welcome Ltr-Dec05.doc
+training/20060118__4335e756__AATC Materials PL 2Dec05-Jan2006.pages.zip
+training/20060118__4f753fdb__AATC Application-2Dec05.doc
+training/20060118__a42177ec__Tiered CY2006 AATC Program.pdf
+training/20060118__b1d008e6__AATC P&P 9Dec05.doc
+training/20060118__b8d45784__AATC_Checklist_Dec2005.doc
+training/20060118__cc9c4a3d__AATC Welcome Ltr-Dec05.doc
+training/20060118__f2ac66c4__AATC Program Gde 2Dec05.doc
+training/20060921__83d2dca0__ALAC Training Price Background.xls
+training/20060921__b620e9d5__ALAC Processes.doc
+training/20070704__30265f14__AATC_ProApp_Commercial_Policies.pdf
+training/20070704__61682012__AATC_ProApp_Online_Policies.pdf
+training/20070704__6ce9df64__AATC_GIF_Jan07-1.doc
+training/20070704__6f53cc34__AATC_Checklist_Jan07-1.pdf
+training/20070704__aa92fe61__AATC_GIF_Jan07-1.doc
+training/20070704__c274c79a__AATC_ProApp_Academic_Policies.pdf
+training/20070704__c9c659a9__AATC - ITESM 07-07.pdf
+training/20070717__92c438b1__unknown.png
+training/20070809__754495f0__Logic 7 APTS 101 Trainer Guide v1.3.pdf
+training/20070816__2e8e109c__Re_ Internal distribution list for AATC Program Update.rtf
+travel/20030104__f65d4bce__Re_ International Travel Request.txt
+travel/20031007__75f140df__Re_ International Travel Request.txt
+travel/20031111__d43f14dc__Trip Authorization JORGE SAGASTI IFHOJW 14NOV.txt
+travel/20040413__0619c608__Re_ International Travel Request.txt
+travel/20040714__4098bfbc__Re_ International Travel Request.txt
+travel/20040714__a9d1581d__Re_ International Travel Request (Modified by Jorge Sagasti).txt
+travel/20040910__0a72408e__FW_ Trip Authorization JORGE SAGASTI KNKSUL 13SEP.txt
+travel/20040930__1f38bc28__Re_ International Travel Request (Modified by Jorge Sagasti).txt
+travel/20040930__bbeb0596__Trip Authorization JORGE SAGASTI IQHYYO 02OCT.txt
+travel/20041022__b0bc5dae__Trip Authorization JORGE SAGASTI IYIOMP 03NOV.txt
+travel/20041112__c58ed454__Trip Authorization JORGE SAGASTI EGHVWM 21NOV.txt
+travel/20041202__5f1c1b36__Trip Authorization JORGE SAGASTI EKURRS 12DEC.txt
+travel/20050204__0bfe0656__Trip Authorization JORGE SAGASTI FGDJTT 19FEB.txt
+travel/20050204__db3708c6__Trip Authorization JORGE SAGASTI FGDJTT 19FEB.txt
+travel/20050213__acddc1d5__Re_ Trip Authorization JORGE SAGASTI FGDJTT 19FEB.txt
+travel/20050307__9a4a5cc5__Trip Authorization JORGE SAGASTI KHHSUZ 08MAR.txt
+travel/20050425__ac866e33__Trip Authorization JORGE SAGASTI JTULXA 08MAY.txt
+travel/20050519__cfcfde2c__Trip Authorization JORGE SAGASTI CZQIHL 21MAY.txt
+travel/20050603__f936ebaa__Trip Authorization JORGE SAGASTI HUDDKB 12JUN.txt
+travel/20050629__3d818073__Trip Authorization JORGE SAGASTI HDGYDR 30JUN.txt
+travel/20050706__2eabad87__Trip Authorization JORGE SAGASTI DHAFQR 30JUL.txt
+travel/20050907__57b5123e__Trip Authorization JORGE SAGASTI GUVJBP 10SEP.txt
+travel/20060125__8c24ecc1__Trip Authorization JORGE SAGASTI FSGFVM 30JAN.txt
+travel/20060214__2734e848__Trip Authorization JORGE SAGASTI KYIEUS 16FEB.txt
+travel/20060621__af101ca5__Re_ International Travel Request.txt
+travel/20060622__9e5ca9e8__Trip Authorization JORGE SAGASTI EDRLTX 26JUN.txt
+travel/20060622__a04fb498__Trip Authorization JORGE SAGASTI JIVYUV 28JUN.txt
+travel/20060628__12891071__Re_ Trip Authorization JORGE SAGASTI JIVYUV 28JUN.txt
+travel/20060705__99f8e840__International Travel Request.txt
+travel/20060707__dda70667__Trip Authorization JORGE SAGASTI DJNDGP 05AUG.txt
+travel/20070208__c7f64d76__Trip Authorization JORGE SAGASTI MEGHVD 28FEB.txt
+travel/20070320__117152ce__Re_ International Travel Request.txt
+travel/20070320__6c95b983__Re_ International Travel Request.txt
+travel/20070321__1b011106__Re_ International Travel Request.txt
+travel/20070322__69b053de__Trip Authorization JORGE SAGASTI CLAZJJ 27MAR.txt
+travel/20070622__7f6edb99__Re_ International Travel Request.txt
+travel/20070622__812379ae__Re_ International Travel Request.txt
+travel/20070622__bde4021a__International Travel Request.txt
+travel/20070625__4278d3a3__FW_ International Travel Request.txt
+travel/20070625__d4878d7d__Re_ International Travel Request.txt

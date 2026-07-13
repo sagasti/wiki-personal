@@ -1,0 +1,149 @@
+           Information for Trip Locator: FGDJTT
+
+This message was sent to you by STEVE at Apple Travel.
+This is a Trip Authorization email.  Should you wish to decline this travel itinerary,
+please reply immediately to Apple Travel at travel.res@apple.com so we may
+comply with the airline requirements that may affect this fare.
+
+Traveler:         JORGE SAGASTI
+Objective:        Corporate Travel-COMPANY FACILITY
+Ticket Cost:      1369.05
+Declined Savings: 0.00
+Declined Reason:  ACCEPTED LOWEST FARE
+Charged To:       056,5055
+Project:          NONE
+
+***************** ITINERARY DETAILS **********************
+
+          ***********    FARE INFORMATION    ************
+          CHANGES TO THIS ITINERARY MAY RESULT IN ADDITIONAL
+          CHARGES.  UNUSED NONREFUNDABLE TICKETS MAY HAVE NO
+          VALUE IF CHANGES ARE MADE AFTER SCHEDULED DEPARTURE.
+          THIS IS A SPECIAL FARE TICKET - RESTRICTIONS APPLY
+          THIS TICKET IS NON-REFUNDABLE/NON-TRANSFERABLE
+ 
+ 19 FEB 05  -  SATURDAY
+ 
+    AIR   UNITED AIRLINES      FLT:846    ECONOMY
+          LV MONTEVIDEO                   815P           EQP: BOEING 767 300
+                                                              50MIN
+          AR BUENOS AIRES                 805P           NON-STOP
+                                                         REF: P035SM
+          SAGASTI/JORGE     SEAT-24C   UA-00527810868
+ 
+    AIR   AMERICAN AIRLINES    FLT:908    ECONOMY        MULTI MEALS
+          LV BUENOS AIRES                 1055P          EQP: BOEING 777
+                                                         13HR 47MIN
+ 
+ 20 FEB 05  -  SUNDAY
+          AR DALLAS FT WORTH              942A           1-STOP
+          ARRIVE: TERMINAL A                             REF: FGDJTT
+          SAGASTI/JORGE     SEAT-22B   AA-9NX5962                            SEAT-12H
+          VIA MIAMI INTERNTNL
+ 
+    AIR   AMERICAN AIRLINES    FLT:1135   ECONOMY        FOOD FOR PURCHASE
+          LV DALLAS FT WORTH              1212P          EQP: MD-80
+          DEPART: TERMINAL C                             03HR 46MIN
+          AR SAN JOSE                     158P           NON-STOP
+          ARRIVE: TERMINAL A                             REF: FGDJTT
+          SAGASTI/JORGE     SEAT-20D   AA-9NX5962
+ 
+ 20 FEB 05  -  SUNDAY
+ 
+    CAR   SAN JOSE                HERTZ RENT A CAR       INTER CAR AUTO A/C
+          PICK UP-1358
+          RETURN-26FEB/1227P
+          RATE PLAN  6 DAYS  0 HRS            USD    MI/KM   EXMI/KM
+          WEEKLY RATE                      274.50     UNL
+          XTRA DAY-                         45.75     UNL
+          XTRA HOUR-                        23.00     UNL
+          MANDATORY CHARGES                 64.68
+          APPROX RENTAL COST               339.18     UNL
+          CONFIRMATION NUMBER     C81931197E2            RATE-SUBJECT TO CHANGE
+          CALL-408-437-5700          CD-83764
+ 
+    HOTEL SAN JOSE       CA               OUT-26FEB
+          KIMPTON HOTELS                  6 NIGHTS
+          CYPRESS HOTEL                   1 ROOM
+          10050 S DEANZA BLVD             RATE-139.00USD PER NIGHT
+          CUPERTINO CA 95014              CANCEL 24 HOURS PRIORTO ARRIVAL
+          FONE 408-253-8900
+          FAX  408-253-3800
+          GUARANTEED LATE ARRIVAL
+          CONFIRMATION 1092748214
+          NON SMOKING ROOM
+ 
+ 26 FEB 05  -  SATURDAY
+ 
+    AIR   AMERICAN AIRLINES    FLT:630    ECONOMY        FOOD FOR PURCHASE
+          LV SAN JOSE                     1227P          EQP: M-80
+          DEPART: TERMINAL A                             03HR 28MIN
+          AR DALLAS FT WORTH              555P           NON-STOP
+          ARRIVE: TERMINAL C                             REF: FGDJTT
+          SAGASTI/JORGE     SEAT-16D   AA-9NX5962
+ 
+ 26 FEB 05  -  SATURDAY
+ 
+    AIR   AMERICAN AIRLINES    FLT:997    ECONOMY        MULTI MEALS
+          LV DALLAS FT WORTH              735P           EQP: BOEING 767 300
+                                                         10HR 41MIN
+ 
+ 27 FEB 05  -  SUNDAY
+          AR BUENOS AIRES                 916A           NON-STOP
+                                                         REF: FGDJTT
+          SAGASTI/JORGE     SEAT-12C   AA-9NX5962
+ 
+    AIR   AMERICAN AIRLINES    FLT:943    ECONOMY
+          LV BUENOS AIRES                 1230P          EQP: BOEING 767 300
+                                                              50MIN
+          AR MONTEVIDEO                   220P           NON-STOP
+                                                         REF: FGDJTT
+          SAGASTI/JORGE     SEAT-12B   AA-9NX5962
+ 
+ 19 JUN 05  -  SUNDAY
+ 
+    OTHER INFORMATION
+          WE APPRECIATE YOUR BUSINESS
+ APPLE COMPUTER, INC.   **WORLDTRAVEL BTI**
+ GOVERNMENT ISSUED PHOTO ID REQUIRED FOR ALL TRAVEL
+ NO FARE IS GUARANTEED UNTIL THE TICKET IS ISSUED
+   ***********TRAVEL OFFICE INFORMATION************
+ TRAVEL OFFICE PHONE 800-862-0124 MONDAY-FRIDAY
+  830AM - 730PM CENTRAL TIME. FOR AFTER HOURS
+ EMERGENCY RESERVATION ASSISTANCE WHILE IN THE UNITED
+ STATES PLEASE CALL 877-454-5282 TOLL FREE.
+ FOR INTERNATIONAL EMERGENCY RESERVATION ASSISTANCE
+ CALL COLLECT 816-880-3341.
+   ************************************************
+ WORLD WIDE ASSISTANCE SERVICES PROVIDED BY
+ ZURICH INSURANCE COMPANY AT 800-280-7778 FOR U.S. OR
+ CANADA.  FROM ANYWHERE IN THE WORLD, CALL COLLECT AT
+ 202-331-1596 OR FAX 202-331-1528
+   ************************************************
+ GLOBAL ASSIST HOTLINE, FOR AMERICAN EXPRESS CORPORATE
+ CARD HOLDERS, CALL 800-554-2639 WORLDWIDE.
+   ************************************************
+   ******** ATTN INTERNATIONAL TRAVELERS ********
+ YOUR PASSPORT MUST BE VALID AT LEAST 6 MONTHS AFTER
+ THE DATE OF THE RETURN FLIGHT.
+ INTERNATIONAL CHECK IN IS REQUIRED AT LEAST 2 HOURS
+ PRIOR TO DEPARTURE.  RECONFIRMATION OF CONTINUING
+ FLIGHTS IS SUGGESTED AT LEAST 72 HOURS IN ADVANCE. .
+ EXPORT DOCUMENTATION IS REQUIRED WHEN HAND CARRYING
+ PRODUCTS TO ANY NON-US DESTINATION.
+ REFER TO THE IMPORT/EXPORT COMPLIANCE AREA OF THE
+ APPLE WEBSITE FOR ADDITIONAL INFORMATIONN AND FORMS,
+ POINT YOUR WEB BROWSER TO
+ HTTP//WEB.APPLE.COM/AREAS/IMPORTEXPORT. .
+ EMERGENCY CONTACT INFORMATION IS REQUIRED AT THE
+ AIRPORT CHECK IN FOR ALL TRAVEL TO/FROM THE US.
+ FOR INFORMATION ON TRAVEL DOCUMENTS AND/OR
+ US EMBASSIES PLEASE SEE WWW.TRAVEL.STATE.GOV .
+ SOME AIRLINES NO LONGER ACCEPT CHECKED BAGGAGE
+ 70-100LBS WHEN TRAVELING TO/FROM/THROUGH EUROPE OR
+ ASIA. YOU WILL NOT HAVE THE OPTION TO PAY FOR
+ OVERWEIGHT BAGGAGE AT THE AIRPORT.
+ RECAPPED COMPLETE ITINERARY INCLUDING DATES AND TIMES WITH SH
+
+
+
