@@ -3,9 +3,9 @@ title: "Muestra Apple 2026 — Charla Jorge (relación con Apple)"
 created: "2026-07-13"
 updated: "2026-07-13"
 type: "project"
-tags: ["#apple", "#charla", "#mundomac", "#macaldia", "#totalneo", "#bahia-blanca"]
+tags: ["#apple", "#charla", "#mundomac", "#macaldia", "#totalneo", "#bahia-blanca", "#radar-media", "#alac"]
 related: [[mundomac-website]], [[fernando-palermo]], [[walter-soto]], [[jorge-sagasti]]
-sources: ["gog gmail/drive jorge@sagasti.com", "web 2026-07-13", "wiki-personal", "system_profiler"]
+sources: ["gog gmail/drive jorge@sagasti.com", "web 2026-07-13", "wiki-personal", "system_profiler", "smalltalks2025.fast.org.ar"]
 confidence: high
 ---
 
@@ -23,7 +23,11 @@ Formulario del doc pide: mini bio, línea de tiempo (período / hitos / empresa 
 
 ## Mini bio (borrador usable)
 
-Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Más de tres décadas en el ecosistema Apple en el Cono Sur: cofundador de MundoMac (distribuidor y servicio autorizado Apple en Uruguay, 1995), gerente de ventas regional de Apple para el sur de América Latina a fines de los 90, referente técnico y de canal en expos y prensa, y más tarde emprendedor en Argentina con Macaldia (relación comercial con Apple Inc.) y Totalneo (certificación regulatoria de productos/accesorios Apple para el mercado local). Hoy sigue desarrollando sobre la plataforma (Flutter/iOS, Apple Developer) y usa Mac a diario (MacBook Pro M3 Max).
+Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: en **1986** publicó su primera aplicación Mac en EE.UU. Cofundador de **MundoMac** (Uruguay, 1995). **Cerca de dos décadas en Apple** como **Systems Engineer y Mentor**, liderando equipos técnicos y de ventas en ALAC (América Latina). Prensa de 1998 lo cita como gerente de Ventas para el sur de LATAM. Referente en expos (Expo Aldeamac / Jaguar 2002). Luego **Radar.Media** (geomessaging), **Macaldia** (vendor de Apple + apps) y **Totalneo** (certificación de productos Apple para AR). Hoy developer (Flutter/iOS) y usuario diario de Apple Silicon.
+
+**Bio pública propia (Smalltalks 2025):**  
+> “Born a programmer, I published my first Mac application in the USA in 1986. After two decades at Apple as Systems Engineer and Mentor leading technical and sales teams, I founded Radar.Media, pioneering geomessaging (a term I coined) and establishing it as the sector leader.”  
+Fuente: https://smalltalks2025.fast.org.ar/speakers
 
 ---
 
@@ -31,21 +35,31 @@ Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Más de tres décadas
 
 | Período | Hito | Empresa / rol | Servicios / qué hacía | Personas | Relación |
 |--------|------|---------------|----------------------|----------|----------|
-| Pre-1995 | Trabajo informal con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones para empresas | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer; trío fundador |
-| **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de la casa de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco **corporativo** al inicio | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
-| may 1995 | Primer gran cliente: **El País** (UY). Sistema editorial US sin soporte local; **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación comercial que la empresa cuenta como fundacional |
-| ~1995–? | Crecimiento corporativo → retail con la masificación de Apple | MundoMac | Hardware, service, training | Equipo local | Authorized reseller / service |
-| **nov 1998** | **AppleWorld Brasil** (San Pablo). Prensa lo nombra **gerente de Ventas para el sur de América Latina de Apple Computer**; anuncia Apple Punta y AppleWorld Argentina | **Apple** (rol regional) | Ventas regionales LATAM Sur, eventos, canal | Mike Caram, Luciano Kubrulsky, Fernando del Granado, Jeff Martin, etc. | Empleado/ejecutivo Apple región (según La Nación) |
-| 1998–2000 | Planes de **Apple Punta** (seminarios) y **AppleWorld Argentina** (expo) | Apple / ecosistema | Eventos de marca en la región | — | Continuidad del rol regional |
-| **oct 2002** | **Expo Aldeamac** (BA). Presenta **Mac OS X 10.2 Jaguar**; LatinSpots: “uno de los profesionales más reconocidos del mundo Apple en la región” | Independiente / referente | Conferencia OS X | Comunidad Mac hispana, Aldeamac | Speaker / experto regional |
-| 2002 (aviso oficial UY) | Mención **Sagasti Palermo y Soto S.R.L. (Mundo Mac)** | MundoMac (sociedad) | Razón social histórica | Palermo, Soto | Sociedad del trío |
-| ~¿salida de sociedad? | Deja de ser socio de MundoMac; Fer y Walter continúan. Amistad se mantiene (mails de cumpleaños de la empresa y saludos personales) | — | — | Walter, Fer | Ex-socio / amigo |
-| **~2014–2015** | **Macaldia S.R.L.** (Viamonte 1453 8º Of. 54, CABA). **Vendor de Apple Inc.** (Payment Advice AP Austin; vendor nº 80021387). Apps en App Store: **La Pancarta**, **Locs**. GSX pending approval. Dropbox team Macaldia | Macaldia | Desarrollo apps, servicios a Apple, GSX | Christina Rodriguez (Apple AP), Rodrigo Silveira (Apple) | Proveedor / developer / canal técnico |
-| **~2015–2018+** | **Totalneo** — certificación de productos/accesorios Apple para Argentina (INTI, eléctrica, SAR/EMC, URSEC/ENACOM). PDFs: Mac Pro, Airport, adapters A1718/A1719, etc. | Totalneo | Certificación de producto / compliance | Ana Clara Garcia Perez, Daniel/Yamil Pons, CMB, Maximsoft | Socio/emprendedor (empresa vendida 24/4/2026) |
-| 2016–hoy | Apple Developer activo (WWDC mails, TestFlight, etc.) | Personal / OpenPass path | iOS/Mac development | — | Developer |
-| 2017–2022+ | Mails de Walter (24 años MundoMac, saludos a la familia) y Fer (dominios, contactos) | MundoMac (ellos) | — | Walter, Fer | Amistad post-sociedad |
-| 2024–2026 | MundoMac sigue como Premium/Authorized en UY; newsletters a jorge@sagasti.com; prensa sigue citando a los 3 fundadores en aniversarios | — | — | — | Historia pública |
-| **2026** | Usuario full Apple Silicon (MBP M3 Max 14c / 36 GB, macOS 26.x). Charla Muestra Apple 50 años | Personal | Testimonio de vida con la plataforma | Diego Akerman (muestra) | Protagonista / speaker |
+| **1986** | Primera app Mac publicada en EE.UU. | Personal / USA | Desarrollo Mac | — | Developer (bio Smalltalks 2025) |
+| Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
+| **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
+| may 1995 | Primer gran cliente: **El País** (UY). **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación fundacional de la empresa |
+| **~Apple years (≈ dos décadas)** | **Systems Engineer + Mentor** en Apple; liderazgo técnico y de ventas en **ALAC** | **Apple** | SE, mentoría de equipos técnicos/comerciales, canal | Manny Cernuda, Fernando Del Granado, Edwin Estrada, Isidro Corominas, Bruno Berman, etc. (Old School ALAC) | Empleado Apple; red “familia” ALAC aún viva en mails 2017–2023 |
+| **nov 1998** | **AppleWorld Brasil**. La Nación: **gerente de Ventas sur de América Latina** de Apple; anuncia Apple Punta y AppleWorld Argentina | Apple | Ventas regionales, eventos | Mike Caram, Luciano Kubrulsky, Fernando del Granado, Jeff Martin | Rol ejecutivo regional (prensa) |
+| 1998–2000 | Planes **Apple Punta** y **AppleWorld Argentina** | Apple | Eventos de marca | — | Continuidad rol regional |
+| **oct 2002** | **Expo Aldeamac** (BA): presenta **Mac OS X 10.2 Jaguar** | Referente / Apple ecosystem | Conferencia OS X | Comunidad Mac hispana | Speaker regional |
+| 2002 | **Sagasti Palermo y Soto S.R.L. (Mundo Mac)** en aviso oficial UY | MundoMac | Razón social histórica | Palermo, Soto | Sociedad del trío |
+| ~¿salida sociedad? | Deja MundoMac como socio; amistad se mantiene | — | — | Walter, Fer | Ex-socio / amigo |
+| **Radar.Media** (post-Apple) | Funda Radar.Media; acuña **geomessaging**; líder del sector (bio propia) | Radar.Media | Geomessaging / apps | — | Founder (dominio radar.media expiró ~2023; backends Firebase/GCP) |
+| **~2014–2015** | **Macaldia S.R.L.** vendor de **Apple Inc.** (AP Austin, vendor 80021387). Apps **La Pancarta**, **Locs**. GSX | Macaldia | Apps + servicios a Apple | Christina Rodriguez, Rodrigo Silveira (Apple) | Proveedor / developer |
+| **~2015–2018+** | **Totalneo** — certif. productos/accesorios Apple AR (INTI, SAR/EMC, URSEC) | Totalneo | Compliance / certificación | Ana Clara G.P., Pons, CMB, Maximsoft | Socio (vendida 24/4/2026) |
+| 2016–hoy | Apple Developer activo | Personal / OpenPass | iOS/Mac dev | — | Developer |
+| 2017–2023 | Red **Old School ALAC**: AppleTalk de Manny (2017), 24 años de Manny en Apple (2023) con Jorge en el CC | Apple alumni | — | Manny Cernuda et al. | Familia ALAC |
+| 2017–2022+ | Walter/Fer siguen escribiendo (aniversarios MundoMac, familia) | MundoMac | — | Walter, Fer | Amistad |
+| **2026** | MBP M3 Max 36 GB · charla Muestra Apple 50 años | Personal | Testimonio de vida | Diego Akerman | Speaker |
+
+### Pendiente de documentar (poco rastro público online)
+
+| Tema | Qué dijo Jorge | Estado búsqueda |
+|------|----------------|-----------------|
+| **The Mac House** | Empresa de **cursos** que tuvo | Sin hits útiles en Gmail jorge@sagasti.com, Drive, ni web AR confiable. `themachouse.com` archive = otra empresa (Sioux Falls). **Requiere Mac local / memoria / dominio viejo** |
+| **Get Info** | Organización con **newsletter** “Get Info” | Sin hits en mail/Drive. getinfo.org/com archive = ISP Ohio, no Mac. **Muy probable nombre de user-group o boletin propio de época Mac OS clásico** — buscar en Mac local, backups, papel |
+| Título exacto **Senior** Systems Engineer | “fui mentor y senior systems engineer para apple” | Bio pública dice **Systems Engineer and Mentor** (no siempre “Senior”). La Nación dice **gerente de Ventas** LATAM Sur. Alinear títulos con Jorge |
 
 ---
 
@@ -122,16 +136,32 @@ Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Más de tres décadas
 
 ## Gaps / validar con Jorge
 
-1. Fechas exactas de **ingreso y salida de Apple** (rol LATAM Sur).  
+1. Fechas exactas de **ingreso y salida de Apple** (SE/Mentor + rol ventas LATAM Sur).  
 2. Cuándo dejó de ser **socio de MundoMac** (¿mudanza a AR? ¿años?).  
-3. Historia **pre-1995**: ¿Apple II, Mac 128K, SE, LC? ¿primer Mac personal?  
-4. ¿Newton, Pippin, u otros productos de culto?  
-5. Rol exacto en **Macaldia** y en **Totalneo** re: Apple (solo certif. o también import/canal).  
-6. ¿Hay otra persona “Jorge Sagasti” en la nota de La Nación 1998? (alta probabilidad de que seas vos por contexto regional + Aldeamac; **confirmá**).  
-7. Material físico disponible en Malibú / depósitos.
+3. Historia **pre-1995 / 1986**: primera app Mac en USA — nombre, plataforma, qué hacía.  
+4. **The Mac House** (cursos) y **Get Info** (newsletter/org): casi sin rastro digital → papel, dominio viejo, fotos.  
+5. Título exacto: **Senior** Systems Engineer vs Systems Engineer + Mentor (bio Smalltalks).  
+6. Rol exacto en **Macaldia** y **Totalneo** re: Apple.  
+7. Material físico en Malibú / depósitos para Espacio TEC.
+
+## Script de investigación (listo)
+
+```bash
+# Pasada estándar (Gmail + Drive + Spotlight + globs)
+~/.hermes/scripts/apple-talk-research.sh
+
+# + Wayback CDX + osxphotos counts
+~/.hermes/scripts/apple-talk-research.sh --full
+
+# Otra cuenta
+ACCOUNT=jorge@openpass.com.ar ~/.hermes/scripts/apple-talk-research.sh
+```
+
+Reportes: `~/.hermes/cron/output/apple-talk-research-*.txt`  
+Última copia wiki: `projects/muestra-apple-2026-research-last.txt`
 
 ---
 
 ## Tags
 
-#apple #charla #muestra-apple-2026 #mundomac #macaldia #totalneo #timeline
+#apple #charla #muestra-apple-2026 #mundomac #macaldia #totalneo #radar-media #alac #timeline
