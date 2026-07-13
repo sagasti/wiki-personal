@@ -1,0 +1,713 @@
+# Phase B outbox + contracts (subjects only)
+# outbox_count=611 years={2006: 243, 2007: 368}
+# sniff={'certif': 53, 'iram': 38, 'curso': 26, 'training': 26, 'aatc': 17, 'contract': 15, 'macbook': 14, 'consult': 10, 'leopard': 9, 'server': 9, 'agreement': 6, 'miami': 6, 'xsan': 5, 'itesm': 4, 'loan': 4, 'final cut': 3, 'travel': 3, 'mexico': 3, 'sales access': 3, 'xserve': 3, 'soluciones': 2, 'pr ': 1, 'punt': 1, 'wwdc': 1}
+# contract_rows=93 unique_ids=93
+# body_pick_candidates=163
+
+## OUTBOX subjects (FROM sagasti@apple.com)
+2006-01-03 | Re: 411 (information please) | to=Sandra Illanes <sillanes@apple.com> | id=26580
+2006-01-06 | Re: 411 (information please) | to=Edwin Estrada <eestrada@apple.com> | id=26577
+2006-01-13 | Re: IMPORTANT: Macworld 2006: Global Coverage Report | to=Fernando Del Granado <delgranado@apple.com> | id=16768
+2006-01-16 | Naked iMac | to=alac_bde_se@group.apple.com | id=14618
+2006-01-16 | Re: Naked iMac | to=Jorge Sagasti <sagasti@apple.com> | id=14619
+2006-01-18 | LA Paper Sizes | to=alac_bde_se@group.apple.com | id=20377
+2006-01-19 | Re: LA Paper Sizes | to=Tiago Ribeiro <tribeiro@apple.com> | id=20379
+2006-01-24 | macintoshsecurity.com got hacked | to=alac_bde_se@group.apple.com, Manny Cernuda <manny@apple | id=16260
+2006-02-03 | Re: RV: Garbarino - Apple | to=Sergio Fernandez Moreno <jafsrl@jafsrl.com.ar> | id=11007
+2006-02-03 | approval required: my order 1004918 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10278
+2006-02-06 | approval required: my order 1004926 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10269
+2006-03-17 | Re: Leno | to=Edwin Estrada <eestrada@apple.com> | id=16656
+2006-04-19 | approval required: my order 1005104 (jorge sagasti) | to=wwct-financeapproval@group.apple.com | id=16239
+2006-05-23 | Re: Question from the field | to=Sandra Illanes <sillanes@apple.com> | id=16389
+2006-06-23 | approval required: my order 1005367 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10275
+2006-07-03 | Re: Reviewed Certificate A1181 & A1182 | to=Carlos Frei <cfrei@quintec.cl> | id=25796
+2006-07-03 | Charla Personal/Laboral | to=Edwin Estrada <eestrada@apple.com> | id=19990
+2006-07-03 | Re: WWDC | to=Rodrigo Gomez <rodrigog@apple.com> | id=16432
+2006-07-04 | Expenses June '06 | to=Caro Velosa <cvelosa@apple.com> | id=25809
+2006-07-04 | Access to ATIS | to=act-atis-request@group.apple.com | id=25632
+2006-07-04 | Re: Registro Efectuado | to=Fernando Agundis <agundis@apple.com> | id=19848
+2006-07-04 | Re: Rm: Fw: Consulta Adapter A1102 SAMSUNG ( Apple Macintosh) | to=Caro Velosa <cvelosa@apple.com> | id=25805
+2006-07-04 | Fwd: Access to ATIS | to=Gustavo Beathyate <gustavo.beathyate@mac.com> | id=25634
+2006-07-04 | Re: Access to ATIS | to=Jacob Brown <jacobb@apple.com> | id=25636
+2006-07-04 | Re: ATCS in BR | to=Dinho <dmartinelli@apple.com>, Cesar Sanchez <cesars@ap | id=14651
+2006-07-04 | Material próximo Mac OS X Server Essentials | to=Rodrigo Gomez <rodrigog@apple.com> | id=15800
+2006-07-04 | Re: Access to ATIS | to=Jacob Brown <jacobb@apple.com> | id=25637
+2006-07-04 | Re: Alo | to=Caro Velosa <cvelosa@apple.com> | id=16004
+2006-07-04 | Re: Alo | to="Guillermo A. Santos" <gsantos@exa.com.mx> | id=16007
+2006-07-04 | Felicitaciones Gustavo | to=Patricio Marquez <pmarquezdomenge@apple.com>, Guillermo | id=16694
+2006-07-04 | Re: ATCS in BR | to=Cesar Sanchez <cesars@apple.com> | id=14650
+2006-07-04 | Re: Charla Personal/Laboral | to=Edwin Estrada <eestrada@apple.com> | id=19992
+2006-07-04 | News for ALAC? | to=Amy Lawder <alawder@apple.com>, Anne Renehan <arenehan@ | id=25508
+2006-07-04 | approval required: my order 1005408 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10274
+2006-07-05 | iPod Nano | to=Walter Soto <WSoto@MundoMac.com> | id=10362
+2006-07-05 | Sobre hijos, familia y negocios. | to=Walter Soto <WSoto@MundoMac.com>, Fernando Palermo <FPa | id=25790
+2006-07-05 | Re: Reunión 28 de junio | to=Juan Carlos Esparza <jesparza@apple.com> | id=16651
+2006-07-05 | xsan | to==?ISO-8859-1?Q?Agust=EDn_Bialet?= <abialet@mac.com> | id=25793
+2006-07-05 | Fwd: Shipment notification for order # 7037338838 | to=Edwin Estrada <eestrada@apple.com> | id=14780
+2006-07-05 | Re: Sobre hijos, familia y negocios. | to=Fernando Palermo <FPalermo@MundoMac.com> | id=25792
+2006-07-05 | Re: Shipment notification for order # 7037338838 | to=Caro Velosa <cvelosa@apple.com> | id=14782
+2006-07-05 | International Travel Request | to=Corporate Travel <travel.res@apple.com> | id=25789
+2006-07-05 | Re: http://docs.info.apple.com/article.html?artnum=303319 | to=Nicolas Diaz Arredondo <nico@alfauno.com.ar> | id=12461
+2006-07-05 | Re: Shipment notification for order # 7037338838 | to=Caro Velosa <cvelosa@apple.com> | id=14781
+2006-07-05 | Re: News for ALAC? | to=Amy Lawder <alawder@apple.com> | id=25512
+2006-07-05 | Proximo Curso | to=Sandra Illanes <sillanes@apple.com> | id=11141
+2006-07-06 | Re: Proximo Curso | to=Sandra Illanes <sillanes@apple.com> | id=11143
+2006-07-06 | Fwd: ATC | to=Dinho <dmartinelli@apple.com>, Cesar Sanchez <cesars@ap | id=25782
+2006-07-06 | Re: Proximo Curso | to=Sandra Illanes <sillanes@apple.com> | id=11142
+2006-07-06 | Re: * Feedback / input request * | to=Edwin Estrada <eestrada@apple.com> | id=25774
+2006-07-06 | Otro más para Gustavo, y van... | to=Patricio Marquez <pmarquezdomenge@apple.com>, Guillermo | id=25734
+2006-07-07 | Re: Material próximo Mac OS X Server Essentials | to=Rodrigo Gomez <rodrigog@apple.com> | id=15801
+2006-07-07 | Re: Training for Q3 | to=Luli Antelo <lantelo@apple.com> | id=15388
+2006-07-07 | Re: Curso MacOS X Server Essentials | to=Rodrigo Gomez <rodrigog@apple.com> | id=11923
+2006-07-07 | Re: MacBook Pro Loan Agreement | to=Caro Velosa <cvelosa@apple.com> | id=25711
+2006-07-07 | Re: MacBook Pro Loan Agreement | to=Edwin Estrada <eestrada@apple.com> | id=25717
+2006-07-07 | Re: Air itinerary | to=Bill Ford <billford@apple.com> | id=25762
+2006-07-07 | Próximo Curso | to=Edith Maldonado <emaldonado@apple.com> | id=25760
+2006-07-07 | approval required: my order 1005420 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10276
+2006-07-07 | Re: Problema con Maquinas en Aduana | to=Caro Velosa <cvelosa@apple.com>, Edwin Estrada <eestrad | id=25748
+2006-07-07 | Re: A61 Safety caution question | to=t_ooishi@kmc.mitsumi.co.jp | id=14609
+2006-07-07 | Re: Problema con Maquinas en Aduana | to=Caro Velosa <cvelosa@apple.com> | id=25749
+2006-07-07 | Expensas | to=Mercedes Coghlan <mecha@macanas.com> | id=16436
+2006-07-09 | Tu mail | to=Marcelo Bianco <mpbianco@cmbconsultores.com.ar> | id=12967
+2006-07-09 | Re: Dineros | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12980
+2006-07-10 | Re: Invitación a Simplemente | to==?ISO-8859-1?Q?M=F3nica_Reina?= <monica@simplemente.net | id=12672
+2006-07-10 | Transmit | to==?ISO-8859-1?Q?Jos=E9_Prieto?= <josebbprieto@gmail.com> | id=13454
+2006-07-10 | Aceso TotalNeo | to==?ISO-8859-1?Q?Jos=E9_Prieto?= <josebbprieto@gmail.com> | id=13453
+2006-07-10 | Re: A61 Safety caution question | to=t_ooishi@kmc.mitsumi.co.jp | id=14603
+2006-07-10 | Re: Trainer in Mexico and Latin America | to=Rodrigo Gomez <rodrigog@apple.com> | id=11915
+2006-07-11 | Re: A61 Safety caution question | to=t_ooishi@kmc.mitsumi.co.jp | id=14602
+2006-07-11 | Re: MacBook Pro Loan Agreement | to=Caro Velosa <cvelosa@apple.com> | id=25715
+2006-07-11 | Re: MacBook Pro Loan Agreement | to=Caro Velosa <cvelosa@apple.com> | id=25714
+2006-07-12 | Re: Novell edirectory y Mac OS X | to=Mauricio Lopez <malopez@icon.co.cr> | id=12800
+2006-07-13 | Re: Material próximo Mac OS X Server Essentials | to=Caro Velosa <cvelosa@apple.com> | id=15803
+2006-07-13 | Re: A61 Safety caution question | to=t_ooishi@kmc.mitsumi.co.jp | id=14595
+2006-07-13 | Re: A1034 | to=Caro Velosa <cvelosa@apple.com> | id=25702
+2006-07-13 | Re: Anuncio | to=Humberto Becerra <hbecerra@mac.com> | id=14835
+2006-07-13 | Conference Call | to=Edwin Estrada <eestrada@apple.com> | id=25691
+2006-07-13 |  | to=Rodrigo Gomez <rodrigog@apple.com>, Sandra Illanes <sil | id=15877
+2006-07-13 | Re: Final Cut Training | to=Humberto Becerra <hbecerra@mac.com> | id=25623
+2006-07-13 | Re: Conference Call | to=Edwin Estrada <eestrada@apple.com> | id=25692
+2006-07-13 | Fwd: Trainer count in your region | to=Edwin Estrada <eestrada@apple.com> | id=15929
+2006-07-13 | Re: TJV for polo shirts | to=Cindy Waller <waller.c@apple.com> | id=14645
+2006-07-13 | Nota para IRAM | to=Caro Velosa <cvelosa@apple.com> | id=25656
+2006-07-13 | Re: Lo que falta pagar | to=Mercedes Coghlan <mecha@macanas.com>, Marcelo Bianco <m | id=12750
+2006-07-13 | Re: On Vacation | to=cvelosa@apple.com | id=25685
+2006-07-14 | Errors in the Engineering Database is causing trouble in Customs | to=Caro Velosa <cvelosa@apple.com> | id=14687
+2006-07-14 | Fwd: Errors in the Engineering Database is causing trouble in Customs | to=Evangeline Cometa <evangeline.cometa@csa-international. | id=14688
+2006-07-14 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=14696
+2006-07-14 | Fwd: Errors in the Engineering Database is causing trouble in Customs | to=Edwin Estrada <eestrada@apple.com> | id=14689
+2006-07-14 | Re: Anuncio | to=Gino Quintana <gquintana@mac.com> | id=14836
+2006-07-14 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=14694
+2006-07-14 | Re: Import problem due to error in MacBook Certificate. | to=Azevedo Marinaldo <mazevedo@apple.com> | id=12852
+2006-07-14 | Re: Su orden con Apple # 999976579 | to=Cindy Waller <waller.c@apple.com> | id=15608
+2006-07-14 | Re: Macbook | to=Monica Goldin <mgoldin@maximsoft.com.ar> | id=25652
+2006-07-14 | Siempre me acuerdo de vos | to=Marcelo Bianco <mpbianco@cmbconsultores.com.ar> | id=12968
+2006-07-14 | Re: Anuncio | to=Gino Quintana <gquintana@mac.com> | id=14838
+2006-07-14 | Re: Macbook | to=Hector Goldin <hgoldin@anovasolutions.com> | id=25653
+2006-07-17 | Re: 1GB 667MHz DDR2 (PC2-5300) SO-DIMM 4 U | to=Edwin Estrada <eestrada@mac.com> | id=25667
+2006-07-17 | Re: Nota para IRAM | to=Edwin Estrada <eestrada@apple.com> | id=25658
+2006-07-17 | Re: NASH | to=Fernando Agundis <agundis@apple.com> | id=15851
+2006-07-18 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Edwin Estrada <eestrada@apple.com> | id=14691
+2006-07-18 | Re: Nota para IRAM | to=Edwin Estrada <eestrada@apple.com> | id=25657
+2006-07-18 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Luli Antelo <lantelo@apple.com> | id=14701
+2006-07-18 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Luli Antelo <lantelo@apple.com> | id=14692
+2006-07-18 | Fwd: RV: Seguimiento S-0781/021-1 Ipod Hi Fi | to=Edwin Estrada <eestrada@apple.com>, Caro Velosa <cvelos | id=16080
+2006-07-18 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Luli Antelo <lantelo@apple.com> | id=14697
+2006-07-18 | Re: Errors in the Engineering Database is causing trouble in Customs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=14700
+2006-07-18 | Re: Macbook | to=Ana Clara Garcia <anaclara@maximsoft.com.ar> | id=25651
+2006-07-18 | Fwd: A1181-revised IRAM cert for A1184 adaptor | to=Ana Clara Garcia <anaclara@maximsoft.com.ar> | id=16399
+2006-07-18 | Re: Import problem due to error in MacBook Certificate. | to=Marinaldo Azevedo <mazevedo@apple.com> | id=12851
+2006-07-18 | Re: Llamada OD | to="Guillermo A. Santos" <gsantos@exa.com.mx> | id=25644
+2006-07-18 | Re: Llamada OD | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=25646
+2006-07-18 | Re: Argentina S Mark | to=Warwick Wong <wwong@apple.com> | id=15497
+2006-07-18 | Fwd: Access to ATIS | to=Jacob Brown <jacobb@apple.com> | id=25633
+2006-07-19 | Re: Argentina S Mark | to=Warwick Wong <wwong@apple.com> | id=15496
+2006-07-19 | Curso Mac OS X Server Essentials | to=jsalgado@tallard.com.mx | id=13430
+2006-07-19 | Fwd: Problem with Chekhov 2.0.1 and Mac OS X  10.4.x | to=Rodrigo Gomez <rodrigog@apple.com> | id=11926
+2006-07-19 | Re: logo oficial apple soporte etc | to=Manny Cernuda <manny@apple.com> | id=13020
+2006-07-19 | Re: Final Cut Training | to=Anne Renehan <arenehan@apple.com> | id=25622
+2006-07-19 | Re: Problem with Chekhov 2.0.1 and Mac OS X  10.4.x | to=Rodrigo Gomez <rodrigog@apple.com> | id=11927
+2006-07-19 | Re: encontrado el punto 8 | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=25619
+2006-07-20 | Re: Confirmación de depósitos para curso | to=Edith Maldonado <emaldonado@apple.com> | id=25613
+2006-07-20 | Re: ALAC Training | to=Joaquin Salgado <jsalgado@tallard.com.mx> | id=16171
+2006-07-20 | Re: Train the Trainers | to=Sara Freeman <sfreeman@apple.com> | id=24507
+2006-07-20 | Fwd: A61 Safety caution question | to==?ISO-8859-1?Q?Belen_Bu=F1es?= <bbunez@iram.org.ar> | id=14596
+2006-07-20 | Re: Argentina duckhead | to=Warwick Wong <wwong@apple.com> | id=10314
+2006-07-20 | Re: Xsan training in Miami | to=Tiago Ribeiro <tribeiro@apple.com> | id=10703
+2006-07-20 | Re: Sticker | to=Carolina Vazquez <cvazquez@alfauno.com.ar> | id=25600
+2006-07-20 | Re: draft of F&CS team plan for FY'07 | to=Edwin Estrada <eestrada@apple.com> | id=16566
+2006-07-20 | Sticker | to=Hector Goldin <hgoldin@maximsoft.com.ar> | id=25601
+2006-07-20 | Re: Argentina duckhead | to=Warwick Wong <wwong@apple.com> | id=10315
+2006-07-20 | Re: Argentina duckhead | to=Warwick Wong <wwong@apple.com> | id=10311
+2006-07-20 | Re: A61 Argentina safety; Japan safety | to=Moon Lee <moon-lee@foxlink.com.hk> | id=15633
+2006-07-20 | Re: A61 Argentina safety; Japan safety | to=Moon Lee <moon-lee@foxlink.com.hk> | id=15640
+2006-07-20 | Re: Argentina duckhead | to=Warwick Wong <wwong@apple.com> | id=10310
+2006-07-20 | Re: Sticker | to=Hector Goldin <hgoldin@maximsoft.com.ar> | id=25603
+2006-07-20 | Fwd: Sticker | to=Hector Goldin <hgoldin@maximsoft.com.ar> | id=25599
+2006-07-20 | S-Mark | to=Warwick Wong <wwong@apple.com> | id=25598
+2006-07-21 | Re: A61 Safety caution question | to=t_ooishi@kmc.mitsumi.co.jp | id=14611
+2006-07-21 | Re: A61 Safety caution question | to==?ISO-8859-1?Q?BELEN_BU=D1EZ?= <BBUNEZ@iram.org.ar> | id=14610
+2006-07-21 | Re: 5233 agency review - BSMI, CE and C-tick and NSW no. | to=stephanie locke <locke.s@apple.com> | id=15949
+2006-07-21 | Re: Train the Trainers | to=Cindy Waller <waller.c@apple.com> | id=24503
+2006-07-21 | Re: Nike + iPod sport kit | to=Edwin Estrada <eestrada@apple.com> | id=25588
+2006-07-21 | Re: 5233 agency review - BSMI, CE and C-tick and NSW no. | to=Ida Lo <ilo@apple.com> | id=15947
+2006-07-21 | Re: FYI / Fwd: Biscotti Statistics: 7/20/2006 | to=Edwin Estrada <eestrada@apple.com> | id=16109
+2006-07-21 | Fwd: RV: RV: Respuesta : Curso Mac OS X Server Essentials- Ciudad de México 25-28 Julio  TRANSFERENCIA | to=Rodrigo Gomez <rodrigog@apple.com>, Patricio Marquez <p | id=13241
+2006-07-21 | Re: Nike + iPod sport kit | to=Edwin Estrada <eestrada@apple.com> | id=25587
+2006-07-21 | Re: Marcelo se va de viaje | to=Mercedes Coghlan <mechicoghlan@hotmail.com> | id=11616
+2006-07-21 | Argentina Importers List | to=t_ooishi@kmc.mitsumi.co.jp | id=14754
+2006-07-21 | Re: A61 Safety caution question | to=Warwick Wong <wwong@apple.com> | id=15543
+2006-07-21 | Fwd: URGENT Fwd: Train the Trainers | to=Ignacio Bermeo-Juarez <ibermeo@mac.com> | id=24506
+2006-07-21 | Re: Shitsuke Urgente!!!! | to=Mercedes Coghlan <mechicoghlan@hotmail.com> | id=12742
+2006-07-21 | Memo Sistema | to==?ISO-8859-1?Q?Jos=E9_Prieto?= <jprieto@secnetpro.com> | id=13452
+2006-07-21 | Fwd: RV: RV: Respuesta : Curso Mac OS X Server Essentials- Ciudad de México 25-28 Julio  TRANSFERENCIA | to==?ISO-8859-1?Q?Lorena_Cort=E9s_Chilena_Computaci=F3n?=  | id=13242
+2006-07-22 | Curso de la semana próxima | to=Rodrigo Gomez <rodrigog@apple.com>, Armando Ortega <aor | id=15626
+2006-07-24 | Curso macos-335 | to=Gustavo Beathyate <gustavo.beathyate@mac.com> | id=25522
+2006-07-24 | Re: Carta de Invitacion | to=Humberto Becerra <hbecerra@mac.com> | id=25555
+2006-07-24 | Re: Carta de Invitacion | to=Humberto Becerra <hbecerra@mac.com> | id=25554
+2006-07-24 | Re: Apple Fixed Asset Unit | to=Caro Velosa <cvelosa@apple.com> | id=25548
+2006-07-24 | Re: Invitacion curso | to=Margarita Guerrero <mercanet@mac.com> | id=12936
+2006-07-24 | Re: Curso macos-335 | to=Gustavo Beathyate <gustavo.beathyate@mac.com> | id=25524
+2006-07-24 | Re: Curso macos-335 | to=Gustavo Beathyate <gustavo.beathyate@mac.com> | id=25523
+2006-07-25 | Re: Apple Training Center Application (PSI) | to=Juan Carlos Esparza <jesparza@apple.com> | id=13415
+2006-07-25 | Fwd: A61 Argentina safety; Japan safety | to=Warwick Wong <wwong@apple.com> | id=15698
+2006-07-25 | Re: Su orden con Apple # 999976579 | to=Ing Carlos Carvajal <ccarvaja@tctelevision.com> | id=16326
+2006-07-25 | Re: Invitacion curso | to=Margarita Guerrero <mercanet@mac.com> | id=16253
+2006-07-25 | Re: Alo | to=Caro Velosa <cvelosa@apple.com>, Guillermo Santos <gsan | id=16005
+2006-07-25 | Re: Apple Training Center Application (PSI) | to=Juan Carlos Esparza <jesparza@apple.com> | id=13419
+2006-07-25 | Fwd: TEST - Pro Apps Newsletter | to=Edwin Estrada <eestrada@apple.com> | id=25515
+2006-07-25 | Re: A61 Argentina safety; Japan safety | to=Warwick Wong <wwong@apple.com> | id=15702
+2006-07-25 | Re: Apple Training Center Application (PSI) | to=Juan Carlos Esparza <jesparza@apple.com> | id=13414
+2006-07-25 | Re: Apple Training Center Application (PSI) | to=Juan Carlos Esparza <jesparza@apple.com> | id=13412
+2006-07-25 | Re: Biscotti Statistics: 7/24/2006 | to=Edwin Estrada <eestrada@apple.com> | id=25535
+2006-07-25 | Re: A61 Argentina safety; Japan safety | to=Warwick Wong <wwong@apple.com> | id=15706
+2006-07-25 | Re: Apple Training Center Application (PSI) | to=Juan Carlos Esparza <jesparza@apple.com> | id=13413
+2006-07-25 | Re: TJV for polo shirts | to=Cindy Waller <waller.c@apple.com> | id=14641
+2006-07-25 | Fwd: Argentina Importers List | to=Warwick Wong <wwong@apple.com> | id=14764
+2006-07-25 | Re: A61 Argentina safety; Japan safety | to=Warwick Wong <wwong@apple.com> | id=15701
+2006-07-26 | Re: Curso macos-335 | to=Gustavo Beathyate <gustavo.beathyate@mac.com> | id=25525
+2006-07-26 | Re: A61 Argentina safety; Japan safety | to=Moon Lee <moon-lee@foxlink.com.hk> | id=15708
+2006-07-26 | Re: My site, for everyone and the rest of the world... | to=Patricio Marquez <pmarquezdomenge@apple.com> | id=12336
+2006-07-26 | Re: Xsan training in Miami | to=Tiago Ribeiro <tribeiro@apple.com> | id=10704
+2006-07-26 | Re: pxmos vtos IRAM | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=16439
+2006-07-26 | Re: Xsan training in Miami | to=Edwin Estrada <eestrada@apple.com> | id=10706
+2006-07-26 | Re: Xsan training in Miami | to=Tiago Ribeiro <tribeiro@apple.com> | id=10705
+2006-07-26 | Fwd: TEST - Pro Apps Newsletter | to=Edwin Estrada <eestrada@apple.com> | id=25514
+2006-07-26 | Fwd: News for ALAC? | to=Edwin Estrada <eestrada@apple.com> | id=25510
+2006-07-26 | Fwd: News for ALAC? | to=Edwin Estrada <eestrada@apple.com> | id=25511
+2006-07-26 | Fwd: Argentina Importers List | to=Edwin Estrada <eestrada@apple.com> | id=14761
+2006-07-26 | Re: Apple Training Center Application (PSI) | to=Juan Carlos Esparza <jesparza@apple.com> | id=13411
+2006-07-26 | Curso Directory Services Client/Server | to=Sandra Illanes <sillanes@apple.com> | id=15898
+2006-07-26 | Acerca de Humberto y Gustavo | to=Edwin Estrada <eestrada@apple.com> | id=25506
+2006-07-27 | Re: Curso Directory Services Client/Server | to=Sandra Illanes <sillanes@apple.com> | id=15901
+2006-07-27 | Re: T3 | to=segarza@comdig.net | id=15918
+2006-07-27 | Re: Cancelación Mexico | to=Margarita Guerrero <mercanet@mac.com> | id=12938
+2006-07-27 | Re: vuelos | to=Gustavo Beathyate <gustavo@elkaperu.com> | id=25492
+2006-07-27 | Re: Curso DF | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=25497
+2006-07-27 | Próximo Curso el 15 de Agosto | to=Edith Maldonado <emaldonado@apple.com> | id=25495
+2006-07-27 | Otro entrenador de Directory Services | to=Gustavo Beathyate <gustavo.beathyate@mac.com>, Tiago Ri | id=16001
+2006-07-27 | Re: Contacts in Argentina . . . | to=Sandy Bozek <sbozek@apple.com> | id=11139
+2006-07-27 | Re: vuelos | to=Gustavo Beathyate <gustavo@elkaperu.com> | id=25494
+2006-07-27 | Sticker | to=Caro Velosa <cvelosa@apple.com> | id=25489
+2006-07-28 | Re: Contacts in Argentina . . . | to=Sandy Bozek <sbozek@apple.com> | id=11138
+2006-07-28 | Newton OS 1993 > Windows Mobile 2006 | to=alac_bde_se@group.apple.com | id=14591
+2006-07-28 | Orden para un estudio | to=Mercedes Coghlan <mecha@macanas.com> | id=12760
+2006-07-28 | Re: Power Adapter - Model A1102 - Pregunta | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=14771
+2006-07-28 | Re: Power Adapter - Model A1102 - Pregunta | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=14773
+2006-07-31 | Re: Evaluaciones del Curso | to=Rodrigo Gomez <rodrigog@apple.com>, Patricio Marquez <p | id=11918
+2006-07-31 | Re: (hopefully) simple question... | to=Edwin Estrada <eestrada@apple.com> | id=25448
+2006-07-31 | Re: certificado M9837LL/AApple iPod USB Power Adapter | to==?ISO-8859-1?Q?Alejandro_Diego_P=E9rez?= <alejandro.per | id=16200
+2006-07-31 | Re: Evaluaciones del Curso | to=Rodrigo Gomez <rodrigog@apple.com> | id=11917
+2006-08-02 | Fwd: Argentina Importers List | to=damian.desposito@ar.ul.com | id=14755
+2006-08-02 | approval required: my order 1005645 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=25380
+2006-08-04 | Re: Argentina Importers List | to=t_ooishi@kmc.mitsumi.co.jp | id=14756
+2006-08-07 | Re: Argentina Importers List | to=t_ooishi@kmc.mitsumi.co.jp | id=14757
+2006-08-14 | Directory Services Instructor Materials | to=Jorge Sagasti <sagasti@apple.com> | id=16875
+2006-08-24 | Re: News for ALAC? | to=Edwin Estrada <eestrada@apple.com> | id=14554
+2006-08-25 | Re: certificación Fuente IPOD | to=alejandro.perez@mac.com | id=25268
+2006-08-25 | Fwd: Certificado Model A1102 - IRAM | to=Mercedes Coghlan <mecha@macanas.com> | id=12762
+2006-08-25 | Fwd: Certificado IRAM para la familia A1186 | to=Mercedes Coghlan <mecha@macanas.com> | id=12755
+2006-08-29 | Re: Factura de agosto | to=Caro Velosa <cvelosa@apple.com> | id=25252
+2006-09-11 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_Diego_P=E9rez?= <alejandro.per | id=14750
+2006-09-11 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_Diego_P=E9rez?= <alejandro.per | id=14743
+2006-09-11 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_Diego_P=E9rez?= <alejandro.per | id=14745
+2006-09-11 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_P=E9rez?= <alejandro.perez@mac | id=14753
+2006-09-11 | Re: New IRAM Certificates | to=Caro Velosa <cvelosa@apple.com> | id=15563
+2006-09-12 | Fwd: nuevas IMAC | to=Edwin Estrada <eestrada@apple.com> | id=14752
+2006-09-13 | Re: New IRAM Certificates | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=15564
+2006-09-22 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_Diego_P=E9rez?= <alejandro.per | id=14742
+2006-09-22 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_Diego_P=E9rez?= <alejandro.per | id=14746
+2006-09-28 | Re: Facturas septiembre | to=Caro Velosa <cvelosa@apple.com> | id=25111
+2006-09-29 | Re: IRAM update for iMacs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=25118
+2006-09-29 | Re: Facturas septiembre | to=Caro Velosa <cvelosa@apple.com> | id=25112
+2006-09-29 | Re: IRAM update for iMacs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=25116
+2006-09-29 | IRAM update for iMacs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=15932
+2006-09-29 | Re: Facturas septiembre | to=Caro Velosa <cvelosa@apple.com> | id=25108
+2006-09-29 | Re: IRAM update for iMacs | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=15942
+2006-09-30 | Re: nuevas IMAC | to==?ISO-8859-1?Q?Alejandro_P=E9rez?= <alejandro.perez@mac | id=14749
+2006-09-30 | Re: IRAM update for iMacs | to=Caro Velosa <cvelosa@apple.com> | id=15938
+2006-12-01 | Fwd: Authorized Apple Training Center Agreement Documents for your review | to=Edwin Estrada <eestrada@apple.com> | id=24870
+2006-12-19 | Re: Factura P03FY07 - mes de diciembre 2006 | to=Caro Velosa <cvelosa@apple.com> | id=24789
+2007-01-02 | Re: Certificados nuevas macbook | to=Carolina Vazquez <cvazquez@alfauno.com.ar> | id=14348
+2007-01-02 | Re: Certificados nuevas macbook | to=Carolina Vazquez <cvazquez@alfauno.com.ar> | id=14356
+2007-01-02 | Re: Certificados nuevas macbook | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=14355
+2007-01-03 | Re: Volantes y Facturas NMI | to=La Imprenta - Trabajos <ot.laimprenta@adinet.com.uy> | id=13349
+2007-01-04 | Re: Certificados nuevas macbook | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=14349
+2007-01-04 | Re: Volantes y Facturas NMI | to=La Imprenta - Trabajos <ot.laimprenta@adinet.com.uy> | id=13352
+2007-01-05 | Re: Volantes y Facturas NMI | to=La Imprenta - Trabajos <ot.laimprenta@adinet.com.uy> | id=13351
+2007-01-11 | approval required: my order 1006876 (tiago ribeiro) | to=wwct-financeapproval@group.apple.com | id=10270
+2007-01-12 | Re: IRAM | to=Edwin Estrada <eestrada@apple.com> | id=24684
+2007-01-15 | Re: IRAM | to=Caro Velosa <cvelosa@apple.com> | id=24686
+2007-01-31 | Re: Felicidades!!!!! | to="=?ISO-8859-1?Q? _Rodrigo_G=F3mez_G._ ?=" <rodrigog@app | id=11893
+2007-03-01 | approval required: my order 1008100 (tiago ribeiro) | to=wwct-financeapproval@group.apple.com | id=10272
+2007-04-19 | approval required: my order 1008996 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10273
+2007-05-08 | Fwd: [305675] ñ | to=Anne Renehan <arenehan@apple.com> | id=15999
+2007-05-10 | approval required: my order 1009487 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10277
+2007-05-30 | Re: Factura mes mayo P08FY07 | to=Caro Velosa <cvelosa@apple.com> | id=20157
+2007-06-05 | approval required: my order 1009824 (caro velosa) | to=wwct-financeapproval@group.apple.com | id=10271
+2007-06-22 | Re: Status  Telecom  APPLE A1143 | to=Cecilia Leslie <INFO-NCC@nccrc.com> | id=12705
+2007-06-22 | Re: T3 materials | to=Zulema Miranda <zmmedina@apple.com> | id=10263
+2007-06-22 | Fwd: Familia A1226 | to=Susan Parker <susan.parker@apple.com> | id=23964
+2007-06-22 | Re: academia mac | to==?ISO-8859-1?Q?Robinson_Nu=F1ez?= <robintosh@mac.com> | id=11947
+2007-06-22 | Re: academia mac | to==?ISO-8859-1?Q?Robinson_Nu=F1ez?= <robintosh@mac.com> | id=11946
+2007-06-22 | International Travel Request | to=Corporate Travel <travel.res@apple.com> | id=10673
+2007-06-22 | Re: International Travel Request | to=travel.res@apple.com | id=10675
+2007-06-26 | Re: Pregunta sobre Certificados de IRAM | to=Caro Velosa <cvelosa@apple.com> | id=23957
+2007-06-28 | Re: Directorio | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=19787
+2007-06-28 | Re: FCP T3 | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=19785
+2007-06-28 | Fwd: Update | to=Jennifer Nott <jnott@apple.com> | id=14674
+2007-06-28 | Re: Update | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=14675
+2007-06-29 | Re: Facturas | to=Caro Velosa <cvelosa@apple.com> | id=23945
+2007-06-29 | Re: Tarjeta Amex, viene hoy tecnico en cuanto termine en otro lugar | to=Cristian Di Bucci <cristian@maximsoft.com.ar> | id=15672
+2007-06-29 | Re: Update | to=Jennifer Nott <jnott@apple.com> | id=14678
+2007-07-02 | Re: Delta Electroics | to=Caro Velosa <cvelosa@apple.com> | id=23934
+2007-07-02 | Re: Delta Electroics | to=Caro Velosa <cvelosa@apple.com> | id=23932
+2007-07-02 | Re: peach pit | to=Sergio Salama <salama@macdigital.com.ar> | id=15445
+2007-07-03 | Re: Por aca? | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23927
+2007-07-03 | Fwd: Update - EXA | to=Guillermo Santos <gsantos@exa.com.mx> | id=14663
+2007-07-03 | Fwd: Secure Token Expiration | to=Edwin Estrada <eestrada@apple.com> | id=15783
+2007-07-03 | Re: Update - EXA | to=Guillermo Santos <gsantos@exa.com.mx> | id=14676
+2007-07-03 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?Cr._de_Le=F3n?= <crjleon@redfacil.com.uy | id=15729
+2007-07-03 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?Cr._de_Le=F3n?= <crjleon@redfacil.com.uy | id=15741
+2007-07-04 | Fwd: Preacuerdo contractual II | to=armando sagasti <isagasti@adinet.com.uy> | id=15747
+2007-07-04 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?Cr._de_Le=F3n?= <crjleon@redfacil.com.uy | id=15732
+2007-07-04 | Re: Update - EXA | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=14679
+2007-07-05 | Re: A1181 and A1205  - IRAM Certificates | to=Caro Velosa <cvelosa@apple.com> | id=10861
+2007-07-05 | Fwd: Update - EXA | to=Caro Velosa <cvelosa@apple.com> | id=14669
+2007-07-05 | Re: Update - EXA | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=14670
+2007-07-05 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?Cr._de_Le=F3n?= <crjleon@redfacil.com.uy | id=15737
+2007-07-05 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?"Cr._de_Le=F3n"?= <crjleon@redfacil.com. | id=15730
+2007-07-06 | Fwd: Update - EXA | to=Sharon Martin <shmartin@apple.com> | id=14661
+2007-07-06 | Fwd: Preacuerdo contractual II | to="Jorge Sagasti (Padre)" <jsagasti1@mac.com>, armando@mo | id=15733
+2007-07-06 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?Cr._de_Le=F3n?= <crjleon@redfacil.com.uy | id=15743
+2007-07-06 | Fwd: Preacuerdo contractual II | to=Armando Sagasti <sagasti@movinet.com.uy> | id=15735
+2007-07-06 | Re: Preacuerdo contractual II | to=Armando Sagasti <sagasti@movinet.com.uy> | id=15748
+2007-07-06 | Re: Update - EXA | to=Sharon Martin <shmartin@apple.com> | id=14666
+2007-07-06 | Re: Documentation for A89 | to=Evangeline Cometa <evangeline.cometa@csa-international. | id=23907
+2007-07-06 | Re: VPN | to=Caro Velosa <cvelosa@apple.com> | id=23918
+2007-07-06 | Re: Power Adapter A1222 | to=Evangeline Cometa <evangeline.cometa@csa-international. | id=23916
+2007-07-06 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?Cr._de_Le=F3n?= <crjleon@redfacil.com.uy | id=15745
+2007-07-09 | Re: Documentation for A89 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23911
+2007-07-09 | Re: Just to say Hello! | to=Fabio Ribeiro <fribeiro@apple.com> | id=19890
+2007-07-09 | Re: Documentation for A89 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23908
+2007-07-09 | Re: Tallard Event in Chile | to=Edwin Estrada <eestrada@apple.com> | id=15688
+2007-07-09 | Re: Tallard Event in Chile | to=Edwin Estrada <eestrada@apple.com> | id=15696
+2007-07-10 | Fwd: Update - EXA | to=Edwin Estrada <eestrada@apple.com> | id=14677
+2007-07-10 | Re: IRAM Certification | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=16012
+2007-07-10 | Fwd: Conferencias en Español. PMA 2008 | to=Edwin Estrada <eestrada@apple.com> | id=23897
+2007-07-10 | Re: Update - EXA | to=trainingcenter@apple.com | id=14660
+2007-07-10 | Re: Update - EXA | to=AATC Program <trainingcenter@apple.com> | id=14658
+2007-07-10 | Re: IRAM power adapter certification... | to=Edwin Estrada <eestrada@apple.com> | id=16175
+2007-07-10 | Re: IRAM certification | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23858
+2007-07-10 | AATCs/ASW Info | to=AATC Program <trainingcenter@apple.com> | id=23891
+2007-07-11 | Re: Duckhead | to=Juan Vilella <jvilella@apple.com> | id=15413
+2007-07-11 | Re: IRAM certification | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23861
+2007-07-11 | Re: Duckhead | to=Lalo <lalopaolucci@mac.com> | id=15425
+2007-07-11 | Re: Cursos Apple | to=Ariel Folonier <foloniera@somsa.com.ar> | id=14633
+2007-07-11 | Re: Certificacion XServe | to=Soporte Ofir <soporte@ofir.com.ar> | id=10908
+2007-07-11 | Re: Duckhead | to=Lalo <lalopaolucci@mac.com> | id=15423
+2007-07-11 | Re: Duckhead | to=Lalo <lalopaolucci@mac.com> | id=15417
+2007-07-11 | Re: IRAM certification | to=Edwin Estrada <eestrada@apple.com> | id=23865
+2007-07-11 | Re: Cursos Apple | to=Ariel Folonier <foloniera@somsa.com.ar> | id=14631
+2007-07-11 | Re: Duckhead | to=Juan Vilella <jvilella@apple.com> | id=15428
+2007-07-11 | Re: Certificacion XServe | to=Soporte Ofir <soporte@ofir.com.ar> | id=10905
+2007-07-11 | Re: Duckhead | to=Juan Vilella <jvilella@apple.com> | id=15418
+2007-07-11 | Re: IRAM certification | to=Shelley Muehlen <Shelley.Muehlen@csa-international.org> | id=23857
+2007-07-12 | Fwd: Contrato ATC | to=Jennifer Nott <jnott@apple.com> | id=23883
+2007-07-12 | Re: IRAM certification | to=Shelley Muehlen <Shelley.Muehlen@csa-international.org> | id=23860
+2007-07-12 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?"Cr._de_Le=F3n"?= <crjleon@redfacil.com. | id=15736
+2007-07-12 | Fwd: Apple A1126 and A1129 | to=Caro Velosa <cvelosa@apple.com> | id=14843
+2007-07-12 | Fwd: Preacuerdo contractual II | to="Jorge Sagasti (Padre)" <jsagasti1@mac.com>, teatral@ad | id=15731
+2007-07-12 | Fwd: Preacuerdo contractual II | to=Mariana Sagasti <teatralpunta@hotmail.com> | id=15744
+2007-07-12 | Re: Preacuerdo contractual II | to==?ISO-8859-1?Q?"Cr._de_Le=F3n"?= <crjleon@redfacil.com. | id=15740
+2007-07-12 | Re: Apple A1126 and A1129 | to=Caro Velosa <cvelosa@apple.com> | id=14847
+2007-07-13 | Re: Apple A1126 and A1129 | to=Shelley Muehlen <Shelley.Muehlen@csa-international.org> | id=14849
+2007-07-13 | Re: Evento Tallard en Chile | to=Fernando Della Torre <fdellatorre@tallard.com> | id=23879
+2007-07-13 | Re: Apple A1226 and A2129 | to=Shelley Muehlen <Shelley.Muehlen@csa-international.org> | id=14844
+2007-07-13 | Re: External Power Adapters and IRAM | to=Simon Rate <srate@apple.com> | id=23870
+2007-07-13 | Re: External Power Adapters and IRAM | to=Edwin Estrada <eestrada@apple.com> | id=23871
+2007-07-16 | Re: Protect your iPod against theft! | to=Tiago Ribeiro <tribeiro@apple.com> | id=10722
+2007-07-16 | Re: Get a Mac - spanish version available | to=Edwin Estrada <eestrada@apple.com> | id=11886
+2007-07-16 | Re: Get a Mac - spanish version available | to=Edwin Estrada <eestrada@apple.com> | id=11887
+2007-07-16 | Re: [itic-latin_america_regulatory_network] Brazil - New battery draft resolution substituting CONAMA 257/99 | to=Bill Ohtola <ohtola1@apple.com> | id=23237
+2007-07-16 | Re: Llamada | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=23868
+2007-07-16 | Re: Certificación.. | to="Eduardo Abeleida G." <eabeleida@maccenter.cl> | id=20059
+2007-07-16 | Re: Certificacion XServe | to=Soporte Ofir <soporte@ofir.com.ar> | id=10906
+2007-07-17 | Re: Nueva Certificación Academia MacPC | to==?ISO-8859-1?Q?Andr=E9s_Singh?= <asingh@academiamac.cl> | id=13472
+2007-07-17 | Re: ISO 9000 | to=Manny Cernuda <manny@apple.com> | id=16475
+2007-07-17 | Re: Nueva Certificación Academia MacPC | to=rodrigo monje <rmonje@academiamac.cl> | id=13468
+2007-07-17 | Re: PAGO DE MERCADOTECNIA | to=Sharon Martin <shmartin@apple.com> | id=10992
+2007-07-17 | Re: IRAM certification | to=Caro Velosa <cvelosa@apple.com> | id=23855
+2007-07-17 | Re: Nueva Certificación Academia MacPC | to==?ISO-8859-1?Q?Jos=E9_Bodet?= <jbodet@tecbos.cl> | id=13469
+2007-07-17 | Re: Nueva Certificación Academia MacPC | to==?ISO-8859-1?Q?Jos=E9_Bodet?= <jbodet@tecbos.cl> | id=13470
+2007-07-17 | Fwd: Apple Store Shipment Notification  W29747186 | to=Marcelo Bianco <mpbianco@cmbconsultores.com.ar> | id=12977
+2007-07-17 | Re: [Fwd: Envio de papeles a Apple] | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=14359
+2007-07-17 | Re: New AATC - Soluciones MAC (Argentina) | to=Jennifer Nott <jnott@apple.com> | id=15600
+2007-07-17 | Fwd: Apple Store Shipment Notification  W29747186 | to=Eduardo Vila <alfamia@bellsouth.net> | id=12976
+2007-07-17 | Re: Apple Store Shipment Notification  W29747186 | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12978
+2007-07-17 | Re: A Little Help... | to=Caro Velosa <cvelosa@apple.com> | id=23843
+2007-07-18 | Re: peach pit | to=Sergio Salama <salama@macdigital.com.ar> | id=15444
+2007-07-18 | Re: Apple A1126 and A1129 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=14851
+2007-07-18 | Re: IRAM - need some clarifications | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=15546
+2007-07-18 | Fwd: [Fwd: FW: [Fwd: Envio de papeles a Apple]] | to=Jennifer Nott <jnott@apple.com> | id=23838
+2007-07-20 | Re: FYI: External Power Adapters and IRAM | to=Edwin Estrada <eestrada@apple.com> | id=19996
+2007-07-23 | Re: Contacto | to=rodrigo monje <rmonje@academiamac.cl> | id=11871
+2007-07-24 | Re: Contacto | to=rodrigo monje <rmonje@academiamac.cl> | id=11874
+2007-07-24 | Fwd: Su orden con Apple # 999976579 | to=Cindy Waller <waller.c@apple.com> | id=16448
+2007-07-24 | Re: NASH - Welcome - Apple Authorized Training Center | to=Sales Contracts Management <canadacontracts@apple.com> | id=23785
+2007-07-24 | Re: Apple Sales Web | to==?ISO-8859-1?Q?Jos=E9_Bodet?= <jbodet@academiamac.cl> | id=15721
+2007-07-24 | Re: NASH - Welcome - Apple Authorized Training Center | to=Jennifer Nott <jnott@apple.com> | id=23784
+2007-07-25 | Fwd: Apple Sales Web | to=Caro Velosa <cvelosa@apple.com> | id=15717
+2007-07-25 | Re: Apple Sales Web | to=Caro Velosa <cvelosa@apple.com> | id=15719
+2007-07-25 | Re: Codigo Examen | to=Guillermo A. Santos <gsantos@exa.com.mx> | id=16585
+2007-07-25 | Re: NASH - Welcome - Apple Authorized Training Center | to=Edwin Estrada <eestrada@apple.com> | id=23779
+2007-07-26 | Re: Factura de Julio | to=Caro Velosa <cvelosa@apple.com> | id=23815
+2007-07-26 | Re: Solución Render 3D | to=Fernando Della Torre <fdellatorre@tallard.com> | id=14590
+2007-07-26 | Re: Apple A1172 with A1226 and A1229 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23766
+2007-07-27 | Re: Apple A1172 with A1226 and A1229 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23769
+2007-07-27 | Re: Apple Sales Web | to=Caro Velosa <cvelosa@apple.com> | id=15715
+2007-07-30 | Re: Apple Sales Web | to=Caro Velosa <cvelosa@apple.com> | id=15728
+2007-07-30 | Conference Call | to=Caro Velosa <cvelosa@apple.com> | id=15924
+2007-07-30 | Re: Conference Call | to=Caro Velosa <cvelosa@apple.com> | id=15927
+2007-07-30 | Re: Solución Render 3D | to=Fernando Della Torre <fdellatorre@tallard.com> | id=14586
+2007-07-30 | Fwd: Consulta | to=Tiago Ribeiro <tribeiro@apple.com> | id=10720
+2007-07-30 | Fwd: your order 1010146 (enrique a. volckers nin) | to=Edwin Estrada <eestrada@apple.com> | id=16033
+2007-07-30 | Re: URGENT - Fwd: your order 1010299 (david sidebottom) | to=Sharon Martin <shmartin@apple.com> | id=10993
+2007-07-30 | Fwd: Status de Tercer Piso con Apple | to=Edwin Estrada <eestrada@apple.com> | id=23690
+2007-07-31 | Call | to=Caro Velosa <cvelosa@apple.com> | id=23795
+2007-07-31 | Fwd: Apple Sales Web | to=rodrigo monje <rmonje@academiamac.cl> | id=15722
+2007-07-31 | Re: Call | to=Caro Velosa <cvelosa@apple.com> | id=23797
+2007-07-31 | Re: Adaptador | to=Juan Vilella <jvilella@apple.com> | id=15857
+2007-07-31 | Re: New AATC access | to=ASW ROLA Support <asw.rola@apple.com> | id=10988
+2007-07-31 | Re: Solución Render 3D | to=Jorge Copello <jorge@elkaperu.com> | id=23751
+2007-07-31 | Re: Solución Render 3D | to=Jorge Copello <jorge@elkaperu.com> | id=23753
+2007-07-31 | Re: Consulta | to=Tiago Ribeiro <tribeiro@apple.com> | id=10721
+2007-08-01 | ALAC AATC-ASW info | to=Caro Velosa <cvelosa@apple.com> | id=23788
+2007-08-01 | Re: Welcome - Apple Authorized Training Center | to=Jennifer Nott <jnott@apple.com> | id=23787
+2007-08-01 | Re: Che! | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12972
+2007-08-01 | Re: Apple A1172 with A1226 and A1229 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23765
+2007-08-01 | Re: Che! | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12974
+2007-08-01 | Re: Che! | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12973
+2007-08-01 | Re: Apple A1172 with A1226 and A1229 | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=23764
+2007-08-01 | Re: Apple Sales Web | to=rodrigo monje <rmonje@academiamac.cl> | id=15723
+2007-08-01 | Re: New AATC access | to=Sharon Martin <shmartin@apple.com> | id=10986
+2007-08-02 | Re: Fotos del aula y de la nueva zona de servicio tecnico | to=Awilda Vazquez <avazquez@apple.com> | id=15491
+2007-08-02 | Re: Solución Render 3D | to=Jorge Copello <jorge@elkaperu.com> | id=23752
+2007-08-02 | Re: Vouchers | to=Caro Velosa <cvelosa@apple.com> | id=23746
+2007-08-02 | Re: Please review: content for new Onsite Training page on train.apple.com | to=Tilla Torrens <tilla@apple.com> | id=15915
+2007-08-03 | Re: Authorized Training Center | to=Maria Gonzalez <gonza.ms@apple.com> | id=12911
+2007-08-06 | Re: Status de Tercer Piso con Apple | to=Enrique A. Volckers Nin <enrique@tercerpisopr.com> | id=23693
+2007-08-07 | Fwd: Certificados Familia   A1226/A1229 con adaptador A1172 | to=Edwin Estrada <eestrada@apple.com> | id=15797
+2007-08-08 | Re: your order 1010146 (enrique a. volckers nin) | to=Cindy Waller <waller.c@apple.com> | id=16038
+2007-08-08 | Re: IMAC | to=Edwin Estrada <eestrada@apple.com> | id=14709
+2007-08-08 | Re: REcent emails - "Shipment notification for order # 7062373875" | to=Caro Velosa <cvelosa@apple.com> | id=23724
+2007-08-08 | Re: New Certification | to=Evangeline Cometa <Evangeline.Cometa@csa-international. | id=16468
+2007-08-08 | Re: ACT program updates | to=Deborah Evans Peer <dpeer@apple.com> | id=23715
+2007-08-08 | Re: are you attending fall camp? | to=Deborah Evans Peer <dpeer@apple.com> | id=23719
+2007-08-08 | Re: ACT program updates | to=Deborah Evans Peer <dpeer@apple.com> | id=23714
+2007-08-08 | Re: FYI / Fwd: Ed's itinerary | to=Edwin Estrada <eestrada@apple.com> | id=23712
+2007-08-09 | Re: Status de Tercer Piso con Apple | to=Enrique A. Volckers Nin <enrique@tercerpisopr.com> | id=23692
+2007-08-09 | Re: capacitacion apple en mexico | to=Armando Ortega <aortega@apple.com> | id=15945
+2007-08-09 | Re: Consulta | to=Macglobal <mcglobal@movistar.net.ve> | id=15834
+2007-08-09 | Re: Intergracion de sistemas de almacenamiento | to=Tiago Ribeiro <tribeiro@apple.com> | id=10710
+2007-08-09 | Re: what number? | to=Deborah Evans Peer <dpeer@apple.com> | id=16042
+2007-08-09 | Re: Consulta Bootcamp | to=Richard Silva <risilva@belcorp.biz> | id=11965
+2007-08-09 | Re: aha -- saw your mm | to=trainer@apple.com | id=10681
+2007-08-09 | Re: Consulta Bootcamp | to=Richard Silva <risilva@belcorp.biz> | id=11968
+2007-08-10 | Re: IMAC | to=Edwin Estrada <eestrada@apple.com> | id=14707
+2007-08-10 | Re: Consulta Bootcamp | to=Richard Silva <risilva@belcorp.biz> | id=11969
+2007-08-10 | Re: Macbook en mano.besos.Sefe | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=14362
+2007-08-10 | Re: Pick up en Miami | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=23701
+2007-08-10 | Re: FYI - Executed AATC Agreement for Soluciones | to=Anne Renehan <arenehan@apple.com> | id=23670
+2007-08-10 | Re: Pick up en Miami | to=Caro Velosa <cvelosa@apple.com> | id=23702
+2007-08-10 | Re: Solo te llame para saber si tenes un status de los papeles de las nuevas Imac cuando estaran?abrazo y buenfindeseman | to=Jorge Seferian <jseferian@alfauno.com.ar> | id=14358
+2007-08-10 | Re: Status de Tercer Piso con Apple | to=Enrique Volckers <enrique@tercerpisopr.com> | id=23695
+2007-08-10 | Re: Payment Queries | to=Caro Velosa <cvelosa@apple.com> | id=23689
+2007-08-10 | Re: Necesito tu ayuda Jorge | to=Santiago Clotta <santiago.clotta@gmail.com> | id=11115
+2007-08-11 | Re: consulta.... | to=Susana <susanb@adinet.com.uy> | id=10856
+2007-08-13 | Re: Aja ! Mmmmmm..... | to=Diego Goldberg <diegold@fibertel.com.ar> | id=16867
+2007-08-13 | Re: Nuevas iMacs/nuevas macmini | to=Ana Clara Garcia <anaclara@maximsoft.com.ar> | id=23622
+2007-08-13 | Re: Consulta | to=Macglobal <mcglobal@movistar.net.ve> | id=13110
+2007-08-13 | Re: T3 Sept | to=Salvador Garza <segarza@comdig.net> | id=16434
+2007-08-13 | Re: revolucionario | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23679
+2007-08-13 | Re: Necesito tu ayuda Jorge | to=Santiago Clotta <santiago.clotta@gmail.com> | id=11116
+2007-08-13 | Re: Y esto ? | to=Diego Goldberg <diegold@fibertel.com.ar> | id=16455
+2007-08-15 | Re: otro metodo ? sinV1 | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23668
+2007-08-15 | Fwd: Monthly Con Calls | to=Edwin Estrada <eestrada@apple.com> | id=23513
+2007-08-15 | Otro metodo, sin Reader/Writer ni la limitación de la V1 | to=Tony Cuence <tony@cuence.com> | id=10683
+2007-08-15 | Nuevo Importador | to=Maria Gonzalez <gonza.ms@apple.com> | id=12916
+2007-08-16 | Re: A91 Argentina safety approval Form needs to be signed. | to=Gary Eldridge <geldridge@apple.com> | id=23508
+2007-08-16 | Fwd: Internal distribution list for AATC Program Update | to=Edwin Estrada <eestrada@apple.com> | id=14768
+2007-08-16 | Re: Retraso en la entrega de vouchers | to=rodrigo monje <rmonje@academiamac.cl> | id=13016
+2007-08-17 | Re: iMacs - Argentina -IRAM | to=Caro Velosa <cvelosa@apple.com> | id=23640
+2007-08-17 | Re: Nuevas iMacs/nuevas macmini | to=Ana Clara Garcia <anaclara@maximsoft.com.ar> | id=23624
+2007-08-17 | Fwd: Atraso en la entrega de voucher (delayed orders) | to=Edwin Estrada <eestrada@apple.com> | id=15530
+2007-08-17 | Re: Atraso en la entrega de voucher (delayed orders) | to=Juan Escobedo <escobedo@apple.com> | id=15526
+2007-08-17 | Re: Atraso en la entrega de voucher (delayed orders) | to=Karen Scott <scott2@apple.com> | id=15527
+2007-08-17 | Re: Atraso en la entrega de voucher (delayed orders) | to=Juan Escobedo <escobedo@apple.com> | id=15525
+2007-08-20 | Re: Certificado eléctrico | to=Santiago Clotta <santiago.clotta@gmail.com> | id=12906
+2007-08-20 | Re: Retraso en la entrega de vouchers | to=Manny Cernuda <manny@apple.com> | id=13015
+2007-08-21 | Fwd: your order 1010146 (enrique a. volckers nin) | to=Sharon Martin <shmartin@apple.com> | id=10978
+2007-08-21 | Fwd: Certificado eléctrico | to=Santiago Clotta <santiago.clotta@gmail.com> | id=12908
+2007-08-21 | Re: Certificado eléctrico | to=Maria Gonzalez <gonza.ms@apple.com> | id=12909
+2007-08-21 | Re: Vouchers para curso de certificacion Final Cut | to==?ISO-8859-1?Q?Jos=E9_Bodet?= <jbodet@academiamac.cl> | id=13477
+2007-08-21 | Re: Logs OD | to=Stefan Berbin <stefanberbin@cantv.net> | id=16453
+2007-08-21 | Re: SO? | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23634
+2007-08-22 | Re: Turbosim/AT&T? | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23627
+2007-08-22 | Wire Transfer Apple Account | to=Juan Escobedo <escobedo@apple.com> | id=13402
+2007-08-22 | Re: Need names/numbers of AATCs in your geos | to=Sharon Martin <shmartin@apple.com> | id=16181
+2007-08-22 | Re: Nuevo Importador - Tallard Argentina | to=Maria Gonzalez <gonza.ms@apple.com> | id=12919
+2007-08-22 | Re: APR Materials to Print and Bind for MacStation APR Training | to=Sandra Illanes <sillanes@apple.com> | id=16740
+2007-08-22 | Re: Teleconferencia | to=Manny Cernuda <manny@apple.com> | id=15907
+2007-08-22 | Re: Teleconferencia | to=Manny Cernuda <manny@apple.com> | id=15906
+2007-08-22 | Re: Otro mas.... | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23619
+2007-08-22 | Re: edu.mit | to=Macglobal <mcglobal@movistar.net.ve> | id=13108
+2007-08-22 | Re: AATC at TEC MILENIO (ITESM) | to=Jair De la Garza <jdelagarza@apple.com> | id=23608
+2007-08-22 | Re: OD Falla | to=mcglobal@movistar.net.ve | id=12794
+2007-08-22 | Re: Vouchers [UA:548955] | to=Caro Velosa <cvelosa@apple.com> | id=16149
+2007-08-22 | Fwd: Vouchers [UA:548955] | to=Marcelo Inoue <contato@ainterface.com.br> | id=16150
+2007-08-23 | Fwd: Vouchers Apple | to=Edwin Estrada <eestrada@apple.com> | id=15577
+2007-08-23 | Re: IRAM Certificates | to=Caro Velosa <cvelosa@apple.com> | id=14546
+2007-08-23 | Re: Certified Traning Center: IT | to=Manny Cernuda <manny@apple.com> | id=16090
+2007-08-23 | Re: IRAM Certificates | to=Caro Velosa <cvelosa@apple.com> | id=14547
+2007-08-23 | Re: pending action items | to=Sharon Martin <shmartin@apple.com> | id=10982
+2007-08-23 | Re: MA896LE/A - MBP 15/2.4/2X1GB/160-5400/256VRAM | to=Maria Gonzalez <gonza.ms@apple.com> | id=13289
+2007-08-23 | Re: Atraso en la entrega de voucher (delayed orders) | to=Karen Scott <scott2@apple.com> | id=15528
+2007-08-23 | Re: MA896LE/A - MBP 15/2.4/2X1GB/160-5400/256VRAM | to=Maria Gonzalez <gonza.ms@apple.com> | id=13282
+2007-08-23 | Re: MA896LE/A - MBP 15/2.4/2X1GB/160-5400/256VRAM | to=Leandro Moure <lm@qbase.com.ar> | id=13287
+2007-08-23 | Re: pending action items | to=Edwin Estrada <eestrada@apple.com> | id=10981
+2007-08-23 | Re: Vouchers [UA:548955] | to=Marcelo Inoue <maro@ainterface.com.br> | id=16153
+2007-08-23 | Re: pending action items | to=Sharon Martin <shmartin@apple.com> | id=10979
+2007-08-23 | Re: Vouchers Apple | to==?ISO-8859-1?Q?Andr=E9s_Singh?= <asingh@academiamac.cl> | id=15579
+2007-08-24 | Re: Presentación en el XVII Encuentro Internacional GX | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=20543
+2007-08-24 | Re: AATC at TEC MILENIO (ITESM) | to=Jair De la Garza <jdelagarza@apple.com> | id=23607
+2007-08-24 | Re: Info. Open Directory | to=mcglobal@movistar.net.ve | id=15602
+2007-08-24 | Fwd: Presentación en el XVII Encuentro Internacional GX | to=Edwin Estrada <eestrada@apple.com> | id=20535
+2007-08-24 | Re: Por si te sirve | to=Diego Goldberg <diegold@fibertel.com.ar> | id=20085
+2007-08-24 | Re: IRAM Certificates | to=Ana Clara Garcia <anaclara@maximsoft.com.ar> | id=23602
+2007-08-27 | Re: Presentación en el XVII Encuentro Internacional GX | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=20538
+2007-08-27 | Re: Presentación en el XVII... + llegaron bien? | to=Edwin Estrada <eestrada@apple.com> | id=20537
+2007-08-27 | Re: Certificacion para servidores | to=Diego Piedrabuena <diego@macland.com.ar> | id=23590
+2007-08-27 | Re: Tiene muuuuuchos problemas de identidad | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23584
+2007-08-27 | Fwd: Tiene muuuuuchos problemas de identidad | to=alac_bde_se@group.apple.com | id=23583
+2007-08-27 | Fwd: Need names/numbers of AATCs in your geos | to=Awilda Vazquez <avazquez@apple.com> | id=16180
+2007-08-28 | Re: ITESM AATC | to=Jair De la Garza <jdelagarza@apple.com> | id=19725
+2007-08-28 | Re: Presentación en el XVII Encuentro Internacional GX | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=20540
+2007-08-28 | Re: Need names/numbers of AATCs in your geos | to=AATC Program <trainingcenter@apple.com> | id=16183
+2007-08-28 | Re: Paso a paso.... | to=Diego Goldberg <diegold@fibertel.com.ar> | id=14551
+2007-08-29 | Viaje a Buenos Aires | to=Edwin Estrada <eestrada@apple.com> | id=23578
+2007-08-29 | Re: MA896LE/A - MBP 15/2.4/2X1GB/160-5400/256VRAM | to=Leandro Moure <lm@qbase.com.ar> | id=13284
+2007-08-29 | Re: Presentación en el XVII Encuentro Internacional GX | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=20546
+2007-08-29 | Re: Presentación en el XVII Encuentro Internacional GX | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=20541
+2007-08-30 | Re: Factura de agosto | to=Caro Velosa <cvelosa@apple.com> | id=23571
+2007-08-30 | Re: ASW account | to=ASW Brazil Support <asw.br@apple.com> | id=16591
+2007-08-31 | Factura de agosto | to=Caro Velosa <cvelosa@apple.com> | id=23561
+2007-08-31 | Re: Torre Mayor | to=alac_bde_se@group.apple.com | id=23559
+2007-09-03 | Re: si supieran..... | to=Diego Goldberg <diegold@fibertel.com.ar> | id=23548
+2007-09-03 | Re: Referencias GeneXus Rocha | to==?ISO-8859-1?Q?Gonzalo_Cui=F1as?= <gcuinas@artech.com.u | id=16363
+2007-09-03 | Re: Informacion | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=16673
+2007-09-04 | Re: # of students trained in ALAC | to=Sharon Martin <shmartin@apple.com> | id=10994
+2007-09-05 | Re: ...?... | to=Edwin Estrada <eestrada@apple.com> | id=15958
+2007-09-05 | Re: certificación nuevas iMac  | to=Caro Velosa <cvelosa@apple.com> | id=23531
+2007-09-06 | Fwd: Callcentric - New voice mail received [ACCT: 17772243249] | to="Alejandro(IC) Perez" <alejandro.perez@apple.com> | id=23524
+2007-09-06 | Re: FYI - Fwd: New iMac Electrical certificates | to=Edwin Estrada <eestrada@apple.com> | id=23521
+2007-09-08 | Re: La sed del iphone saciada | to=Nicolas Goldberg <nicolasgoldberg@fibertel.com.ar> | id=12454
+2007-09-10 | Re: New IRAM Certifications - email 1 (A1204) | to=Caro Velosa <cvelosa@apple.com> | id=23491
+2007-09-10 | Re: New IRAM Certifications - email 1 (A1204) | to=Caro Velosa <cvelosa@apple.com> | id=23492
+2007-09-10 | Re: La sed del iphone saciada | to=Nicolas Goldberg <nicolasgoldberg@fibertel.com.ar> | id=12451
+2007-09-10 | Re: La sed del iphone saciada | to=Nicolas Goldberg <nicolasgoldberg@gmail.com> | id=12457
+2007-09-10 | Re: La sed del iphone saciada | to=Nicolas Goldberg <nicolasgoldberg@gmail.com> | id=12453
+2007-09-10 | Re: New IRAM Certifications - email 1 (A1204) | to=Caro Velosa <cvelosa@apple.com> | id=23493
+2007-09-10 | Re: Apple & Final Touch | to="A. Javier Leal" <ajavierleal@infosel.net.mx> | id=23369
+2007-09-11 | Re: La sed del iphone saciada | to=Nicolas Goldberg <nicolasgoldberg@fibertel.com.ar> | id=12450
+2007-09-12 | Re: Referencias GeneXus Rocha | to==?ISO-8859-1?Q?Gonzalo_Cui=F1as?= <gcuinas@artech.com.u | id=16364
+2007-09-13 | Re: Un pedido... | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=23467
+2007-09-13 | Re: train the trainer IT | to==?ISO-8859-1?Q?Robinson_Nu=F1ez?= <robintosh@mac.com> | id=11951
+2007-09-13 | Re: RV: Invitación a Desayuno-Conferencia - Certificación de productos - Argentina y Brasil | to=hruiz@nccrc.com.ar | id=14654
+2007-09-14 | Re: RV: Invitación a Desayuno-Conferencia - Certificación de productos - Argentina y Brasil | to=hruiz@nccrc.com.ar | id=14653
+2007-09-14 | Re: Apple Security information | to=Caro Velosa <cvelosa@apple.com> | id=23450
+2007-09-18 | Re: ACT Conference Call Today | to=Edwin Estrada <eestrada@apple.com> | id=10697
+2007-09-18 | Re: ACT Conference Call Today | to=Tiago Ribeiro <tribeiro@apple.com> | id=10695
+2007-09-18 | Re: ACT Conference Call Today | to=Tiago Ribeiro <tribeiro@apple.com> | id=10696
+2007-09-20 | Re: Leopard Training Materials for AATCs | to=Edwin Estrada <eestrada@apple.com> | id=23438
+2007-09-21 | Re: Hello | to=Edwin Estrada <eestrada@apple.com> | id=23433
+2007-09-21 | Re: extraño | to=Nicolas Goldberg <nicolasgoldberg@fibertel.com.ar> | id=15393
+2007-09-21 | Fwd: Interested in becoming an authorized training center | to=Manny Cernuda <manny@apple.com> | id=13010
+2007-09-21 | Re: Filmacion I-Phone | to=Gisela Bertelli <gbertelli@artech.com.uy> | id=23430
+2007-09-24 | Re: Interested in becoming an authorized training center | to=Manny Cernuda <manny@apple.com> | id=13011
+2007-09-25 | Re: Factura de servicios de septiembre | to=Caro Velosa <cvelosa@apple.com> | id=23417
+2007-09-25 | Re: AATC for Education ITESM | to=Jair De la Garza <jdelagarza@apple.com> | id=23414
+2007-09-25 | Re: Necesito urgente hablar con vos | to=Carlos Frei <cfrei@quintec.cl> | id=23412
+2007-09-25 | Re: Halogen Free Power Cords | to=Gary Eldridge <geldridge@apple.com> | id=23410
+2007-09-27 | Re: Winona/Maxwell now supports Wire Transfer as payment option | to=Henry S. Kim <hsk@apple.com> | id=13398
+2007-09-27 | Fwd: conflicto con obra musical de Apple | to=Edwin Estrada <eestrada@apple.com> | id=23389
+2007-09-27 | Re: Será cierto ? | to="Fossati, Enrique ((Montevideo))" <Enrique_Fossati@ml.c | id=16054
+2007-09-27 | Re: conflicto con obra musical de Apple | to=Edwin Estrada <eestrada@apple.com> | id=23391
+2007-09-27 | Re: conflicto con obra musical de Apple | to=Gaby Myndlis <gaby@quomusica.com> | id=23387
+2007-09-27 | Re: conflicto con obra musical de Apple | to=Gaby Myndlis <gaby@quomusica.com> | id=23388
+2007-09-27 | Fwd: conflicto con obra musical de Apple | to=Valeria Cole <valeria@apple.com>, Jacqueline Famulak <f | id=23392
+2007-09-27 | Fwd: Cambios en la metodología de Compra de Vouchers | to=Edwin Estrada <eestrada@apple.com> | id=23402
+2007-09-28 | Re: conflicto con obra musical de Apple | to=Gaby Myndlis <gaby@quomusica.com> | id=23385
+2007-09-28 | Fwd: Cursos Apple | to=Ariel Horacio Folonier <arielote@mac.com> | id=14635
+2007-09-28 | Re: Entrenamiento Apple | to=Ariel Horacio Folonier <foloniera@arnet.com.ar> | id=23376
+2007-09-28 | Re: conflicto con obra musical de Apple | to=Jacqueline Famulak <famulak1@apple.com> | id=23384
+2007-09-28 | Cuenta sagasti@apple.com | to=Edwin Estrada <eestrada@apple.com> | id=23382
+2007-09-28 | Fábricas de fuentes | to=Edwin Estrada <eestrada@apple.com> | id=23381
+2007-10-01 | Re: y buenooo.... | to=Diego Goldberg <diegold@fibertel.com.ar> | id=16795
+2007-10-01 | Leopard | to=Walter Soto <WSoto@MundoMac.com> | id=15532
+2007-10-01 | Re: Leopard | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=15539
+2007-10-01 | Re: Entrenamiento Apple | to=Ariel Horacio Folonier <foloniera@arnet.com.ar> | id=23374
+2007-10-01 | Fwd: Apple & Final Touch | to=Edwin Estrada <eestrada@apple.com> | id=23370
+2007-10-01 | Fwd: Certificados a revisar | to=Caro Velosa <cvelosa@apple.com> | id=23368
+2007-10-01 | Re: Leopard | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=15534
+2007-10-01 | Re: Leopard | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=15537
+2007-10-02 | Fwd: Winona/Maxwell now supports Wire Transfer as payment option | to=Manny Cernuda <manny@apple.com> | id=13397
+2007-10-04 | Re: Winona/Maxwell now supports Wire Transfer as payment option | to=Henry S. Kim <hsk@apple.com> | id=13395
+2007-10-05 | Re: Winona/Maxwell now supports Wire Transfer as payment option | to=Henry S. Kim <hsk@apple.com> | id=13396
+2007-10-05 | Fwd: Winona/Maxwell now supports Wire Transfer as payment option | to=Juan Escobedo <escobedo@apple.com>, Sharon Martin <shma | id=13399
+2007-10-05 | Re: Leopard | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=15533
+2007-10-05 | Re: Leopard | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=15540
+2007-10-05 | Re: Leopard | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=15536
+2007-10-05 | Re: RV: Apple Ipod Touch pics | to=hruiz@nccrc.com.ar | id=23352
+2007-10-05 | Re: RV: Apple Ipod Touch pics | to=hruiz@nccrc.com.ar | id=23351
+2007-10-08 | Re: Felicú! | to=Miguel Parraud Cordeyro <miguel@parraud.com.ar> | id=12719
+2007-10-08 | Re: Pregunta | to=Rodrigo Stamato <rstamato@macstation.com.ar> | id=11861
+2007-10-09 | Fwd: Certification Vouchers' issue | to=Manny Cernuda <manny@apple.com> | id=13012
+2007-10-09 | Fwd: Certification Vouchers' issue | to=Manny Cernuda <manny@apple.com> | id=13013
+2007-10-09 | Re: Leopard Training Materials for AATCs | to=Tiago Ribeiro <tribeiro@apple.com> | id=10737
+2007-10-09 | Re: Apple Consultants Network | to=Edwin Estrada <eestrada@apple.com> | id=23346
+2007-10-10 | Re: Application AATCe | to=Jair De la Garza <jdelagarza@apple.com> | id=23341
+2007-10-10 | Fwd: New IRAM Certifications - email 1 (A1204) | to=Edwin Estrada <eestrada@apple.com> | id=19988
+2007-10-16 | Re: Maxwell codes for new Soundtrack Pro 2 exam | to=Edwin Estrada <eestrada@apple.com> | id=23333
+2007-10-16 | Re: Felicú! | to=Miguel Parraud Cordeyro <miguel@parraud.com.ar> | id=12720
+2007-10-16 | Re: Novedad? | to=Gaby Myndlis <gaby@quomusica.com> | id=23326
+2007-10-16 | Fwd: Apple Store Shipment Notification  W31960555 | to=Walter Soto <WSoto@MundoMac.com> | id=10365
+2007-10-17 | Fwd: Apple Store Shipment Notification  W31960555 | to=Walter Soto <WSoto@MundoMac.com> | id=10364
+2007-10-17 | Fwd: Apple Store Shipment Notification  W31960555 | to=Walter Soto <WSoto@MundoMac.com> | id=10363
+2007-10-17 | Fwd: Apple Store Shipment Notification  W31960555 | to=Walter Soto <WSoto@MundoMac.com> | id=10361
+2007-10-17 | Re: Conocés esto? | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12969
+2007-10-18 | Re: Apple Sales access has been approved! | to=AATC Program <trainingcenter@apple.com> | id=23323
+2007-10-18 | Re: Sorteo de iPod | to=Diego DAlessio <diego@dyw.com.ar> | id=23319
+2007-10-18 | Fwd: Apple Sales access has been approved! | to=Sharon Martin <shmartin@apple.com> | id=10724
+2007-10-18 | Re: Conocés esto? | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12970
+2007-10-18 | Re: Conocés esto? | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12971
+2007-10-18 | Re: Apple Sales access has been approved! | to=Tiago Ribeiro <tribeiro@apple.com> | id=10725
+2007-10-19 | Re: Ottomatic | to=Marcelo <mpbianco@cmbconsultores.com.ar> | id=12979
+2007-10-19 | Fwd: Apple Store Shipment Notification  W31960555 | to=Walter Soto <WSoto@MundoMac.com> | id=10360
+2007-10-19 | Fwd: Apple Store Order Acknowledgment W31960555 | to=Walter Soto <WSoto@MundoMac.com> | id=10344
+2007-10-19 | Re: Apple Store Order Acknowledgment W31960555 | to=Walter Soto Mundo Mac <wsoto@mundomac.com> | id=10345
+
+## CONTRACT-ish subjects
+2003-04-15 | consulting+agreement+edwin_agreement+edwin_consulting | FW: Sagasti consulting agreement | from=Edwin Estrada <eestrada@apple.com> | id=19212
+2003-06-05 | Merlin | FW: Jorge Sagasti entered on Merlin | from=Edwin Estrada <eestrada@apple.com> | id=27912
+2003-06-16 | ITIN | FYI - Air travel itineraries for F&Cs team | from=Edwin Estrada <eestrada@apple.com> | id=20324
+2003-06-16 | ITIN | Re: FYI - Air travel itineraries for F&Cs team | from=Edwin Estrada <eestrada@apple.com> | id=19270
+2003-07-01 | ITIN | FW: ITIN Number received | from=Luli Antelo <lantelo@apple.com> | id=12469
+2003-08-04 | contractor | FW: Contractor Email Password Reset - Ticket# 1912470 | from=Edwin Estrada <eestrada@apple.com> | id=19158
+2004-05-13 | to_me_macaldia | Re: Cuenta en Macaldia | from=Leo Satragno <leosatragno@fibertel.com.ar> | id=27547
+2004-12-14 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: PR 90142156 / PO 471523772  --  MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=14425
+2004-12-16 | last_day | Fwd: Tomorrow last day free registration | from=Caro Velosa <cvelosa@apple.com> | id=14406
+2004-12-23 | Macaldia+to_me_macaldia+edwin_macaldia | Re: PR 90142156 / PO 471523772  --  MACALDIA S.R.L. (modified) | from=Edwin Estrada <eestrada@apple.com> | id=19227
+2005-03-15 | agreement+edwin_agreement | Fwd: Agreement for import of goods - Argentina - Certification of compliance with standards | from=Edwin Estrada <eestrada@apple.com> | id=27123
+2005-03-15 | agreement+edwin_agreement | Fwd: Agreement for import of goods - Argentina - Certification of compliance with standards | from=Edwin Estrada <eestrada@apple.com> | id=27125
+2005-03-16 | agreement+edwin_agreement | Re: Agreement for import of goods - Argentina - Certification of compliance with standards | from=Edwin Estrada <eestrada@apple.com> | id=27124
+2005-03-30 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: MACALDIA PR 90159027 | from=Caro Velosa <cvelosa@apple.com> | id=12736
+2005-03-30 | Macaldia+caro_macaldia | Re: MACALDIA PR 90159027 | from=Caro Velosa <cvelosa@apple.com> | id=12737
+2005-08-22 | Macaldia+bonus+caro_macaldia+to_me_macaldia | Macaldia Bonus Payments | from=Caro Velosa <cvelosa@apple.com> | id=14333
+2005-08-22 | Macaldia+bonus+caro_macaldia | Re: Macaldia Bonus | from=Caro Velosa <cvelosa@apple.com> | id=12738
+2005-10-11 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: MACALDIA WIRE INFORMATION | from=Caro Velosa <cvelosa@apple.com> | id=14321
+2005-10-12 | Macaldia+caro_macaldia | MACALDIA WIRE INFORMATION | from=Caro Velosa <cvelosa@apple.com> | id=13270
+2005-10-13 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: Macaldia SRL: Document Collection - Apple | from=Caro Velosa <cvelosa@apple.com> | id=14319
+2005-10-19 | Macaldia+caro_macaldia | Re: MACALDIA WIRE INFORMATION | from=Caro Velosa <cvelosa@apple.com> | id=13271
+2005-10-20 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: MACALDIA WIRE INFORMATION | from=Caro Velosa <cvelosa@apple.com> | id=14328
+2005-10-25 | Macaldia+caro_macaldia+to_me_macaldia | Re: MACALDIA WIRE INFORMATION | from=Caro Velosa <cvelosa@apple.com> | id=26696
+2005-11-21 | agreement | Apple Announces Long-Term Supply Agreements for Flash Memory | from=Fernando del Granado <delgranado@apple.com> | id=26652
+2005-11-27 | agreement | Re: Authorized Apple Training Center Agreement Documents for your review | from=Jessica Steigerwald <jessicas@apple.com> | id=10896
+2006-01-30 | agreement | Re: ATC Agreement | from=Jessica Steigerwald <jessicas@apple.com> | id=26473
+2006-04-03 | ITIN | Exciting News for ProApps Training Programs | from=Apple Pro Training <proinfo@apple.com> | id=15611
+2006-04-04 | ITIN | Re: Exciting News for ProApps Training Programs | from=Edwin Estrada <eestrada@apple.com> | id=15612
+2006-04-13 | agreement | Fwd: MS Campus agreement Boot Camp response | from=Tiago Ribeiro <tribeiro@apple.com> | id=2223
+2006-04-26 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@APPLE.COM> | id=13665
+2006-05-15 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13667
+2006-06-13 | Macaldia+caro_macaldia | PO473257191 - MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=25884
+2006-06-15 | caro_consult | Re: Rm: Fw: Consulta Adapter A1102 SAMSUNG ( Apple Macintosh) | from=Caro Velosa <cvelosa@apple.com> | id=25806
+2006-06-27 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: PR 90220489/PO 473287726 --- MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=14318
+2006-06-28 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13668
+2006-07-07 | agreement+loan+edwin_agreement | RE: MacBook Pro Loan Agreement | from=Edwin Estrada <eestrada@apple.com> | id=25713
+2006-07-07 | agreement+loan | MacBook Pro Loan Agreement | from=Caro Velosa <cvelosa@apple.com> | id=25710
+2006-07-07 | ITIN | Air itinerary | from=Bill Ford <billford@apple.com> | id=25761
+2006-07-07 | agreement+loan | Re: MacBook Pro Loan Agreement | from=Caro Velosa <cvelosa@apple.com> | id=25716
+2006-07-07 | agreement+loan | Re: MacBook Pro Loan Agreement | from=Jorge Sagasti <sagasti@apple.com> | id=25711
+2006-07-07 | agreement+loan | Re: MacBook Pro Loan Agreement | from=Jorge Sagasti <sagasti@apple.com> | id=25717
+2006-07-07 | ITIN | Re: Air itinerary | from=Jorge Sagasti <sagasti@apple.com> | id=25762
+2006-07-10 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13670
+2006-07-11 | agreement+loan | Re: MacBook Pro Loan Agreement | from=Caro Velosa <cvelosa@apple.com> | id=25712
+2006-07-11 | agreement+loan | Re: MacBook Pro Loan Agreement | from=Jorge Sagasti <sagasti@apple.com> | id=25715
+2006-07-11 | agreement+loan | Re: MacBook Pro Loan Agreement | from=Jorge Sagasti <sagasti@apple.com> | id=25714
+2006-07-21 | agreement | Fwd: Authorized Apple Training Center Agreement Documents for your review | from=AATC Program <trainingcenter@apple.com> | id=16648
+2006-08-04 | agreement | Re: Authorized Apple Training Center Agreement Documents for your review | from=Stephen Glaros <sglaros@apple.com> | id=24869
+2006-08-11 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Scott Dale" <sdale@apple.com> | id=13613
+2006-08-14 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Scott Dale" <sdale@apple.com> | id=13616
+2006-09-11 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Scott Dale" <sdale@apple.com> | id=13615
+2006-10-13 | consulting+caro_consult | FY07 Consulting Services | from=Caro Velosa <cvelosa@apple.com> | id=25030
+2006-10-13 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13669
+2006-10-17 | consulting+caro_consult | Re: FY07 Consulting Services | from=Caro Velosa <cvelosa@apple.com> | id=25031
+2006-10-19 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: PR 90241457 has been processed as PO 473529530 -- MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=14320
+2006-10-25 | ITIN | Editing TimeZones | from=Fabio Ribeiro <fribeiro@apple.com> | id=24940
+2006-11-07 | ITIN | Re: Editing TimeZones | from=Fabio Ribeiro <fribeiro@apple.com> | id=24941
+2006-11-10 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Scott Dale" <sdale@apple.com> | id=13614
+2006-11-16 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13666
+2006-12-01 | agreement | Fwd: Authorized Apple Training Center Agreement Documents for your review | from=Jorge Sagasti <sagasti@apple.com> | id=24870
+2006-12-07 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13671
+2006-12-19 | last_day | Reminder: last day for Final Cut Studio crossgrade | from=Tiago Ribeiro <tribeiro@apple.com> | id=2148
+2006-12-19 | last_day | Re: Reminder: last day for Final Cut Studio crossgrade | from=Fabio Costa <fcosta@apple.com> | id=24774
+2006-12-22 | last_day | Re: Reminder: last day for Final Cut Studio crossgrade | from=Luli Antelo <lantelo@apple.com> | id=24775
+2006-12-29 | Macaldia | Payment Advice-  MACALDIA S.R.L. | from="Paige DeBoer" <deboer@apple.com> | id=13672
+2007-01-09 | agreement | Attached: Authorized Apple Training Center Agreement | from=Stephen Glaros <sglaros@apple.com> | id=24711
+2007-02-08 | Macaldia+caro_macaldia+to_me_macaldia | Fwd: PR 90258417 has been processed as PO 474031514 - MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=14343
+2007-02-13 | last_day | Valentine's Day blast | from=Fabio Costa <fcosta@apple.com> | id=24543
+2007-02-19 | agreement | Attached: Executed Training Center Agreement | from=Stephen Glaros <sglaros@apple.com> | id=24523
+2007-02-22 | agreement | Joint Statement 2/21/07 Cisco and Apple Reach Agreement on iPhone Trademark | from=Christina Caballero <ccaballero@apple.com> | id=24492
+2007-03-09 | Macaldia+agreement+caro_macaldia+to_me_macaldia+contractor | Macaldia's Ind Contractor Agreement - 2nd Part FY07 | from=Caro Velosa <cvelosa@apple.com> | id=24418
+2007-05-03 | agreement+edwin_agreement | Fwd: Updated Authorized Training Center Agreement | from=Edwin Estrada <eestrada@apple.com> | id=19727
+2007-05-03 | agreement+edwin_agreement | Re: Updated Authorized Training Center Agreement | from=Edwin Estrada <eestrada@apple.com> | id=19729
+2007-05-07 | agreement+edwin_agreement | Re: Updated Authorized Training Center Agreement | from=Edwin Estrada <eestrada@apple.com> | id=19730
+2007-05-17 | ITIN | FYI - Fwd: WWDC 2007: Inviting one customer | from=Edwin Estrada <eestrada@apple.com> | id=24164
+2007-05-17 | agreement+edwin_agreement | Re: Updated Authorized Training Center Agreement | from=Edwin Estrada <eestrada@apple.com> | id=19728
+2007-05-22 | agreement+edwin_agreement | Re: Updated Authorized Training Center Agreement | from=Edwin Estrada <eestrada@apple.com> | id=19731
+2007-05-23 | agreement+edwin_agreement | Re: Updated Authorized Training Center Agreement | from=Edwin Estrada <eestrada@apple.com> | id=19732
+2007-07-01 | Macaldia+edwin_macaldia | Fwd: P09 invoices for MacalDia | from=Edwin Estrada <eestrada@apple.com> | id=23928
+2007-07-02 | Macaldia+edwin_macaldia | Re: P09 invoices for MacalDia | from=Edwin Estrada <eestrada@apple.com> | id=23929
+2007-07-02 | Macaldia+edwin_macaldia | Fwd: P09 invoices for MacalDia | from=Edwin Estrada <eestrada@apple.com> | id=23930
+2007-08-08 | ITIN | FYI / Fwd: Ed's itinerary | from=Edwin Estrada <eestrada@apple.com> | id=23711
+2007-08-08 | ITIN | Re: FYI / Fwd: Ed's itinerary | from=Jorge Sagasti <sagasti@apple.com> | id=23712
+2007-08-09 | agreement | Fwd: FYI - Executed AATC Agreement for Soluciones | from=Sharon Martin <shmartin@apple.com> | id=2015
+2007-08-10 | agreement | Re: FYI - Executed AATC Agreement for Soluciones | from=Anne Renehan <arenehan@apple.com> | id=23669
+2007-08-10 | agreement | Re: FYI - Executed AATC Agreement for Soluciones | from=Sharon Martin <shmartin@apple.com> | id=2014
+2007-08-10 | agreement | Re: FYI - Executed AATC Agreement for Soluciones | from=Jorge Sagasti <sagasti@apple.com> | id=23670
+2007-08-13 | agreement | Re: FYI - Executed AATC Agreement for Soluciones | from=Sharon Martin <shmartin@apple.com> | id=2013
+2007-08-14 | agreement | Re: FYI - Executed AATC Agreement for Soluciones | from=Caro Velosa <cvelosa@apple.com> | id=23671
+2008-02-14 | Macaldia+edwin_macaldia | Re: Macaldia SRL: Updated Company Information Needed | from=Edwin Estrada <eestrada@apple.com> | id=22957
+2008-02-21 | Macaldia+edwin_macaldia | Fwd: PR 90316544 has been processed into PO 475311983 - MACALDIA S.R.L. | from=Edwin Estrada <eestrada@apple.com> | id=22943
+2008-02-26 | Macaldia+caro_macaldia | Fwd: PR 90316544 / PO 475311983 - MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=22933
+2008-02-26 | Macaldia+caro_macaldia | Re: PR 90316544 / PO 475311983 - MACALDIA S.R.L. | from=Caro Velosa <cvelosa@apple.com> | id=22934

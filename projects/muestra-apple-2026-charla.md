@@ -5,7 +5,7 @@ updated: "2026-07-13"
 type: "project"
 tags: ["#apple", "#charla", "#mundomac", "#macaldia", "#totalneo", "#bahia-blanca", "#radar-media", "#alac"]
 related: [[mundomac-website]], [[fernando-palermo]], [[walter-soto]], [[jorge-sagasti]]
-sources: ["gog gmail/drive jorge@sagasti.com", "web 2026-07-13", "wiki-personal", "system_profiler", "smalltalks2025.fast.org.ar"]
+sources: ["gog gmail/drive jorge@sagasti.com", "icloud IMAP sagasti@mac.com phase A/B 2026-07-13", "web 2026-07-13", "wiki-personal", "system_profiler", "smalltalks2025.fast.org.ar"]
 confidence: high
 ---
 
@@ -123,7 +123,47 @@ Edwin → recap Q2: Macworld SF, ASTO/Accelerate, VARs, ACN, reseller trainings,
 - Tiago te lista como contact técnico regional junto a él y Fabio (dic 2004, telecom/streaming BR).
 - Leopard training materials / exams AATC (oct 2007): discusión con Tiago+Ed sobre **no traducir exams si no se traduce el material**.
 
-**Siguiente pasito (cuando toque):** Phase B — contratos/Macaldia + 2006 outbox subjects; o bajar el AATC list completo + Soluciones contract attachment si está en mail.
+## Fase B — Outbox + contratos / Macaldia (2026-07-13)
+
+**Método:** SUBJECT/header first + allowlist BODY (32 mails). Assets:
+- `muestra-apple-2026-assets/phase_b_outbox_contracts_subjects.txt` (611 outbox + 93 contract-ish)
+- `muestra-apple-2026-assets/phase_b_sample_bodies.txt` (**password de ayuda IS&T redactado** en dump)
+
+### Outbox `FROM sagasti@apple.com`
+| Métrica | Valor |
+|---------|--------|
+| Total headers | **611** |
+| Años en corpus | **solo 2006 (243) + 2007 (368)** — no hay outbox pre-2006 en este FROM |
+| Últimos mails con firma SE | **~18–19 oct 2007** (Sales access / Leopard AATC / ACN / envíos a MundoMac) |
+| Sniff subjects (top) | certif **53**, **IRAM 38**, curso/training **26**, **AATC 17**, contract **15**, MacBook/loan, Leopard, Xsan/Xserve, Soluciones, ITESM |
+
+**Arco visible en la voz propia (2006–07):** no es un SE que “solo parte tickets” — es el que:
+1. **Tramita IRAM** con CSA / importadores / Caro / Edwin / Mercedes Coghlan (Macanas) — puente regulatorio AR ya dentro del rol ALAC.
+2. **Opera el programa AATC** (Soluciones MAC / Alfauno AR; Academia Mac CL; NASH MX; EXA; listado ASW que él mismo manda).
+3. Responde canal (**Apple Consultants Network**, approval Sales access, material Leopard + exámenes no traducir a ciegas).
+4. Firma casi siempre: *Senior System Engineer · Apple Certified System Administrator / Mentor · Apple Latin America/Caribbean* (+ tel BUE / PDE / USA).
+
+### Contratos / IC (muestra de cuerpos)
+| Fecha | Hecho (mail) | Uso charla |
+|-------|--------------|------------|
+| **5 jun 2003** | HR Bethany: Jorge en **Merlin** como **independent contractor**, contract **C419643**; Bruno pide cuentas Apple al sistema | IC en HR, no empleado W-2 |
+| **1 jul 2003** | Luli: **ITIN** recibido “for Macaldia (Jorge Sagasti)” / W-8 (número **solo en mail raw**, no citar en slides) | IC + vendor fiscal US vía Macaldia |
+| **4 ago 2003** | IS&T a Edwin: reset mail **because Jorge is a contractor** (no SSN); account `sagasti@apple.com` | Apple trata el ID como contractor |
+| **22 ago 2005** | Caro → **“Jorge(IC) Sagasti”**: **Macaldia Bonus Payments** + worksheet *FY05 Bonus Schedule Macaldia* (Michael Hawes) | IC con variable |
+| **oct 2005** | Pro/Procurement: **Macaldia SRL Document Collection** + wire info foreign vendor | Vendor formal en pipeline Apple |
+| **jul 2006** | **MacBook Pro Loan Agreement** (Caro) + Edwin explica inventory control Cupertino; Jorge firma como SE/Mentor | Loan device + cargo formal |
+| **13–19 oct 2006** | Caro: **FY07 Consulting Services** 1/10/06–31/3/07; Jorge confirma firma desde **Uruguay (feriado)**; **PO 473529530 / US$ 40.000** servicios | Renovación IC documentada |
+| **8 feb 2007** | Caro: **PO 474031514** servicios **1 abr–29 sep 2007** | 2º semestre FY07 |
+| **9 mar 2007** | Caro: **“Macaldia's Ind Contractor Agreement - 2nd Part FY07”** (firmado Macaldia + Apple; original a Canada) | Label **Ind Contractor** explícito |
+| **jul–ago 2007** | AATC **Soluciones (Macstore Alfauno AR)** executed; Jorge arma setup ASW/Clockwork/Maxwell; manda roster AATC ALAC | Rol “junior de proceso” AATC (ya en Fase A) |
+| **~oct 2007** | Última actividad outbound SE (Sales access, Leopard materials AATC, ACN) | Cierre operativo `@apple` |
+| **feb 2008** | Aún hay hilos **Macaldia PO / company info** con **Edwin** (post-salida formal del mail SE) | Continuidad vendor/papelería, no prueba de email SE activo |
+
+**Charla Personal/Laboral (3 jul 2006):** mail corto de Jorge a Edwin pidiendo “charla personal/laboral” no urgente — **solo subject + una línea**; no hay del cuerpo un “exit letter”. No inventar motivos.
+
+**Gap que sigue:** adjuntos PDF de Merlin / Ind Contractor 2nd Part / Soluciones AATC **no descargados aún** (subjects sí). Outbox no cubre 1999–2005 (voz propia pre-2006 hay que buscar otros FROM o cuentas).
+
+**Siguiente pasito:** (1) web histórica Brave de a poco · (2) opcional FETCH adjuntos gold · (3) form Akerman solo si Jorge lo pide.
 
 ## Cómo minar mails `@apple.com` (playbook)
 
@@ -266,7 +306,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 |------|----------------|-----------------|
 | **The Mac House / MacHouse** | Cursos + software + soporte diseño gráfico; **Córdoba 466 1º**; con **Gabriel Sobek** (cofundador; LinkedIn: Trainings/Software/Support) y Compuware | Confirmado Jorge + About Sobek + web 1998 + ExpoMac. Equipo: Duarte (coord.), Turró (profesora). Ver [[compuware-mac-house]], [[gabriel-sobek]]. |
 | **GetInfo / Macanas** | User group Apple/Mac en **BA** (fines 80 / principios 90). Jorge **fundador** (con gente clave **Luis Alejandro Masanti**). Newsletter impreso: **Macanas** (no “Get Info” — ese era el grupo). | Confirmado Jorge 2026-07-13. Buscar material físico Macanas; mail Ping a Masanti (thread 19f5bc1e3eeecac6). |
-| **Apple empleo / IC** | Título y fechas | **Contractor** todo el arco (Jorge 2026-07-13). Firma mail 2004–06: *Senior System Engineer · ACSA / Mentor · Apple Latin America/Caribbean*. Abr 2004: lista **ALAC F&CS** (BA). Ago 2003 + mar 2007: IS&T y Velosa documentan **contractor/IC** (Macaldia). Salida `@apple.com` ~oct–nov 2007. Prensa 1998: gerente Ventas sur LATAM. |
+| **Apple empleo / IC** | Título y fechas | **Contractor** todo el arco (Jorge 2026-07-13 + mails). **Merlin 5/6/2003** C419643 *independent contractor*; IS&T ago 2003 “Jorge is a contractor”; Caro saluda **Jorge(IC)** 2005; **Ind Contractor Agreement 2nd Part FY07** mar 2007; POs Macaldia **US$40k** oct06–sep07. Firma outbox 2006–**~18 oct 2007**: *Senior System Engineer · ACSA/Mentor · ALAC*. Outbox FROM no arranca antes de **2006**. Prensa 1998: gerente Ventas sur LATAM. |
 | **1986 primera app Mac USA** | **MultiClip** con José Maestro / Olduvai | **Corregido a ~1989** (review Bobker + MR). Bio Smalltalks dice 1986 — desactualizada. Ver [[multiclip-1986]]. |
 | **Macaldia + sede Apple BA “el Rulero”** | Cuando Apple se instaló en BA en un edificio que llamaban **“el Rulero”**, en **Carlos Pellegrini**, Macaldia les dio **servicio**. | Confirmado Jorge 2026-07-13. Mails 2007: **Carlos Pellegrini 1135, 1º piso (C1009)**. Edificio Prourban = “el Rulero” (Libertador/Pellegrini). |
 | **Photos (GPS/lugar) — barrido 2026-07-13** | Evidencia visual de viajes LATAM | **Límite:** GPS/lugar ~**2008+**; sin fotos de ExpoMac/Road Tour 98. **PDE** ~10k (pico 2009–12); ~11 cerca **Galería Sagasti**; 404 store/computer labels. **Miami/FL** 2011–12 (turismo + auditorium/stage sin confirmación Apple). **PR** sep 2012. **Brasil** 2008/2010/2023 (no SP 98). **Chile** 2016. **México** Tulum 2015. **Colombia** 2025. **Cupertino** 2020. Sin caras Sobek/Masanti nombradas. |
