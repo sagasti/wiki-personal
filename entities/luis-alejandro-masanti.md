@@ -15,6 +15,8 @@ Persona clave de **GetInfo**, user group de usuarios Apple/Mac en **Buenos Aires
 
 Según Jorge (2026-07-13), Luis Alejandro Masanti fue uno de los otros fundadores / gente clave del grupo junto a [[jorge-sagasti]].
 
+**Newsletter:** con Jorge hacían **Macanas** (impreso; nombre confirmado Jorge 2026-07-13 — *no* se llamaba Get Info; GetInfo era el user group).
+
 ## Contactos (mail histórico)
 
 - `lmasanti@lam.com.ar` — usado 2013–2021 (cumples, links Mac, AppleInsider)

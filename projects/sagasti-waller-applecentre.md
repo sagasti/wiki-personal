@@ -15,8 +15,10 @@ sources: ["Telegram Jorge 2026-07-13", "LinkedIn Paul Waller", "RocketReach"]
 Según Jorge (2026-07-13): el **primer AppleCentre de Latinoamérica**, en sociedad con **[[paul-waller|Paul Waller]]**.
 
 - **Nombre:** Sagasti & Waller  
-- **Ubicación:** **Av. Santa Fe entre Suipacha y Esmeralda**, CABA — candidato fuerte: **Santa Fe 931** (Jorge 2026-07-13, a confirmar)  
-- **Época (inferida de Waller + “primer”):** ~**1990–1992** (Waller LinkedIn: Apple Argentina 1990–nov 1992; webpicking: rep Apple AR/UY 1986–1993)
+- **Época:** LinkedIn Paul Waller (snippet público): **Presidente Sagasti Waller S.A. (Apple Centre) mar 1986 – dic 1990** (4 años 10 meses). Mismo LI: Apple Argentina **ene 1990 – nov 1992, Presidente**. webpicking: rep Apple AR/UY **~1986–1993**.
+- **Salida de Jorge (Jorge 2026-07-13):** se fue de **Sagasti Waller / Apple Centre mientras Paul todavía era presidente** de la sociedad. **No recuerda el año/mes exacto** — a verificar (ventana plausible según LI Waller: presidencia SW **mar 1986–dic 1990**; si “presidente” = Apple Argentina, solapa **ene 1990–nov 1992**).
+- **Razón social en LI de Waller:** **Sagasti Waller S.A.** (no solo “&”).
+- **Ubicación (Jorge):** Av. Santa Fe entre Suipacha y Esmeralda, CABA — candidato **Santa Fe 931** (a confirmar).
 
 ## Personas
 
