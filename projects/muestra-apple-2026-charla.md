@@ -36,7 +36,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | Período | Hito | Empresa / rol | Servicios / qué hacía | Personas | Relación |
 |--------|------|---------------|----------------------|----------|----------|
 | **1986** | Primera app Mac publicada en EE.UU. | Personal / USA | Desarrollo Mac | — | Developer (bio Smalltalks 2025) |
-| **fines 80 / principios 90** | Fundación de **GetInfo**, user group de usuarios Apple/Mac en Buenos Aires; newsletter impreso **Get Info** | GetInfo / fundador | Comunidad Mac, difusión, boletín impreso | Luis Alejandro Masanti | Cofundador / organizador comunitario |
+| **fines 80 / principios 90** | Fundación de **GetInfo** (user group BA + newsletter impreso) y **The Mac House** con **Compuware** (cursos) | GetInfo / Compuware–The Mac House | Comunidad Mac + formación | Luis Alejandro Masanti (GetInfo) | Fundador GetInfo; **socio y docente** en Mac House/Compuware |
 | Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
 | **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
 | may 1995 | Primer gran cliente: **El País** (UY). **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación fundacional de la empresa |
@@ -59,7 +59,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 
 | Tema | Qué dijo Jorge | Estado búsqueda |
 |------|----------------|-----------------|
-| **The Mac House / MacHouse** | Empresa de **cursos** que tuvo **con Compuware** | Confirmado por Jorge (Telegram 2026-07-13): The Mac House iba con la empresa **Compuware**. Hallazgo web previo: `machouse.com.ar` (©1998 MacHouse) — Av. Córdoba 466 Loc. 1 CABA, tel 4312-0033. Falta: ciudad/años exactos, rol de Jorge (socio/docente), relación Compuware↔MacHouse, y si el dominio 1998 era el mismo negocio. |
+| **The Mac House / MacHouse** | Empresa de **cursos** con **Compuware**, en **Buenos Aires** | Confirmado por Jorge (Telegram 2026-07-13). Hallazgo web previo: `machouse.com.ar` (©1998 MacHouse) — Av. Córdoba 466 Loc. 1 CABA, tel 4312-0033. Falta: años exactos, rol de Jorge (socio/docente), cursos, socios, y si el dominio 1998 era el mismo negocio. Ver [[compuware-mac-house]]. |
 | **GetInfo / Get Info** | User group de usuarios Apple en **Buenos Aires**, fines de los 80 / principios de los 90. Jorge fue **fundador**. Newsletter **Get Info** era **impreso**. | Confirmado por Jorge (Telegram 2026-07-13). Gente clave: **Luis Alejandro Masanti**. Sin hits digitales todavía; buscar material físico (boletines, fotocopias, diskettes, fotos de reuniones) y posibles menciones en revistas Mac argentinas. |
 | **Senior Systems Engineer + Mentor** | “mentor y senior systems engineer para apple” | **Confirmado en bio pública** (Smalltalks 2025): “two decades at Apple as **Systems Engineer and Mentor** leading technical and sales teams”. Red **Old School ALAC** (Manny Cernuda, Del Granado, Estrada…). La Nación 1998: gerente de Ventas LATAM Sur. “Senior” en el título formal: validar con Jorge. Andrés Silvera (LinkedIn) menciona curso de **Xserve en Miami** con Jorge → rol formador. |
 | **1986 primera app Mac USA** | (bio Smalltalks) | Nombre de la app / plataforma aún no hallado en archivos locales. |
