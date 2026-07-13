@@ -1,7 +1,7 @@
 ---
 title: "Wiki personal — index"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 type: "index"
 tags: ["#index"]
 ---
@@ -63,7 +63,7 @@ Meta: [[SCHEMA]] · [[log]]
 - [[runpod-s3-forklift-access]]
 - [[video-rating-system]]
 
-## concepts/ (47)
+## concepts/ (48)
 
 - [[ai-disrupting-vulnerability-disclosure-cultures]]
 - [[ai-offensive-security-confirmed-milestone]]
@@ -89,6 +89,7 @@ Meta: [[SCHEMA]] · [[log]]
 - [[heartbeat]]
 - [[hermes-cli-send-command-gap]]
 - [[hermes-configuration]]
+- [[hermes-gemini-google-alias-native-client]]
 - [[hermes-per-contact-permission-gap]]
 - [[hermes-whatsapp-bridge-failure-mode]]
 - [[higgsfield-ai]]
@@ -113,12 +114,13 @@ Meta: [[SCHEMA]] · [[log]]
 - [[wan22-issues]]
 - [[z-image-model-architecture]]
 
-## decisions/ (5)
+## decisions/ (6)
 
 - [[brisa-personal-only-role]]
 - [[ciudadanias-bc-cartel-design-pipeline]]
 - [[ciudadanias-bc-sistema-gestion-stack]]
 - [[code-sessions-to-wiki-bridge]]
+- [[hermes-quality-first-model-stack]]
 - [[whatsapp-bot-mode-allowlist-by-lid]]
 
 ## comparisons/ (1)

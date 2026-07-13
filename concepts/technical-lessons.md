@@ -1,11 +1,11 @@
 ---
 title: "Technical lessons (índice)"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 type: "concept"
 tags: ["#ops", "#lessons", "#index", "#brisa"]
-related: [[hermes-whatsapp-bridge-failure-mode]], [[hermes-cli-send-command-gap]], [[brisa-tools]], [[runpod]], [[comfyui]]
-sources: ["MEMORY.md weekly maintenance 2026-07-12"]
+related: [[hermes-whatsapp-bridge-failure-mode]], [[hermes-cli-send-command-gap]], [[brisa-tools]], [[runpod]], [[comfyui]], [[hermes-gemini-google-alias-native-client]]
+sources: ["MEMORY.md weekly maintenance 2026-07-12", "Telegram 2026-07-12/13"]
 confidence: high
 ---
 
@@ -22,6 +22,8 @@ Hub de lecciones técnicas durables. El detalle vive en las páginas hijas; MEMO
 | jidDecode / LID / allowlist | [[brisa-tools]], [[whatsapp-authorized]], [[whatsapp-bot-mode-allowlist-by-lid]] |
 | Permisos per-contact | [[hermes-per-contact-permission-gap]] |
 | Telegram: si polling/reconnect falla → mirar logs gateway; **no reiniciar** sin OK de Jorge | [[hermes-configuration]] |
+| Alias `google` → OpenAI client + `thinking_config` 400; patch nativo + reapply post-update | [[hermes-gemini-google-alias-native-client]] |
+| Model stack calidad-first (Grok main, OR fallbacks, vision xAI, smart off) | [[hermes-quality-first-model-stack]], [[hermes-configuration]] |
 
 ## Tooling / shell
 

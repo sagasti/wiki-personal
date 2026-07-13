@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,14 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-13 — Daily consolidation (02:00)
+
+- **Fuente:** Telegram `20260710_213913_df08e117` (noche 12→13). Sesión “Saludo…” sin facts nuevos (WA ya capturado).
+- **Nuevo concept:** [[hermes-gemini-google-alias-native-client]] (400 thinking_config, patch local, reapply post-update).
+- **Nueva decision:** [[hermes-quality-first-model-stack]] (Grok main, OR fallbacks, vision xAI, smart off).
+- **Updated:** [[hermes-configuration]], [[technical-lessons]], [[index]].
+- MEMORY ya tenía puntero de models+patch (sesión misma noche); sin cambio USER.
 
 ## 2026-07-12 — Mantenimiento semanal estructural
 
