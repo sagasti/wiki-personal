@@ -23,7 +23,7 @@ Formulario del doc pide: mini bio, línea de tiempo (período / hitos / empresa 
 
 ## Mini bio (borrador usable)
 
-Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: en **1986** publicó su primera aplicación Mac en EE.UU. Cofundador de **MundoMac** (Uruguay, 1995). **Cerca de dos décadas en Apple** como **Systems Engineer y Mentor**, liderando equipos técnicos y de ventas en ALAC (América Latina). Prensa de 1998 lo cita como gerente de Ventas para el sur de LATAM. Referente en expos (Expo Aldeamac / Jaguar 2002). Luego **Radar.Media** (geomessaging), **Macaldia** (vendor de Apple + apps) y **Totalneo** (certificación de productos Apple para AR). Hoy developer (Flutter/iOS) y usuario diario de Apple Silicon.
+Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: en **1986** publicó en EE.UU. **MultiClip** (con **José Maestro**), utilidad de portapapeles múltiple para Mac. Cofundador de **GetInfo** (user group BA) y socio/docente de **The Mac House** (con Compuware y Gabriel Sokek). Cofundador de **MundoMac** (Uruguay, 1995). **Cerca de dos décadas en Apple** como **Systems Engineer y Mentor** (ALAC). Prensa de 1998 lo cita como gerente de Ventas para el sur de LATAM. Luego **Radar.Media** (geomessaging), **Macaldia** (vendor de Apple + apps) y **Totalneo**: servicio a Apple para que importadores puedan traer productos a Argentina (**seguridad eléctrica** y **homologación ENACOM**). **Vendió Totalneo el 24/4/2026**. Hoy developer (Flutter/iOS) y usuario diario de Apple Silicon.
 
 **Bio pública propia (Smalltalks 2025):**  
 > “Born a programmer, I published my first Mac application in the USA in 1986. After two decades at Apple as Systems Engineer and Mentor leading technical and sales teams, I founded Radar.Media, pioneering geomessaging (a term I coined) and establishing it as the sector leader.”  
@@ -35,7 +35,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 
 | Período | Hito | Empresa / rol | Servicios / qué hacía | Personas | Relación |
 |--------|------|---------------|----------------------|----------|----------|
-| **1986** | Primera app Mac publicada en EE.UU. | Personal / USA | Desarrollo Mac | — | Developer (bio Smalltalks 2025) |
+| **1986** | **MultiClip** — primera app Mac publicada en EE.UU. Escrita con **José Maestro**. Multi-clipboard: copy, copy, copy / paste, paste, paste; editar el clipboard, etc. | Personal / USA (con José Maestro) | Utilidad de portapapeles múltiple para Mac | José Maestro | Co-autor / developer (bio Smalltalks 2025) |
 | **fines 80 / principios 90** | Fundación de **GetInfo** (user group BA + newsletter impreso) y **The Mac House** con **Compuware** (cursos) | GetInfo / Compuware–The Mac House | Comunidad Mac + formación | Luis Alejandro Masanti (GetInfo); **Gabriel Sokek** (socio Mac House) | Fundador GetInfo; **socio y docente** en Mac House/Compuware |
 | Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
 | **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
@@ -49,7 +49,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | ~¿salida sociedad? | Deja MundoMac como socio; amistad se mantiene | — | — | Walter, Fer | Ex-socio / amigo |
 | **Radar.Media** (post-Apple) | Funda Radar.Media; acuña **geomessaging**; líder del sector (bio propia) | Radar.Media | Geomessaging / apps | — | Founder (dominio radar.media expiró ~2023; backends Firebase/GCP) |
 | **~2014–2015** | **Macaldia S.R.L.** vendor de **Apple Inc.** (AP Austin, vendor 80021387). Apps **La Pancarta**, **Locs**. GSX | Macaldia | Apps + servicios a Apple | Christina Rodriguez, Rodrigo Silveira (Apple) | Proveedor / developer |
-| **~2015–2018+** | **Totalneo** — certif. productos/accesorios Apple AR (INTI, SAR/EMC, URSEC) | Totalneo | Compliance / certificación | Ana Clara G.P., Pons, CMB, Maximsoft | Socio (vendida 24/4/2026) |
+| **~2015–2026** | **Totalneo** — servicio a **Apple** para que **importadores** puedan ingresar productos a Argentina: **seguridad eléctrica** + **homologación ENACOM** (y cadena INTI/IRAM relacionada) | Totalneo | Compliance / regulatory enablement del canal Apple en AR | Ana Clara G.P., Pons, CMB, Maximsoft; importadores ASAP | Socio; **vendida 24/4/2026** |
 | 2016–hoy | Apple Developer activo | Personal / OpenPass | iOS/Mac dev | — | Developer |
 | 2017–2023 | Red **Old School ALAC**: AppleTalk de Manny (2017), 24 años de Manny en Apple (2023) con Jorge en el CC | Apple alumni | — | Manny Cernuda et al. | Familia ALAC |
 | 2017–2022+ | Walter/Fer siguen escribiendo (aniversarios MundoMac, familia) | MundoMac | — | Walter, Fer | Amistad |
@@ -62,7 +62,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | **The Mac House / MacHouse** | Empresa de **cursos** con **Compuware**, en **Buenos Aires** | Confirmado por Jorge (Telegram 2026-07-13). Hallazgo web previo: `machouse.com.ar` (©1998 MacHouse) — Av. Córdoba 466 Loc. 1 CABA, tel 4312-0033. Falta: años exactos, rol de Jorge (socio/docente), cursos, socios, y si el dominio 1998 era el mismo negocio. Ver [[compuware-mac-house]]. |
 | **GetInfo / Get Info** | User group de usuarios Apple en **Buenos Aires**, fines de los 80 / principios de los 90. Jorge fue **fundador**. Newsletter **Get Info** era **impreso**. | Confirmado por Jorge (Telegram 2026-07-13). Gente clave: **Luis Alejandro Masanti**. Sin hits digitales todavía; buscar material físico (boletines, fotocopias, diskettes, fotos de reuniones) y posibles menciones en revistas Mac argentinas. |
 | **Senior Systems Engineer + Mentor** | “mentor y senior systems engineer para apple” | **Confirmado en bio pública** (Smalltalks 2025): “two decades at Apple as **Systems Engineer and Mentor** leading technical and sales teams”. Red **Old School ALAC** (Manny Cernuda, Del Granado, Estrada…). La Nación 1998: gerente de Ventas LATAM Sur. “Senior” en el título formal: validar con Jorge. Andrés Silvera (LinkedIn) menciona curso de **Xserve en Miami** con Jorge → rol formador. |
-| **1986 primera app Mac USA** | (bio Smalltalks) | Nombre de la app / plataforma aún no hallado en archivos locales. |
+| **1986 primera app Mac USA** | **MultiClip**, con **José Maestro**: multi copy/paste + editar clipboard | Confirmado por Jorge (Telegram 2026-07-13). Publicada en EE.UU. Buscar rastro: magazines Mac (Macworld, MacUser), archives de software clásico, José Maestro. |
 | **Radar.Media** | Post-Apple, geomessaging | Dominio `radar.media` expirado ~2023; backends Firebase/GCP apagados 2025. |
 
 ---
@@ -117,7 +117,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 3. **Del dealer al lado Apple:** rol de ventas LATAM Sur (AppleWorld Brasil 1998).  
 4. **Comunidad y evangelización:** Expo Aldeamac / Jaguar 2002.  
 5. **Segunda vida en Argentina:** Macaldia como vendor + apps.  
-6. **La capa invisible:** certificar que un cargador/Mac pueda venderse legal en AR (Totalneo/INTI).  
+6. **La capa invisible:** Totalneo — que un Mac/cargador pueda **importarse y venderse legal** en Argentina (seguridad eléctrica + ENACOM), al servicio de Apple y los importadores.  
 7. **Lo que no se vende:** amistad 30+ años con Fer y Walter; la empresa que sigue sin vos y te sigue escribiendo.  
 8. **Hoy:** misma manzana, otro rol (builder + usuario Silicon).
 
@@ -145,7 +145,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 3. Historia **pre-1995 / 1986**: primera app Mac en USA — nombre, plataforma, qué hacía.  
 4. **The Mac House** (cursos) y **Get Info** (newsletter/org): casi sin rastro digital → papel, dominio viejo, fotos.  
 5. Título exacto: **Senior** Systems Engineer vs Systems Engineer + Mentor (bio Smalltalks).  
-6. Rol exacto en **Macaldia** y **Totalneo** re: Apple.  
+6. **Totalneo** — confirmado: servicio a Apple para importadores (seguridad eléctrica + ENACOM); vendida 24/4/2026.  
 7. Material físico en Malibú / depósitos para Espacio TEC.
 
 ## Script de investigación (listo)

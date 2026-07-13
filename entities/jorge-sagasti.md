@@ -59,7 +59,7 @@ type: "entity"
 
 ## Trabajo
 - **OpenPass** — fintech/payments, Gerente de I+D (https://openpass.la)
-- **Totalneo** — VENDIDA 24/4/2026. Fintech/POS, firma de venta completada. Foco ahora 100% OpenPass.
+- **Totalneo** — VENDIDA 24/4/2026. Históricamente: servicio a **Apple** para importadores en Argentina (**seguridad eléctrica** + **homologación ENACOM**). Ver [[totalneo-apple-regulatory]] + [[muestra-apple-2026-charla]]. Foco actual 100% OpenPass.
 - Morning Briefs L-V 8:00 AM
 - Investigar contexto 30 min antes de cada reunión
 
