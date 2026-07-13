@@ -73,7 +73,7 @@ Contacto: jorge@sagasti.com
 | **Eventos** | Road Tour 1998 invite + schedule; inventario Apple_Events.xls (boot camps, launch AR, etc.) |
 | **Fotos** | Cluster 2003-01-11 con **Manny Cernuda + Edwin Estrada + Jorge** (buzo logo Apple); aulas training jul 2002; material fotos PDE/Galería Sagasti |
 | **Software** | MultiClip (Macintosh Repository / review 1989) |
-| **A por confirmado físico** | Números impresos de **Macanas**; material GetInfo; tarjeta/badge física; hardware de demo Mac House/Centre |
+| **A por físico (mié 15/7)** | Con **Luis Masanti** (Bulnes): **Macanas** colección + **libritos The Mac House**. Posible **Espacio TEC** + TimeCapsule / teclado Titanium. Checklist: `muestra-apple-2026-miercoles-15-brief.md` |
 
 Archivo de trabajo consolidado (local):  
 `~/wiki-personal/projects/muestra-apple-2026-assets/`  

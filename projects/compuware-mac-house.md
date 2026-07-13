@@ -28,7 +28,9 @@ Según Jorge (2026-07-13): tuvo **The Mac House** con una empresa llamada **Comp
 - **Dirección confirmada por Jorge (2026-07-13):** **Av. Córdoba 466, primer piso**, CABA  
   (Coincide con footer web MacHouse 1998: *Av. Córdoba 466 - Local 1 - (1054) Capital Federal*, tel 4312-0033, `info@machouse.com.ar`. Apple Center Compuware en la misma manzana: Córdoba **456** en home 1998.)
 - Evidencia web: menú **MacHouse** bajo Compuware, **Seminarios ExpoMac '98**, sección **Cursos**; liquidación Compuware ~oct 2000; Compuware Córdoba ASAP 2010 (Bialet)
-- Pendiente: catálogo de cursos exactos, material físico
+- Pendiente: catálogo de cursos exactos; material físico
+- **2026-07-13 — Masanti:** en su casa (Bulnes) tiene **libritos de The Mac House** que él le hizo a Jorge + cobro/colección **Macanas**. Visita planeada **mié 15/7 ~10:00**. Ver [[luis-alejandro-masanti]] y brief `muestra-apple-2026-miercoles-15-brief.md`.
+- Trail público ya: ExpoMac 98 + web MacHouse 1998 Córdoba **466** Local 1 + Apple Center Compuware **456**
 
 ## Tags
 
