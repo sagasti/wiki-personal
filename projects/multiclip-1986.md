@@ -11,7 +11,9 @@ confidence: high
 
 # MultiClip (1986)
 
-Primera aplicación Mac de [[jorge-sagasti]], **publicada en EE.UU. en 1986**.
+Primera aplicación Mac de [[jorge-sagasti]] con rastro público sólido, **publicada por Olduvai** y documentada en review de **septiembre 1989**.
+
+**Corrección de fecha (2026-07-13):** Jorge primero recordó 1986 (también en bio Smalltalks 2025); al contrastar con Macintosh Repository + review Bobker, **conviene usar ~1989**. La memoria de fechas se está reconstruyendo con fuentes para la Muestra Apple 2026.
 
 ## Publisher
 
@@ -32,24 +34,23 @@ Utilidad / **INIT (Startup document)** de **portapapeles múltiple** en Mac clá
 - import/export Scrapbook
 - reemplazo práctico de Clipboard + Scrapbook
 
-Review citada en Macintosh Repository: **Bobker, Steven. (September 1989). MultiClip.**  
+Review: **Bobker, Steven. (September 1989). MultiClip.**  
 Ficha: https://www.macintoshrepository.org/40086-multiclip  
-Author listado en MR: **Olduvai Corporation** · Year en ficha: **1989** (año de review/release listada; Jorge recuerda **publicación 1986** — validar si hubo v1 más temprana o si 1986 es inicio de desarrollo).
+Author en MR: **Olduvai Corporation** · Year: **1989**
 
-Descargas en MR: `MultiClip_1.0.image_.zip`, `MultiClip_1.0_1.dsk`
-
-También existe ficha hermana **MultiClip Pro** (Olduvai) en el mismo sitio.
+Descargas: `MultiClip_1.0.image_.zip`, `MultiClip_1.0_1.dsk`  
+También: **MultiClip Pro** (Olduvai) en el mismo sitio.
 
 ## Para la charla
 
-Apertura: *“En los 80, con José Maestro, Olduvai publicó MultiClip: el clipboard del Mac ya no era de un solo golpe.”*
+Apertura: *“A fines de los 80, con José Maestro, Olduvai publicó MultiClip: el clipboard del Mac ya no era de un solo golpe.”*
 
 ## Pendiente
 
 - Diskette/manual físico si queda
-- Confirmar año 1986 vs 1989 con packaging o review completa
-- Créditos de autores en about box / manual
+- About box / manual: créditos Sagasti + Maestro
+- MultiClip Pro: ¿misma línea / más tarde?
 
 ## Tags
 
-#multiclip #1986 #mac #olduvai
+#multiclip #1989 #mac #olduvai

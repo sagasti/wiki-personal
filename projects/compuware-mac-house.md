@@ -13,19 +13,20 @@ confidence: medium
 
 Empresa de cursos Mac/Apple asociada a Jorge.
 
-Según Jorge (2026-07-13): tuvo **The Mac House** con una empresa llamada **Compuware**, en **Buenos Aires**, **misma época que GetInfo** (fines de los 80 / principios de los 90). Rol: **socio y docente**. Otro socio de The Mac House: **Gabriel Sokek**.
+Según Jorge (2026-07-13): tuvo **The Mac House** con una empresa llamada **Compuware**, en **Buenos Aires**, **misma época que GetInfo** (fines de los 80 / principios de los 90). Rol: **socio y docente**. Otro socio de The Mac House: **Gabriel Sobek** (Jorge dijo “Sokek”; La Nación 1998 escribe **Sobek** — diseñó cronograma de seminarios ExpoMac).
 
 ## Personas
 
 - [[jorge-sagasti]] — socio y docente
-- **Gabriel Sokek** — socio de The Mac House (confirmado por Jorge 2026-07-13)
+- **[[gabriel-sobek]]** — socio The Mac House; ExpoMac 1998 (seminarios)
 
 ## Estado
 
-- Confirmado: vínculo **The Mac House ↔ Compuware**, ciudad **Buenos Aires**, época **~fines 80 / principios 90**, Jorge **socio + docente**, socio **Gabriel Sokek**
-- Evidencia web: **Apple Center Compuware**, Av. Córdoba **456** CABA (archive 1998–2000), menú **MacHouse**, **Seminarios ExpoMac '98**, sección **Cursos**; liquidación ~oct 2000. Rama **Compuware Córdoba** (2010, Leticia/Julián Bialet) ASAP Apple.
-- Pendiente: cursos exactos, material histórico, perfil/contacto de Sokek
-- Nota: `machouse.com.ar` / Córdoba 466 vs 456 — misma manzana/época, validar si era el mismo local
+- Confirmado: vínculo **The Mac House ↔ Compuware**, ciudad **Buenos Aires**, época **~fines 80 / principios 90** (y actividad pública **1998** en ExpoMac), Jorge **socio + docente**, socio **Gabriel Sobek**
+- **Dirección confirmada por Jorge (2026-07-13):** **Av. Córdoba 466, primer piso**, CABA  
+  (Coincide con footer web MacHouse 1998: *Av. Córdoba 466 - Local 1 - (1054) Capital Federal*, tel 4312-0033, `info@machouse.com.ar`. Apple Center Compuware en la misma manzana: Córdoba **456** en home 1998.)
+- Evidencia web: menú **MacHouse** bajo Compuware, **Seminarios ExpoMac '98**, sección **Cursos**; liquidación Compuware ~oct 2000; Compuware Córdoba ASAP 2010 (Bialet)
+- Pendiente: catálogo de cursos exactos, material físico
 
 ## Tags
 

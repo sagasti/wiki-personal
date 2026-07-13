@@ -23,7 +23,9 @@ Formulario del doc pide: mini bio, línea de tiempo (período / hitos / empresa 
 
 ## Mini bio (borrador usable)
 
-Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: en **1986** publicó en EE.UU. **MultiClip** (con **José Maestro**), utilidad de portapapeles múltiple para Mac. Cofundador de **GetInfo** (user group BA) y socio/docente de **The Mac House** (con Compuware y Gabriel Sokek). Cofundador de **MundoMac** (Uruguay, 1995). **Cerca de dos décadas en Apple** como **Systems Engineer y Mentor** (ALAC). Prensa de 1998 lo cita como gerente de Ventas para el sur de LATAM. Luego **Radar.Media** (geomessaging), **Macaldia** (vendor de Apple + apps) y **Totalneo**: servicio a Apple para que importadores puedan traer productos a Argentina (**seguridad eléctrica** y **homologación ENACOM**). **Vendió Totalneo el 24/4/2026**. Hoy developer (Flutter/iOS) y usuario diario de Apple Silicon.
+Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: hacia **1989** (no 1986) **Olduvai** publicó **MultiClip**, que escribió con **José Maestro** — utilidad de portapapeles múltiple para Mac. Cofundador de **GetInfo** (user group BA) y socio/docente de **The Mac House** (con Compuware y Gabriel Sokek). Cofundador de **MundoMac** (Uruguay, 1995). **Cerca de dos décadas en Apple** como **Systems Engineer y Mentor** (ALAC). Prensa de 1998 lo cita como gerente de Ventas para el sur de LATAM. Luego **Radar.Media** (geomessaging), **Macaldia** (vendor de Apple + apps) y **Totalneo**: servicio a Apple para importadores en Argentina (**seguridad eléctrica** + **ENACOM**). **Vendió Totalneo el 24/4/2026**. Hoy developer (Flutter/iOS) y usuario diario de Apple Silicon.
+
+**Nota de método:** las fechas de memoria se contrastan con fuentes (prensa, archive, mails, software catalogs). MultiClip: Jorge dijo 1986; evidencia → **1989**.
 
 **Bio pública propia (Smalltalks 2025):**  
 > “Born a programmer, I published my first Mac application in the USA in 1986. After two decades at Apple as Systems Engineer and Mentor leading technical and sales teams, I founded Radar.Media, pioneering geomessaging (a term I coined) and establishing it as the sector leader.”  
@@ -35,20 +37,21 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 
 | Período | Hito | Empresa / rol | Servicios / qué hacía | Personas | Relación |
 |--------|------|---------------|----------------------|----------|----------|
-| **1986** | **MultiClip** — primera app Mac publicada en EE.UU. Escrita con **José Maestro**. Publicada por **Olduvai Software**. Multi-clipboard: copy×n / paste×n; editar el clipboard, etc. | Olduvai Software (publisher) · autores Sagasti + Maestro | Utilidad de portapapeles múltiple para Mac | José Maestro; Olduvai Software | Co-autor; software comercial Mac |
-| **fines 80 / principios 90** | Fundación de **GetInfo** (user group BA + newsletter impreso) y **The Mac House** con **Compuware** (cursos) | GetInfo / Compuware–The Mac House | Comunidad Mac + formación | Luis Alejandro Masanti (GetInfo); **Gabriel Sokek** (socio Mac House) | Fundador GetInfo; **socio y docente** en Mac House/Compuware |
+| **~1989** | **MultiClip** — primera app Mac comercial con rastro público. Escrita con **José Maestro**. Publicada por **Olduvai Corporation**. Multi-clipboard INIT (ClipFrames, editar clipboard, Scrapbook). Review Bobker **Sep 1989**. (Jorge recordaba 1986; la evidencia apunta a **1989**.) | Olduvai Corporation · autores Sagasti + Maestro | Utilidad de portapapeles múltiple para Mac | José Maestro; Olduvai | Co-autor; software comercial Mac |
+| **fines 80 / principios 90 → 1998** | **GetInfo** (user group BA + newsletter); **The Mac House** con **Compuware** + **Gabriel Sobek**; retail/software MacHouse | GetInfo / Compuware–MacHouse | Comunidad + formación + venta software/hardware | Luis Alejandro Masanti; **Gabriel Sobek**; Marcelo Freiberg (ops Compuware 1998) | Fundador GetInfo; socio/docente Mac House; Compuware = Apple Center CABA |
 | Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
 | **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
 | may 1995 | Primer gran cliente: **El País** (UY). **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación fundacional de la empresa |
-| **~1998–1999** | **MacHouse** (`machouse.com.ar`): tienda Mac en Córdoba 466 Loc. 1 CABA (posible “The Mac House”); ventas hardware/software. Cursos: **por confirmar** | MacHouse / The Mac House? | Retail + ¿training? | — | **Validar con Jorge** si es la misma y rol (dueño/socio/docente) |
+| **~1998–1999** | **MacHouse** — **Av. Córdoba 466, 1º piso** (Local 1), CABA. Distribuidor de software + oferta hardware (G3/iMac en web). Mismo ecosistema que **The Mac House** / Compuware. | MacHouse / Compuware | Retail software/hardware + cursos (hist.) | Gabriel Sobek; equipo Compuware | Socio/docente Jorge |
 | **~Apple years (≈ dos décadas)** | **Systems Engineer + Mentor** en Apple; liderazgo técnico y de ventas en **ALAC** | **Apple** | SE, mentoría de equipos técnicos/comerciales, canal; cursos (ej. Xserve Miami) | Manny Cernuda, Fernando Del Granado, Edwin Estrada, Isidro Corominas, Bruno Berman, etc. (Old School ALAC) | Empleado Apple; red “familia” ALAC aún viva en mails 2017–2023 |
-| **nov 1998** | **AppleWorld Brasil**. La Nación: **gerente de Ventas sur de América Latina** de Apple; anuncia Apple Punta y AppleWorld Argentina | Apple | Ventas regionales, eventos | Mike Caram, Luciano Kubrulsky, Fernando del Granado, Jeff Martin | Rol ejecutivo regional (prensa) |
+| **sep 1998** | **ExpoMac** BA (Sheraton Retiro), org. **Compuware**. Jorge (como **gerente de ventas regional sur LATAM de Apple Computer**) presenta **iMac**, **Mac OS 8.5**, comparación **G3 vs PC Intel**, charla gratis + “Soluciones de compatibilidad Mac-PC”. Presentes del Granado, Caram, Estrada. **MacHouse** en stands como distribuidor de software. **Gabriel Sobek** arma los 18 seminarios. | Apple + Compuware | Seminarios / evangelización / canal | Gabriel Sobek, Marcelo Freiberg, F. del Granado, Mike Caram, Edwin Estrada, A. Piscitelli | Empleado Apple en expo del partner |
+| **nov 1998** | **AppleWorld Brasil** (San Pablo). Misma prensa lo cita como gerente de Ventas sur LATAM; anuncia **Apple Punta** y **AppleWorld Argentina** | Apple | Ventas regionales / eventos | Mike Caram, Luciano Kubrulsky, F. del Granado, Jeff Martin | Continuidad rol regional |
 | 1998–2000 | Planes **Apple Punta** y **AppleWorld Argentina** | Apple | Eventos de marca | — | Continuidad rol regional |
 | **oct 2002** | **Expo Aldeamac** (BA): presenta **Mac OS X 10.2 Jaguar** | Referente / Apple ecosystem | Conferencia OS X | Comunidad Mac hispana | Speaker regional |
 | 2002 | **Sagasti Palermo y Soto S.R.L. (Mundo Mac)** en aviso oficial UY | MundoMac | Razón social histórica | Palermo, Soto | Sociedad del trío |
 | ~¿salida sociedad? | Deja MundoMac como socio; amistad se mantiene | — | — | Walter, Fer | Ex-socio / amigo |
 | **Radar.Media** (post-Apple) | Funda Radar.Media; acuña **geomessaging**; líder del sector (bio propia) | Radar.Media | Geomessaging / apps | — | Founder (dominio radar.media expiró ~2023; backends Firebase/GCP) |
-| **~2014–2015** | **Macaldia S.R.L.** vendor de **Apple Inc.** (AP Austin, vendor 80021387). Apps **La Pancarta**, **Locs**. GSX | Macaldia | Apps + servicios a Apple | Christina Rodriguez, Rodrigo Silveira (Apple) | Proveedor / developer |
+| **~2009–2015** | **Macaldia** / trabajo con Apple AP: facturas a Apple (Tammy Chew), contrata **Pablo Cassi** como engineer (2010) por pedido de Apple (“New Engineer selected”), WiFi/BT certs, luego apps **La Pancarta** / **Locs**, Payment Advice vendor 80021387 | Macaldia S.R.L. | Servicios técnicos/certif + apps a Apple | Tammy Chew, Winston (Apple), Pablo Cassi | Proveedor / partner operativo |
 | **~2015–2026** | **Totalneo** — servicio a **Apple** para que **importadores** puedan ingresar productos a Argentina: **seguridad eléctrica** + **homologación ENACOM** (y cadena INTI/IRAM relacionada) | Totalneo | Compliance / regulatory enablement del canal Apple en AR | Ana Clara G.P., Pons, CMB, Maximsoft; importadores ASAP | Socio; **vendida 24/4/2026** |
 | 2016–hoy | Apple Developer activo | Personal / OpenPass | iOS/Mac dev | — | Developer |
 | 2017–2023 | Red **Old School ALAC**: AppleTalk de Manny (2017), 24 años de Manny en Apple (2023) con Jorge en el CC | Apple alumni | — | Manny Cernuda et al. | Familia ALAC |
@@ -59,10 +62,10 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 
 | Tema | Qué dijo Jorge | Estado búsqueda |
 |------|----------------|-----------------|
-| **The Mac House / MacHouse** | Empresa de **cursos** con **Compuware**, en **Buenos Aires** | Confirmado por Jorge (Telegram 2026-07-13). Hallazgo web previo: `machouse.com.ar` (©1998 MacHouse) — Av. Córdoba 466 Loc. 1 CABA, tel 4312-0033. Falta: años exactos, rol de Jorge (socio/docente), cursos, socios, y si el dominio 1998 era el mismo negocio. Ver [[compuware-mac-house]]. |
+| **The Mac House / MacHouse** | Cursos + retail software; **Córdoba 466 1º piso** CABA; con Compuware y Gabriel **Sobek** | Confirmado Jorge 2026-07-13. Web 1998: Córdoba 466 Loc. 1, 4312-0033. ExpoMac 98: MacHouse = distribuidor software. Ver [[compuware-mac-house]], [[gabriel-sobek]]. |
 | **GetInfo / Get Info** | User group de usuarios Apple en **Buenos Aires**, fines de los 80 / principios de los 90. Jorge fue **fundador**. Newsletter **Get Info** era **impreso**. | Confirmado por Jorge (Telegram 2026-07-13). Gente clave: **Luis Alejandro Masanti**. Sin hits digitales todavía; buscar material físico (boletines, fotocopias, diskettes, fotos de reuniones) y posibles menciones en revistas Mac argentinas. |
 | **Senior Systems Engineer + Mentor** | “mentor y senior systems engineer para apple” | **Confirmado en bio pública** (Smalltalks 2025): “two decades at Apple as **Systems Engineer and Mentor** leading technical and sales teams”. Red **Old School ALAC** (Manny Cernuda, Del Granado, Estrada…). La Nación 1998: gerente de Ventas LATAM Sur. “Senior” en el título formal: validar con Jorge. Andrés Silvera (LinkedIn) menciona curso de **Xserve en Miami** con Jorge → rol formador. |
-| **1986 primera app Mac USA** | **MultiClip**, con **José Maestro**; publicada por **Olduvai Software/Corporation**. Multi-clipboard INIT. | Confirmado por Jorge + ficha [Macintosh Repository](https://www.macintoshrepository.org/40086-multiclip) (Author: Olduvai Corporation; review Bobker Sep 1989; downloads 1.0). Ver [[multiclip-1986]]. |
+| **1986 primera app Mac USA** | **MultiClip** con José Maestro / Olduvai | **Corregido a ~1989** (review Bobker + MR). Bio Smalltalks dice 1986 — desactualizada. Ver [[multiclip-1986]]. |
 | **Radar.Media** | Post-Apple, geomessaging | Dominio `radar.media` expirado ~2023; backends Firebase/GCP apagados 2025. |
 
 ---
@@ -75,15 +78,19 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 2. **El País Uruguay (may 2021)** — Origen en parrillero de Walter; Apple recomienda a MundoMac para El País; formalización 1995.  
    https://www.elpais.com.uy/negocios/empresas/mundomac-una-historia-de-26-anos-de-compromiso-y-liderazgo-local
 
-3. **La Nación (nov 1998)** — AppleWorld Brasil; Jorge Sagasti como **gerente de Ventas para el sur de América Latina** de Apple; planes Apple Punta / AppleWorld Argentina.  
+3. **La Nación (7 sep 1998)** — ExpoMac BA / Compuware: Jorge Sagasti, gerente de ventas regional sur LATAM Apple, seminarios iMac/OS 8.5/G3; MacHouse stand; Gabriel **Sobek** seminarios.  
+   https://www.lanacion.com.ar/tecnologia/la-expomac-en-buenos-aires-nid179844/
+
+4. **La Nación (nov 1998)** — AppleWorld Brasil; Jorge Sagasti gerente de Ventas sur de América Latina de Apple; Apple Punta / AppleWorld Argentina.  
    https://www.lanacion.com.ar/tecnologia/apple-se-mostro-en-san-pablo-nid178314/
 
-4. **LatinSpots (oct 2002)** — Expo Aldeamac; presenta Jaguar; “profesionales más reconocidos del mundo Apple en la región”.  
+5. **LatinSpots (oct 2002)** — Expo Aldeamac; presenta Jaguar; “profesionales más reconocidos del mundo Apple en la región”.  
    https://www.latinspots.com/noticia/expo-aldeamac-en-buenos-aires/3676
 
-5. **Infonegocios (hist.)** — Proyecto corporativo MundoMac / Walter Soto (servidores Mac OS X, LTO, etc.).
-
 6. **Aviso Diario Oficial UY 2002** — Sagasti Palermo y Soto S.R.L. (Mundo Mac).
+
+7. **Macintosh Repository** — MultiClip (Olduvai Corporation, ~1989).  
+   https://www.macintoshrepository.org/40086-multiclip
 
 ---
 
