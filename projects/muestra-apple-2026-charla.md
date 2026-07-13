@@ -161,9 +161,42 @@ Edwin → recap Q2: Macworld SF, ASTO/Accelerate, VARs, ACN, reseller trainings,
 
 **Charla Personal/Laboral (3 jul 2006):** mail corto de Jorge a Edwin pidiendo “charla personal/laboral” no urgente — **solo subject + una línea**; no hay del cuerpo un “exit letter”. No inventar motivos.
 
-**Gap que sigue:** adjuntos PDF de Merlin / Ind Contractor 2nd Part / Soluciones AATC **no descargados aún** (subjects sí). Outbox no cubre 1999–2005 (voz propia pre-2006 hay que buscar otros FROM o cuentas).
+**Gap que sigue:** PDF firmado “Ind Contractor 2nd Part FY07” **no está en el dump** (solo el mail de Caro que lo adjunta y se va a Canada). Outbox `FROM sagasti@apple.com` no arranca antes de **2006**. Voz propia pre-2006: **0** en IMAP con FROM personal.
 
-**Siguiente pasito:** (1) web histórica Brave de a poco · (2) opcional FETCH adjuntos gold · (3) form Akerman solo si Jorge lo pide.
+## Fase B.1 — Contratos caídos (OCR/texto 2026-07-13)
+
+Los PDFs/DOC **ya estaban** en `muestra-apple-2026-assets/contracts/`. Se extrajo texto (no hace falta re-FETCH).
+
+### Exhibit A — sigma del rol en papel (oomph charla)
+
+**Macaldia FY07 + FY07-v2** (*Macaldia Consulting Services*, cover sheet Edwin Estrada; **US$ 40.000** cada semestre; travel YES; IC explícito “not an employee”):
+
+Main roles/responsibilities:
+1. Processes and tracks **Argentina-specific product certifications (IRAM)**
+2. Assist with **importer of record** issues
+3. Assist WWTC con setup de **Training Programs Specialist (TPS)** for ALAC + transition
+4. Assist kick-off **Apple Consultant Network (ACN)** for ALAC
+5. **SE Consultant (as needed)**
+
+→ Ya en el **SOW de 2006–07** aparece el puente **IRAM/importadores + training program + ACN + SE**. Encaja con el outbox IRAM-heavy 2006–07 y con Totalneo posterior (mismo músculo, otra etapa).
+
+**Macaldia Consulting 4203** (oct 2002–sep 2003, **US$ 45.000**, purpose **ALAC Support and Training**; “has **never been an Apple employee**” marcado):
+
+- Monthly fixed **US$ 1.800** = email/phone support ALAC **$1.200** (30h × $40) + training empleados Apple **$600**
+- Variable instructor-led **~US$ 2.000**/mes (cible ~1 semana/mes: **Mac OS X Essentials 10.2** + **Server Admin & Integration 10.2**)
+- Estimate anual ~**US$ 45.600**
+
+**MacBook Loan 10 jul–30 sep 2006:** MBPRO 17" SN **W86251FTTHY**; usuario **Jorge Sagasti** · compañía **Macaldia SRL** · puesto **Socio Gerente** · tel PDE **+598 9 473-5548** · devolución a car Wendy Coral Gables (Caro).
+
+**Soluciones-AATC.pdf (ago 2007):** AATC Agreement **SOLUCIONES MAC SA**, Paraguay 445, 1054 BA; executed (Stephen Glaros Sr Contracts Program Manager + firmas Soluciones). Soporta “Jorge al medio del onboarding AATC AR”.
+
+**ACT Candidate Evaluation (26–30 ene 2004, Reston):** course *Mac OS X Server Essentials*; reviewer **Deborah Peer**; **Pass**; recommend certify; “present more than teacher”; “not highly utilized as trainer in LATAM… strongly recommend Spanish-speaking US if needed”.
+
+**FY05 Bonus Schedule Macaldia** (XLS): bonos mensuales variables **US$ 900–1.650** vs % quota ROLA (filas con 900/1200/1500/1650). IC con variable comercial alineado al spreadsheet *Bonus 102005*.
+
+**Badge físico (mail, no PDF ID file):** **22 feb 2005** `badges@apple.com` → Edwin: iForm **#11900** for **Jorge Sagasti** **approved**; **badge number-419643**; PO **471523772** exp 9/30/05; proceso **Contractors/Vendors** (no employee paperwork). Mail iForm link 21 feb 2005.
+
+**Intentos voz propia pre-2006:** IMAP `FROM jorge@sagasti.com BEFORE 2006` → **0** en esta mailbox. `SUBJECT "Jorge's ID"` explota por false positives (marketing “Jorge,”). **No** hay corpus de sent-items pre-2006 usable acá — voz temprana sigue en contratos, press, y mails de terceros.
 
 ## Cómo minar mails `@apple.com` (playbook)
 
@@ -281,7 +314,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | **abr–jul 2003** | **Macaldia consulting 4203** (Edwin requestor): **US$ 45k** · 1/10/02–30/9/03 · *ALAC Support and Training*; SOW ~$1.8k fijo + trainings. **Merlin** IC **C419643**; **ITIN** IRS. | Macaldia → Apple | IC SE + trainer | Estrada, Luli, Kopstick | Contrato + sistema HR |
 | **ene 2004** | **ACT Candidate Evaluation** Reston (Deborah Peer): Mac OS X Server Essentials — **recommend certify** as trainer; notes energetic Spanish-capable. | Apple Training | Certified trainer path | Deborah Peer | Scoring ACT |
 | **Q3 2006** | **Org chart ALAC** PDF: **Jorge Sagasti — Independent Contractor — Buenos Aires** bajo F&CS (Edwin). | Apple ALAC | Rol visible en org | Vargas, Edwin, Ribeiro… | Confirma IC en chart |
-| **oct 2006–sep 2007** | Consulting **FY07** + **FY07-v2**: **US$ 40k** semesters · purpose **ALAC SE services** (+ loan MBP 17"). | Macaldia | SE services | Edwin, Caro | Continuidad $ |
+| **oct 2006–sep 2007** | Consulting **FY07** + **FY07-v2**: **US$ 40k**/semestre · purpose **ALAC SE services**. **Exhibit A:** IRAM AR certs · importer of record · TPS (training programs) ALAC · ACN kick-off · SE as needed (+ loan MBP 17" Socio Gerente Macaldia). | Macaldia | SE + regulatory + channel training ops | Edwin, Caro | Continuidad $ + SOW en claro |
 | **sep 1998–~oct 2007** | Continuidad Apple ALAC como **contractor**: prensa 1998 gerente Ventas; firma mail **Senior System Engineer** + Mentor; trainers xls **classes: all**; outbound `sagasti@apple` ~2006–oct 2007. | Apple ALAC / Macaldia | SE, mentor, training, canal | Estrada, Manny, Velosa, Ribeiro… | **Contractor/IC** |
 | **nov 2003–jun 2007** | Decenas de **Trip Authorization** Apple Corporate Travel a nombre de Jorge: Miami/Coral Gables (training/HQ), **Cupertino** (Rack, Xsan T3), **Maine SummerCamp '04**, **Monterrey** customer, **Santiago** customer/vendor, **WWDC**, **Channel Training** BUE, evento **Young&Rubicam PDE** con **Estrada + Tiago Ribeiro**. Div **56/5055**, badge **C419643**. | Apple ALAC F&CS | Viajes de trabajo documentados | Estrada, Ribeiro, Manny, travel.res | Evidencia fuerte de rol regional en movimiento |
 | **nov 1998** | **AppleWorld Brasil** (San Pablo). Misma prensa lo cita como gerente de Ventas sur LATAM; anuncia **Apple Punta** y **AppleWorld Argentina** | Apple | Ventas regionales / eventos | Mike Caram, Luciano Kubrulsky, F. del Granado, Jeff Martin | Continuidad rol regional |

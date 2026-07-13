@@ -1,0 +1,582 @@
+Apple Authorized Training Center Agreement                                                 Contrato Apple para Centros de Capacitaci6n
+                                                                                           Autorizados
+
+This Apple Authorized Training Center Agreement ("Agreement") is entered into              Este Contrato Apple para Centros de Capacitaci6n Autorizado (el "Contrato'Tlo celebran
+between Apple Inc., located at 1 Infinite Loop, Cupertino, CA 9S014 ("Apple") and:         Apple Inc., ubicada en 1 Infinite Loop, Cupertino, CA 95014 ("Apple") y:
+
+Customer Name ("Training Center"):             SOLUCIONES MAC SA                                Nombre del Cliente (el                     SOLUCIONES MAC SA
+                                                                                                "Centro de Capacitaci6n"):
+Address:                                       Paraguay 445
+                                                                                                Direcci6n:                                 Paraguay 44S
+City, ST,Zip:                                  1054 Buenos Aires, Argentina
+                                                                                                Ciudad, Estado y C6digo Postal:            1054 Buenos Aires, Argentina
+
+
+1. Definitions.                                                                            1. Definiciones.
+When used in this Agreement, the following words have the meanings specified               Las siguientes palabras tienen el significado especificado a continuaci6n, cuando se usen en
+below:                                                                                     este Contrato:
+
+A.         "Agreement" means collectively this Apple Authorized Training Center            A.         "Contrato", significa colectivamente este Contrato Apple para Centros de
+           Agreement, together with all amendments, additions, documents or                           Capacitaci6n Autorizados, asi como las modificaciones al mismo, adiciones, y los
+           materials incorporated by reference.                                                       documentos 0 material que se Ie incorpore como referencia.
+
+B.         "Apple Course Material" means collectively the Instructor Material and          B.         "Material de Curso Apple", significa tanto el Material de Instructor como el Material
+           Student Material, as defined below.                                                        de Estudiantes, tal y como se definen a continuaci6n.
+
+c.         "Apple Marks" means trademarks, service marks, logos and product names          C.         "Marcas Apple", significan las marcas, las marcas de servicios, los logos y los
+           owned by or licensed to Apple and used on and in connection with the                       productos cuyos nombres son propiedad 0 estan licenciados a Apple y que se usan
+           Apple Course Material, a Training Class or Testing Service including the                   en y con relaci6n al Material de Curso Apple, 0 en relaci6n con una C1ase de
+           designation "Apple Authorized Training Center."                                            Capacitaci6n 0 para los Servicios de Examen, incluyendo la denominaci6n "Centro
+                                                                                                      Autorizado de Capacitaci6n Apple".
+
+D.         "Apple Test" means an Apple proprietary examination delivered at an             D.         "Examen Apple", significa un examen propiedad de Apple impartido en un Sitio
+           Authorized Location and administered by a Training Center.                                 Autorizado por un Centro de Capacitaci6n.
+
+E.         "Aut horized Location" means the location at which Apple authorizes a           E.         "Sit io Autorizado", significa el sitio en donde Apple ha autorizado al Centro de
+           Training Center to provide Training Classesand Testing Services under                      Capacitaci6n para que imparta C1ases de Capacitaci6n y Servicios de Examen en
+           th is Agreement.                                                                           terrninos de este Contrato.
+
+F.         "Certified Trainer" means an individual certified by Apple to instruct          F.         "Instructor Certificado", significa el individuo certificado por Apple para impartir
+           Apple Course Material at a Training Class.                                                 Cursos sobre el Material de Apple en una Clase de Capacitaci6n.
+
+G.         "Confidential Information" means confidential information disclosed by          G.         "lnformaci6n Confidencial", significa la informaci6n confidencial divulgada por
+           either party to the other, which is not generally available to others,                     cualquiera de las partes a la otra, la cual generalmente no esta disponible a
+           including but not limited to any non-public information relating to the                    terceros, incluyendo pero sin limitar, cualquier informaci6n no-publica relativa a la
+           other party's research, development, proprietary technology, product and                   investigaci6n, desarrollo, secretos industriales, planes de productos y
+           marketing plans, finances, personnel, business opportunities, and pricing,                 mercadotecnia, finanzas, personal, oportunidades de negocios y precios de la otra
+           but does not include information that becomes public knowledge except to                   parte, sin incluir la informaci6n que se haga del conocimiento publico excepto
+           the extent made public in violation of this Agreement.                                     cuando se haga publica en contravenci6n con este Contrato.
+
+H.         "Instructor Material" means Apple's proprietary course curriculum for use by    H.         "Material de Instrucci6n", significa los cursos curriculares propiedad de Apple para
+           a Certified Trainer to assist in instructing Students on the subject matter                el uso de un Instructor Certificado, para asistir en la instrucci6n de Estudiantes en la
+           being taught during a Training Class.                                                      materia objeto de ensefianza durante una Clase de Capacitaci6n.
+
+I.         "Student" means an individual who registers with a Training Center to           I.         "Estudiante", significa el sujeto registrado en el Centro de Capacitaci6n para asistir
+           attend a Training Class.                                                                   a C1ases de Capacitaci6n.
+
+J.         "Student Material" means Apple's authorized and/or proprietary course           J.         "Material de Estudiantes", significa, los cursos curriculares autorizados y/o
+           curriculum for use by Students to assist in learning about the subject matter              propiedad de Apple, para el uso de los Estudiantes a fin de asistir su aprendizaje
+           being taught during a Training Class.                                                      sobre la materia objeto de ensenanza durante la Clase de Capacitaci6n.
+
+K.         "Testing Services" means the scheduling, delivery, and proctoring of any        K.         "Servicios de Exarnenes", significa la programaci6n, aplicaci6n y supervisi6n de uno
+           and all Apple Tests offered and delivered to Candidates through the                        o todos los Exarnenes Apple ofrecidos y aplicados a Candidatos mediante el Centro
+           Training Center, and the performance of related activities and procedures                  de Capacitaci6n, y la ejecuci6n de actividades relacionadas y procedimientos en
+           incidental thereto as required by Apple                                                    torno a las actividades sequn 10 solicite Apple.
+
+L.         "Training Center" means an entity authorized by Apple to provide Training       L.         "Centro de Capacitaci6n", significa la entidad autorizada por Apple para
+           Classes and/or Testing Services at an Authorized Location.                                 proporcionar C1ases de Capacitaci6n y/o Servicios de Examenes en un Sitio
+                                                                                                      Autorizado.
+
+M.         "Training Class" means a course of instruction in which a body of Students      M.         "C1ase de Capacitaci6n", significa un curso 0 instrucci6n en el cual un grupo de
+           registered with a Training Center and led by a Certified Trainer are taught a              Estudiantes inscritos con el Centro de Capacitaci6n y dirigidos por un Instructor
+           subject matter with the use of Apple Course Materials at an Authorized                     Certificado, reciben instrucci6n sobre la materia objeto de ensenanza con Material
+           Location.                                                                                  de Curso Apple en un Sitio Autorizado.
+
+N.       "Policies and Practices" means policies, practices and programs that (il          N.         "Politicas y Practicas", significan las politicas, practkas y programas que (i) regulen
+         govern Training Center's performance under this Agreement and its use of                     el desernpeno de las actividades del Centro de Capacitaci6n en terrninos de este
+         or activities under or with respect to any other Apple-provided resources                    Contrato as! como el uso del mismo 0 las actividades conforme 0 relativas a
+
+
+APPLE CONFIDENCIAL - AATC 6-6-07                                                                                                                                                  Page 1 of2
+         and systems, (ii) are posted on the Apple sales web or other Apple web
+                                                                                           ti.      cualquier otro sistema 0 recurso proporcionado por Apple; (ii) que estan
+         sites or otherwise provided to Training Center, and (iii) may be updated                   disponibles en la paqlna web de ventas de Apple 0 en otro sitio web de Apple 0
+         periodically by Apple at Apple's sole discretion.                                          que de otra forma se proporcionen al Centro de Capacitaci6n, y (iii) sujetas a
+                                                                                                    posibles actualizaciones de Apple a discreci6n exclusiva de Apple.
+
+2. Appointment; Apple appoints Training Center as a limited and nonexclusive               2. Nombramiento. Apple nombra al Centro de Capacitaci6n como un Centro de
+Apple Authorized Training Center for the delivery of Training Classes and/or Testing       Capacitaci6n Autorizado por Apple limitado y no exclusivo, para impartir C1ases de
+Services to Students in accordance with the terms of this Agreement; and Training          Capacitaci6n y/o Servicios de Exarnenes a estudiantes, de conformidad con los terrninos de
+Center accepts this appointment.                                                           este Contrato; y el Centro de Capacitaci6n acepta este nombramiento.
+
+3. Scope of Authorization.                                                                 3. Alcance de la Autorizaci6n.
+A. Upon Apple's confirmation that Training Center has compliant Authorized                 A. Previa confirmaci6n de Apple de que el Centro de Capacitaci6n cuenta con un(os) Sitio(s)
+Location(s) and available Certified Trainers, Training Center is authorized to deliver     Autorizado(s) adecuado(s) y Instructores Certificados Disponibles. EI Centro de Capacitaci6n
+Training Classes and/or Testing Services, as authorized under this Agreement.              estara autorizado para impartir C1ases de Capacitaci6n y/o Servicios de Exarnenes, sequn
+Training Center will determine its own prices for delivery of a Training Class and/or      este autorizado en terrnlnos de este Contrato. EI Centro de Capacitaci6n determinara sus
+an Apple Test.                                                                             precios para impartir las C1ases de Capacitaci6n y/o un Examen Apple.
+
+B. Notwithstanding anything to the contrary, Apple reserves the right to add or            B. No obstante cualquier disposici6n en contrario, ante cualquier practice en contrario,
+remove a Training Center's Authorized Location, authorized Training Class or               Apple se reserva el derecho de adicionar 0 suprimir el Sitio Autorizado del Centro de
+authorized Apple Test modify the scope of the Training Center's authorization under        Capacitaci6n, una Clase Autorizada de Capacitaci6n, 0 un Examen Apple Autorizado, 0 de
+this Agreement at any time upon thirty (30) days prior written notice.                     modificar el alcance de la Autorizaci6n del Centro de Capacitaci6n en terrnlnos de este
+                                                                                           Contrato, en cualquier momento, previo aviso por escrito con treinta (30) dias de
+                                                                                           anticipaci6n.
+
+C. Notwithstanding anything to the contrary, Apple reserves the right to add,              C. Independientemente de disposici6n en contrario, Apple se reserva el derecho de
+remove or modify the Policies and Practices at any time without notice. Training           adicionar, suprimir 0 modificar las Politicas y Practices en cualquier momento sin previo
+Center will have a commercially reasonable period oftime to implement changes by           aviso. EI Centro de Capacitaci6n tendra un plazo comercialmente razonable para
+Apple, not to exceed thirty (30) days.                                                     instrumentar las modificaciones efectuadas por Apple, el cual no excedera de treinta (30)
+                                                                                           dias.
+
+D. Training Center will only use Apple Course Material or Apple Tests when                 D. EI Centro de Capacitaci6n unicarnente utilizara el Material de Curso Apple 0 Exarnenes
+delivering Training Classes or providing an examination in which the subject matter        Apple cuando se impartan C1ases de Capacitaci6n 0 exarnenes en los cuales la materia
+is related to a product that is proprietary to Apple. Training Center will not utilize     objeto de estudio este relacionada con un producto exclusivo de Apple. EI Centro de
+used Student Material to deliver Training Classes.                                         Capacitaci6n no hara uso de Material de Estudiantes usado para impartir C1ases de
+                                                                                           Capacitaci6n.
+
+4. Training Center's Obligations.                                                          4. Obligaciones del Centro de Capacitaci6n.
+A. Training Center shall act at all times and conduct its activities in a professional     A. EI Centro de Capacitaci6n se conducira y desemperiara sus actividades de manera
+and competent manner and maintain a high level of customer satisfaction. Without           profesional y competente y mantendra un alto nivel de satisfacci6n del c1iente.Sin limitar, el
+limitation, Training Center will: (i) adhere to all requirements of the Policies and       Centro de Capacitaci6n: (i) se sujetara a todos los requisitos de las Politicas y Practices: (ii) se
+Practices; (ii) communicate with Students in a courteous and timely manner,                conducira con los Estudiantes de manera cortes y puntual, proporclonandoles la
+providing information on and availability of Training Classes and Apple Tests; (iii)       informaci6n disponible sobre C1ases de Capacitaci6n y Exarnenes Apple; (iii) reqlstrara a los
+register Students and provide administration services that among others enable the         Estudiantes y llevara a cabo servicios de administraci6n que entre otros, perrnitira el facilitar
+facilitation and confirmation of Customer's payment; (iv) acquire and keep current at      y confirmar el pago de los c1ientes; (iv) adquiriran y rnantendran en todo momento un
+all times an inventory of Apple Course Material or eligibility codes that is reasonably    inventario del Material de Cursos Apple 0 de c1aves disponibles, que sea razonablemente
+sufficient to meet Training Center's obligations under this Agreement; (v) obtain all      suficiente para permitir al Centro de Capacitaci6n el cumplir con sus obligaciones en
+required certifications, registrations and licenses, and comply with all federal, state    terrnlnos de este Contrato; (v) debera obtener todos los certificados necesarios, registros y
+and local laws and regulations; and (vi) make commercially reasonable efforts to           licencias, y debera cumplir con todas las leyes y reglamentos federales, estatales y locales; y
+notify Students of the copyright notice contained within the Student Course                (vi) hara los esfuerzos comercialmente razonables para notificar a los Estudiantes sobre los
+Material.                                                                                  derechos de autor contenidos en el Material de Curso de los Estudiantes.
+
+B. Training Center will maintain an Internet email address, that it will provide to        B. EI Centro de Capacitaci6n conservara una direcci6n de correo electr6nico, misma que Ie
+Apple, and have Internet access at all times. Training Center will access Apple's          proporcionara a Apple, y tendra acceso a Internet en to do momento. EI Centro de
+channel web sites at least weekly to ascertain whether Apple has modified the              Capacitaci6n entrara a la paqina web de Apple al menos una vez a la semana para
+Policies and Practices.                                                                    informarse si Apple ha modificado las Politicas y Practicas.
+
+C. Training Center will notify Apple promptly in writing of any suspected intellectual     C. EI Centro de Capacitaci6n notificara a Apple puntualmente y por escrito sobre cualquier
+property infringement or erroneous information contained in the Apple Course               posible violaci6n a los derechos de autor 0 sobre informaci6n err6nea contenida en el
+Materials and/or Apple Tests.                                                              Material de Curso Apple y/o en los Exarnenes Apple.
+
+D. Training Center will pay all applicable sales or use taxes, duties and other imposts    D. EI Centro de Capacitaci6n pagara todos los impuestos respecto de ventas 0 usos,
+due on account of purchases made under this Agreement. Training Center will be             derechos 0 cualquier otra contribuci6n derivada de adquisiciones en terrninos de este
+responsible for the collection of all applicable sales tax and use taxes associated with   Contrato. EI Centro de Capacitaci6n sera responsable de recaudar todos los impuestos
+the resale of Apple Tests or provision of Training Classes.                                aplicables en relaci6n con las ventas 0 uso, asociados a la reventa de Exarnenes Apple 0 por
+                                                                                           impartir C1ases de Capacitaci6n.
+
+E. The Training Center agrees that the method of delivery and technical discussions        E. EI Centro de Capacitaci6n acuerda que el rnetodo para transmitir y discutir tecnicamente
+of the Apple Course Materials shall be based on those demonstrated to Certified            sobre el Material de Curso Apple, se basara en el material enseriado allnstructor Certificado
+Trainers during the Apple Certified Trainer Train-the-Trainer (T3) Program. Class          durante el Programa de Capacitaci6n para Instructores Certificados Apple (T3). Las
+discussions and laboratory exercises will be consistent with those defined in the          discusiones en Clase y en los ejercicios de laboratorio seran consistentes con aquellas
+Apple Course Materials.                                                                    definidas en el Material de Curso Apple.
+
+F. Training Center shall deliver Training Classes using only Apple Course Materials.       F. EI Centro de Capacitaci6n irnpartira C1ases de Capacitaci6n utilizando unicamente el
+Training Center shall provide one set of Student Course Materials for each Student         Material de Curso Apple. EI Centro de Capacitaci6n entregara un paquete de Material de
+enrolled in the Training Class and will not use any other materials, unless otherwise      Curso de Estudiante por cada Estudiante inscrito en la C1ase de Capacitaci6n y no utilizara
+agreed in writing by Apple. Training Center will not alter, add to or delete from, or      otro material, salvo que 10 acuerde Apple por escrito. EI Centro de Capacitaci6n no alterara,
+teach part of the course curriculum, Instructor or Student Course Material                 adklonara 0 borrara, ni enseriara parte del curso curricular, ni de presentaciones de Material
+presentation slides at any time without prior written authorization from Apple.            de Curso de Instructor 0 de Estudiante, en ninqun momento sin previa autorizaci6n por
+Training Center is not authorized to provide copies of Apple Course Materials to any       escrito de Apple. EI Centro de Capacitaci6n no esta autorizado para proporcionar copias del
+                                                                                           Material de Curso Apple a ninguna persona que no este inscrita en las C1ases de
+
+APPLE CONFIDENCIAL - MTC 6-6-07                                                                                                                                                    Page2 of2
+person not enrolled in the Training Class. Training Center may subject itself to
+infringement action if it distributes or permits the use of Apple Course Material not
+author ized under this Agreement.
+
+5. Confidentiality.
+                                                                                              ••
+                                                                                              Capacitacion. EI Centro de Capacitacion sera responsable por cualqu ier violacion causada
+                                                                                              por la distribucion 0 el permiso de uso de Material de Curso Apple que no se haya
+                                                                                              autori zado en terrninos de este Contrato.
+
+                                                                                              5. Confidencialidad.
+Neither party will use the other's Confidential Information except as required to             Ninguna de las partes hara uso de la Informacion confidencial salvo que se requiera par
+achieve the objectives of th is Agreement, or disclose such Confidential Information          lograr los objetivos de este Contrato, 0 para transmitir tal Informacion Confidencial a
+except to employees, agents or contractors who have a need to know or as required             empleados, agentes 0 prestadores de servicios que requieran esta informacion 0 segun 10
+by law. Neither party will make any disclosure or statement of Confidential                   exija la ley. Ninguna de las partes divulgara 0 hara declaraciones de Informacion
+Information in connection with this Agreement or its subject matter without the               Confidencial relacionada con este Contrato 0 su materia, sin el consent imiento por escrito
+other's prior written consent or as required by law.                                          previo de la otra parte 0 sequn 10 establezca la ley.
+
+6. Limited Warranty.                                                                          6. Garantia Limitada .
+A. Apple warrants to Training Center that Apple Course Material and Instructor                A. Apple garantiza al Centro de Capacitacion que el Material de Curso Apple y el Material de
+Materials conform to their general descript ions and are in good condition. These             Instructor cumple conformes con su descripdcn general y se encuentran en buenas
+warranties are nontransferable . Training Center's sole and exclusive remedy for any          cond iciones. Estas garantias no son transfer ibles. La unica cornpensacion otorgada al Centro
+breach of th is warranty is replacement of the item upon return to Apple of the               de Capacitacion por cualquier incumplimiento respecto de estas garantias es el reemplazo
+nonconforming item, if applicable.                                                            del producto previa devolucion a Apple del producto que no cumpla con las garantias, de
+                                                                                              ser aplicable.
+
+B. APPLE MAKES NO OTHER WARRANTY TO TRAINING CENTER, EITHER EXPRESS OR                        B. APPLE NO OTORGA NINGUNA OTRA GARANTfA AL CENTRO DE CAPACITACI6N, YA SEA
+IMPLIED, WITH RESPEG TO ANY ITEMS PROVIDED BY APPLE UNDER THIS                                EXPRESA 0 IMPLfclTA, RESPEGO A LOS ART[CULOS SUMINISTRADROS POR APPLE EN
+AGREEMENT. APPLE SPECIFICALLY DISCLAIMS THE IMPLIED WARRANTIES OF                             TtRMINOS DE ESTE CONTRATO. APPLE ESPEC[FICAMENTE NIEGA LAS GARANTIAS
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.                                         IMPLfClTAS DE COMERCIABILIDAD Y ADECUACI6N PARA UN PRop6sITO EN ESPECJFICO.
+
+7. Records, Inspections, Reporting and Audit.                                                 7. Registros,lnspecciones, Reportes y Auditoria.
+A. Unless otherwise instructed by Apple, Training Center will report to Apple on a            A. Salvo que Apple disponga 10contrar io, el Centro de Capacitacion Ie reportara a Apple de
+regular basis as defined by the Policies and Practices the number of Students                 manera regular, sequn se determine en las Politicas y Practices, el nurnero de Estudiantes
+enrolled in Training Class, the type and number of Training Classes held by Training          inscritos en Clases de Capacitacion, el tipo y nurnero de Clases de Capacitacion impartidas
+Center, and any other information reasonably related to the provision of Training             por el Centro de Capacitacion, y cualquier otro informacion razonable relacionada con la
+Classes or Testing Services, as requested by Apple. Apple will have the right to              impart icion de Clases de Capacitaci6n 0 de Servicios de Examenes, segun 10 solicite Apple.
+inspect Training Center's Authorized Locations and related facilities at any time             Apple tendr a derecho de inspeccionar el Sitio Autorizado del Centro de Capacltacion y
+during regular business hours for purposes of verifying Training Center's compliance          cualquier instalaclon relacionada en cualqu ier momento dentro de las horas de negocio ,
+with the term s of thi s Agreement and the Policies and Practices.                            para verificar el cumplimiento del Cetro de Capacitacion con los terrnlnos de este Contrato
+                                                                                              y las Politicas y Practicas.
+
+B. Training Center will maintain, at the applicable Author ized Location, its records         B. EI Centro de Capacltacion rnantendra, en el Sitio Autorizado, sus registros relatives a la
+relating to the delivery of Apple Tests and/or Training Classes for at least five (5)         entrega de Exarnenes Apple ylo sobre C1ases de Capacitaclon durante al meno s cinco (S)
+years from the date of this Agreement. Upon Apple's reasonable request, during the            anos desde la fecha de este Contrato . A solicitud razonable de Apple, durante la vigencia de
+term of th is Agreement and for five (5) years after its expiration or termination,           este Contrato y por cinco (5) anos despues de su explraclon 0 terrnlnacion, el Centro de
+Training Center will promptly provide copies of any requested records, financial              Capacitacion proporclonara puntualmente copias de cualquier registro solicitado, estados
+statements and documents to Apple.                                                            financieros 0 documentos a Apple.
+
+C. Training Center will provide Apple with resale certificate numbers and any other           C. EI Centro de Capacitacion proporcionara a Apple, con el nurnero de factura, cualquier
+documentation requested by taxing authorities to substantiate any claim of                    otro documento solicitado por las autoridades fiscales para sustentar cualquier demanda 0
+exemption from taxes,duties, or imposts.                                                      excepcion respecto de impuestos, derechos 0 contribuciones.
+
+D. In addition to any other rights of inspection Apple may have under this                    D. En adicion a cualquier otro derecho de inspeccion que Apple pueda tener en terrnmos
+Agreement, Training Center shall, upon written request, during normal business                de este Contrato, el Centro de Capacitaci6n, a solicitud por escrito de Apple y dentro de las
+hours, but not more frequently than once each calendar year, provide access to                horas de negocio, pero no con mas frecuencia que una vez cada ano, dara acceso a los
+pertinent records relating to purchases and payments made in connection with the              registros correspondientes relativos ala adquisici6n y pagos efectuados en conexion con el
+Training Center Program thereto, to an independent accounting firm chosen and                 Programa del Centro de Capacitacion, a la firma contable que escoja y que sera pagada por
+compensated by Apple, for purposes of audit. Such accounting firm shall be                    Apple, a fin de lIevar a cabo una auditorfa. Esta firma contable estara autorizada para
+authorized to report to Apple the amount of payments due and payable for the                  reportar a Apple el monto de pagos debidos y pagables durante el periodo de anallsis. Si de
+period examined. If the audit discloses any noncompliance with this Agreement,                fa auditoria se determina el incumplimiento de este Contrato, el Centro de Capacltacion
+then Training Center shall immediately remedy the noncompliance, and should                   remediara inmediatamente estos incumplimientos, y si el incumplimiento es una
+noncompliance represent a discrepancy in payments of greater than three percent               discrepancia en los pagos por un monto mayor al tres por ciento (3%), el Centro de
+(3%), Training Center shall be obligated to reimburse Apple for the discrepancy as            Capacitacion quedara obligado a rembol sar a Apple por la discrepancia asi como por los
+well asthe cost of the audit.                                                                 gastos de la auditoria.
+
+8. Proprietary Marks.                                                                         8. Marcas.
+A. Apple Marks                                                                                A. Marcas Apple
+Training Center is permitted to use the Apple Marks and the designation "Apple                EI Centro de Capacitaclon podra usar las Marcas Apple y la denorninacicn "Centro de
+Authorized Training Center" in furtherance of Training Center's appointment,                  Capacitacion Autorizado Apple" en atencion al nombramiento del Centro de Capacitacion,
+provided that all such use complies with Apple's policies (including Apple's                  siempre y cuando este uso cumpla con las pol iticas de Apple (incluyendo los Lineamientos
+Guidelines for Using Apple Trademarks and Copyrights as pub lished on Apple's web             de Apple para Usar Marcas Apple y Derechos de Autor, publicadas en la paqina web de
+site at http://www.apple.comllegal /trademarklgu idelinesfor3rdparties.html) as               Apple http ) / ww w.apple.com/ legallt rademarkl guidelinesfr03rdparties.ht ml). sequn se
+updated from time to time . This Agreement does not grant to Training Center any              actualicen de tiempo en tiempo . Este Contrato no otorga el derecho al Centro de
+rights with respect to any other Apple intellectual property, including trade dress,          Capacitacion respecto de cualquier otra propiedad intelectual de Apple, incluyendo la
+design (and particularly the design of Apple 's retail stores and web sites), and look        imagen comercial, diseno (particularmente el dlsefio de Apple en relaclon con sus tiendas y
+and feel, and Apple reserves all rights to the exclusive use of its intellectual property .   paqinas web), la presentaci6n y la forma (look and feel), y Apple se reserva el derecho para
+Other than specifically authorized by this Agreement or another agreement between             usar exclusivamente su propiedad intelectual. Salvo 10especificamente autorizado en este
+Training Center and Apple, Training Center will not do anything that suggests                 Contrato u otro contrato entre el Centro de Capacitacion y Apple, el Centro de Capacitaclon
+Apple's endorsement or recommendation or otherwise creates an association with                no ejecutara ninguna acci6n que sugiera el apoyo 0 recomendacion de Apple 0 que de otra
+Apple. Training Center agreesthat Apple owns all rights in the Apple Marks, and that          forma forme una asociaci6n con Apple. EI Centro de Capacitaci6n acuerda que Apple es
+any use by Training Center shall inure to the benefit of Apple. Except as expressly           propietaria de todos los derechos de las Marcas Apple, y que cualquier uso por el Centro de
+permitted hereunder, Training Center agrees not to use any Apple trademark,                   Capacitacion sera en beneficio de Apple. Salvo por 10 expresamente permitido en esta
+service mark, logo, trade dress, design, "look and feel" (e.g., the design and layout of      dausula, el Centro de Capacitaci6n acuerda que no usara ninguna marca Apple, marca de
+Apple's retail stores or websites, or the name under which Training Center does               servicios, logo, presentaci6n, imagen, presentaci6n y forma (look and feel) (e.g., el diseno y
+business) in any manner whatsoever, or act in any manner that implies an                      distribucion de las tiendas de Apple 0 las paginas de Apple, 0 el nombre bajo el cual el
+
+APPLE CONFIDENCIAL - AATC6-6-07                                                                                                                                                 Page 3 of 3
+
+
+
+                                                                                                                                                         lJ f/
+                                                                                                                                                        )J;Jr
+endorsement of Training Center by Apple. Training Center will not remove,                   Centro de Capacitaci6n conduce su negocio) en ninguna forma, ni podra conducirse de tal
+obfuscate or add any mark to any Apple Course Material provided by.                         manera que implique el apoyo de Apple al Centro de Capacitaci6n. EI Centro de
+                                                                                            Capacitaci6n no rernovera, ofuscara 0 adlclonara ninguna marca a ninqun Material de curso
+                                                                                            Apple.
+
+B. Training Center Publications                                                             B. Publicaciones del Centro de Capacitaci6n
+All course catalogues, promotion publications and other materials promoting                 Todos los cataloqos de cursos, publicaciones de promociones y otro material que
+Training Classes offered by the Training Center must be reviewed and approved by            promuevan Clases de Capacitaci6n ofrecidas por el Centro de Capacitaci6n, deben de ser
+Apple in writing before publication to ensure Apple's third party guidelines on             revisadas y aprobadas por Apple, por escrito antes de su publicaci6n a fin de asegurar que
+Trademark use are being met. Apple will use reasonable efforts to approve                   se estan cumpliendo los lineamientos de Apple para el uso de Marcas por terceros. Apple
+publications within a commercially reasonable period of time not to exceed thirty           hara el esfuerzo razonable para aprobar las publicaciones dentro de un periodo
+(30) days. Apple shall consider requests from Training Center for "template approval"       comercialmente razonable, el cual no excedera de treinta (30) dias. Apple conslderara la
+such that standard layout and design of Training Center's course catalogues,                solicitud del Centro de Capacitaci6n para "autorizaci6n de diseno", para que el diseno
+promotion publications and other materials can be approved in advance. Such                 estandar del Centro de Capacitaci6n del cataloqo de cursos, publicaciones de promoci6n y
+template approval requests will only be approved on the condition that Training             otro material, pueda ser aprobado por adelantado. Esta aprobaci6n de diseno s610 sera
+Center ensures that it always refers to and complies with the latest version of Apple's     autorizada con la condici6n de que el Centro de Capacitaci6n se asegure que siempre se
+third party guidelines on Trademark use prior to re-using any pre-approved                  refiere y cumple con la ultima versi6n de los lineamientos de Apple para el uso de Marcas
+template, and that the templates are submitted to Apple for reassessment no less            por terceros antes de usar nuevamente un disefio pre-autorizado, y que el diseno sea
+than once every six (6) months.                                                             presentado a Apple para reevaluaci6n cada seis (6) meses.
+
+C. Instructor Materials and Apple Tests                                                     C. Material de Instructor y Examen Apple
+Training Center acknowledges and agrees that the Instructor Materials and Apple             EI Centro de Capacitaci6n reconoce y acuerda que el Material de Instructor y los Exarnenes
+Tests are proprietary to Apple and that Apple retains all rights, title, and interest, in   Apple son propiedad de Apple y que Apple mantiene el derecho, titulo e interes, tanto
+so far as it has right thereto. Training Center agrees that this Agreement does not         como 10 ha mantenido ala fecha. EI Centro de Capacitaci6n acuerda que este Contrato no
+grant Training Center any title or other right of ownership to the Instructor Materials     otorga al Centro de Capacitaci6n ninqun derecho 0 cualquier otro derecho de propiedad
+or Apple Tests, or any title, license or other right of ownership to any Apple              sobre el Material de Instructor 0 Examenes de Apple, ni cualquier titulo, licencia u otro
+trademark. Training Center will not disassemble, copy, modify, create derivative            derecho de propiedad sobre ninguna marca Apple. EI Centro de Capacitaci6n no separara,
+works, or otherwise change the Instructor Materials or Apple Tests.                         coplara, modiflcara, creara trabajos derivados 0 de cualquier otra forma carnblara el Material
+                                                                                            de Instructor 0 los Examenes Apple.
+
+D. Apple Proprietary Customer Information                                                   D.lnformaci6n de Clientes Propiedad de Apple
+Training Center acknowledges that (i) Apple maintains customer information                  EI Centro de Capacitaci6n esta de acuerdo en que (i) Apple conserva informaci6n de
+independently derived from numerous sources other than Training Center, including           clientes independiente que deriva de varias fuentes diferentes al Centro de Capacitaci6n,
+product registration and use of Apple's websites by customers and prospective               incluyendo por el registro de productos y el uso de las paqinas web de Apple por clientes y
+customers; (ll) such customer information may be identical to information that              prospectos de clientes; (ii) esta informaci6n de c1ientes puede ser identica a la informaci6n
+Training Center has developed or maintains; and (iii) Apple has a proprietary interest      que el Centro de Capacitaci6n pudo haber desarrollado 0 que mantiene; y (iii) Apple tiene el
+in such customer information when derived from sources other than Training                  interes de propietario sobre esta informaci6n de c1ientes cuando deriva de fuentes
+Center, whether or not Training Center has derived or maintains identical                   diferentes al Centro de Capacitaci6n, independientemente de si el Centro de Capacitaci6n
+information. Training Center disclaims any interest whatsoever in Apple's proprietary       mantenga informaci6n ldentka EI Centro de Capacitaci6n renuncia a cualquier interes cual
+customer information.                                                                       quiera sobre la informaci6n de c1ientes propiedad de Apple.
+
+9. Insurance.                                                                               9. Seguros.
+For each Authorized Location, Training Center will have a general liability insurance       Por cada Sitio Autorizado, el Centro de Capacitaci6n contera con una p6liza de seguro por
+policy, including coverage for premises liability, products, and completed operations.      responsabilidad amplia, incluyendo cobertura sobre las instalaciones, productos y las
+This policy will have limits of not less than one million dollars ($1,000,000) per          operaciones en su totalidad. Esta p61iza tendra un limite no menor a un mill6n de d61ares
+incident for bodily, personal injury or property damage, or one million dollars             ($1,000,000.00) por incidente, por lesiones corporales y personales 0 dano a la propiedad, 0
+($1,000,000) in a combined single limit, and a Certificate of Insurance will be made        un mill6n de d61ares ($1,000,000.00) como unico limite combinado, y se Ie proporclonara a
+available to Apple at its request.                                                          Apple un Certificado de Seguro, sequn 10solicite Apple.
+
+10. Indemnity.                                                                              10.lndemnizaciones
+A. Training Center will defend, hold harmless and indemnify Apple against any claim         A. EI Centro de Capacitaci6n defendera, sacara en paz y a salvo e indemnizara a Apple de
+or threat of claim brought by a third party against Apple arising out of the acts or        cualquier demanda 0 posible demanda presentada por un tercero en contra de Apple,
+omissions of Training Center, its employees or agents, excluding acts or omissions          derivado de los actos u omisiones del Centro de Capacitaci6n, sus empleados 0 agentes,
+expressly required or prescribed by Apple under this Agreement.                             excluyendo los actos u omisiones expresamente requeridos 0 establecidos por Apple en
+                                                                                            terrninos de este Contrato.
+
+B. If Apple seeks indemnification provided for in this Section, Apple will cooperate        B. Si Apple requiere la indemnizaci6n establecida en esta Clausula, Apple cooperara y
+with and provide reasonable assistance in the defense or settlement of any claim or         proporcionara asistencia razonable en la defensa 0 transacci6n de cualquier demand a 0
+legal proceeding. Training Center and Apple will not make public any terms, or the          procedimiento legal. EI Centro de Capacitaci6n y Apple no haran publicos los terrninos, 0
+mere existence, of any settlements.                                                         siquiera la existencia de cualquier transacci6n.
+
+11. Limitation of Liability and Remedies.                                                   11. Limite de la Responsabilidad e Indemnizaci6n.
+DIREG DAMAGES FOR ALL CLAIMS MADE BY TRAINING CENTER ARISING WITH                           CUALQUIER DANa DIREGO RESPEGO DE TODAS LAS DEMANDAS PRESENTADAS paR UN
+RESPEG TO ANY PRODUG TRAINING CENTER BUYSFROM APPLESHALL BE LIMITED                         CENTRO DE CAPACITACl6N QUE SURJAN EN TORNO A CUALQUIER PRODUGO QUE EL
+TO THREE HUNDREDTHOUSAND DOLLARS ($300,000) FORALL CLAIMS ARISINGOUT                        CENTRO DE CAPACITACl6N ADQUIERA DE APPLE SE L1MITARA A TRESCIENTOS MIL
+OF THIS AGREEMENT. IN NO EVENT, WHETHER AS A RESULT OF BREACH OF                            D6LARES ($300,000) PARA TODAS LAS DEMANDAS QUE SURJAN DE ESTE CONTRATO.
+CONTRAG, WARRANTY, TORT, STRIG LIABILITY, STATUTE OR OTHERWISE, SHALL                       APPLE EN NINGUN CASO SERA RESPONSABLE paR DANOS Y PERJUICIOS, DANOS
+APPLE BE LIABLE FOR INCIDENTAL, CONSEQUENTIAL, SPECIAL OR INDIREG                           ESPECIALES a INDIREGOS (lNCLUYENDO, SIN L1MITACl6N, LAS DEMANDAS paR
+DAMAGES (INCLUDING, WITHOUT LIMITATION, CLAIMS FOR LOST BUSINESS PROFITS                    UllLlDADES 0 INGRESOS DE NEGOCIOS, PtRDIDA DE INFORMACI6N, INTERRUPCl6N DE
+OR REVENUE, LOSSOF DATA, INTERRUPllON IN USE, UNAVAILABILITY OF DATA, OR                    usa, INFORMACI6N NO DISPONIBLE, 0 EL COSTO DE CONSEGUIR BIENES SUSllTUTOS 0
+THE COST OF THE PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES) OR FOR                         SERVICIOS) 0 paR DANOS PUNIllVOS a EJEMPLARES, QUE SEAN RESULTADO DEL
+PUNIllVE OR EXEMPLARY DAMAGES. This Limitation is a critical element of the                 INCUMPLIMIENTO DEL CONTRATO, DE UNA GARANTfA, DE LA LEGISLACI6N CIVIL, POR
+parties' bargained-for consideration and will be effective even in the event Apple is       RESPONSABILIDAD OBJEllVA, LEYES EN GENERAL U OTROS. Esta limitaci6n es un elemento
+informed in advance of the possibility of such damages. The remedies set forth in           critico del acuerdo de las partes a considerarse, y sera efectivo inclusive en el supuesto de
+this Agreement shall be Training Center's sole and exclusive remedies for any claims        que Apple reciba informaci6n por adelantado de la posibilidad de tales danos. La
+against Apple under or related to this Agreement.                                           indemnizaci6n establecida en este Contrato sera la unica para cualquier demanda en contra
+                                                                                            de Apple en terrnlnos 0 en relaci6n con este Contrato.
+
+
+
+
+APPLE CONFIDENCIAL - AATC 6-6-07                                                                                                                                               Page4 of4
+12. Term and Termination.                                                                   12. Termine yTerminaci6n.
+A. Term                                                                                     A. Terrmno
+Unless terminated earlier as provided in this Agreement, the initial term of this           Excepto en caso de terminaci6n anticipada, sequn se establece en este Contrato, el terrnlno
+Agreement will be in effect until June 30, 2008 and unless either party provides            inicial de este Contrato sera hasta el 30 de junio del 2008, y salvo que cualquiera de las
+written notice to the contrary to the other party not less than th irty (30) days before    partes presente notificaci6n por escrito de 10 contrario a la otra parte en un terrnino no
+the expiration of any renewal term, this Agreement shall be renewed for additional          mentor a treinta (30) dias antes de la expiraci6n de cualquier renovaci6n, este Contrato se
+one (1) year periods.                                                                       renovara por un ano mas.
+
+B. Termination                                                                              B. Terminaci6n
+This Agreement may be terminated as follows: (i) either party may terminate this            Este Contrato se podra dar por terminado de la siguiente forma:
+Agreement at any time, with or without cause, on th irty (30) days prior written            (i) cualquiera de las partes podra darlo por terminado en cualquier memento, con 0 sin
+notice to the other party; and (ii) Apple may terminate this Agreement immediately          causa, mediante notificaci6n presentada a la otra parte con treinta (30) dfas de anticipaci6n;
+and without any period to remedy if: (a) Training Center fails to fully perform any         y (ii) Apple podra dar por terminado este Contrato inmediatamente y sin un periodo para
+obligation under this Agreement or violates any practices or procedures set forth           subsanar si: (a) el Centro de Capacitaci6n no cumple total mente con cualquier obligaci6n
+herein, (b) Training Center commits a felony or engages in any unlawful or unfair           prevista en este Contrato 0 viola alguna practka 0 procedimlento establecido en el
+business practice, (c) there is a material change in or transfer of Training Center's       presente, (b) el Centro de Capacitaci6n comete un delito 0 participa en practices
+management, ownership, control, business operations, or Training Center becomes             comerciales ilegales 0 desleales; (c) se presenta un cambio material 0 cesi6n en la
+affiliated, through common management, ownership, or control, with any person               administraci6n del Centro de Capacitaci6n, propiedad, control, operaci6n del negocio, 0 el
+who or entity that is unacceptable to Apple, (d) Training Center's actions expose or        Centro de Capacitaci6n se convierte en afiliada, mediante la administraci6n cornun,
+threaten to expose Apple to any liability, obligation, or violation of law, (e) Training    propiedad 0 control, de cualquier persona 0 entidad que sea inaceptable para Apple; (d)
+Center fails to maintain sufficient net worth and working capital to meet its               que las acciones del Centro de Capacitaci6n 10 expongan 0 exista la posibilidad de que 10
+obligations, has a receiver or trustee appointed for its property, becomes insolvent        expongan a cualquier responsabilidad, obligaci6n, 0 por violaci6n de la ley; (e) el Centro de
+or makes an assignment for the benefit of creditors, (f) Training Center closes its last    Capacitaci6n no mantiene suficientes fondos y capital de trabajo para cumplir con sus
+Authorized Location or terminates its last Certified Trainer, or (g) Training Center        obligaciones, 10 han nombrado fideicomitente respecto de su propiedad, deviene
+abandons th is Agreement.                                                                   insolvente 0 lIeva a cabo una asignaci6n a favor de sus acreedores; (f) el Centro de
+                                                                                            Capacitaci6n cierra su ultimo Sitio Autorizado 0 despide a su ultimo Instructor Certificado, 0
+                                                                                            (g) el Centro de Capacitaci6n renuncia a este Contrato.
+
+C. Effect of Notice ofTermination                                                           C. Efectos de la Notificaci6n de Terminaci6n
+If either party gives notice of termination of this Agreement according to Section          Si cualquiera de las partes notifica la terminaci6n de este Contrato, de conformidad con la
+13B(i): (i) all unpaid Apple invoices will become due on the effective date of              Clausula 13B(i): (i) todas las facturas de Apple pendientes seran exigibles a la fecha efectiva
+termination; and (ii) Apple may refuse all or part of Training Center's orders received     de la terminaci6n; y (ii) Apple podra negarse, en todo 0 en parte, a las 6rdenes recibidas del
+by Apple after the date of notice of termination. Training Center may continue to           Centro de Capacitaci6n despues de la fecha de notificaci6n de terminaci6n. EI Centro de
+use the designation "Apple Authorized Training Center" until the effective date of          Capacitaci6n podra seguir usando la denominaci6n "Centro de Capacitaci6n Autorizado
+termination. In addition, if termination is in accordance with Section 13B(ii), all         Apple", hasta la fecha efectiva de terminaci6n. En adici6n, si la terminaci6n se hace de
+unpaid Apple invoices will become due on the effective date of termination.                 conformidad con la Clausula 13B(iil. todas las facturas Apple no pagadas resultaran exigibles
+                                                                                            en la fecha efectiva de la terminaci6n.
+D. Effect of Expiration or Termination
+Upon expiration or termination of this Agreement: (i) Training Center will                  D. Efectos de la Expiraci6n 0 Terminaci6n
+immediately cease use of the Apple Marks and the designation "Apple Authorized              A la fecha de expiraci6n 0 terminaci6n de este Contrato: (i)el Centro de Capacitaci6n dejara
+Training Center"; (ii) Apple will cancel all eligibility codes issued to Training Center;   de usar inmediatamente las Marcas Apple y la denominaci6n "Centro de Capacitaci6n
+(iii) Training Center will complete all Training Classes in progress; and (iv) Training     Autorizado Apple"; (ii) Apple cancelara todas las c1aves de disponibilidad emitidas al Centro
+Center will return promptly to Apple all Apple property in Training Center's                de Capacitaci6n; (iii) el Centro de Capacitaci6n terrninara todas las Clases de Capacitaci6n
+possession, such as loaned equipment and all Apple Confidential Information.                en curso; y (iv) el Centro de Capacitaci6n devolvera prontamente a Apple, todos los bienes
+                                                                                            propiedad de Apple en posesi6n del Centro de Capacitaci6n, como equipo prestado y toda
+                                                                                            la Informaci6n Confidencial de Apple.
+
+13. General Terms.                                                                          13. Terrnlnos Generales.
+A. Governing Law; Venue; Limitation of Claims                                               A. Legislaci6n aplicable; Jurisdicci6n y Limite de Demandas
+This Agreement will be governed and interpreted under the laws of California, U.S.A,        Este Contrato se regira e interpretara de conformidad con las leyes de California, Estados
+without regard to its conflict of laws provisions, unless the Training Center is a public   Unidos de Norte America, sin poder exceptuar conflicto de leyes, salvo que el Centro de
+institution or agency, in which case this Agreement will be governed and                    Capacitaci6n sea una instituci6n 0 agencia publica, en cuyo caso este contrato se regira e
+interpreted under the laws of the state in which Training Center is located. In the         interpretara de conformidad con las leyes del estado en donde se encuentre el Centro de
+event of any dispute or controversy between the parties to this Agreement, the              Capacitaci6n. En el supuesto de cualquier disputa 0 controversia entre las partes respecto
+parties shall try to resolve the dispute in a fair and reasonable way. To that end, the     de este Contrato, las partes trataran de resolver la disputa de manera justa y razonable. Con
+parties shall first attempt to resolve such dispute or controversy through one senior       ese objeto, las partes primero intentaran resolver tal disputa 0 controversia a traves de un
+management member of each party. If the parties' senior management members are              ejecutivo senior de cada parte. Si los ejecutivos senior no pueden resolver la disputa 0
+unable to resolve such dispute or controversy within sixty (60) days after the              controversia en un terrnino de sesenta (60) dias despues de la notificaci6n por escrito de
+complaining party's written notice (a "Dispute Notice") to the other party of such          queja de la contraparte (Ia "Notificaci6n de Disputa") de tal disputa 0 controversia, las partes
+dispute or controversy, the parties shall further seek to resolve the dispute or            deberan de buscar el resolver la disputa 0 controversia a traves de un procedimiento de
+controversy pursuant to non-binding mediation conducted in either Santa Clara               mediaci6n no obligatorio, a conducirse en el Condado de Santa Clara 0 el Condado de San
+County or San Francisco County, California. Each party shall bear its own expenses in       Francisco, California. Cada parte debera de sufragar sus propios gastos en relaci6n con el
+connection with the mediation, except that Apple shall pay the fees and expenses of         procedimiento de mediaci6n, excepto de que Apple paqara los gastos del mediador. Si las
+the mediator. If the parties are unable to resolve the dispute or controversy within        partes no son capaces de resolver la disputa 0 controversia dentro de sesenta (60) dias
+sixty (60) days after commencing mediation, either party may commence litigation            despues de haber comenzado la mediaci6n, cada parte podra dar inicio a un litigio ante los
+in the state or federal courts in Santa Clara County, California (but only such courts).    Tribunales Estatales 0 Federales del Condado de Santa Clara, California (pero s610 ante estos
+Notwithstanding the foregoing, each party shall have the right to seek equitable            Tribunales). No obstante, cada parte tendra el derecho de solicitar medidas preventivas 0
+relief in order to protect any rights to confidentiality or intellectual property. The      precautorias a fin de proteger cualquier derecho de confidencialidad 0 de propiedad
+parties hereby waive any bond requirements for obtaining equitable relief. To the           intelectual. Las partes aqui renuncian a cualquier requisito de exhibici6n de fianza para
+extent permitted by law, EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES ALL                    obtener medidas preventivas 0 precautorias. En tanto permitido por la ley, CADA PARTE
+RIGHT OF TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM                            RENUNCIA IRREVOCABLEMENTE A TODO DERECHO DE JUICIO POR JURADO BAJO
+(WHETHER OR NOT RELATING TO OR ARISING OUT OF WITH THIS AGREEMENn. ANY                      CUALQUIER CONDICI6N, PROCEDIMIENTO 0 CONTRADEMANDA (SEA 0 NO RELACIONADA
+LITIGATION ARISING OUT OF ANY DISPUTE OR CONTROVERSY BETWEEN THE PARTIES                    A 0 QUE SURJA DE ESTE CONTRATO). CUALQUIER L1TIGIO QUE SURJA DE CUALQUIER
+TO THIS AGREEMENT MUST BE BROUGHT WITHIN ONE (1) YEAR FROM THE FIRST                        DISPUTA 0 CONTROVERSIA ENTRE LAS PARTES EN ESTE CONTRATO DEBE DE PRESENTARSE
+DATE SUCH ACTION COULD HAVE BEEN BROUGHT. IF A LONGER PERIOD IS                             DENTRO DEL "ITRMINO DE UN (1) ANO DESDE LA FECHA EN QUE SURJE LA ACCI6N PARA
+PROVIDED BY STATUTE, THE PARTIES HEREBY EXPRESSLY WAIVE IT. IF A LONGER                     DEMANDAR. SI LA LEYOTORGAUN "ITRMINO SUPERIOR, LAS PARTES REUNICIAN AL MISMO
+PERIOD IS PROVIDED BY STATUTE, THE PARTIES HEREBY EXPRESSLY WAIVE IT.                       EN ESTE CONTRATO.
+
+
+
+
+APPLE CONFIDENCIAL - AATC 6-6-07                                                                                                                                                Page 5 of 5
+B. Notice                                                                                  B. Notificaciones
+Any notice under this Agreement, except as expressly provided otherwise, must be           Todas las notificaciones establecidas en este Contrato deberan de hacerse por escrito, y se
+in writing and will be deemed given upon the earlier of actual receipt or ten (10)         tendra por efectuado dentro de los diez (10) dias posteriores a la fecha de envio por correo
+days after being sent by first class mail, retu rn receipt requested, to the address set   de primera c1ase, solicitando acuse de recibo, a la direcci6n que se establece abajo para
+forth below for Apple and to the address designated on page one (1) of this                Apple a la direcci6n establecida en la paqina uno (1) de este Contrato por el Centro de
+Agreement by Training Center for receipt of notices, or as may be provided by the          Capacitaci6n para recibir notificaciones, 0 el que establezcan las partes.
+parties.
+
+Apple Inc.                                                                                 APPLE INC.
+Sales Contracts Management                                                                 Gerencia de Contratos de Ventas
+1 Infinite Loop, Mail Stop 38-2CM                                                          1 Infinite Loop, Mail Stop 38-2CM
+Cupertino, CA 9S014                                                                        Cupertino, CA 95014
+
+Either party may give notice of its change of address for receipt of notices by giving     Cualquiera de las partes podra dar aviso del cambio de su domicilio para recibir
+notice in accordance with this section. Written notice shall include notice provided       notificaciones mediante notificaci6n de conformidad con esta Clausula Las notificaciones
+via electronic email.                                                                      por escrito incluiran notificaciones por correo electr6nico.
+
+C. Privacy                                                                                 C. Privacidad
+Training Center acknowledges that in performing Testing Services and/or delivering         EI Centro de Capacitaci6n reconoce que al efectuar Servicios de Examenes y/o al impartir
+Training Classes under this Agreement Training Center will gather, transfer, process,      C1ases de Capacitaci6n en terminos de este Contrato, el Centro de Capacitaci6n reunira,
+and use the personal data of Students. Such personal data may include the name,            transrnitira, procesara y usara la informaci6n personal de los Estudiantes. Esta informaci6n
+address,telephone number, and electronic mail addressof Students. Training Center          personal podra incluir el nombre, direcci6n, nurnero de telefono y el correo electr6nico del
+warrants th at any data transferred for use has been collected and transferred to          Estudiante. EI Centro de Capacitaci6n garantiza que todos los datos transmitido para su uso
+Apple or its agent in accordance with the data protection laws applicable in the           han sido transmitido a Apple 0 a sus agentes, de conformidad con las leyes de protecci6n
+country in which the Customer is based, including if appropriate, notice prior to or at    de informaci6n aplicables en el pais en el cual el C1iente tiene su domicilio, incluyendo de
+registration that personally identifiable information may be shared with other third       ser aplicable, notificaci6n previa ai, 0 al momento e la inscripci6n, de que la informaci6n de
+parties for evaluation, marketing and administration purposes. Training Center shall       identificaci6n personal podra ser compartida con terceras personas para efectos de
+take appropriate legal, organizational, and technical measures to ensure the               evaluaci6n, mercadotecnia y administraci6n. EI Centro de Capacitaci6n tornara las medidas
+confidentiality of personal data in accordance with applicable law.                        legales, organizacionales y tecnkas necesarias para asegurar que la confidencialidad de la
+                                                                                           informaci6n personal seade conformidad con la ley.
+
+D. Severability                                                                            D. Divisibilidad
+If a court of competent jurisdiction holds that any provision of this Agreement is         Si un tribunal competente determina que alguna de las disposiciones de este Contrato es
+invalid or unenforceable, the remaining portions of this Agreement will remain in full     invalida 0 inejecutable, el resto de este Contrato conservara su validez y efecto, y las partes
+force and effect, and the parties will replace the invalid or unenforceable provision      rernplazaran la disposici6n invalida 0 inejecutable con una valida y ejecutable, que logre la
+with a valid and enforceable provision that achieves the original intent of the parties    intenci6n original de las partes y el efecto econ6mico del Contrato.
+and economic effect of the Agreement.
+
+E.Headings and Construction                                                                E.Encabezados y Estructura
+Paragraph headings are for reference only and will not be considered as parts of this      Los encabezados de los parrefos en este Contrato son referencias y no se consideraran parte
+Agreement. Wherever the singular is used, it includes the plural, and, wherever the        de este Contrato. Cuando se utilice un singular incluye el plural y cuando se utilice un plural,
+plural is used, it includes the singular.                                                  incluye el singular.
+
+F. Waivers                                                                                 F. Renuncias
+A party's waiver of any breach by the other party or failure to enforce a remedy will      La renuncia de las partes ante cualquier incumplimiento de este contrato por la otra parte, 0
+not be considered a waiver of subsequent breaches of the same or of a different            la falta de ejecuci6n de una medida precautoria 0 preventiva no se conslderara una
+kind.                                                                                      renuncia a exigir el cumplimiento de faltas posteriores ya sean del mismo 0 de diferente
+                                                                                           tipo.
+
+G. Assignments and Other Material Business Changes                                         G. Cesi6n y otros Cambios Materiales a la Negociaci6n
+Training Center will notify Apple promptly if there is a material change in Training       EI Centro de Capacitaci6n notlflcara puntualmente a Apple de cualquier cambio material
+Center's ownership, management, or control; or Training Center acquires an                 sobre la propiedad del Centro de Capacitaci6n, la administraci6n 0 el control, 0 que el
+ownership, managerial or controlling interest in a third party that provides training      Centro de Entretenimiento adquiera la propiedad, administraci6n 0 control sobre un tercero
+services or training classes. Training Center may not assign, in whole or in part, this    que preste servicios de Capacitaci6n 0 imparta c1ases de Capacitaci6n. EI Centro de
+Agreement without Apple's prior written approval.                                          Capacitaci6n no podra ceder, en todo 0 en parte, este Contrato sin la previa autorizaci6n
+                                                                                           por escrito de Apple.
+
+H. Relationship of Parties                                                                 H. Relaci6n entre las Partes
+Training Center is an independent contractor, has no power or authority to bind            EI Centro de Capacitaci6n es un contratista independiente y no tiene poder 0 autoridad
+Apple, and is contracting for certain goods and services. Nothing in this Agreement        para obligar a Apple, y sus activid ades de contrataci6n es respecto de ciertos bienes y
+will be construed as creating any relationship such asemployer-employee, principal-        servicios. Nada en este contrato se entendera como el creador de una relaci6n entre patr6n
+agent or franchisor-franchisee.Training Center acknowledges that Apple can provide         o empieado, principal y agente, franquiciante y franquiciatario. EI Centro de Capacitaci6n
+Apple Materials directly to any person, including Training Center's customers.             reconoce que Apple puede proporcionar Materiales Apple directamente a cualquier
+                                                                                           persona incluyendo a los c1ientes del Centro de Capacitaci6n.
+
+I. Entire Agreement                                                                        I. Integridad del Contrato
+Apple and Training Center acknowledge that this Agreement supersedes and                   Apple y el Centro de Capacitaci6n reconocen que este Contrato se sobrepone y extingue
+extinguishes all previous agreements and representations of, between or on behalf          todo contrato anterior y declaraci6n, entre 0 en nombre de las partes en relaci6n con el
+of the parties with respect to its subject matter. This Agreement contains all of          objeto de este Contrato. Este Contrato contiene todos los acuerdos entre Apple y el Centro
+Apple's and Training Center's agreements, warranties, understandings, conditions,          de Capacitaci6n, as! como garantias, entendimientos, condiciones y declaraciones en
+covenants, and representations with respect to its subject matter. In the event of a       relaci6n con el objeto del mismo. En el supuesto de un conflicto entre los terrninos y
+conflict between the terms and conditions of this Agreement and the terms and              condiciones de ester Contrato y los terrninos y condiciones contenidos en un anexo, los
+conditions contained in an exhibit, the terms and conditions of this Agreement shall       terrninos y condiciones de este Contrato prevaleceran, Ni Apple ni el Centro de
+prevail. Neither Apple nor Training Center will be liable for any agreements,              Capacitaci6n seran responsables por cualquier contrato, garantia, entendido, condici6n,
+warranties, understandings, conditions, covenants, or representations' not expressly       acuerdo 0 declaraci6n que no este expresamente establecido 0 referenciado en este
+set forth or referenced in this Agreement. Apple is deemed to have refused any             Contrato. Se entiende que Apple neg6 cualquier disposici6n diferente 0 adicional en
+different or additional provisions in purchase orders, invoices or similar documents,      6rdenes de compra, facturas 0 documentos similares, excepto cuando Apple acepte estas
+unless Apple affirmatively accepts such provisions in writing, and such refused            disposiciones por escrito, y las disposiciones rechazadas no seran exigibles.
+provisions will be unenforceable.
+
+
+
+APPLE CONFIDENCIAL - AATC 6-6-07                                                                                                                                               Page 6 of6
+                                                                                                                                                        /1
+
+
+                                                                                                                                                      )Y'
+                                                                                                                                                        :    ..   ,       ~
+
+
+
+
+                                                                                                                                                          f:
+                                                                                                                                                       -' ji
+                                                                                                                                                            :'
+                                                                                                                                                     ,: i ,
+J. Modifications                                                                       J. Modificaciones
+Except as otherwise provided in this Agreement, no modification to this Agreement      Excepto que se establezca 10 contrario en este Contrato, ninguna modificaci6n a este
+will be binding unless in writing and signed by an authorized representative of each   Contrato sera obligatoria salvo que conste por escrito, suscrita por un representante legal
+party.                                                                                 de cada parte.
+
+K. Counterparts                                                                        K. Ejemplares
+This Agreement may be executed in one or more counterparts (including by               Este Contrato podra ser ejecutado en uno 0 mas ejemplares (incluidos por fax), cada uno de
+facsimile), each of wh ich when so executed shall be deemed to be an original and      los cuales, cuando ejecutado, se conslderara original y tendra la misma fuerza y efecto que
+shall have the same force and effect as an original but such counterparts together     el original. y tales ejemplares JJtos constituyen uno y el mismo instrumento.
+shall constitute one and the same instrnent.
+
+
+The duly authorized
+dates set forth below.   A' . . .
+                       representa~.es ~~ Ie parties execute this Agreement as of the   LEIDO QUE FUE EL PRE~ENTEjCONVENIO Y CONFORMES LAS PARTES CON SU
+                                                                                                             ,1
+                                                                                       CONTENIDO, 10 firman t~r1s de sus representantes legales.
+
+
+                         , rr: ~Q~er
+                                I   '   .I
+                                                                                                           Centrpfde Capacitaci6n
+                                                _
+
+
+
+                                                                                                         ~
+                         II!~                                                                                     '
+                                                                                                             ~
+                         [~~                                                            FIRMA:
+
+                                                                                                           ~
+  SIGNATURE:       .
+
+  NAME:
+                                                                                        NOMBRE EN     LETRA~\fJ0626E $-E"~E·cz.i.f\}0
+  TITLE:
+                                                                                        CARGO:      -f~~ oE"->-rE
+  DATE:                                                                                 FECHA:      -1+ -0+ - ZOO).
+
+
+
+  NAME:    ~ P\J ; [Q. ~ fLt;- t-       e
+
+  SlGNATU,"        ~                                                                    FIRMA:
+
+  NAME:                                                                                 NOMBRE EN LETRA:
+                       StephQn Glaros                                                                      StephQn Glaros
+  TITLE:   Sr Contracts Program Manager                                                 CARGO:   Sf Contracts Program Manager
+
+  EFFECTIVE DATE:                                                                       FECHA EFECTIVA:
+
+
+
+
+            ~WIT~
+  SIGNATURE: ~~) ,,+d-                                                                  FIRMA:
+
+
+                                                                                        NOMBRE:
+
+
+
+
+APPLE CONFIDENCIAL - AATC 6-6-07                                                                                                                                       Page7of7
+

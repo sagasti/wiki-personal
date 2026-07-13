@@ -1,0 +1,86 @@
+	
+ 
+Apple Computer, Inc.
+Agreement For Consulting Services (Fixed Term)
+ 
+	This Agreement for Consulting Services (Fixed Term) (“this Agreement”)  is entered into between Apple Computer, Inc. (“Apple”) , a California corporation, and Jorge Sagasti, an individual resident of Argentina (“Consultant”),  as of February 1, 1999.
+ 
+	WHEREAS, Apple desires to create demand for Apple-branded  and licensed computer equipment and software in Argentina, Chile and Peru, and
+
+	WHEREAS, Consultant has experience and expertise in the promotion of the sales of consumer goods within Argentina, Chile and Peru, and
+
+	WHEREAS, Apple and Consultant now wish to enter into an agreement whereby Consultant agrees to perform certain services intended to promote Apple-branded  and licensed computer equipment and software in Argentina, Chile and Peru,
+
+	Apple and Consultant agree as follows:
+ 
+1.	Services and Fees:  Consultant shall act as a sales and marketing consultant and manufacturer’s representative for Apple in Argentina, Chile and Peru, and shall market and otherwise promote sales of Apple products in those countries, subject to such general guidelines and direction as to result alone as shall be provided by Apple to Consultant.  Consultant has sole control over day-to-day performance of his activities.  Additionally, Consultant shall undertake such other sales and marketing activities as are from time to time requested by Apple, including, but not limited to, visiting the facilities of specified retailers, education accounts, and Value Added  Resellers.  Consultant shall devote  such time to performing the specified and requested services as is necessary to enable Consultant both to perform individual tasks specified by Apple and to promote the sales of Apple’s products effectively.  For the specified services, Apple shall pay Consultant the sum of US $8,333.33 per month, payable on the first day of the month following any month in which services have been performed  under  this Agreement.  Additionally, Consultant shall be entitled to reimbursement of ordinary and necessary business expenses, in reasonable amounts, incurred  in the course of performing  services under this Agreement.
+
+2.	Term:  The term of this Agreement shall be from February 1, 1999, through January 31, 2000, unless earlier terminated in accordance with this Agreement.  This Agreement may be renewed  by Apple for one additional one-year term upon written notice to Consultant, delivered to Consultant not less than sixty (60) days prior to the expiration of the initial term.
+	
+3.	Reports:  Consultant shall report to Apple, at reasonable frequencies and in a format acceptable to Apple, describing the services performed by Consultant under this Agreement.
+	
+4. 	Termination:  Apple or Consultant may terminate this Agreement under the following circumstances:
+	
+	(a)	Apple or Consultant may terminate this Agreement for breach or default upon five (5) days’ prior written notice of breach or default, in which case the breaching party shall have five (5) days to cure the breach or default;	
+
+	(b)	Apple may terminate this Agreement immediately if Consultant breaches the confidentiality provisions of this Agreement; and 
+
+	(c)	Apple or Consultant may terminate this Agreement without any reason by giving fourteen (14) days written notice to the other party.  If Apple terminates for convenience, it shall pay Consultant for services rendered  and expenses incurred  through the effective termination date. 
+
+
+5.	Relationship of Parties:  In the course of performing services under this Agreement, Consultant is an independent contractor.  Consultant acknowledges that Consultant is not an employee of Apple, that Consultant is ineligible for any Apple employee benefits, that no employment relationship is created by this Agreement, and that Consultant shall have no authority to bind Apple or incur indebtedness in its name or on its behalf or to represent to any third party that Consultant has such authority.  Consultant shall use Consultant’s own discretion in performing the services required of Consultant under this Agreement and shall in all respects control the means and manner of Consultant’s performance, subject to the express condition that Consultant shall at all times comply with all applicable law.  Consultant shall supply all equipment and supplies necessary for the satisfactory completion of the services required of Consultant under this Agreement, except for any equipment listed in Exhibit G (if applicable), which shall be loaned to Consultant by Apple for the term of this Agreement in accordance with the terms of such Exhibit G.  Consultant shall have no right to use any Apple equipment except as set forth on an Exhibit G attached to this Agreement.  Consultant shall report as income to the appropriate government agencies all compensation received pursuant to this Agreement and shall pay all applicable taxes.  Apple shall not make deductions from its payments to Consultant for taxes, insurance, bonds or any other subscription of any kind.  
+	
+6.	Confidentiality:  In the course of performing  services under this Agreement, Consultant may, at Apple’s discretion, have access to Apple Confidential Information, as follows:  
+
+	(a)	Apple Confidential Information means information relating to the research, development, products, methods of manufacture, trade secrets, business plans, customers, finances, and personnel data related to the business or affairs of Apple including, but not limited to, any such information generated  in the performance of work under this Agreement.  Apple Confidential Information does not include any information that (i) is or becomes generally known or available by publication, commercial use or otherwise through no fault of the Consultant; (ii) is known and has been reduced  to tangible form by Consultant at the time of disclosure and is not subject to restriction; (iii) is independently developed by Consultant without use of any Apple Confidential Information; (iv) is obtained lawfully from a third party who has the right to make such disclosure; or (e) is released for publication by Apple in writing.
+
+	(b)	Consultant agrees, both during and after the term of this Agreement, not to disclose any Apple Confidential Information and to take all reasonable precautions to prevent its unauthorized dissemination. Without limiting the scope of this duty, Consultant agrees to limit Consultant’s internal distribution of Apple Confidential Information to Consultant’s employees and agents who have a need to know, and to take steps to ensure that the dissemination is so limited. Consultant agrees not to use any Apple Confidential Information for Consultant’s own benefit or for the benefit of anyone other than Apple, including, but not limited to, for use in the design and manufacture of products.  Without limiting the scope of this duty, and except as expressly set forth in this Agreement, Consultant agrees not to design or manufacture any products which incorporate any Apple Confidential Information.
+  
+	(c)	All Apple Confidential Information remains the property of Apple and no license or other rights in the Confidential Information is granted by this Agreement.
+  
+	(d)	All information provided to Consultant by Apple is provided "AS IS" and without any warranty, express, implied, or otherwise, regarding  its accuracy or performance.
+
+	(e)	Upon Apple's written request, Consultant shall return to Apple, all Apple Confidential Information, including (but not limited to) all computer programs, documentation, notes, plans, drawings and whole or partial copies of such Confidential Information.
+ 
+	(f)	Consultant, both during and after the term of this Agreement, shall not disclose to Apple any confidential, proprietary or secret information of any other person or entity.	 
+
+7.	Ownership of Work Product: Subject to the provisions of Section 10, to the extent that Consultant produces any work product in performing services under this Agreement, including, but not limited to, notes, reports, documentation, customer lists, trademarks, or other works of any kind (including, by way of example only, movies and audio or visual works), all such work product shall be Apple’s property.  Consultant shall assign and does hereby expressly assign to Apple all right, title, and interest in and to any work product  produced  in performing  services under this Agreement, including any and all moral rights it may have in any software which is a part of the Work Product.  Consultant hereby forever waives and agrees never to assert any and all moral rights it may have in any software which is part of work product created  in performing services under this Agreement even after termination of work on Apple’s behalf.  During and after this Agreement, Consultant shall assist Apple in every reasonable way, at Apple's expense, to secure, maintain and defend  for Apple's benefit all proprietary rights in and to any work product produced  in performing services under this Agreement.
+
+8.	Indemnity.  Consultant shall indemnify Apple, at Consultant’s expense and at Apple's request, as follows:
+
+	(a)	Consultant shall indemnify, hold harmless, and, at Apple’s request, defend  against any claim or action brought against Apple or Apple's subsidiaries, affiliates, directors, officers, employees, agents and independent contractors, to the extent it is based on a claim that any work product created by Consultant in performing services under this Agreement infringes or violates any patent, copyright, trademark, trade secret or other proprietary right of a third party, and Consultant shall indemnify and hold Apple harmless from and against any costs, damages and fees reasonably incurred by Apple, including but not limited to fees of attorneys and other professionals, that are attributable to such claim or action, provided  that:  (I) Apple gives Consultant reasonably prompt notice in writing of any such claim or action and permits Consultant, through counsel of its choice, to answer the charge of infringement and defend  such claim or action; (ii) Apple provides Consultant information, assistance and authority, at Consultant's expense, to enable Consultant to defend such claim or action; and (iii) Consultant shall not be responsible for any settlement made by Apple without Consultant's written permission.  Consultant may not settle any claim or action on Apple's behalf without Apple's written permission, and in the event Apple and Consultant agree to settle a claim or action, Consultant agrees not to disclose the settlement nor to permit the party claiming infringement to disclose the settlement without first obtaining Apple's written permission.
+
+	(b)	Consultant shall indemnify, hold harmless, and at Apple's request, defend Apple and Apple's subsidiaries, affiliates, directors, officers, employees, agents and independent contractors  from and against any loss, cost, liability, fine, penalty or expense (including court costs and reasonable fees of attorneys and other professionals) in connection with any claim or action, whether based on contract or tort (including negligence and strict products liability), concerning or asserting any injury or damage to person or property or economic loss caused, in whole or in part, by: (I) work product created by Consultant in performing  services under this Agreement; or (ii) Consultant's performance or non-performance under this Agreement.
+
+	(c)	Consultant shall indemnify, hold harmless, and at Apple's request, defend Apple and Apple's subsidiaries, affiliates, directors, officers, employees and agents from and against any loss, cost, liability, fine, penalty or expense (including court costs and reasonable fees of attorneys and other professionals) in connection with any claim or action to the extent such claim or action is based on a claim that Consultant is entitled to participate in or receive benefits under any Apple employee benefit plan, program or policy, or is in any way an employee of Apple.
+	
+9.  	No Conflict:  Consultant represents and warrants  that performance of this Agreement shall not conflict with any other contract to which Consultant is bound, and, while working on this Agreement, Consultant shall not engage in any such consulting services or enter into any agreement in conflict with this Agreement without obtaining Apple’s prior written consent.  Consultant further represents and warrants that at no time during the past two (2) years has Consultant been an employee of any federal, state or local government or other national, provincial, municipal or other local entity who has been substantially involved in the procurement of Apple products or services for such government entity. 
+
+10.  Employees, Subcontractors, and Agents:  The services for which Apple contracts under this Agreement are personal in nature and are dependent on Contractor’s experience and expertise.  Consultant shall render all services individually and may not utilize employees, subcontractors, or agents to perform such services on Consultant’s behalf.
+
+11.  Miscellaneous:	
+	(a)	Assignment.  Consultant may not assign, delegate or otherwise transfer rights or obligations under this Agreement without Apple's prior written consent.  Apple may assign, delegate, or otherwise transfer its rights or obligations under this Agreement in whole or in part, by any means, including by operation of law.
+	(b)	Equitable Relief.  Any breach of the provisions of Sections 6 or 7 of this Agreement by Consultant shall result in irreparable harm to Apple.  Consultant therefore  acknowledges that Apple shall have the right to an injunction or other equitable relief to enforce this Agreement and any of its provisions, without  prejudice to any other rights and remedies that Apple may have.
+	(c)	Attorneys' Fees.  If any legal action is necessary to enforce this Agreement, the prevailing party shall be entitled to reasonable attorneys' fees and expenses in addition to any other allowable relief. 
+	(d)	Governing Law; Severability.  California law shall govern the interpretation and enforcement of this Agreement.  If any provision of this Agreement is found by a court of competent jurisdiction to be unenforceable for any reason, the remainder of this Agreement shall continue in full force and effect.
+	(e)	Survival of Terms. The provisions of Sections 6, 7, 8 and 11 of this Agreement shall survive termination of this Agreement.
+	(f)	Complete Understanding; Modification.  This Agreement and the attached exhibits constitute the full and complete understanding and agreement of the parties relating to the subject matter hereof and supersede all prior understandings and agreements relating to such subject matter.  Any waiver, modification, or amendment of any provision of this Agreement shall be effective only if in writing and signed by the parties.  The provisions of this Agreement shall prevail over any conflicting provisions in a purchase order, acceptance notice or other document. 
+
+
+Apple Computer, Inc.				Jorge Sagasti	
+
+By:_______________________________________ 	______________________________________
+
+Name: ____________________________________
+
+Title: _____________________________________
+Address:  1 Infinite Loop				Address:______________________________
+Cupertino, CA 95014-2084			_____________________________________
+United States of America				_____________________________________
+Daytime Telephone #: ______________________	Daytime Telephone #___________________
+
+CONSULTANTS:	
+Sign the two originals in ink and return both to your contact at Apple.  Retain a photocopy for your files.	
+APPLE EMPLOYEES: 
+Return the signed original to the Corporate Procurement Department in Cupertino along with an approved purchase requisition.  Until you do, Consultant may not commence work and cannot be paid.
+
