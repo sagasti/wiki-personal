@@ -36,6 +36,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | Período | Hito | Empresa / rol | Servicios / qué hacía | Personas | Relación |
 |--------|------|---------------|----------------------|----------|----------|
 | **1986** | Primera app Mac publicada en EE.UU. | Personal / USA | Desarrollo Mac | — | Developer (bio Smalltalks 2025) |
+| **fines 80 / principios 90** | Fundación de **GetInfo**, user group de usuarios Apple/Mac en Buenos Aires; newsletter impreso **Get Info** | GetInfo / fundador | Comunidad Mac, difusión, boletín impreso | Luis Alejandro Masanti | Cofundador / organizador comunitario |
 | Pre-1995 | Trabajo con equipos/soluciones Apple antes de formalizar | — | Soporte / soluciones | Walter Soto, Fernando Palermo | Amistad de toda la vida con Fer |
 | **18 ene 1995** | Fundación **MundoMac** (Sagasti · Palermo · Soto). Arranque en el parrillero de Walter | MundoMac / socio fundador | Distribución y servicio Apple, foco corporativo | Walter Soto, Fernando Palermo | Cofundador; hoy ya no socio, amistad intacta |
 | may 1995 | Primer gran cliente: **El País** (UY). **Apple los recomienda** | MundoMac | Soporte técnico editorial Mac | Equipo El País, Apple canal | Relación fundacional de la empresa |
@@ -59,7 +60,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | Tema | Qué dijo Jorge | Estado búsqueda |
 |------|----------------|-----------------|
 | **The Mac House / MacHouse** | Empresa de **cursos** que tuvo | **Hallazgo fuerte:** `machouse.com.ar` (©1998 MacHouse) — tienda/ofertas Mac en **Av. Córdoba 466 Local 1, CABA**, tel **4312-0033**, `info@machouse.com.ar`. Snapshot 28/4/1999: PowerMac G3, iMac, PowerBook, software Adobe/Macromedia. ~2001 el dominio pasa a **Interlink Network** (ISP; misma manzana Córdoba 466; “comunidad virtual de usuarios Macintosh de América Latina” / Interlink BBS). **No hay rastro digital de catálogo de cursos** aún — confirmar si MacHouse = “The Mac House” de cursos y si Jorge era dueño/docente. |
-| **Get Info** | Organización con **newsletter** “Get Info” | Sin hits en Gmail/Drive/Spotlight. Dominios getinfo.* genéricos no matchean. **Hipótesis:** boletín de user group / Interlink BBS / lista Mac local jugando con el Cmd-I “Get Info”. **Falta:** año, ciudad, si era papel/email, nombre legal. |
+| **GetInfo / Get Info** | User group de usuarios Apple en **Buenos Aires**, fines de los 80 / principios de los 90. Jorge fue **fundador**. Newsletter **Get Info** era **impreso**. | Confirmado por Jorge (Telegram 2026-07-13). Gente clave: **Luis Alejandro Masanti**. Sin hits digitales todavía; buscar material físico (boletines, fotocopias, diskettes, fotos de reuniones) y posibles menciones en revistas Mac argentinas. |
 | **Senior Systems Engineer + Mentor** | “mentor y senior systems engineer para apple” | **Confirmado en bio pública** (Smalltalks 2025): “two decades at Apple as **Systems Engineer and Mentor** leading technical and sales teams”. Red **Old School ALAC** (Manny Cernuda, Del Granado, Estrada…). La Nación 1998: gerente de Ventas LATAM Sur. “Senior” en el título formal: validar con Jorge. Andrés Silvera (LinkedIn) menciona curso de **Xserve en Miami** con Jorge → rol formador. |
 | **1986 primera app Mac USA** | (bio Smalltalks) | Nombre de la app / plataforma aún no hallado en archivos locales. |
 | **Radar.Media** | Post-Apple, geomessaging | Dominio `radar.media` expirado ~2023; backends Firebase/GCP apagados 2025. |
@@ -133,7 +134,7 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 - [ ] Capturas App Store La Pancarta / Locs  
 - [ ] Certificados INTI / ENACOM con nombre  
 - [ ] Foto actual MBP M3 Max (cierre “full circle”)  
-- [ ] Contactos a sumar a la muestra: Walter Soto, Fernando Palermo, ex-Apple LATAM si hay, Diego Akerman
+- [ ] Contactos a sumar a la muestra: Walter Soto, Fernando Palermo, **Luis Alejandro Masanti** (GetInfo), ex-Apple LATAM si hay, Diego Akerman
 
 ---
 

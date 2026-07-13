@@ -12,7 +12,7 @@ Vault: `~/.hermes/personal` → `/Users/jorge/wiki-personal`
 
 Meta: [[SCHEMA]] · [[log]]
 
-## entities/ (26)
+## entities/ (27)
 
 - [[andrea-bruszo]]
 - [[anthropic-spacex-compute-deal]]
@@ -30,6 +30,7 @@ Meta: [[SCHEMA]] · [[log]]
 - [[jorge-sagasti]]
 - [[lole]]
 - [[lorena-napoli]]
+- [[luis-alejandro-masanti]]
 - [[luz-estudio]]
 - [[maria-isabel-salomon]]
 - [[martin-pizzi-cullen]]
