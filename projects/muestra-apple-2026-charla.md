@@ -90,7 +90,40 @@ Fuente: mails **Trip Authorization / International Travel Request** a nombre de 
 
 **Arco 30s:** formaste **canal AATC/ACT**, subiste **Xserve/Xsan** enterprise/pro video LATAM, y participaste del **calendario de training** del F&CS — no solo “andaba de viaje”.
 
-**Siguiente pasito (B cuando toque):** 4 hilos *highlights* + 5 AATC 2007 *from me* a cuerpo; adjuntos contratos/org restantes.
+### Hallazgos de cuerpos (muestra 38 mails, jul 2026)
+
+Archivo: `muestra-apple-2026-assets/phase_a_sample_bodies.txt`.
+
+**1) Rol real en AATC (2006–2007)** — no solo “SE de support”:
+- **ago 2007:** contrato AATC ejecutado para **Soluciones (Macstore Alfauno, Argentina)**; contacto **Jorge Seferian** (`jseferian@alfauno.com.ar`). Sharon Martin (Global Training) te pide a vos/Edwin/Caro el setup ASW · Maxwell · Clockwork · TechIT. Firmás replies como **Junior de proceso** del programa en ALAC.
+- **jul 2007:** listado que vos armás para Sharon de **AATCs ALAC activos** con contactos ASW:
+  - **Exa** (Guillermo Santos, MX)
+  - **Academia Mac** (José Bodet, CL)
+  - **Digitrain** (MX)
+  - **Sihsa’tus**
+  - **Nash Mexico** (Ignacio Bermeo)
+  - **Simplemente**
+  - **Tercer Piso** (PR)
+  - **Interface** (BR)
+- **NASH Mexico:** intermediás listing en training pages + marketing fee; “we don't provide any Certificate” (policy).
+- **sep 2006:** mientras dabas **curso a nuevos entrenadores en Punta del Este** (como **Trainer + host**), Juan Carlos Esparza te pide requisitos AATC **ITESM CCM** (Claudia Elena Cruz Ríos / CEDETEC).
+- **ago–nov 2007:** **Tec Milenio (ITESM, Monterrey)** vía Jair de la Garza (Apple MX) + reactivación app Tec MTY por Edwin — te tienen como **punto de explicación del proceso AATC educational**.
+- Firma mail frecuente: *Senior System Engineer · ACSA / Mentor · ALAC* · BUE/PDE/USA phones (PDE **+598 9 473-5548**).
+
+**2) Xserve como producto latiendo en el sur**
+- **abr 2003:** Lalo Paolucci (Service & Support Southern Cone) te consulta el **Programa de Certificación Xserve 2003** (¿comercial vs canal servicios? ¿español?).
+- **nov 2003:** Isidro Corominas pide tu consejo en **Xserve en Perú** (auth Macs vs **Active Directory** Windows 2000; prioridad “server room”).
+- **2004 Q3 plan F&CS** (Edwin, highlights call ALAC): seminarios cert Xserve **MX 28/4 · SP 6/5 · Coral Gables 10/6** (+ day after new VAR vision); paths Help Desk / Server Essentials 10.3; WWDC SEs.
+- **jul 2007:** partners te suman en hilos de **Certificación XServe** (qué examenes / libros).
+
+**3) Equipo F&CS en una sola página (abr 2004)**  
+Edwin → recap Q2: Macworld SF, ASTO/Accelerate, VARs, ACN, reseller trainings, customer visits, press; se va Isidro a BOSE; Q3 Xserve certs multi-ciudad. Manny trained off-call. (Texto completo en sample bodies.)
+
+**4) Colateral**
+- Tiago te lista como contact técnico regional junto a él y Fabio (dic 2004, telecom/streaming BR).
+- Leopard training materials / exams AATC (oct 2007): discusión con Tiago+Ed sobre **no traducir exams si no se traduce el material**.
+
+**Siguiente pasito (cuando toque):** Phase B — contratos/Macaldia + 2006 outbox subjects; o bajar el AATC list completo + Soluciones contract attachment si está en mail.
 
 ## Cómo minar mails `@apple.com` (playbook)
 

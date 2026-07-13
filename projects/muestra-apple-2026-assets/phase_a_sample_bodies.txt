@@ -1,0 +1,3586 @@
+===== id=2013 | Mon, 13 Aug 2007 14:46:30 -0700 | Sharon Martin <shmartin@apple.com>
+SUBJ: Re: FYI - Executed AATC Agreement for Soluciones
+So is Caro establishing an ASW account for them?  (That's step #1.)   
+Once that is done, I will need the Apple ID Prs ID that was used for  
+the ASW account in order to add the admin access for Clockwork and  
+Maxwell.
+
+Thanks,
+Sharon
+
+On Aug 13, 2007, at 2:31 PM, ALAC Training wrote:
+
+> Sharon,
+>
+> Please create an account for ALAC, I will use it until the new  
+> Coordinator takes over that job.
+>
+> Thank you.
+>
+> __________________________________________________________
+> Jorge Sagasti
+> jorge@sagasti.com
+>
+> BUE + 54 11 5258-2178
+> PDE + 598 9 473-5548
+> USA + 1 777 224-3249
+> __________________________________________________________
+>
+> On Aug 10, 2007, at 5:12 PM, Sharon Martin wrote:
+>
+>> OK, so I assume Caro will give them ASW access.  I still need to  
+>> know who on your staff should be set up with Maxwell and Clockwork  
+>> admin access so that you can set up your own AATCs in these apps.
+>>
+>> On Aug 10, 2007, at 11:50 AM, ALAC Training wrote:
+>>
+>>> Sharon,
+>>>
+>>> They are going to be ProApps/IT, I have already sent them the  
+>>> Welcome Letter.
+>>> The Contact is: Jorge Seferian <jseferian@alfauno.com.ar>
+>>> The ASW account they are going to use is: jseferian
+>>>
+>>> Let's go for Step 2.
+>>>
+>>>
+>>> Regards.
+>>> __________________________________________________________
+>>> Jorge Sagasti
+>>> ALAC Training / Mentor
+>>> Apple Latin America / Caribbean
+>>> Phone # +1 777 224-3249
+>>>
+>>>
+>>> This transmission may be privileged and may contain confidential
+>>> information intended only for the person(s) named above.  Any other
+>>> distribution, re-transmission, copying or disclosure is strictly  
+>>> prohibited.
+>>> If you have received this transmission in error, please notify me  
+>>> immediately
+>>> by telephone or return email and delete this file from your system.
+>>> Please accept my thanks, in advance.
+>>> __________________________________________________________
+>>>
+>>>
+>>>
+>>> On Aug 9, 2007, at 7:25 PM, Sharon Martin wrote:
+>>>
+>>>> Jorge, Edwin, and Caro,
+>>>>
+>>>> (Pervin, Alex, and Andre -- FYI)
+>>>>
+>>>> The AATC contract for Soluciones (Macstore Alfauno) of Argentina  
+>>>> has been executed (see below).  Here's a chance for us to refine  
+>>>> our process going forward.  I can't find the application for  
+>>>> Soluciones Mac S.A., and I can't find a record for them in  
+>>>> either the Contracts Tracking System or TechIT, so I don't know  
+>>>> what kind of AATC they are -- I assume it is commercial, but is  
+>>>> it Pro Apps or IT or both?
+>>>>
+>>>> Here's what I do in the US:
+>>>>
+>>>> 1.  Send a Welcome email.  I have pasted below updated text for  
+>>>> commercial Pro Apps AATCs -- you can translate and adapt it as  
+>>>> appropriate.  Obviously, you'll need to change or remove some  
+>>>> sections (training website and email support address, ASW page,  
+>>>> marketing fee, program updates, Peachpit instructions, etc.)
+>>>>
+>>>> 2.  Once I have the names and contact information of the persons  
+>>>> who need ASW, Maxwell, and Clockwork access, I set them up in  
+>>>> those systems.  Caro, I assume you know how to set them up with  
+>>>> ASW access.  For Maxwell and Clockwork, I need to know who on  
+>>>> your staff to give admin access to -- should that be you, Caro?   
+>>>> or the new training admin?
+>>>>
+>>>> 3.  Once their ASW access is set up, I send them instructions  
+>>>> for accessing Maxwell, the AATC home page, and Clockwork.  (I  
+>>>> can send you these docs if you don't have them).
+>>>>
+>>>> 4.  Once they pay the marketing fee, I add them to the AATC  
+>>>> Locator (for now, you'll need to send me their contact  
+>>>> information to post).
+>>>>
+>>>>
+>>>> Please let me know if you can do all this, and if you need  
+>>>> further explanation.
+>>>>
+>>>> Thanks,
+>>>> Sharon
+>>>>
+>>>>
+>>>> Pro Apps AATC Welcome Letter
+>>>> ****************************
+>>>> Congratulations on becoming an Apple Authorized Training Center  
+>>>> for Pro Apps!  We wanted to let you know next steps for  
+>>>> participating in the AATC program.  Please take a few moments to  
+>>>> review all of the materials and let us know if you have any  
+>>>> questions.
+>>>>
+>>>> Getting Started
+>>>> Apple’s Sales Web (ASW) - All personnel at your facility who  
+>>>> will be involved in the administrative tasks of the AATC program  
+>>>> will need access to ASW (http://sales.apple.com) for important  
+>>>> program documentation, AATC signature logos, and exam code  
+>>>> ordering. Please send an email to trai
+…[trunc]…
+
+===== id=2014 | Fri, 10 Aug 2007 13:12:05 -0700 | Sharon Martin <shmartin@apple.com>
+SUBJ: Re: FYI - Executed AATC Agreement for Soluciones
+OK, so I assume Caro will give them ASW access.  I still need to know  
+who on your staff should be set up with Maxwell and Clockwork admin  
+access so that you can set up your own AATCs in these apps.
+
+On Aug 10, 2007, at 11:50 AM, ALAC Training wrote:
+
+> Sharon,
+>
+> They are going to be ProApps/IT, I have already sent them the  
+> Welcome Letter.
+> The Contact is: Jorge Seferian <jseferian@alfauno.com.ar>
+> The ASW account they are going to use is: jseferian
+>
+> Let's go for Step 2.
+>
+>
+> Regards.
+> __________________________________________________________
+> Jorge Sagasti
+> ALAC Training / Mentor
+> Apple Latin America / Caribbean
+> Phone # +1 777 224-3249
+>
+>
+> This transmission may be privileged and may contain confidential
+> information intended only for the person(s) named above.  Any other
+> distribution, re-transmission, copying or disclosure is strictly  
+> prohibited.
+> If you have received this transmission in error, please notify me  
+> immediately
+> by telephone or return email and delete this file from your system.
+> Please accept my thanks, in advance.
+> __________________________________________________________
+>
+>
+>
+> On Aug 9, 2007, at 7:25 PM, Sharon Martin wrote:
+>
+>> Jorge, Edwin, and Caro,
+>>
+>> (Pervin, Alex, and Andre -- FYI)
+>>
+>> The AATC contract for Soluciones (Macstore Alfauno) of Argentina  
+>> has been executed (see below).  Here's a chance for us to refine  
+>> our process going forward.  I can't find the application for  
+>> Soluciones Mac S.A., and I can't find a record for them in either  
+>> the Contracts Tracking System or TechIT, so I don't know what kind  
+>> of AATC they are -- I assume it is commercial, but is it Pro Apps  
+>> or IT or both?
+>>
+>> Here's what I do in the US:
+>>
+>> 1.  Send a Welcome email.  I have pasted below updated text for  
+>> commercial Pro Apps AATCs -- you can translate and adapt it as  
+>> appropriate.  Obviously, you'll need to change or remove some  
+>> sections (training website and email support address, ASW page,  
+>> marketing fee, program updates, Peachpit instructions, etc.)
+>>
+>> 2.  Once I have the names and contact information of the persons  
+>> who need ASW, Maxwell, and Clockwork access, I set them up in  
+>> those systems.  Caro, I assume you know how to set them up with  
+>> ASW access.  For Maxwell and Clockwork, I need to know who on your  
+>> staff to give admin access to -- should that be you, Caro?  or the  
+>> new training admin?
+>>
+>> 3.  Once their ASW access is set up, I send them instructions for  
+>> accessing Maxwell, the AATC home page, and Clockwork.  (I can send  
+>> you these docs if you don't have them).
+>>
+>> 4.  Once they pay the marketing fee, I add them to the AATC  
+>> Locator (for now, you'll need to send me their contact information  
+>> to post).
+>>
+>>
+>> Please let me know if you can do all this, and if you need further  
+>> explanation.
+>>
+>> Thanks,
+>> Sharon
+>>
+>>
+>> Pro Apps AATC Welcome Letter
+>> ****************************
+>> Congratulations on becoming an Apple Authorized Training Center  
+>> for Pro Apps!  We wanted to let you know next steps for  
+>> participating in the AATC program.  Please take a few moments to  
+>> review all of the materials and let us know if you have any  
+>> questions.
+>>
+>> Getting Started
+>> Apple’s Sales Web (ASW) - All personnel at your facility who will  
+>> be involved in the administrative tasks of the AATC program will  
+>> need access to ASW (http://sales.apple.com) for important program  
+>> documentation, AATC signature logos, and exam code ordering.  
+>> Please send an email to trainingcenter@apple with the names and  
+>> contract information of the persons on your staff that will need  
+>> ASW access. This process takes 3-4 business days and is the first  
+>> step in participation in the program. AATCs and Apple Certified  
+>> Trainers (ACTs) have a program homepage that can be found at  
+>> https://asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display? 
+>> id=L322915A.
+>>
+>> Web Presence - In order to be listed on Apple's website, your AATC  
+>> must pay the annual marketing fee of $2500 per location which  
+>> applies for presence until from July 1, 2007 until June 30, 2008.  
+>> We only accept credit card or Apple Credit account payments. No  
+>> cash, checks or money orders. Once you have ASW access, please  
+>> access the instructions on how to make payment at https:// 
+>> asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display? 
+>> id=L330198A-US.
+>>
+
+…[trunc]…
+
+===== id=2015 | Thu, 09 Aug 2007 15:25:45 -0700 | Sharon Martin <shmartin@apple.com>
+SUBJ: Fwd: FYI - Executed AATC Agreement for Soluciones
+Jorge, Edwin, and Caro,
+
+(Pervin, Alex, and Andre -- FYI)
+
+The AATC contract for Soluciones (Macstore Alfauno) of Argentina has  
+been executed (see below).  Here's a chance for us to refine our  
+process going forward.  I can't find the application for Soluciones  
+Mac S.A., and I can't find a record for them in either the Contracts  
+Tracking System or TechIT, so I don't know what kind of AATC they are  
+-- I assume it is commercial, but is it Pro Apps or IT or both?
+
+Here's what I do in the US:
+
+1.  Send a Welcome email.  I have pasted below updated text for  
+commercial Pro Apps AATCs -- you can translate and adapt it as  
+appropriate.  Obviously, you'll need to change or remove some  
+sections (training website and email support address, ASW page,  
+marketing fee, program updates, Peachpit instructions, etc.)
+
+2.  Once I have the names and contact information of the persons who  
+need ASW, Maxwell, and Clockwork access, I set them up in those  
+systems.  Caro, I assume you know how to set them up with ASW  
+access.  For Maxwell and Clockwork, I need to know who on your staff  
+to give admin access to -- should that be you, Caro?  or the new  
+training admin?
+
+3.  Once their ASW access is set up, I send them instructions for  
+accessing Maxwell, the AATC home page, and Clockwork.  (I can send  
+you these docs if you don't have them).
+
+4.  Once they pay the marketing fee, I add them to the AATC Locator  
+(for now, you'll need to send me their contact information to post).
+
+Please let me know if you can do all this, and if you need further  
+explanation.
+
+Thanks,
+Sharon
+
+Pro Apps AATC Welcome Letter
+****************************
+Congratulations on becoming an Apple Authorized Training Center for  
+Pro Apps!  We wanted to let you know next steps for participating in  
+the AATC program.  Please take a few moments to review all of the  
+materials and let us know if you have any questions.
+
+Getting Started
+Apple’s Sales Web (ASW) - All personnel at your facility who will be  
+involved in the administrative tasks of the AATC program will need  
+access to ASW (http://sales.apple.com) for important program  
+documentation, AATC signature logos, and exam code ordering. Please  
+send an email to trainingcenter@apple with the names and contract  
+information of the persons on your staff that will need ASW access.  
+This process takes 3-4 business days and is the first step in  
+participation in the program. AATCs and Apple Certified Trainers  
+(ACTs) have a program homepage that can be found at https:// 
+asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display?id=L322915A.
+
+Web Presence - In order to be listed on Apple's website, your AATC  
+must pay the annual marketing fee of $2500 per location which applies  
+for presence until from July 1, 2007 until June 30, 2008. We only  
+accept credit card or Apple Credit account payments. No cash, checks  
+or money orders. Once you have ASW access, please access the  
+instructions on how to make payment at https://asw.apple.com/cgi-bin/ 
+WebObjects/ASWViewer.woa/wa/display?id=L330198A-US.
+
+Program Update - Every month we send out a program update letter to  
+all of the AATCs. If you would like to add anyone from your center to  
+the distribution list, please let us know their name and email. For  
+past Program Updates, please visit https://asw.apple.com/cgi-bin/ 
+WebObjects/ASWViewer.woa/wa/display?id=L327716A-US
+
+Peachpit Classroom Materials - Once you have ASW access, you may  
+visit https://asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/ 
+display?id=L330197A-US for a list of the Peachpit representatives in  
+US. International AATCs can find their Peachpit representatives at  
+https://asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display? 
+id=L327696A-US
+
+Certification Exam Delivery - In order to administer exams, All AATCs  
+must purchase eligibility and voucher code pairs via a system called  
+Maxwell on ASW. Complete instructions are located at https:// 
+asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display?id=L327697A- 
+US.  Maxwell can be accessed at https://asw.apple.com/cgi-bin/ 
+WebObjects/ASWViewer.woa/wa/display?id=L325873A-US. All ACTs are  
+taught how to proctor the exams in their Train the Trainer class(es).  
+Visit the following links for information on how to proctor the end  
+user exam for your students:
+North & South America - https://asw.apple.com/cgi-bin/WebObjects/ 
+ASWViewer.woa/wa/display?id=L327217A-US
+Other continents - https://asw.apple.com/cgi-
+…[trunc]…
+
+===== id=2353 | Tue, 07 Dec 2004 20:43:30 -0200 | Tiago Ribeiro <tribeiro@apple.com>
+SUBJ: Highlights of our call
+Christian,
+
+First of all, thanks for your time. Our conversation clarified a lot of
+things and now I'm sure that we have a solution that will fit very well in
+your environment.
+
+From our conversation, I'd like to highlight the most important points
+(please correct me if I forgot something):
+
+    - The systems you need will convert media already available in other
+formats (local content) and will also stream 3gpp files provided by other
+parties;
+
+    - The infrastructure for billing is already in place so the focus of the
+project will be on the media servers (encoders and streamers);
+
+    - You have test systems that are being provided by your counterparts in
+the US and they are providing feedback on the setup of equipment etc;
+
+As a next step, I suggested that Fabio (the member of our team working with
+telecom companies in Brazil) sent you some feedback regarding their
+experience (best practices etc) to accelerate the process.
+
+Also, we'll be awaiting for your feedback regarding the results of the
+tests. During the process, if you have any problem or need any assistance
+with the setup of the servers, please let us know. Our technical contacts
+are:
+
+    Tiago Ribeiro <tribeiro@apple.com> +55(11)5503-0077
+    Fabio Ribeiro <fribeiro@apple.com> +55(11)5503-0074
+    Jorge Sagasti <sagasti@apple.com>
+
+Thanks a lot for your attention!
+
+Best regards,
+
+Tiago
+---------------------------------------------------------------
+Tiago Ribeiro                                tribeiro@apple.com
+Systems Engineer                        Voice: +55-11-5503-0077
+Apple Product Professional                Fax: +55-11-5503-0001
+Apple Latin America/Caribbean    Av. Dr. Chucri Zaidan,940-16th
+                                                 Sao Paulo - SP
+                                             04583-906 - Brazil
+---------------------------------------------------------------
+
+
+
+===== id=10737 | Tue, 9 Oct 2007 18:02:18 -0200 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: Leopard Training Materials for AATCs
+Guys,
+If we don't translate the materials, I don't think we should translate  
+the exams because they should be based on the material and the  
+translation could lead to mistakes.
+If Peachpit is going to translate it, it would be great to translate  
+both.
+
+> Salutations from the land of good wine and steak,
+Tiago, are you in Argentina? You forgot to mention the babes :-)
+
+Besos.
+__________________________________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America / Caribbean
+Phone # +1 777 224-3249
+
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+__________________________________________________________
+
+On Oct 9, 2007, at 9:26 AM, Tiago Ribeiro wrote:
+
+> Hello Ed,
+>
+> I agree with you, we shouldn't translate the materials but  
+> definitively need to do the exam translation. We can base the number  
+> of translations on the number of channel people we have to recertify  
+> this next fiscal year. Those would be mostly ASEs/APRs for support  
+> essentials, and ASEs/VARs for ACTC. Will check those numbers and  
+> will get back to you.
+>
+> Salutations from the land of good wine and steak,
+>
+> Tiago
+> -------------------------------------------------------------------
+> Tiago Ribeiro, ACSA, ACT, APP, Pro               tribeiro@apple.com
+> Systems Engineer                          1 Alhambra Plz M/S 220-RE
+> Field & Channel Support                      Coral Gables, FL 33134
+> Apple Latin America & Caribbean                  T: +1-305-569-2705
+>                                                 C: +1-305-773-2043
+> -------------------------------------------------------------------
+>
+>
+>
+> On Oct 8, 2007, at 8:59 PM, Edwin Estrada wrote:
+>
+>> Hello Tiago,
+>>
+>> Hope your trip is going well; I know you will dominate! (Have a  
+>> couple of good steaks and goblets of wine on my behalf.
+>>
+>> After the meeting with Deborah & Company last week at SE Camp, how  
+>> do feel about questions below? Mainly, should we translate Leopard  
+>> Training materials? Exams? Forecast? (My take for these last 3  
+>> questions is, No / Yes / no idea... I know I'm not being much help  
+>> on this, so I'm cc'ing Jorge for his opinion, since (hopefully)  
+>> it's still fresh in his mind.)
+>>
+>> Thanks guys,
+>> Edwin
+>>
+>> ----------------------------------------------------------------------------------------
+>> Edwin (Ed) Estrada
+>> Sr. Sales & Channel Support Mgr
+>> Apple Latin America / Caribbean (ALAC)
+>> Cell: 1-408-425-3104
+>> email: eestrada@apple.com
+>> This transmission may be privileged and may contain confidential
+>> information intended only for the person(s) named above.  Any other
+>> distribution, re-transmission, copying or disclosure is strictly  
+>> prohibited.
+>> If you have received this transmission in error, please notify me  
+>> immediately
+>> by telephone or return email and delete this file from your system.
+>> Please accept my thanks, in advance.
+>> ----------------------------------------------------------------------------------------
+>>
+>>
+>> Begin forwarded message:
+>>
+>>> From: Catherine Keenan <ckeenan@apple.com>
+>>> Date: October 8, 2007 6:49:20 PM GMT-05:00
+>>> To: Joao Afonso Rato <rato.j@euro.apple.com>, Amardeep Khera <akhera@asia.apple.com 
+>>> >, Naari Fountain <nfountain@asia.apple.com>, Iris Wu <iris.wu@asia.apple.com 
+>>> >, Seita Yoshizaki <yoshiza1@asia.apple.com>, Brenda Brierley <brierley.b@euro.apple.com 
+>>> >, Drita Lubovci <lubovci.drita@euro.apple.com>, Masayuki Nii <masayuki.nii@asia.apple.com 
+>>> >, Pervin GOVINDRAJ <pervin@apple.com>, Trudy David <tdavid@asia.apple.com 
+>>> >, Edwin Estrada <eestrada@apple.com>
+>>> Cc: LeRoy Dennison <ldennison@apple.com>, Cindy Waller <waller.c@apple.com 
+>>> >
+>>> Subject: Leopard Training Materials for AATCs
+>>>
+>>> APPLE CONFIDENTIAL
+>>>
+>>> Dear All,
+>>>
+>>> We are working on the Localization plan with Peachpit for Leopard  
+>>> materials.  They need some more information in order to determine  
+>>> the best process.  It looks like the most efficient way s for each  
+>>> Geo to work directly with their Peachpit rep in the geo.  We will 
+…[trunc]…
+
+===== id=10903 | Wed, 11 Jul 2007 09:56:03 -0400 | Awilda Vazquez <avazquez@apple.com>
+SUBJ: Re: Certificacion XServe
+Hola Alejandro:
+Los cursos que se ofrecen para Servers los puedes ver en el Sales Web  
+cuando se ofrecen generalmente en Mejico.
+En tu pagina de Certifications puedes ver los examenes a tomar para  
+la Certificacion que necesites.
+
+Estoy copiando a Jorge Sagasti por si el quiere añadir informacion  
+sobre los libros y el material de estudio.
+
+Saludos,
+
+Awilda
+On Jul 11, 2007, at 9:48 AM, Soporte Ofir wrote:
+
+> Hola, Awilda.
+>
+> Te consulto puntualmente por el sgte. tema:
+>
+> estamos viendo con mi jefe la necesidad de certificarme en la  
+> tecnologia
+> XServe de Apple.
+> Viendo en la seccion de Certifications de Apple, llegue a un  
+> listado de examenes y titulos pero
+> en ningun caso veo alguno puntual para XServe; hay titulos de  
+> tecnico (como los que ya tengo
+> de portables y desktop) y despues tenes titulos de technical  
+> coordinator y system administrator y por otro lado las
+> aplicaciones Pro de Apple.
+> Sin embargo sí hay dos cursos en la seccion de Training sobre  
+> Xserve y XServe Late2006, pero
+> mi impresion es que son cursos sobre el producto, de la misma forma  
+> que hay cursos sobre
+> productos que se han lanzado en el ultimo año pero no por ello  
+> vienen examenes de certificacion
+> sobre los mismos (ej. MacBook Late 2006 o MacBook Pro Core2 Duo).
+> Esto es asi o hay mas titulos y examenes que no estoy viendo? Te  
+> mando el listado que saque de Apple
+> a ver si esta completo o vos me aclaras el panorama con algo mas.
+>
+> Gracias, saludos.
+>
+>
+> Alejandro Reyes
+> OFIR S.R.L.
+> Buenos Aires, Argentina
+>
+> <Picture 1.png>
+> <Picture 2.png>
+
+
+
+===== id=10905 | Wed, 11 Jul 2007 14:56:52 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: Certificacion XServe
+Alejandro,
+Todo el material es en libros y DVDs, ya que no tenemos todavía un  
+Apple Authorized Training Center en Argentina.
+Teniendo en cuenta que conocés el sitio de Apple, te recomiendo mirar  
+los libros de Apple Training que vende Peachpit (http:// 
+www.peachpit.com)
+
+Para Hardware:
+http://www.peachpit.com/articles/article.asp?p=665126&seqNum=2
+
+Para Software:
+http://www.peachpit.com/articles/article.asp?p=665126&seqNum=3
+
+Una vez estudiado el material, podés rendir los exámenes en cualquier  
+centro Prometric (http://www.prometric.com) en Buenos Aires.
+
+Quedo a tus órdenes.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Jul 11, 2007, at 11:57 AM, Soporte Ofir wrote:
+
+> Buenas, Jorge.
+>
+> Ambos items, ya que la idea es dar soporte completo a los XServes.
+> Te agradeceria que me indiques ademas si el material de estudio es  
+> online o
+> son clases para asistir en vivo, si hay practicas sobre el  
+> hardware, etc.
+>
+> Muchas gracias.
+>
+> Alejandro
+> OFIR S.R.L.
+>
+> On Jul 11, 2007, at 11:38 AM, Jorge Sagasti wrote:
+>
+>> Alejandro,
+>> Te referís a cursos sobre el Hardware del Xserve o sobre el Mac OS  
+>> X Server que viene instalado?
+>> La distinción es sumamente importante para poder darte una guía de  
+>> como lograrlo.
+>>
+>> Quedo a tus órdenes.
+>> __________________________________________________________
+>> Jorge Sagasti
+>> jorge@sagasti.com
+>>
+>> BUE + 54 11 5258-2178
+>> PDE + 598 9 473-5548
+>> USA + 1 777 224-3249
+>> __________________________________________________________
+>>
+>> On Jul 11, 2007, at 10:56 AM, Awilda Vazquez wrote:
+>>
+>>> Hola Alejandro:
+>>> Los cursos que se ofrecen para Servers los puedes ver en el Sales  
+>>> Web cuando se ofrecen generalmente en Mejico.
+>>> En tu pagina de Certifications puedes ver los examenes a tomar  
+>>> para la Certificacion que necesites.
+>>>
+>>> Estoy copiando a Jorge Sagasti por si el quiere añadir  
+>>> informacion sobre los libros y el material de estudio.
+>>>
+>>> Saludos,
+>>>
+>>> Awilda
+>>> On Jul 11, 2007, at 9:48 AM, Soporte Ofir wrote:
+>>>
+>>>> Hola, Awilda.
+>>>>
+>>>> Te consulto puntualmente por el sgte. tema:
+>>>>
+>>>> estamos viendo con mi jefe la necesidad de certificarme en la  
+>>>> tecnologia
+>>>> XServe de Apple.
+>>>> Viendo en la seccion de Certifications de Apple, llegue a un  
+>>>> listado de examenes y titulos pero
+>>>> en ningun caso veo alguno puntual para XServe; hay titulos de  
+>>>> tecnico (como los que ya tengo
+>>>> de portables y desktop) y despues tenes titulos de technical  
+>>>> coordinator y system administrator y por otro lado las
+>>>> aplicaciones Pro de Apple.
+>>>> Sin embargo sí hay dos cursos en la seccion de Training sobre  
+>>>> Xserve y XServe Late2006, pero
+>>>> mi impresion es que son cursos sobre el producto, de la misma  
+>>>> forma que hay cursos sobre
+>>>> productos que se han lanzado en el ultimo año pero no por ello  
+>>>> vienen examenes de certificacion
+>>>> sobre los mismos (ej. MacBook Late 2006 o MacBook Pro Core2 Duo).
+>>>> Esto es asi o hay mas titulos y examenes que no estoy viendo? Te  
+>>>> mando el listado que saque de Apple
+>>>> a ver si esta completo o vos me aclaras el panorama con algo mas.
+>>>>
+>>>> Gracias, saludos.
+>>>>
+>>>>
+>>>> Alejandro Reyes
+>>>> OFIR S.R.L.
+>>>> Buenos Aires, Argentina
+>>>>
+>>>> <Picture 1.png>
+>>>> <Picture 2.png>
+>>>
+>>
+>
+
+
+
+===== id=10906 | Mon, 16 Jul 2007 15:58:53 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: Certificacion XServe
+Alejandro,
+
+El camino default, en este caso es el correcto.
+Nuestro nivel de certificación ACSA es suficiente para estar seguro  
+que conocés a fondo las tecnologías incorporadas en Mac OS X Server.
+
+Saludos.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Jul 12, 2007, at 11:11 AM, Soporte Ofir wrote:
+
+> Hola, Jorge.
+>
+> Estuve revisando el material que me indicas; por el listado de  
+> examenes de Apple que figuran en
+> el mismo site de Peachpit Press veo que tampoco hay nada especifico  
+> para XServe.
+> Opte entonces por entrar a Prometric (como si fuera a rendir un  
+> examen de certificacion) y llegue
+> al listado completo de examenes que se ofrecen de Apple; te lo  
+> adjunto como complemento.
+> Dado que tengo 2 potenciales clientes que estan interesados en  
+> adquirir XServe y me ponen
+> como requisito que yo este certificado en dicha tecnologia para  
+> brindarles soporte, te hago la
+> pregunta al reves:
+>
+> - que examenes debo rendir para cumplir con este requerimiento?
+> Mi respuesta (por default) es apuntar al ACSA (conjunto de 7  
+> examenes) que por lo que vi es
+> el equivalente de un RHCE o un MCSE o CCNA.
+>
+> Gracias nuevamente.Saludos.
+>
+> Alejandro
+> OFIR S.R.L.
+>
+>
+> <CertifApple.zip>
+> On Jul 11, 2007, at 2:56 PM, Jorge Sagasti wrote:
+>
+>> Alejandro,
+>> Todo el material es en libros y DVDs, ya que no tenemos todavía un  
+>> Apple Authorized Training Center en Argentina.
+>> Teniendo en cuenta que conocés el sitio de Apple, te recomiendo  
+>> mirar los libros de Apple Training que vende Peachpit (http:// 
+>> www.peachpit.com)
+>>
+>> Para Hardware:
+>> http://www.peachpit.com/articles/article.asp?p=665126&seqNum=2
+>>
+>> Para Software:
+>> http://www.peachpit.com/articles/article.asp?p=665126&seqNum=3
+>>
+>> Una vez estudiado el material, podés rendir los exámenes en  
+>> cualquier centro Prometric (http://www.prometric.com) en Buenos  
+>> Aires.
+>>
+>> Quedo a tus órdenes.
+>> __________________________________________________________
+>> Jorge Sagasti
+>> jorge@sagasti.com
+>>
+>> BUE + 54 11 5258-2178
+>> PDE + 598 9 473-5548
+>> USA + 1 777 224-3249
+>> __________________________________________________________
+>>
+>> On Jul 11, 2007, at 11:57 AM, Soporte Ofir wrote:
+>>
+>>> Buenas, Jorge.
+>>>
+>>> Ambos items, ya que la idea es dar soporte completo a los XServes.
+>>> Te agradeceria que me indiques ademas si el material de estudio  
+>>> es online o
+>>> son clases para asistir en vivo, si hay practicas sobre el  
+>>> hardware, etc.
+>>>
+>>> Muchas gracias.
+>>>
+>>> Alejandro
+>>> OFIR S.R.L.
+>>>
+>>> On Jul 11, 2007, at 11:38 AM, Jorge Sagasti wrote:
+>>>
+>>>> Alejandro,
+>>>> Te referís a cursos sobre el Hardware del Xserve o sobre el Mac  
+>>>> OS X Server que viene instalado?
+>>>> La distinción es sumamente importante para poder darte una guía  
+>>>> de como lograrlo.
+>>>>
+>>>> Quedo a tus órdenes.
+>>>> __________________________________________________________
+>>>> Jorge Sagasti
+>>>> jorge@sagasti.com
+>>>>
+>>>> BUE + 54 11 5258-2178
+>>>> PDE + 598 9 473-5548
+>>>> USA + 1 777 224-3249
+>>>> __________________________________________________________
+>>>>
+>>>> On Jul 11, 2007, at 10:56 AM, Awilda Vazquez wrote:
+>>>>
+>>>>> Hola Alejandro:
+>>>>> Los cursos que se ofrecen para Servers los puedes ver en el  
+>>>>> Sales Web cuando se ofrecen generalmente en Mejico.
+>>>>> En tu pagina de Certifications puedes ver los examenes a tomar  
+>>>>> para la Certificacion que necesites.
+>>>>>
+>>>>> Estoy copiando a Jorge Sagasti por si el quiere añadir  
+>>>>> informacion sobre los libros y el material de estudio.
+>>>>>
+>>>>> Saludos,
+>>>>>
+>>>>> Awilda
+>>>>> On Jul 11, 2007, at 9:48 AM, Soporte Ofir wrote:
+>>>>>
+>>>>>> Hola, Awilda.
+>>>>>>
+>>>>>> Te consulto puntualmente por el sgte. tema:
+>>>>>>
+>>>>>> estamos viendo con mi jefe la necesidad de certificarme en la  
+>>>>>> tecnologia
+>>>>>> XServe de Apple.
+>>>>>> Viendo en la seccion de Certifications de Apple, llegue a un  
+>>>>>> listado de examenes y titulos pero
+>>>>>> en ningun caso veo alguno puntual para XServe; hay titulos de  
+>>>>>> tecnico (como los que ya tengo
+>>>>>> de portables y desktop) y despues tenes titulos de technical  
+>>>>>> coordinator y system administrator y por otro lado las
+>>>>>> aplicaciones Pro de Apple.
+>>>>>> Sin embargo sí hay dos cursos en la seccion de Training sobre  
+>>>>>> 
+…[trunc]…
+
+===== id=16961 | Mon, 16 Oct 2006 16:38:38 -0500 | Juan Carlos Esparza <jesparza@apple.com>
+SUBJ: Fwd: Requisitos a detalle para AATC en ITESM CCM
+Jorge,
+
+¿Me podrás mandar esto?
+
+Gracias,
+
+Begin forwarded message:
+
+> From: Jorge Sagasti <sagasti@apple.com>
+> Date: September 27, 2006 6:50:08 AM GMT-05:00
+> To: Juan Carlos Esparza <jesparza@apple.com>
+> Subject: Re: Requisitos a detalle para AATC en ITESM CCM
+>
+> Juan Carlos,
+> Voy a estar hasta el Jueves en el curso que estoy dando para nuevos  
+> entrenadores, no solo como Trainer, sino tambien como host en Punta  
+> Del Este.
+> El viernes te contesto todo lo pendiente.
+>
+> Un abrazo.
+> ______________________________________
+> Jorge Sagasti
+> Senior System Engineer
+> Apple Certified System Administrator / Mentor
+> Apple Latin America/Caribbean
+>
+>
+> On Sep 26, 2006, at 10:09 PM, Juan Carlos Esparza wrote:
+>
+>> any news?
+>>
+>> tks!
+>>
+>> Begin forwarded message:
+>>
+>>> From: Juan Carlos Esparza <jesparza@apple.com>
+>>> Date: September 23, 2006 10:46:34 PM GMT-05:00
+>>> To: Jorge Sagasti <sagasti@apple.com>
+>>> Cc: clrios@itesm.mx, Alejandro Acuña Limón  
+>>> <alejandro.acuna@itesm.mx>
+>>> Subject: Requisitos a detalle para AATC en ITESM CCM
+>>>
+>>> Jorge,
+>>>
+>>> Continuando con la conversación de ayer,  ¿me puedes listar lo  
+>>> que necesitará el ITESM Campus Ciudad de México para echar a  
+>>> andar su centro de Medios como AATC?
+>>>
+>>> Estoy copiando a Alejandro y Claudia Cruz para que se enteren  
+>>> directamente.
+>>>
+>>> Muchas gracias,
+>>>
+>>>
+>>>
+>>> <Pasted Graphic 2.tiff>
+>>>
+>>>
+>>>
+>>> Juan Carlos Esparza
+>>> Apple Product Professional
+>>> Apple Computer, Inc.
+>>> Educational Institutions
+>>> Reforma 265 piso 10
+>>> México, D.F. 06500
+>>> ☎ (5255) 5209-1220
+>>> Cel: 04455-1885-9290
+>>> From USA: (5255) 1885-9290
+>>> ✉ jesparza@apple.com
+>>>
+>>>
+>>>
+>>>
+>>
+>
+
+
+
+===== id=16962 | Fri, 20 Oct 2006 14:34:06 -0500 | Juan Carlos Esparza <jesparza@apple.com>
+SUBJ: Re: Requisitos a detalle para AATC en ITESM CCM
+Gracias Jorge,
+
+Voy a revisar estos detalles.
+
+Saludos,
+
+On Oct 19, 2006, at 8:33 AM, Jorge Sagasti wrote:
+
+> Juan Carlos,
+> Los requerimientos son muy simples:
+>
+> 1) Completar la aplicación en http://protraining.itechit.com/aatc/
+> 2) Disponer de un aula Mac con el equipamiento necesario para poder  
+> brindar una excelente experiencia a los estudiantes.
+> 3) Disponer de un Trainer Certificado para dar los cursos que  
+> quieren brindar.
+> 4) Fima del contrato y pago del Marketing Fee anual correspondiente  
+> (US$ 250 para los educativos, US$ 1,000.00 para el resto).
+>
+> Para más información: http://www.apple.com/software/pro/training/ 
+> auth_tcenter_prog.html
+>
+>
+> Un abrazo.
+> ______________________________________
+> Jorge Sagasti
+> Senior System Engineer
+> Apple Certified System Administrator / Mentor
+> Apple Latin America/Caribbean
+>
+>
+> On Oct 16, 2006, at 7:38 PM, Juan Carlos Esparza wrote:
+>
+>> Jorge,
+>>
+>> ¿Me podrás mandar esto?
+>>
+>> Gracias,
+>>
+>>
+>>
+>> Begin forwarded message:
+>>
+>>> From: Jorge Sagasti <sagasti@apple.com>
+>>> Date: September 27, 2006 6:50:08 AM GMT-05:00
+>>> To: Juan Carlos Esparza <jesparza@apple.com>
+>>> Subject: Re: Requisitos a detalle para AATC en ITESM CCM
+>>>
+>>> Juan Carlos,
+>>> Voy a estar hasta el Jueves en el curso que estoy dando para  
+>>> nuevos entrenadores, no solo como Trainer, sino tambien como host  
+>>> en Punta Del Este.
+>>> El viernes te contesto todo lo pendiente.
+>>>
+>>> Un abrazo.
+>>> ______________________________________
+>>> Jorge Sagasti
+>>> Senior System Engineer
+>>> Apple Certified System Administrator / Mentor
+>>> Apple Latin America/Caribbean
+>>>
+>>>
+>>> On Sep 26, 2006, at 10:09 PM, Juan Carlos Esparza wrote:
+>>>
+>>>> any news?
+>>>>
+>>>> tks!
+>>>>
+>>>> Begin forwarded message:
+>>>>
+>>>>> From: Juan Carlos Esparza <jesparza@apple.com>
+>>>>> Date: September 23, 2006 10:46:34 PM GMT-05:00
+>>>>> To: Jorge Sagasti <sagasti@apple.com>
+>>>>> Cc: clrios@itesm.mx, Alejandro Acuña Limón  
+>>>>> <alejandro.acuna@itesm.mx>
+>>>>> Subject: Requisitos a detalle para AATC en ITESM CCM
+>>>>>
+>>>>> Jorge,
+>>>>>
+>>>>> Continuando con la conversación de ayer,  ¿me puedes listar lo  
+>>>>> que necesitará el ITESM Campus Ciudad de México para echar a  
+>>>>> andar su centro de Medios como AATC?
+>>>>>
+>>>>> Estoy copiando a Alejandro y Claudia Cruz para que se enteren  
+>>>>> directamente.
+>>>>>
+>>>>> Muchas gracias,
+>>>>>
+>>>>>
+>>>>>
+>>>>> <Pasted Graphic 2.tiff>
+>>>>>
+>>>>>
+>>>>>
+>>>>> Juan Carlos Esparza
+>>>>> Apple Product Professional
+>>>>> Apple Computer, Inc.
+>>>>> Educational Institutions
+>>>>> Reforma 265 piso 10
+>>>>> México, D.F. 06500
+>>>>> ☎ (5255) 5209-1220
+>>>>> Cel: 04455-1885-9290
+>>>>> From USA: (5255) 1885-9290
+>>>>> ✉ jesparza@apple.com
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>
+>>>
+>>
+>
+
+
+
+===== id=16963 | Tue, 26 Sep 2006 20:09:49 -0500 | Juan Carlos Esparza <jesparza@apple.com>
+SUBJ: Fwd: Requisitos a detalle para AATC en ITESM CCM
+any news?
+
+tks!
+
+Begin forwarded message:
+
+> From: Juan Carlos Esparza <jesparza@apple.com>
+> Date: September 23, 2006 10:46:34 PM GMT-05:00
+> To: Jorge Sagasti <sagasti@apple.com>
+> Cc: clrios@itesm.mx, Alejandro Acuña Limón  
+> <alejandro.acuna@itesm.mx>
+> Subject: Requisitos a detalle para AATC en ITESM CCM
+>
+> Jorge,
+>
+> Continuando con la conversación de ayer,  ¿me puedes listar lo que  
+> necesitará el ITESM Campus Ciudad de México para echar a andar su  
+> centro de Medios como AATC?
+>
+> Estoy copiando a Alejandro y Claudia Cruz para que se enteren  
+> directamente.
+>
+> Muchas gracias,
+>
+>
+>
+￼
+>
+>
+> Juan Carlos Esparza
+> Apple Product Professional
+> Apple Computer, Inc.
+> Educational Institutions
+> Reforma 265 piso 10
+> México, D.F. 06500
+> ☎ (5255) 5209-1220
+> Cel: 04455-1885-9290
+> From USA: (5255) 1885-9290
+> ✉ jesparza@apple.com
+>
+>
+>
+>
+
+
+
+===== id=16964 | Wed, 27 Sep 2006 08:30:24 -0500 | Juan Carlos Esparza <jesparza@apple.com>
+SUBJ: Re: Requisitos a detalle para AATC en ITESM CCM
+Cierto!
+
+Muchas gracias.
+On Sep 27, 2006, at 6:50 AM, Jorge Sagasti wrote:
+
+> Juan Carlos,
+> Voy a estar hasta el Jueves en el curso que estoy dando para nuevos  
+> entrenadores, no solo como Trainer, sino tambien como host en Punta  
+> Del Este.
+> El viernes te contesto todo lo pendiente.
+>
+> Un abrazo.
+> ______________________________________
+> Jorge Sagasti
+> Senior System Engineer
+> Apple Certified System Administrator / Mentor
+> Apple Latin America/Caribbean
+>
+>
+> On Sep 26, 2006, at 10:09 PM, Juan Carlos Esparza wrote:
+>
+>> any news?
+>>
+>> tks!
+>>
+>> Begin forwarded message:
+>>
+>>> From: Juan Carlos Esparza <jesparza@apple.com>
+>>> Date: September 23, 2006 10:46:34 PM GMT-05:00
+>>> To: Jorge Sagasti <sagasti@apple.com>
+>>> Cc: clrios@itesm.mx, Alejandro Acuña Limón  
+>>> <alejandro.acuna@itesm.mx>
+>>> Subject: Requisitos a detalle para AATC en ITESM CCM
+>>>
+>>> Jorge,
+>>>
+>>> Continuando con la conversación de ayer,  ¿me puedes listar lo  
+>>> que necesitará el ITESM Campus Ciudad de México para echar a  
+>>> andar su centro de Medios como AATC?
+>>>
+>>> Estoy copiando a Alejandro y Claudia Cruz para que se enteren  
+>>> directamente.
+>>>
+>>> Muchas gracias,
+>>>
+>>>
+>>>
+>>> <Pasted Graphic 2.tiff>
+>>>
+>>>
+>>>
+>>> Juan Carlos Esparza
+>>> Apple Product Professional
+>>> Apple Computer, Inc.
+>>> Educational Institutions
+>>> Reforma 265 piso 10
+>>> México, D.F. 06500
+>>> ☎ (5255) 5209-1220
+>>> Cel: 04455-1885-9290
+>>> From USA: (5255) 1885-9290
+>>> ✉ jesparza@apple.com
+>>>
+>>>
+>>>
+>>>
+>>
+>
+
+
+
+===== id=18618 | Tue, 11 Nov 2003 13:31:25 -0600 | Isidro Corominas <isidro@apple.com>
+SUBJ: Xserve en Peru
+Hola Jorge,
+
+Como va todo?
+
+Solicito tu consejo en este asunto. Me contacto Grace (de Miami) para
+resolver un problema de configuración de Xserve en Perú. Te copio parte del
+mail.
+
+Me parece que Panther soluciona parte de este problema de integración. Crees
+que podamos ayudarle vía remota conociendo los datos con mayor detalle? No
+se si sea indispensable mandar a alguien.
+
+Saludos
+
+Isidro
+
+Grace,
+
+The absolutely urgent area we need tech support from Apple is on helping us
+set 
+up our XServe in a Windows environment.  We are having trouble getting all
+the 
+details straight so that our OSX machines can authentice against the Active
+Directory on our Windows 2000 Domain Controllers.  We are learning a lot
+about 
+this, believe me, but this is the area in which we are weakest and have the
+least experience.  We continue to work on our imaging and deployment
+processes 
+and could use some help there too.
+
+Getting the Macs to use the active directory is of the highest priority for
+us.  
+We need to to this for security purposes and also for monitoring printing
+through the queues we have set up on our windows 2000 server, like we do on
+the 
+Dells.  We purchased the XServe for this purpose, but we still haven't be
+able 
+to figure out to authenticate users against the AD in Windows.
+
+Once we have resolved this issue wiht the person you send, it might be nice
+to 
+have him or her spend some time with Daniel, Gaby, Ximena, and John for
+questions of a minor nature compared to the big one here in the Server Room.
+
+
+
+===== id=19724 | Mon, 27 Aug 2007 16:18:07 -0500 | Jair De la Garza <jdelagarza@apple.com>
+SUBJ: ITESM AATC
+Hola Jorge
+
+Te agradezco la llamada de hoy...
+
+Cuando tengas oportunidad, enviame por favor los datos de contacto de  
+Claudia Rios.
+
+Un abrazo!
+
+Jair
+
+
+===== id=19725 | Tue, 28 Aug 2007 08:49:05 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: ITESM AATC
+Jair,
+Gracias a vos.
+Estos son los datos:
+
+Lic. Claudia Elena Cruz Ríos
+Coordinadora de Laboratorios de Multimedios y Animación
+Departamento de Comunicación y Periodismo
+Tel: 5483 2309
+Correo: clrios@itesm.mx
+Edificio CEDETEC - CEMEX, primer piso
+Tecnológico de Monterrey, Campus Ciudad de México
+
+Saludos.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Aug 27, 2007, at 6:18 PM, Jair De la Garza wrote:
+
+> Hola Jorge
+>
+> Te agradezco la llamada de hoy...
+>
+> Cuando tengas oportunidad, enviame por favor los datos de contacto  
+> de Claudia Rios.
+>
+> Un abrazo!
+>
+> Jair
+
+
+
+===== id=20367 | Fri, 30 Mar 2007 09:01:08 -0400 | Christina Caballero <ccaballero@apple.com>
+SUBJ: U.S. PRESS RELEASE:  3/30/07 Apple to Offer Major League Baseball
+ Video Highlights on the iTunes Store
+
+
+Good morning,
+
+The following press release crossed the wire on Friday, March 30,  
+2007 at 5:30 a.m. PDT.  We will not be using this for our region as  
+we do not have an iTunes Store.  Take care,
+
+Tina
+
+********************************************
+Apple to Offer Major League Baseball Video Highlights on the iTunes  
+Store
+
+CUPERTINO, California—March 30, 2007—Apple® today announced it will  
+be offering Major League Baseball video highlights for the 2007  
+season on the iTunes® Store (www.itunes.com), giving baseball fans  
+the ability to catch all the action of their favorite teams anywhere,  
+anytime. MLB video on iTunes will include a daily 25 minute “MLB.com  
+Daily Rewind” highlight show and two weekly “Games of the Week,”  
+featuring full versions of the best games from the National and  
+American Leagues. Customers will be able to download individual  
+episodes of “MLB.com Daily Rewind” and each “Game of the Week” for  
+$1.99, or purchase a Multi-Pass for a month of Daily Rewind shows for  
+$7.99 or a Season Pass for every “Game of the Week” at just $19.99.
+
+“We’re thrilled to be teaming with iTunes to give baseball fans  
+access to MLB highlights via the world’s most popular online TV  
+store,” said Kenny Gersh, senior vice president, business development  
+of MLB Advanced Media. “We’re excited that baseball fans now have the  
+opportunity to enjoy America’s favorite pastime in a unique way by  
+taking MLB with them on their computers and iPods wherever they go.”
+
+“iTunes has become the ultimate destination for accessing top sports  
+video content and now our customers will be able to enjoy America’s  
+favorite pastime whenever and wherever,” said Eddy Cue, Apple’s vice  
+president of iTunes. “By offering a 25 minute daily highlight show  
+we’re giving millions of fans a great way to enjoy action from their  
+favorite team and catch up on all the top plays from around the league.”
+
+To kick off the 2007 Major League Baseball season, iTunes is offering  
+the “MLB.com 2007 Season Preview Show” as a free download for iTunes  
+customers. In addition to daily and weekly highlights, baseball fans  
+will also be able to download episodes of the “MLB.com Baseball’s  
+Best” series showcasing classic baseball games from the past.  
+Individual episodes of “MLB.com Baseball’s Best” will be available  
+for $1.99.
+
+The iTunes Store features the world’s largest catalog with over four  
+million songs, 350 television shows and over 400 movies. The iTunes  
+Store has sold over two billion songs, 50 million TV shows and over  
+1.3 million movies, making it the world’s most popular online music,  
+TV and movie store.
+
+With Apple’s legendary ease of use, pioneering features such as  
+integrated podcasting support, iMix playlist sharing, seamless  
+integration with iPod®, groundbreaking personal use rights and the  
+ability to turn previously purchased songs into complete albums at a  
+reduced price, the iTunes Store (www.itunes.com) is the best way for  
+PC and Mac® users to legally discover, purchase and download music  
+and video online.
+
+Apple ignited the personal computer revolution in the 1970s with the  
+Apple II and reinvented the personal computer in the 1980s with the  
+Macintosh. Today, Apple continues to lead the industry in innovation  
+with its award-winning computers, OS X operating system and iLife and  
+professional applications. Apple is also spearheading the digital  
+media revolution with its iPod portable music and video players and  
+iTunes online store, and will enter the mobile phone market this year  
+with its revolutionary iPhone.
+
+Press Contacts:
+Derick Mains
+Apple
+dmains@apple.com
+(408) 974-6264
+
+Simon Pope
+Apple
+simonp@apple.com
+(408) 974-0457
+
+NOTE TO EDITORS: For additional information visit Apple’s PR website  
+(www.apple.com/pr/), or call Apple’s Media Helpline at (408) 974-2042.
+
+-30-
+
+© 2007 Apple Inc. All rights reserved. Apple, the Apple logo, Mac,  
+Mac OS, Macintosh, iTunes and iPod are trademarks of Apple. Other  
+company and product names may be trademarks of their respective owners.
+
+Christina M. Caballero * Apple, Latin America & Caribbean * Public  
+Relations and Buzz Marketing * 305.569.2788 * Fax 305.569.2777
+
+THIS TRANSMISSION MAY BE PRIVILEGED AND MAY CONTAIN CONFIDENTIAL  
+INFORMATION INTENDED ONLY FOR THE PERSON(S) NAMED ABOVE.  ANY OTHER  
+DISTRIBUTION, RE-TRANSMISSION, COPYING OR DISCLOSURE IS STRICTLY  
+PROHIBITED.  IF YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE  
+NOT
+…[trunc]…
+
+===== id=23188 | Mon, 26 Nov 2007 12:26:24 -0800 | Edwin Estrada <eestrada@apple.com>
+SUBJ: Fwd: Consulta (RE: Tec MTY AATC app)
+Hola Jorge,
+
+(FYI - I've cc'ed others on this email that may / may not know  
+anything about the discussed topic, but figured that may need to know  
+in future... If any have current or recent info, please feel free to  
+share; Thanks.)
+
+Can you please provide a quick update of what you remember status-wise  
+on the Tec de Monterrey AATC application process?
+
+If memory serves me, I think this is one that Juan Carlos Esparza  
+might have initiated and now wondering if any "paperwork" reached you  
+(or anyone else) regarding this request.
+
+Thanks,
+Edwin
+
+----------------------------------------------------------------------------------------
+Edwin (Ed) Estrada
+Sr. Sales & Channel Support Mgr
+Apple Latin America / Caribbean (ALAC)
+Cell: 1-408-425-3104
+email: eestrada@apple.com
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+----------------------------------------------------------------------------------------
+
+Begin forwarded message:
+
+> From: Armando Ortega <aortega@apple.com>
+> Date: November 26, 2007 11:07:55 AM PST
+> To: Edwin Estrada <eestrada@apple.com>
+> Subject: FW: Consulta
+>
+> Hola Edwin,
+>
+> Esta persona me pido hace tiempo la información mencionada (how to  
+> be an AATC). En ese entonces lo canalicé con Sagasti.
+>
+> ¿Alguna idea?
+>
+> Saludos
+>
+>
+> ------ Forwarded Message
+> From: Daniel Pantoja <danielpm@itesm.mx>
+> Date: Mon, 26 Nov 2007 11:47:29 -0600
+> To: <aortega@apple.com>
+> Subject: Consulta
+>
+> Hola, Armando.
+> En marzo de este año tuve el gusto de conocerte allá en las oficinas  
+> de Apple en la Cd. de México.
+>
+> Quisiera saber si tú puedes orientarme con quién puedo dirigirme  
+> para darle seguimiento al proyecto que tenemos acá en el Tec Campus  
+> Guadalajara de convertirnos en AATC.
+> En agosto estuve en contacto con Jorge Sagasti, pero desde entonces  
+> ya no he vuelto a tener respuesta de él.
+> ¿Sabes de alguna otra manera de retomar el contacto con él mismo o  
+> con quién más puedo ver esta cuestión?
+>
+> Te agradezco de antemano tu ayuda
+> Saludos
+>
+>
+> -- 
+> Daniel Pantoja Morales
+> Centro de Medios de Comunicación
+> Departamento de Comunicación y Relaciones Internacionales
+> Tecnológico de Monterrey, Campus Guadalajara
+> Tel. 52 (33) 3669 3000  Ext. 4905
+> Fax  52 (33) 3669 3061
+> Enlace Intercampus 80-432-4905
+> http://www.itesm.mx
+>
+>
+> El contenido de este mensaje de datos no se considera oferta,  
+> propuesta o
+> acuerdo, sino hasta que sea confirmado en  documento por escrito que
+> contenga la firma autógrafa del apoderado legal del ITESM. El  
+> contenido de
+> este mensaje de datos es confidencial y se entiende dirigido y para  
+> uso
+> exclusivo del destinatario, por lo que no podrá distribuirse y/o  
+> difundirse
+> por ningún medio sin la previa autorización del emisor original. Si  
+> usted no
+> es el destinatario, se le prohíbe su utilización total o parcial para
+> cualquier fin.
+>
+>
+>
+> The content of this data transmission is not considered as an offer,
+> proposal, understanding, or agreement unless it is confirmed in a  
+> document
+> signed by a legal representative of ITESM. The content of this data
+> transmission is confidential and it is intended to be delivered only  
+> to the
+> addresses, therefore, it shall not be distributed and/or disclosed  
+> through
+> any mean without the original sender's previous authorization. If  
+> you are
+> not the addressee you are forbidden to use it, either totally or  
+> partially,
+> for any purpose.
+>
+>
+> ------ End of Forwarded Message
+
+
+
+===== id=23189 | Tue, 27 Nov 2007 18:48:34 -0600 | Edwin Estrada <eestrada@apple.com>
+SUBJ: Re: Consulta (RE: Tec MTY AATC app)
+Hola Jorge y Compañia,
+
+Perfecto la información que enviaste,  gracias!
+Mañana hablo con Tiago y Armando para determinar próximos pasos.
+
+Besos y abrazos (all around),
+Edwin
+
+On Nov 27, 2007, at 1:04 PM, Jorge Sagasti wrote:
+
+> Ed,
+> I have discussed this with Tiago on the recent past.
+> The process started several months ago.
+> I sent the english contract provided by Jennifer Nott  
+> <jnott@apple.com> to the Campus in Ciudad de Mexico to Claudia Elena  
+> Cruz Ríos <clrios@itesm.mx>
+> Claudia told me that they need a spanish contract, so Jennifer  
+> translated it and sent it.
+> In the meantime I decided not to go ahead with any other Tec before  
+> the contract with Ciudad de Mexico was signed.
+> Claudia sent by Fedex some modifications to Jennifer.
+> After that I did not receive any answer from Jessica. I have asked  
+> Claudia to send me the modifications expecting that Jessica had not  
+> receive the package, but they were on paper and she does not have a  
+> copy.
+>
+> That's the whole story, I have not other info, sorry.
+>
+> Besos.
+> _________________________________________________________
+> Jorge Sagasti
+> Senior System Engineer
+> Apple Certified System Administrator / Mentor
+> Apple Latin America / Caribbean
+> Phone # +1 777 224-3249
+>
+>
+> This transmission may be privileged and may contain confidential
+> information intended only for the person(s) named above.  Any other
+> distribution, re-transmission, copying or disclosure is strictly  
+> prohibited.
+> If you have received this transmission in error, please notify me  
+> immediately
+> by telephone or return email and delete this file from your system.
+> Please accept my thanks, in advance.
+> __________________________________________________________
+>
+>
+>
+>
+>
+>
+> On Nov 26, 2007, at 6:26 PM, Edwin Estrada wrote:
+>
+>> Hola Jorge,
+>>
+>> (FYI - I've cc'ed others on this email that may / may not know  
+>> anything about the discussed topic, but figured that may need to  
+>> know in future... If any have current or recent info, please feel  
+>> free to share; Thanks.)
+>>
+>> Can you please provide a quick update of what you remember status- 
+>> wise on the Tec de Monterrey AATC application process?
+>>
+>> If memory serves me, I think this is one that Juan Carlos Esparza  
+>> might have initiated and now wondering if any "paperwork" reached  
+>> you (or anyone else) regarding this request.
+>>
+>> Thanks,
+>> Edwin
+>>
+>> ----------------------------------------------------------------------------------------
+>> Edwin (Ed) Estrada
+>> Sr. Sales & Channel Support Mgr
+>> Apple Latin America / Caribbean (ALAC)
+>> Cell: 1-408-425-3104
+>> email: eestrada@apple.com
+>> This transmission may be privileged and may contain confidential
+>> information intended only for the person(s) named above.  Any other
+>> distribution, re-transmission, copying or disclosure is strictly  
+>> prohibited.
+>> If you have received this transmission in error, please notify me  
+>> immediately
+>> by telephone or return email and delete this file from your system.
+>> Please accept my thanks, in advance.
+>> ----------------------------------------------------------------------------------------
+>>
+>>
+>> Begin forwarded message:
+>>
+>>> From: Armando Ortega <aortega@apple.com>
+>>> Date: November 26, 2007 11:07:55 AM PST
+>>> To: Edwin Estrada <eestrada@apple.com>
+>>> Subject: FW: Consulta
+>>>
+>>> Hola Edwin,
+>>>
+>>> Esta persona me pido hace tiempo la información mencionada (how to  
+>>> be an AATC). En ese entonces lo canalicé con Sagasti.
+>>>
+>>> ¿Alguna idea?
+>>>
+>>> Saludos
+>>>
+>>>
+>>> ------ Forwarded Message
+>>> From: Daniel Pantoja <danielpm@itesm.mx>
+>>> Date: Mon, 26 Nov 2007 11:47:29 -0600
+>>> To: <aortega@apple.com>
+>>> Subject: Consulta
+>>>
+>>> Hola, Armando.
+>>> En marzo de este año tuve el gusto de conocerte allá en las  
+>>> oficinas de Apple en la Cd. de México.
+>>>
+>>> Quisiera saber si tú puedes orientarme con quién puedo dirigirme  
+>>> para darle seguimiento al proyecto que tenemos acá en el Tec  
+>>> Campus Guadalajara de convertirnos en AATC.
+>>> En agosto estuve en contacto con Jorge Sagasti, pero desde  
+>>> entonces ya no he vuelto a tener respuesta de él.
+>>> ¿Sabes de alguna otra manera de retomar el contacto con él mismo o  
+>>> con quién más puedo ver esta cuestión?
+>>>
+>>> Te agradezco de antemano tu ayuda
+>>> Saludos
+>>>
+>>>
+>>> -- 
+>>> Daniel Pantoja Morales
+>>> Centro de Medios de Comunicación
+>>> Departamento de Comunicación y Relaciones Internacionales
+>>> Tecnológico
+…[trunc]…
+
+===== id=23606 | Tue, 21 Aug 2007 23:03:13 -0500 | Jair De la Garza <jdelagarza@apple.com>
+SUBJ: AATC at TEC MILENIO (ITESM)
+Hola Jorge,
+
+No tengo el gusto de conocerte personalmente, pero espero tener el  
+privilegio de hacerlo pronto.
+
+Estoy en México apoyando la parte de Canales y ahora como sabes  
+también la parte Educativa. ** De hecho trabajo muy de cerca con  
+Guillermo Santos de EXA quien habla mucho de ti y esta ahora con su  
+AATC muy feliz  :-)
+
+Te quiero pedir dirección respecto a un reto que tengo ahora con  
+rectores del Tec de Monterrey, ellos me han pedido les ayude a que  
+Tec Milenio (que es parte del ITESM) se conforme como un AATC en uno  
+de sus campus aquí en Monterrey, NL.
+
+Yo por adelante les he enviado alguna información disponible en la  
+web y una aplicación que estaba también ahí en la pagina web para que  
+la llenen y poder enviartela con el fin de que nos orientes un poco mas.
+
+Yo te agradecería infinitamente si me apoyas para que esto se pueda  
+realizar con éxito antes de que termine este año calendario 2007 ya  
+que esa fue la fecha limite que estamos apuntando como meta.
+
+Te agradezco si me comentas como vamos con los contratos para México  
+y el proceso de ya abrirlo oficialmente para instituciones educativas.
+
+Te envío un abrazo fuerte y me quedo a tus ordenes!
+
+Jair De la Garza
+Apple México
+t. (81) 8103 6974
+e. jdelagarza@apple.com
+
+
+
+===== id=23607 | Fri, 24 Aug 2007 08:52:37 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: AATC at TEC MILENIO (ITESM)
+Perfecto Jair,
+A las 4PM te llamo. Te acabo de enviar un MM.
+
+Saludos.
+__________________________________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America / Caribbean
+Phone # +1 777 224-3249
+
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+__________________________________________________________
+
+On Aug 24, 2007, at 2:32 AM, Jair De la Garza wrote:
+
+> Gracias Jorge,
+>
+> Sabes que sali de viaje y estare regresando hasta final de semana a  
+> mi oficina.
+>
+> Te parece si me llamas el lunes  a las 4pm de Mexico?
+>
+> Comentame si es apropiado para ti.
+>
+> Saludos
+>
+> Jair
+>
+>
+> On Aug 22, 2007, at 3:38 PM, Jorge Sagasti wrote:
+>
+>> Jair,
+>>
+>> Encantado de ayudar en lo que pueda.
+>> Querés que hablemos?
+>>
+>> A que hora puedo llamarte mañana?
+>>
+>> Saludos.
+>> __________________________________________________________
+>> Jorge Sagasti
+>> jorge@sagasti.com
+>>
+>> BUE + 54 11 5258-2178
+>> PDE + 598 9 473-5548
+>> USA + 1 777 224-3249
+>> __________________________________________________________
+>>
+>> On Aug 22, 2007, at 1:03 AM, Jair De la Garza wrote:
+>>
+>>> Hola Jorge,
+>>>
+>>> No tengo el gusto de conocerte personalmente, pero espero tener  
+>>> el privilegio de hacerlo pronto.
+>>>
+>>> Estoy en México apoyando la parte de Canales y ahora como sabes  
+>>> también la parte Educativa. ** De hecho trabajo muy de cerca con  
+>>> Guillermo Santos de EXA quien habla mucho de ti y esta ahora con  
+>>> su AATC muy feliz  :-)
+>>>
+>>> Te quiero pedir dirección respecto a un reto que tengo ahora con  
+>>> rectores del Tec de Monterrey, ellos me han pedido les ayude a  
+>>> que Tec Milenio (que es parte del ITESM) se conforme como un AATC  
+>>> en uno de sus campus aquí en Monterrey, NL.
+>>>
+>>> Yo por adelante les he enviado alguna información disponible en  
+>>> la web y una aplicación que estaba también ahí en la pagina web  
+>>> para que la llenen y poder enviartela con el fin de que nos  
+>>> orientes un poco mas.
+>>>
+>>> Yo te agradecería infinitamente si me apoyas para que esto se  
+>>> pueda realizar con éxito antes de que termine este año calendario  
+>>> 2007 ya que esa fue la fecha limite que estamos apuntando como meta.
+>>>
+>>> Te agradezco si me comentas como vamos con los contratos para  
+>>> México y el proceso de ya abrirlo oficialmente para instituciones  
+>>> educativas.
+>>>
+>>> Te envío un abrazo fuerte y me quedo a tus ordenes!
+>>>
+>>> Jair De la Garza
+>>> Apple México
+>>> t. (81) 8103 6974
+>>> e. jdelagarza@apple.com
+>>>
+>>>
+>>>
+>>
+>
+
+
+
+===== id=23608 | Wed, 22 Aug 2007 17:38:40 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: AATC at TEC MILENIO (ITESM)
+Jair,
+
+Encantado de ayudar en lo que pueda.
+Querés que hablemos?
+
+A que hora puedo llamarte mañana?
+
+Saludos.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Aug 22, 2007, at 1:03 AM, Jair De la Garza wrote:
+
+> Hola Jorge,
+>
+> No tengo el gusto de conocerte personalmente, pero espero tener el  
+> privilegio de hacerlo pronto.
+>
+> Estoy en México apoyando la parte de Canales y ahora como sabes  
+> también la parte Educativa. ** De hecho trabajo muy de cerca con  
+> Guillermo Santos de EXA quien habla mucho de ti y esta ahora con su  
+> AATC muy feliz  :-)
+>
+> Te quiero pedir dirección respecto a un reto que tengo ahora con  
+> rectores del Tec de Monterrey, ellos me han pedido les ayude a que  
+> Tec Milenio (que es parte del ITESM) se conforme como un AATC en  
+> uno de sus campus aquí en Monterrey, NL.
+>
+> Yo por adelante les he enviado alguna información disponible en la  
+> web y una aplicación que estaba también ahí en la pagina web para  
+> que la llenen y poder enviartela con el fin de que nos orientes un  
+> poco mas.
+>
+> Yo te agradecería infinitamente si me apoyas para que esto se pueda  
+> realizar con éxito antes de que termine este año calendario 2007 ya  
+> que esa fue la fecha limite que estamos apuntando como meta.
+>
+> Te agradezco si me comentas como vamos con los contratos para  
+> México y el proceso de ya abrirlo oficialmente para instituciones  
+> educativas.
+>
+> Te envío un abrazo fuerte y me quedo a tus ordenes!
+>
+> Jair De la Garza
+> Apple México
+> t. (81) 8103 6974
+> e. jdelagarza@apple.com
+>
+>
+>
+
+
+
+===== id=23609 | Fri, 24 Aug 2007 00:32:00 -0500 | Jair De la Garza <jdelagarza@apple.com>
+SUBJ: Re: AATC at TEC MILENIO (ITESM)
+Gracias Jorge,
+
+Sabes que sali de viaje y estare regresando hasta final de semana a  
+mi oficina.
+
+Te parece si me llamas el lunes  a las 4pm de Mexico?
+
+Comentame si es apropiado para ti.
+
+Saludos
+
+Jair
+
+On Aug 22, 2007, at 3:38 PM, Jorge Sagasti wrote:
+
+> Jair,
+>
+> Encantado de ayudar en lo que pueda.
+> Querés que hablemos?
+>
+> A que hora puedo llamarte mañana?
+>
+> Saludos.
+> __________________________________________________________
+> Jorge Sagasti
+> jorge@sagasti.com
+>
+> BUE + 54 11 5258-2178
+> PDE + 598 9 473-5548
+> USA + 1 777 224-3249
+> __________________________________________________________
+>
+> On Aug 22, 2007, at 1:03 AM, Jair De la Garza wrote:
+>
+>> Hola Jorge,
+>>
+>> No tengo el gusto de conocerte personalmente, pero espero tener el  
+>> privilegio de hacerlo pronto.
+>>
+>> Estoy en México apoyando la parte de Canales y ahora como sabes  
+>> también la parte Educativa. ** De hecho trabajo muy de cerca con  
+>> Guillermo Santos de EXA quien habla mucho de ti y esta ahora con  
+>> su AATC muy feliz  :-)
+>>
+>> Te quiero pedir dirección respecto a un reto que tengo ahora con  
+>> rectores del Tec de Monterrey, ellos me han pedido les ayude a que  
+>> Tec Milenio (que es parte del ITESM) se conforme como un AATC en  
+>> uno de sus campus aquí en Monterrey, NL.
+>>
+>> Yo por adelante les he enviado alguna información disponible en la  
+>> web y una aplicación que estaba también ahí en la pagina web para  
+>> que la llenen y poder enviartela con el fin de que nos orientes un  
+>> poco mas.
+>>
+>> Yo te agradecería infinitamente si me apoyas para que esto se  
+>> pueda realizar con éxito antes de que termine este año calendario  
+>> 2007 ya que esa fue la fecha limite que estamos apuntando como meta.
+>>
+>> Te agradezco si me comentas como vamos con los contratos para  
+>> México y el proceso de ya abrirlo oficialmente para instituciones  
+>> educativas.
+>>
+>> Te envío un abrazo fuerte y me quedo a tus ordenes!
+>>
+>> Jair De la Garza
+>> Apple México
+>> t. (81) 8103 6974
+>> e. jdelagarza@apple.com
+>>
+>>
+>>
+>
+
+
+
+===== id=23669 | Fri, 10 Aug 2007 12:05:28 -0400 | Anne Renehan <arenehan@apple.com>
+SUBJ: Re: FYI - Executed AATC Agreement for Soluciones
+Hi,
+You also need to add them as a new center to the TechIT database so  
+that their AATC appears as an option when students fill out the evals  
+and to fill out monthly reports. Although the evaluations are only in  
+English, so maybe they won't do that? If so, you should remove that  
+from the Welcome Letter. To add them, log in to http:// 
+protraining.itechit.com/admin/, click the AATC Report tab, click the  
+Add Center option (on the left) and enter the name of the AATC. Then  
+once a quarter, click the Evals tab, select the AATC from the list  
+and click the Save to Excel option (in the top right, you may need to  
+scroll). This will export their evaluations to an excel spreadsheet  
+that you can send them.
+thanks,
+Anne
+
+On Aug 9, 2007, at 6:25 PM, Sharon Martin wrote:
+
+> Jorge, Edwin, and Caro,
+>
+> (Pervin, Alex, and Andre -- FYI)
+>
+> The AATC contract for Soluciones (Macstore Alfauno) of Argentina  
+> has been executed (see below).  Here's a chance for us to refine  
+> our process going forward.  I can't find the application for  
+> Soluciones Mac S.A., and I can't find a record for them in either  
+> the Contracts Tracking System or TechIT, so I don't know what kind  
+> of AATC they are -- I assume it is commercial, but is it Pro Apps  
+> or IT or both?
+>
+> Here's what I do in the US:
+>
+> 1.  Send a Welcome email.  I have pasted below updated text for  
+> commercial Pro Apps AATCs -- you can translate and adapt it as  
+> appropriate.  Obviously, you'll need to change or remove some  
+> sections (training website and email support address, ASW page,  
+> marketing fee, program updates, Peachpit instructions, etc.)
+>
+> 2.  Once I have the names and contact information of the persons  
+> who need ASW, Maxwell, and Clockwork access, I set them up in those  
+> systems.  Caro, I assume you know how to set them up with ASW  
+> access.  For Maxwell and Clockwork, I need to know who on your  
+> staff to give admin access to -- should that be you, Caro?  or the  
+> new training admin?
+>
+> 3.  Once their ASW access is set up, I send them instructions for  
+> accessing Maxwell, the AATC home page, and Clockwork.  (I can send  
+> you these docs if you don't have them).
+>
+> 4.  Once they pay the marketing fee, I add them to the AATC Locator  
+> (for now, you'll need to send me their contact information to post).
+>
+>
+> Please let me know if you can do all this, and if you need further  
+> explanation.
+>
+> Thanks,
+> Sharon
+>
+>
+> Pro Apps AATC Welcome Letter
+> ****************************
+> Congratulations on becoming an Apple Authorized Training Center for  
+> Pro Apps!  We wanted to let you know next steps for participating  
+> in the AATC program.  Please take a few moments to review all of  
+> the materials and let us know if you have any questions.
+>
+> Getting Started
+> Apple’s Sales Web (ASW) - All personnel at your facility who will  
+> be involved in the administrative tasks of the AATC program will  
+> need access to ASW (http://sales.apple.com) for important program  
+> documentation, AATC signature logos, and exam code ordering. Please  
+> send an email to trainingcenter@apple with the names and contract  
+> information of the persons on your staff that will need ASW access.  
+> This process takes 3-4 business days and is the first step in  
+> participation in the program. AATCs and Apple Certified Trainers  
+> (ACTs) have a program homepage that can be found at https:// 
+> asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display?id=L322915A.
+>
+> Web Presence - In order to be listed on Apple's website, your AATC  
+> must pay the annual marketing fee of $2500 per location which  
+> applies for presence until from July 1, 2007 until June 30, 2008.  
+> We only accept credit card or Apple Credit account payments. No  
+> cash, checks or money orders. Once you have ASW access, please  
+> access the instructions on how to make payment at https:// 
+> asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display? 
+> id=L330198A-US.
+>
+> Program Update - Every month we send out a program update letter to  
+> all of the AATCs. If you would like to add anyone from your center  
+> to the distribution list, please let us know their name and email.  
+> For past Program Updates, please visit https://asw.apple.com/cgi- 
+> bin/WebObjects/ASWViewer.woa/wa/display?id=L327716A-US
+>
+> Peachpit Classroom Materials - Once you have ASW access, you may  
+> visit https://asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/ 
+> display?id=L330197A-US
+…[trunc]…
+
+===== id=23670 | Fri, 10 Aug 2007 15:53:17 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: FYI - Executed AATC Agreement for Soluciones
+Anne,
+
+Done. Thank you.
+
+Regards.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Aug 10, 2007, at 1:05 PM, Anne Renehan wrote:
+
+> Hi,
+> You also need to add them as a new center to the TechIT database so  
+> that their AATC appears as an option when students fill out the  
+> evals and to fill out monthly reports. Although the evaluations are  
+> only in English, so maybe they won't do that? If so, you should  
+> remove that from the Welcome Letter. To add them, log in to http:// 
+> protraining.itechit.com/admin/, click the AATC Report tab, click  
+> the Add Center option (on the left) and enter the name of the AATC.  
+> Then once a quarter, click the Evals tab, select the AATC from the  
+> list and click the Save to Excel option (in the top right, you may  
+> need to scroll). This will export their evaluations to an excel  
+> spreadsheet that you can send them.
+> thanks,
+> Anne
+>
+> On Aug 9, 2007, at 6:25 PM, Sharon Martin wrote:
+>
+>> Jorge, Edwin, and Caro,
+>>
+>> (Pervin, Alex, and Andre -- FYI)
+>>
+>> The AATC contract for Soluciones (Macstore Alfauno) of Argentina  
+>> has been executed (see below).  Here's a chance for us to refine  
+>> our process going forward.  I can't find the application for  
+>> Soluciones Mac S.A., and I can't find a record for them in either  
+>> the Contracts Tracking System or TechIT, so I don't know what kind  
+>> of AATC they are -- I assume it is commercial, but is it Pro Apps  
+>> or IT or both?
+>>
+>> Here's what I do in the US:
+>>
+>> 1.  Send a Welcome email.  I have pasted below updated text for  
+>> commercial Pro Apps AATCs -- you can translate and adapt it as  
+>> appropriate.  Obviously, you'll need to change or remove some  
+>> sections (training website and email support address, ASW page,  
+>> marketing fee, program updates, Peachpit instructions, etc.)
+>>
+>> 2.  Once I have the names and contact information of the persons  
+>> who need ASW, Maxwell, and Clockwork access, I set them up in  
+>> those systems.  Caro, I assume you know how to set them up with  
+>> ASW access.  For Maxwell and Clockwork, I need to know who on your  
+>> staff to give admin access to -- should that be you, Caro?  or the  
+>> new training admin?
+>>
+>> 3.  Once their ASW access is set up, I send them instructions for  
+>> accessing Maxwell, the AATC home page, and Clockwork.  (I can send  
+>> you these docs if you don't have them).
+>>
+>> 4.  Once they pay the marketing fee, I add them to the AATC  
+>> Locator (for now, you'll need to send me their contact information  
+>> to post).
+>>
+>>
+>> Please let me know if you can do all this, and if you need further  
+>> explanation.
+>>
+>> Thanks,
+>> Sharon
+>>
+>>
+>> Pro Apps AATC Welcome Letter
+>> ****************************
+>> Congratulations on becoming an Apple Authorized Training Center  
+>> for Pro Apps!  We wanted to let you know next steps for  
+>> participating in the AATC program.  Please take a few moments to  
+>> review all of the materials and let us know if you have any  
+>> questions.
+>>
+>> Getting Started
+>> Apple’s Sales Web (ASW) - All personnel at your facility who will  
+>> be involved in the administrative tasks of the AATC program will  
+>> need access to ASW (http://sales.apple.com) for important program  
+>> documentation, AATC signature logos, and exam code ordering.  
+>> Please send an email to trainingcenter@apple with the names and  
+>> contract information of the persons on your staff that will need  
+>> ASW access. This process takes 3-4 business days and is the first  
+>> step in participation in the program. AATCs and Apple Certified  
+>> Trainers (ACTs) have a program homepage that can be found at  
+>> https://asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display? 
+>> id=L322915A.
+>>
+>> Web Presence - In order to be listed on Apple's website, your AATC  
+>> must pay the annual marketing fee of $2500 per location which  
+>> applies for presence until from July 1, 2007 until June 30, 2008.  
+>> We only accept credit card or Apple Credit account payments. No  
+>> cash, checks or money orders. Once you have ASW access, please  
+>> access the instructions on how to make payment at https:// 
+>> asw.apple.com/cgi-bin/WebObjects/ASWViewer.woa/wa/display? 
+>> id=L330198A-US.
+>>
+>> Program Update - Every month we send out a program update letter  
+>> to all of the
+…[trunc]…
+
+===== id=23671 | Tue, 14 Aug 2007 14:39:20 -0400 | Caro Velosa <cvelosa@apple.com>
+SUBJ: Re: FYI - Executed AATC Agreement for Soluciones
+Hello Everyone,
+
+Sorry that I am catching up until now.  Jorge do you have the list of  
+people from Soluciones Mac who need the ASW access as well as ProApps/ 
+IT.
+
+Thank you,
+
+caro
+On Aug 13, 2007, at 5:46 PM, Sharon Martin wrote:
+
+So is Caro establishing an ASW account for them?  (That's step #1.)   
+Once that is done, I will need the Apple ID Prs ID that was used for  
+the ASW account in order to add the admin access for Clockwork and  
+Maxwell.
+
+Thanks,
+Sharon
+
+On Aug 13, 2007, at 2:31 PM, ALAC Training wrote:
+
+> Sharon,
+>
+> Please create an account for ALAC, I will use it until the new  
+> Coordinator takes over that job.
+>
+> Thank you.
+>
+> __________________________________________________________
+> Jorge Sagasti
+> jorge@sagasti.com
+>
+> BUE + 54 11 5258-2178
+> PDE + 598 9 473-5548
+> USA + 1 777 224-3249
+> __________________________________________________________
+>
+> On Aug 10, 2007, at 5:12 PM, Sharon Martin wrote:
+>
+>> OK, so I assume Caro will give them ASW access.  I still need to  
+>> know who on your staff should be set up with Maxwell and Clockwork  
+>> admin access so that you can set up your own AATCs in these apps.
+>>
+>> On Aug 10, 2007, at 11:50 AM, ALAC Training wrote:
+>>
+>>> Sharon,
+>>>
+>>> They are going to be ProApps/IT, I have already sent them the  
+>>> Welcome Letter.
+>>> The Contact is: Jorge Seferian <jseferian@alfauno.com.ar>
+>>> The ASW account they are going to use is: jseferian
+>>>
+>>> Let's go for Step 2.
+>>>
+>>>
+>>> Regards.
+>>> __________________________________________________________
+>>> Jorge Sagasti
+>>> ALAC Training / Mentor
+>>> Apple Latin America / Caribbean
+>>> Phone # +1 777 224-3249
+>>>
+>>>
+>>> This transmission may be privileged and may contain confidential
+>>> information intended only for the person(s) named above.  Any other
+>>> distribution, re-transmission, copying or disclosure is strictly  
+>>> prohibited.
+>>> If you have received this transmission in error, please notify me  
+>>> immediately
+>>> by telephone or return email and delete this file from your system.
+>>> Please accept my thanks, in advance.
+>>> __________________________________________________________
+>>>
+>>>
+>>>
+>>> On Aug 9, 2007, at 7:25 PM, Sharon Martin wrote:
+>>>
+>>>> Jorge, Edwin, and Caro,
+>>>>
+>>>> (Pervin, Alex, and Andre -- FYI)
+>>>>
+>>>> The AATC contract for Soluciones (Macstore Alfauno) of Argentina  
+>>>> has been executed (see below).  Here's a chance for us to refine  
+>>>> our process going forward.  I can't find the application for  
+>>>> Soluciones Mac S.A., and I can't find a record for them in  
+>>>> either the Contracts Tracking System or TechIT, so I don't know  
+>>>> what kind of AATC they are -- I assume it is commercial, but is  
+>>>> it Pro Apps or IT or both?
+>>>>
+>>>> Here's what I do in the US:
+>>>>
+>>>> 1.  Send a Welcome email.  I have pasted below updated text for  
+>>>> commercial Pro Apps AATCs -- you can translate and adapt it as  
+>>>> appropriate.  Obviously, you'll need to change or remove some  
+>>>> sections (training website and email support address, ASW page,  
+>>>> marketing fee, program updates, Peachpit instructions, etc.)
+>>>>
+>>>> 2.  Once I have the names and contact information of the persons  
+>>>> who need ASW, Maxwell, and Clockwork access, I set them up in  
+>>>> those systems.  Caro, I assume you know how to set them up with  
+>>>> ASW access.  For Maxwell and Clockwork, I need to know who on  
+>>>> your staff to give admin access to -- should that be you, Caro?   
+>>>> or the new training admin?
+>>>>
+>>>> 3.  Once their ASW access is set up, I send them instructions  
+>>>> for accessing Maxwell, the AATC home page, and Clockwork.  (I  
+>>>> can send you these docs if you don't have them).
+>>>>
+>>>> 4.  Once they pay the marketing fee, I add them to the AATC  
+>>>> Locator (for now, you'll need to send me their contact  
+>>>> information to post).
+>>>>
+>>>>
+>>>> Please let me know if you can do all this, and if you need  
+>>>> further explanation.
+>>>>
+>>>> Thanks,
+>>>> Sharon
+>>>>
+>>>>
+>>>> Pro Apps AATC Welcome Letter
+>>>> ****************************
+>>>> Congratulations on becoming an Apple Authorized Training Center  
+>>>> for Pro Apps!  We wanted to let you know next steps for  
+>>>> participating in the AATC program.  Please take a few moments to  
+>>>> review all of the materials and let us know if you have any  
+>>>> questions.
+>>>>
+>>>> Getting Started
+>>>> Apple’s Sales Web (ASW) - All personnel at your facility who  
+>>>> will be invo
+…[trunc]…
+
+===== id=23779 | Wed, 25 Jul 2007 16:37:28 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: NASH - Welcome - Apple Authorized Training Center
+All,
+It would be great to establish a process that is already defined.
+Fellow Canadians, if you have defined a process, would you please  
+share it before the call?
+We can probably need to change names and make small changes, but  
+probably we will be able to use it.
+
+Thanks a lot.
+__________________________________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America / Caribbean
+Phone # +1 777 224-3249
+
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+__________________________________________________________
+
+On Jul 25, 2007, at 11:29 AM, Edwin Estrada wrote:
+
+> Hello,
+>
+> Thank you all for assisting in getting the AATC program off-the- 
+> ground in the Apple Latin America region. I'm in Mexico City this  
+> week and next and will be calling in on Monday.
+>
+> Regards,
+> Edwin
+>
+> ---------------------------------------------------------------------- 
+> ------------------
+> Edwin (Ed) Estrada
+> Sr. Sales & Channel Support Mgr
+> Apple Latin America / Caribbean (ALAC)
+> Cell: 1-408-425-3104
+> email: eestrada@apple.com
+> This transmission may be privileged and may contain confidential
+> information intended only for the person(s) named above.  Any other
+> distribution, re-transmission, copying or disclosure is strictly  
+> prohibited.
+> If you have received this transmission in error, please notify me  
+> immediately
+> by telephone or return email and delete this file from your system.
+> Please accept my thanks, in advance.
+> ---------------------------------------------------------------------- 
+> ------------------
+>
+>
+> On Jul 24, 2007, at 3:32 PM, AATC Program wrote:
+>
+>> Thanks fine -- thanks.
+>>
+>> On Jul 24, 2007, at 12:51 PM, Pervin Govindraj wrote:
+>>
+>>> Hi Sharon,
+>>> as the agenda and audience for this call has changed, I'm going  
+>>> to have to re-schedule this call to next Monday July 30, as our  
+>>> AATC Team Lead Andre Vachon is on vacation this week.
+>>>
+>>> Thanks,
+>>>
+>>> Pervin
+>>>
+>>>
+>>> On 24-Jul-07, at 3:40 PM, AATC Program wrote:
+>>>
+>>>> Hi Pervin,
+>>>>
+>>>> I see your meeting proposal for Thursday at 8:30 AM Pacific  
+>>>> time.  Please invite Jennifer Nott, Edwin Estrada, Jorge  
+>>>> Sagasti, and Anne Renehan -- we need to repair all the Americas  
+>>>> AATC processes.  I suggest you make the meeting one hour.
+>>>>
+>>>> Thanks,
+>>>> Sharon
+>>>>
+>>>> On Jul 24, 2007, at 12:11 PM, Pervin Govindraj wrote:
+>>>>
+>>>>> Sharon,
+>>>>> this is a Mexico based AATC, I do not manage the training  
+>>>>> there.   I have one welcome email sent out (by Amy or Anne )  
+>>>>> for a Canadian AATCe.  All welcome emails are sent out of the  
+>>>>> US.  We can talk more on our call tomorrow.
+>>>>>
+>>>>> From: Martin Byrne <mbyrne@apple.com>
+>>>>> Date: January 23, 2007 4:16:19 PM EST (CA)
+>>>>> To: Pervin Govindraj <pervin@apple.com>
+>>>>> Subject: Fwd: REFRESHER - Welcome Humber College to the Apple  
+>>>>> Authorized Training Center Program for Pro Applications -  
+>>>>> Academic Delivery
+>>>>>
+>>>>>
+>>>>> <mime-attachment.html>
+>>>>>
+>>>>> Thanks,
+>>>>> Pervin
+>>>>>
+>>>>> Pervin Govindraj
+>>>>> Manager,  Education Projects & Training
+>>>>> National Sales Development
+>>>>> Apple Canada Inc
+>>>>> Direct: 905-513-5852
+>>>>> Cell   : 416-566-1087
+>>>>> Email: pervin@apple.com
+>>>>>
+>>>>>  T h i n k  D i f f e r e n t
+>>>>>
+>>>>>
+>>>>> On 24-Jul-07, at 2:33 PM, AATC Program wrote:
+>>>>>
+>>>>>> So Jennifer, I know we discussed process when you were here,  
+>>>>>> but I was only a couple of days into my new job with a "deer  
+>>>>>> in the headlights" persona.... Once an AATC contract is  
+>>>>>> executed, the new AATC should be sent a welcome email --  
+>>>>>> either by the geo Training group (in Canada or ALAC) or by  
+>>>>>> me.  I will discuss with Pervin Govindraj and Edwin Estrada as  
+>>>>>> to what the process should be.  Is there anything else I need  
+>>>>>> to do for the contracts part of the process?  (Seems to me  
+>>>>>> there was something about credit applications.)
+>>>>>>
+>>>>>> Thanks,
+>>>>>> Sharon
+>>>>>>
+>>>>>> On Jul 24, 2007, at 10:50 AM, Jennifer Nott wrote:
+>>>>>>
+>>>>>>> Pa
+…[trunc]…
+
+===== id=23784 | Tue, 24 Jul 2007 16:43:51 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: NASH - Welcome - Apple Authorized Training Center
+Jennifer,
+I have not received a certificate like this in the past (that doesn't  
+mean that it doesn't exist).
+Cecilia White (cwhite@apple.com) was doing the listing, apparently  
+now Sharon Martin (trainingcenter@apple.com) is in charge now.
+
+Regards.
+
+__________________________________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America / Caribbean
+Phone # +1 777 224-3249
+
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+__________________________________________________________
+
+On Jul 24, 2007, at 4:37 PM, Jennifer Nott wrote:
+
+> Have you ever received a certificate like this before? Also, who in  
+> the past lists on the training pages?
+> thanks
+>
+> On Jul 24, 2007, at 3:32 PM, Jorge Sagasti wrote:
+>
+>> Stephen/Sharon,
+>>
+>> Let me add an issue with this customer. They have already paid the  
+>> Marketing Fee and the are waiting to be listed in our training pages.
+>> That will probably be enough for them, since they are looking for  
+>> something to prove that they are an AATC.
+>>
+>> Regards.
+>> __________________________________________________________
+>> Jorge Sagasti
+>> jorge@sagasti.com
+>>
+>> BUE + 54 11 5258-2178
+>> PDE + 598 9 473-5548
+>> USA + 1 777 224-3249
+>> __________________________________________________________
+>>
+>> On Jul 24, 2007, at 4:23 PM, Sales Contracts Management wrote:
+>>
+>>> Hi Stephen:
+>>> Our new program manager for AATC's is having difficulty  
+>>> understanding the process for set-up and this customer's question.
+>>>
+>>> NASH has been in place now for a few months and is simply asking  
+>>> for some sort of certificate that states they are an AATC. By any  
+>>> chance do you know if we have used this in the past and where I  
+>>> could get a copy?
+>>> Thanks allot.
+>>>
+>>> Begin forwarded message:
+>>>
+>>>> From: AATC Program <trainingcenter@apple.com>
+>>>> Date: July 23, 2007 4:29:33 PM EDT (CA)
+>>>> To: Sales Contracts Management <canadacontracts@apple.com>
+>>>> Subject: Re: NASH - Welcome - Apple Authorized Training Center
+>>>>
+>>>> Hi Jennifer,
+>>>>
+>>>> I am new to this position.  This contract was executed 3 weeks  
+>>>> before my tenure began, so I am surprised nothing was done to  
+>>>> set them up.  Anything you can tell me about this entity would  
+>>>> be much appreciated -- I can't find any paperwork on them.  Can  
+>>>> you send me a copy of the contract?
+>>>>
+>>>> Thanks,
+>>>> Sharon
+>>>>
+>>>> -------------------------------------------
+>>>> Sharon Martin
+>>>> AATC Program Manager
+>>>> Apple Global Training & Certification
+>>>> trainingcenter@apple.com
+>>>>
+>>>>
+>>>> On Jul 23, 2007, at 12:08 PM, Cindy Waller wrote:
+>>>>
+>>>>> Jennifer,
+>>>>>
+>>>>> I'm not sure -I've copied Sharon Martin on this reply as she is  
+>>>>> the Program Manager for the AATC program.
+>>>>>
+>>>>> Cindy Waller . Operations Manager . Apple Global Training
+>>>>> 408-974-6504 office . 408-974-2176 fax . 408-439-4915 cell
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>> On Jul 20, 2007, at 12:43 PM, Sales Contracts Management wrote:
+>>>>>
+>>>>>> Hi Cindy:
+>>>>>> Do we have such a document as NASH is asking for? They were  
+>>>>>> appointed as an AATC a few months ago.
+>>>>>> Thanks
+>>>>>>
+>>>>>> Begin forwarded message:
+>>>>>>
+>>>>>>> From: NASH <nash@nashmexico.com>
+>>>>>>> Date: July 20, 2007 2:56:17 PM EDT (CA)
+>>>>>>> To: Sales Contracts Management <canadacontracts@apple.com>
+>>>>>>> Subject: Re: Welcome - Apple Authorized Training Center
+>>>>>>>
+>>>>>>> Dear Jennifer,
+>>>>>>>
+>>>>>>> Could you inform me if I will receive a certification  
+>>>>>>> document as a Certified Training Center?
+>>>>>>>
+>>>>>>> Please advise
+>>>>>>>
+>>>>>>>
+>>>>>>> Best Regards!
+>>>>>>>
+>>>>>>> Ignacio
+>>>>>>>
+>>>>>>>
+>>>>>>> On May 7, 2007, at 9:17 AM, Sales Contracts Management wrote:
+>>>>>>>
+>>>>>>>> Hi Ignacio:
+>>>>>>>> Yes, we did receive it. I will send you back a signed copy  
+>>>>>>>> for your records.
+>>>>>>>> Please let me know if you require anything further.
+>>>>>>>>
+>>>>>>>> Jennifer
+>>>>>>>> On May 5, 2007, at 2:38 PM, IGNACIO wrote:
+>>>>>>>>
+>>>>>>>>> Hi there!
+>>>>>>>>>
+>>>>>>>>> Please advise if you receive
+…[trunc]…
+
+===== id=23785 | Tue, 24 Jul 2007 16:32:45 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: NASH - Welcome - Apple Authorized Training Center
+Stephen/Sharon,
+
+Let me add an issue with this customer. They have already paid the  
+Marketing Fee and the are waiting to be listed in our training pages.
+That will probably be enough for them, since they are looking for  
+something to prove that they are an AATC.
+
+Regards.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Jul 24, 2007, at 4:23 PM, Sales Contracts Management wrote:
+
+> Hi Stephen:
+> Our new program manager for AATC's is having difficulty  
+> understanding the process for set-up and this customer's question.
+>
+> NASH has been in place now for a few months and is simply asking  
+> for some sort of certificate that states they are an AATC. By any  
+> chance do you know if we have used this in the past and where I  
+> could get a copy?
+> Thanks allot.
+>
+> Begin forwarded message:
+>
+>> From: AATC Program <trainingcenter@apple.com>
+>> Date: July 23, 2007 4:29:33 PM EDT (CA)
+>> To: Sales Contracts Management <canadacontracts@apple.com>
+>> Subject: Re: NASH - Welcome - Apple Authorized Training Center
+>>
+>> Hi Jennifer,
+>>
+>> I am new to this position.  This contract was executed 3 weeks  
+>> before my tenure began, so I am surprised nothing was done to set  
+>> them up.  Anything you can tell me about this entity would be much  
+>> appreciated -- I can't find any paperwork on them.  Can you send  
+>> me a copy of the contract?
+>>
+>> Thanks,
+>> Sharon
+>>
+>> -------------------------------------------
+>> Sharon Martin
+>> AATC Program Manager
+>> Apple Global Training & Certification
+>> trainingcenter@apple.com
+>>
+>>
+>> On Jul 23, 2007, at 12:08 PM, Cindy Waller wrote:
+>>
+>>> Jennifer,
+>>>
+>>> I'm not sure -I've copied Sharon Martin on this reply as she is  
+>>> the Program Manager for the AATC program.
+>>>
+>>> Cindy Waller . Operations Manager . Apple Global Training
+>>> 408-974-6504 office . 408-974-2176 fax . 408-439-4915 cell
+>>>
+>>>
+>>>
+>>>
+>>> On Jul 20, 2007, at 12:43 PM, Sales Contracts Management wrote:
+>>>
+>>>> Hi Cindy:
+>>>> Do we have such a document as NASH is asking for? They were  
+>>>> appointed as an AATC a few months ago.
+>>>> Thanks
+>>>>
+>>>> Begin forwarded message:
+>>>>
+>>>>> From: NASH <nash@nashmexico.com>
+>>>>> Date: July 20, 2007 2:56:17 PM EDT (CA)
+>>>>> To: Sales Contracts Management <canadacontracts@apple.com>
+>>>>> Subject: Re: Welcome - Apple Authorized Training Center
+>>>>>
+>>>>> Dear Jennifer,
+>>>>>
+>>>>> Could you inform me if I will receive a certification document  
+>>>>> as a Certified Training Center?
+>>>>>
+>>>>> Please advise
+>>>>>
+>>>>>
+>>>>> Best Regards!
+>>>>>
+>>>>> Ignacio
+>>>>>
+>>>>>
+>>>>> On May 7, 2007, at 9:17 AM, Sales Contracts Management wrote:
+>>>>>
+>>>>>> Hi Ignacio:
+>>>>>> Yes, we did receive it. I will send you back a signed copy for  
+>>>>>> your records.
+>>>>>> Please let me know if you require anything further.
+>>>>>>
+>>>>>> Jennifer
+>>>>>> On May 5, 2007, at 2:38 PM, IGNACIO wrote:
+>>>>>>
+>>>>>>> Hi there!
+>>>>>>>
+>>>>>>> Please advise if you received the contract by mail. It was  
+>>>>>>> sent aproximately 3 weeks ago.
+>>>>>>>
+>>>>>>> Thanks in advance!!
+>>>>>>>
+>>>>>>> Best Regards,
+>>>>>>>
+>>>>>>> Ignacio
+>>>>>>>
+>>>>>>> Ignacio Bermeo Juárez
+>>>>>>> CEO / Founder
+>>>>>>> Seneca 55 Col. Polanco Chapultepec
+>>>>>>> 11560 Mexico, DF
+>>>>>>> T. 5282-2366
+>>>>>>> www.nashmexico.com
+>>>>>>> nash@nashmexico.com
+>>>>>>>
+>>>>>>>
+>>>>>>>
+>>>>>>> On Feb 22, 2007, at 1:27 PM, Sales Contracts Management wrote:
+>>>>>>>
+>>>>>>>> Dear Mr. Juarez:
+>>>>>>>> Welcome to Apple's Authorized Training Center programs!   
+>>>>>>>> Enclosed please find your package of information, including  
+>>>>>>>> your Apple Authorized Training Center Agreement for your  
+>>>>>>>> review and execution.
+>>>>>>>>
+>>>>>>>> Should you have any questions, please do not hesitate to  
+>>>>>>>> contact us at Apple.
+>>>>>>>> <AATC - NASH Mexico.pdf>
+>>>>>>>> <AATC_Checklist_Jan07-1.pdf>
+>>>>>>>> <AATC_GIF_Jan07-1.doc>
+>>>>>>>> <AATC - NASH Mexico.pdf>
+>>>>>>>> <AATC_ProApp_Academic_Policies.pdf>
+>>>>>>>> <AATC_ProApp_Commercial_Policies.pdf>
+>>>>>>>> <AATC_ProApp_Online_Policies.pdf>
+>>>>>>>>
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
+>
+
+
+
+===== id=23787 | Wed, 1 Aug 2007 10:49:00 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Re: Welcome - Apple Authorized Training Center
+Jennifer/Ed,
+
+I have already told them that we don't provide any Certificate.
+
+Regards.
+__________________________________________________________
+Jorge Sagasti
+jorge@sagasti.com
+
+BUE + 54 11 5258-2178
+PDE + 598 9 473-5548
+USA + 1 777 224-3249
+__________________________________________________________
+
+On Aug 1, 2007, at 10:37 AM, Jennifer Nott wrote:
+
+> Hi Edwin:
+> Further to the call on Monday, NASH's request is below.
+>
+> Please follow-up with the customer.
+>
+> Begin forwarded message:
+>
+>> From: NASH <nash@nashmexico.com>
+>> Date: July 20, 2007 2:56:17 PM EDT (CA)
+>> To: Sales Contracts Management <canadacontracts@apple.com>
+>> Subject: Re: Welcome - Apple Authorized Training Center
+>>
+>> Dear Jennifer,
+>>
+>> Could you inform me if I will receive a certification document as  
+>> a Certified Training Center?
+>>
+>> Please advise
+>>
+>>
+>> Best Regards!
+>>
+>> Ignacio
+>>
+>>
+>> On May 7, 2007, at 9:17 AM, Sales Contracts Management wrote:
+>>
+>>> Hi Ignacio:
+>>> Yes, we did receive it. I will send you back a signed copy for  
+>>> your records.
+>>> Please let me know if you require anything further.
+>>>
+>>> Jennifer
+>>> On May 5, 2007, at 2:38 PM, IGNACIO wrote:
+>>>
+>>>> Hi there!
+>>>>
+>>>> Please advise if you received the contract by mail. It was sent  
+>>>> aproximately 3 weeks ago.
+>>>>
+>>>> Thanks in advance!!
+>>>>
+>>>> Best Regards,
+>>>>
+>>>> Ignacio
+>>>>
+>>>> Ignacio Bermeo Juárez
+>>>> CEO / Founder
+>>>> Seneca 55 Col. Polanco Chapultepec
+>>>> 11560 Mexico, DF
+>>>> T. 5282-2366
+>>>> www.nashmexico.com
+>>>> nash@nashmexico.com
+>>>>
+>>>>
+>>>>
+>>>> On Feb 22, 2007, at 1:27 PM, Sales Contracts Management wrote:
+>>>>
+>>>>> Dear Mr. Juarez:
+>>>>> Welcome to Apple's Authorized Training Center programs!   
+>>>>> Enclosed please find your package of information, including  
+>>>>> your Apple Authorized Training Center Agreement for your review  
+>>>>> and execution.
+>>>>>
+>>>>> Should you have any questions, please do not hesitate to  
+>>>>> contact us at Apple.
+>>>>> <AATC - NASH Mexico.pdf>
+>>>>> <AATC_Checklist_Jan07-1.pdf>
+>>>>> <AATC_GIF_Jan07-1.doc>
+>>>>> <AATC - NASH Mexico.pdf>
+>>>>> <AATC_ProApp_Academic_Policies.pdf>
+>>>>> <AATC_ProApp_Commercial_Policies.pdf>
+>>>>> <AATC_ProApp_Online_Policies.pdf>
+>>>>>
+>>>>
+>>>
+>>
+>
+> Jennifer Nott
+> jnott@apple.com
+> Phone: 905-513-5534
+> Fax: 905-477-8668
+>
+> The information in this e-mail message including any attachments is  
+> intended only for the named recipients above and may contain  
+> confidential or privileged information. If you have received this  
+> message in error, or are not the named recipient(s), please  
+> immediately notify the sender by replying to the message and  
+> deleting all copies of it from your computer. Ce courriel de meme  
+> que toute piece jointe s'adresse seulement au(x) destinataire(s)  
+> designe(s) et peut contenir des renseignements confidentiels ou  
+> privilegies. Si vous avez recu ce message par erreur ou que vous  
+> n'etes pas un destinataire designe, veuillez avertir immediatement  
+> l'expediteur en repondant au message et effacez-en toutes les  
+> copies dans votre ordinateur.
+>
+>
+>
+
+
+
+===== id=23788 | Wed, 1 Aug 2007 10:47:09 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: ALAC AATC-ASW info
+Caro,
+
+I think we will need this document, would you please complete it?  It  
+would be great for me to have this info in hand if I have any issue.
+I will send it to Sharon to check that everyone is set up correctly.
+￼Thanks a lot.
+__________________________________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America / Caribbean
+Phone # +1 777 224-3249
+
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+__________________________________________________________
+
+
+
+===== id=23891 | Tue, 10 Jul 2007 20:52:16 -0300 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: AATCs/ASW Info
+Sharon,
+
+This is the info that probably help you the most, let me know if you  
+need other kind of information:
+
+AATC					Contact					ASW User ID				Email
+
+Exa						Guillermo Santos			gsantos 					gsantos@exa.com.mx
+Academia Mac				José Bodet				yo@jbodet.com			jbodet@academiamac.cl
+Digitrain					Javier de Aguinaga			renrique@digitrain.com.mx	 
+jaguinaga@sinapsisonline.com
+Sihsa'tus 					Alberto L. Ruiz 			albertolruiz				alberto@sihsatus.com
+Nash Mexico				Ignacio Bermeo Juarez		ibermeo					nash@nashmexico.com
+Simplemente				Monica Reina 				moanapple 				monica@simplemente.net
+Tercer Piso				Enrique Volckers 			volkarsu 					 
+enrique@tercerpisopr.com
+Interface					Marcelo Inoue				volkarsu 					maro@ainterface.com.br
+
+Regards.
+__________________________________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America / Caribbean
+Phone # +1 777 224-3249
+
+This transmission may be privileged and may contain confidential
+information intended only for the person(s) named above.  Any other
+distribution, re-transmission, copying or disclosure is strictly  
+prohibited.
+If you have received this transmission in error, please notify me  
+immediately
+by telephone or return email and delete this file from your system.
+Please accept my thanks, in advance.
+__________________________________________________________
+
+On Jul 10, 2007, at 7:19 PM, AATC Program wrote:
+
+> Anything you can send me about ANY of them would be much appreciated!
+>
+> Thanks,
+> Sharon
+>
+> On Jul 10, 2007, at 10:10 AM, Jorge Sagasti wrote:
+>
+>> Hello,
+>>
+>> Interface, Binaria and Exa are the ones that are complaining right  
+>> now, but I have no info about the rest.
+>> You've just received a mail from Tercer Piso regarding the  
+>> vouchers they ordered about 2 weeks ago.
+>>
+>> I can find out about the rest if you need that info.
+>>
+>> I understand the problems caused by the reorganization, just let  
+>> me know if I can be of any help.
+>>
+>> Thanks a lot.
+>> __________________________________________________________
+>> Jorge Sagasti
+>> jorge@sagasti.com
+>>
+>> BUE + 54 11 5258-2178
+>> PDE + 598 9 473-5548
+>> USA + 1 777 224-3249
+>> __________________________________________________________
+>>
+>> On Jul 10, 2007, at 1:42 PM, AATC Program wrote:
+>>
+>>> I've been having trouble figuring what ALAC contracts are  
+>>> executed.  Please let me know who needs access and I will set  
+>>> them up at least temporarily while I sort this mess out....   
+>>> thanks....
+>>>
+>>>
+>>> On Jul 10, 2007, at 9:37 AM, Jorge Sagasti wrote:
+>>>
+>>>> Hello,
+>>>>
+>>>> We are having problems setting up acces to Maxwell, we can't  
+>>>> manage to provide the necessary privilegies to our ALAC AATCs to  
+>>>> buy exam vouchers.
+>>>> This situation is causing many problems to our AATCs.
+>>>> Can you please help us providing the exact instructions on how  
+>>>> we can set them up?
+>>>> There are people that have been waiting for 3 months for us to  
+>>>> grant them access.
+>>>>
+>>>> Thanks a lot.
+>>>> __________________________________________________________
+>>>> Jorge Sagasti
+>>>> Senior System Engineer
+>>>> Apple Certified System Administrator / Mentor
+>>>> Apple Latin America / Caribbean
+>>>> Phone # +1 777 224-3249
+>>>>
+>>>>
+>>>> This transmission may be privileged and may contain confidential
+>>>> information intended only for the person(s) named above.  Any other
+>>>> distribution, re-transmission, copying or disclosure is strictly  
+>>>> prohibited.
+>>>> If you have received this transmission in error, please notify  
+>>>> me immediately
+>>>> by telephone or return email and delete this file from your system.
+>>>> Please accept my thanks, in advance.
+>>>> __________________________________________________________
+>>>>
+>>>
+>>
+>
+
+
+
+===== id=24870 | Fri, 1 Dec 2006 13:44:53 -0200 | Jorge Sagasti <sagasti@apple.com>
+SUBJ: Fwd: Authorized Apple Training Center Agreement Documents for your
+ review
+FYI.
+______________________________________
+Jorge Sagasti
+Senior System Engineer
+Apple Certified System Administrator / Mentor
+Apple Latin America/Caribbean
+
+Begin forwarded message:
+
+> From: Stephen Glaros <sglaros@apple.com>
+> Date: August 4, 2006 6:42:30 PM GMT-02:00
+> To: "Alberto L. Ruiz" <alberto@sihsatus.com>
+> Cc: Oscar Farrera <oscar@sihsatus.com>, AATC Program  
+> <trainingcenter@apple.com>, Stephen Glaros <sglaros@apple.com>,  
+> "Jorge(C) Sagasti" <sagasti@apple.com>
+> Subject: Re: Authorized Apple Training Center Agreement Documents  
+> for your review
+>
+> Hi Alberto,
+>
+> Please accept my apologies for the delayed response - yes, we did  
+> get your contract and I've attached for you a copy of the completed  
+> executed contract for you.
+>
+> I've also cc'd my training group to let them know that the contract  
+> is executed.
+>
+> Please let me know if you have any other questions or need more  
+> information regarding this.
+>
+> Best regards,
+> Stephen
+>
+￼
+> On Aug 3, 2006, at 1:28 PM, Alberto L. Ruiz wrote:
+>
+>> Hi, Stephen, we have the automatic response for the receiving of  
+>> the contract that we are sent to you by July 19th, We are  
+>> wondering which is the status of it, because we are alrady to  
+>> start, so we want to start the advertise as AATC, and make the  
+>> outdoor big sign, but we doubting to start before we have the  
+>> contract back.
+>>
+>> Please let us know how we can help to get the authorization asap.
+>>
+>> Thanks in Advanced
+>>
+>>
+>>
+>> <image.jpg>
+>>
+>>
+>> a l b e r t o    l ó p e z    r u i z
+>> ::  post-production/training manager
+>> sihsa’tus | estudio de comunicación
+>>
+>> <image.jpg>
+>>
+>>
+>> (55).5523.6455
+>> Nextel | 9118.0063
+>> alberto@sihsatus.com
+>> http://www.sihsatus.com
+>> wap: www.sihsatus.com/wap/
+>> ICQ 32034069
+>> Ciudad de México
+>>
+>> Este mensaje y cualquier documento que se adjunte, son para el uso  
+>> exclusivo de la persona o entidad a la cual se encuentra dirigido  
+>> y podría contener información legalmente considerada como  
+>> confidencial y privilegiada, exenta de ser revelada a terceros. Si  
+>> usted no es el legítimo destinatario de esta comunicación,  
+>> considérese notificado que está estrictamente prohibido cualquier  
+>> tipo de reproducción y distribución de este mensaje y cualquier  
+>> documento adjunto. Si usted ha recibido este mensaje por error,  
+>> por favor notifique inmediatamente esta situación por correo  
+>> electrónico al remitente original y borre completamente de su  
+>> computadora el mensaje y cualquier documento adjunto.
+>>
+>> This message, together with any attachments, is intended only for  
+>> the use of the individual or entity to which it is addressed and  
+>> may contain information that is legally privileged, confidential  
+>> and exempt from disclosure. If you are not the intended recipient,  
+>> you are hereby notified that any dissemination, distribution, or  
+>> copying of this message, or any attachment, is strictly  
+>> prohibited. If you have received this message in error, please  
+>> notify the original sender immediately by return E-mail and delete  
+>> the message, along with any attachments, from your computer.
+>>
+>> > Dear Training Center,
+>> >
+>> > My name is Stephen Glaros and I support Jessica Steigerwald and  
+>> Jorge
+>> > Sagasti in Apple's Sales Contracts Management group. Per their
+>> > request, attached please find our standard Authorized Apple  
+>> Training
+>> > Center Agreement documents for your review and execution.
+>> >
+>> > The packet contains a checklist with instructions on what to  
+>> fill out
+>> > and which address to send the documents back to.
+>> >
+>> > You may also fax the signed documents to 408.974.4908 while the
+>> > original documents are forwarded via the post.
+>> >
+>> > Please do not hesitate to contact me if you have any questions or
+>> > have problems opening the attached file. My contact information is
+>> > below for your convenience.
+>> >
+>> > Best regards,
+>> > Stephen
+>> >
+>> > ===
+>> > Stephen Glaros
+>> > Enterprise/Reseller Contracts Manager
+>> > Sales Contracts Management
+>> > Apple Computer, Inc.
+>> > 408.974.0756 ph
+>> > www.apple.com
+>> >
+>> >
+>>
+>>
+>
+
+
+
+===== id=25152 | Thu, 21 Sep 2006 11:09:58 -0400 | Edwin Estrada <eestrada@apple.com>
+SUBJ: FYI - Fwd: ITESM
+Hola Jorge,
+
+FYI - below emails between Steve Dodds and myself RE: Tec de  
+Monterrey Executive Briefing that takes place next Tuesday in Cupertino.
+
+besos,
+edwin
+
+Begin forwarded message:
+
+> From: Steve Dodds <sdodds@apple.com>
+> Date: September 21, 2006 10:32:00 AM EDT
+> To: Edwin Estrada <eestrada@apple.com>
+> Subject: Re: ITESM
+>
+> Thanks Edwin, exactly what I needed!
+>
+> Steve
+> On Sep 20, 2006, at 9:38 PM, Edwin Estrada wrote:
+>
+>> Hi Steve,
+>>
+>> What I think these customers will want / need to hear about:
+>> - On-Site Apple Customer Training*
+>> - Courses for IT Professionals
+>> - Pro Apps Training
+>> - Apple Certifications
+>> - Apple Authorized Training Centers **
+>>
+>> Some heads-up on possible expectations / misconceptions:
+>> * At some points in past AE's have implied that On-Site Apple  
+>> Customer Training would be at no cost to customer(!)
+>> ** One of their campus' has been waiting / bugging for a while to  
+>> become an AATC... (We've been telling to please stand-by; If  
+>> appropriate - you may want tell them we are really close to  
+>> releasing new AATC contracts for ALAC.)
+>>
+>> Bottom-line: Customer needs to understand the value our training &  
+>> certifications program
+>>
+>> For bonus points - might want to mention PeachPit books for self- 
+>> paced technical and ProApps training.
+>>
+>> Of course, all the above is for your consideration. BTW - I've  
+>> seen some of your team's previous presentations at the EBC and  
+>> they all have been right on and of course, at the Q&A session we  
+>> sometimes get the wildest, outer-space requests...
+>>
+>> I'm in Miami, (in route to Bogota, Colombia), but can be reach at  
+>> my cell phone if you'd like to double-click on any of the above  
+>> random comments.
+>>
+>> Best regards,
+>> Edwin
+>>
+>> --------------------------------------------------------------------- 
+>> -------------------
+>> Edwin (Ed) Estrada
+>> Sr. Sales & Channel Support Mgr
+>> Apple Latin America / Caribbean (ALAC)
+>> Tel: 1-510-402-4155
+>> Cell: 1-408-425-3104
+>> email: eestrada@apple.com
+>> This transmission may be privileged and may contain confidential  
+>> information
+>> intended only for the person(s) named above.  Any other distribution,
+>> re-transmission, copying or disclosure is strictly prohibited.  If  
+>> you have
+>> received this transmission in error, please notify me immediately by
+>> telephone or return email and delete this file from your system.   
+>> Please
+>> accept my thanks, in advance.
+>> --------------------------------------------------------------------- 
+>> -------------------
+>>
+>>
+>> On Sep 20, 2006, at 7:52 PM, Steve Dodds wrote:
+>>
+>>> Hi Edwin,
+>>>
+>>> Thanks for your time on the phone earlier this week about this  
+>>> Executive Briefing.  The briefing profile came out yesterday and  
+>>> had the following:
+>>>
+￼
+>>>
+>>> Can you give me the specifics you would like me to highlight?
+>>>
+>>> Thanks,
+>>>
+>>> Steve
+>>> Steve Dodds •  Apple Training & Certification • (408) 974-9108  
+>>> [office] • (408) 219-1494 [cell]
+>>>
+>>>
+>>
+>
+> Steve Dodds •  Apple Training & Certification • (408) 974-9108  
+> [office] • (408) 219-1494 [cell]
+>
+>
+￼
+
+
+===== id=25189 | Tue, 12 Sep 2006 14:25:54 -0400 | Christina Caballero <ccaballero@apple.com>
+SUBJ: NFL & Apple Offer 2006 NFL Highlights on the iTunes Store
+
+
+Hello,
+
+The following press release crossed over the wire on Tuesday,  
+September 12, 2006 at approximately 11:30 a.m. PDT after the special  
+event in San Francisco.  We will not be using this release for our  
+region.
+
+Tina Caballero
+Public Relations & Buzz Marketing
+Apple Latin America & Caribbean
+
+***************************************************
+NFL & Apple Offer 2006 NFL Highlights on the iTunes Store
+
+Highlights of All Regular Season NFL Games & NFL GameDay from NFL  
+Network Available for $1.99 Each
+
+NEW YORK and SAN FRANCISCO—September 12, 2006—The National Football  
+League (NFL) and Apple® today announced that they will bring 2006 NFL  
+regular season action to the iTunes® Store (www.itunes.com), offering  
+video downloads of highlights from individual NFL games the day after  
+they are played. For the first time ever, football fans will be able  
+to download highlights of each NFL regular season game for $1.99 per  
+game. Fans may purchase a “Follow Your Team” Season Pass for $24.99  
+and have game clips from their favorite teams delivered automatically  
+as they become available for viewing on a computer or iPod®.
+
+NFL fans will also be able to download NFL Network’s NFL GameDay,  
+hosted by Rich Eisen with Steve Mariucci and Deion Sanders. This all- 
+inclusive Sunday night wrap-up show offers the most comprehensive NFL  
+coverage on television, with highlights from every NFL game plus post- 
+game reaction and expert analysis, all for $1.99 per show or $19.99  
+for a full season.
+
+“We are dedicated to bringing the best of NFL action to NFL fans  
+wherever they are,” said Brian Rolapp, NFL vice president of media  
+strategy. “We’re convinced offering NFL highlights produced by Emmy  
+Award-winning NFL Films and NFL Network’s GameDay on iTunes is a  
+great way for fans to not only follow their team but also experience  
+the NFL as they never have before.”
+
+“We’re thrilled to bring all the top action from the 2006 NFL season  
+to football fans via iTunes,” said Eddy Cue, Apple’s vice president  
+of iTunes. “With approximately ten minutes of game highlights from  
+every NFL game, NFL fans will be able to download exclusive  
+highlights that give a unique perspective of each game.”
+
+Beginning September 18 and on each Monday thereafter during the  
+regular season, fans will be able to download extensive action from  
+Sunday games on iTunes for $1.99 per game, with Monday night games  
+available on Tuesday. The $24.99 “Follow Your Team” Season Pass  
+allows fans to select any of the 32 NFL teams and have game  
+highlights from each of their 16 games automatically downloaded when  
+they become available the following day. All Week 1 NFL game  
+downloads become available on iTunes on September 18.
+
+The iTunes Store now features over 3.5 million songs, 65,000  
+podcasts, 20,000 audiobooks, over 5,000 music videos and 220  
+television shows. With Apple’s legendary ease of use, pioneering  
+features such as integrated podcasting support, iMix playlist  
+sharing, seamless integration with iPod and groundbreaking personal  
+use rights, the iTunes Store is the best way for Mac® and PC users to  
+legally discover, purchase and download music and video online.
+
+Apple ignited the personal computer revolution in the 1970s with the  
+Apple II and reinvented the personal computer in the 1980s with the  
+Macintosh. Today, Apple continues to lead the industry in innovation  
+with its award-winning desktop and notebook computers, OS X operating  
+system, and iLife and professional applications. Apple is also  
+spearheading the digital music revolution with its iPod portable  
+music players and iTunes online music store.
+
+NFL Network airs seven days a week, 24 hours a day on a year-round  
+basis and is the first television network fully dedicated to the NFL  
+and the sport of football. For more information, log onto www.nfl.com/ 
+nflnetwork/home.
+
+Press Contacts:
+Derick Mains
+Apple
+(408) 974-6264
+dmains@apple.com
+
+Dan Masonson
+NFL
+(212) 450-2081
+MasonsonD@NFL.com
+
+NOTE TO EDITORS: For additional information visit Apple’s PR website  
+(www.apple.com/pr/), or call Apple’s Media Helpline at (408) 974-2042.
+
+-30-
+
+© 2006 Apple Computer, Inc. All rights reserved. Apple, the Apple  
+logo, Mac, Mac OS, Macintosh, iPod and iTunes are trademarks of  
+Apple. Other company and product names may be trademarks of their  
+respective owners.
+
+
+
+===== id=26057 | Fri, 12 May 2006 09:10:51 -0700 | Edwin Estrada <eestrada@apple.com>
+SUBJ: Fwd: ITESM, Proyecto CEDETEC
+Hi Guys,
+
+Just FYI - Main point to remember and keep reminding our ALAC  
+"brothers & sisters", (as shown in my reply to Jose Luis of the  
+Mexico Education Initiative); We do not provide end-user Pro Apps  
+Training (our certified Pro Apps Trainers should be doing this).
+
+Pro Apps Briefings = yes, Training = no.
+
+Also as I mentioned below, I will also be discussing further with GDDL.
+
+Hope you all have a good weekend! (Remember to take time to relax and  
+play with other things besides Boot Camp;¬)
+
+Warmest regards,
+Ed
+
+Begin forwarded message:
+
+> From: Edwin Estrada <eestrada@apple.com>
+> Date: May 12, 2006 8:57:56 AM PDT
+> To: Jose Rosales <jose.rosales@apple.com>
+> Cc: Patricio Marquez <pmarquezdomenge@apple.com>, Rodrigo Gomez  
+> <rodrigog@apple.com>, Guillermo Diaz de Leon <gdiazdeleon@apple.com>
+> Subject: Re: ITESM, Proyecto CEDETEC
+>
+> Hola Jose Luis,
+>
+> Gracias por el "update" y estaré hablando esta próxima semana con  
+> Guillermo referente a los puntos 1 y 2.
+>
+> Nota de referencia: Empleados de ALAC no estamos permitidos proveen  
+> clases de "Pro Apps Training". Las que si damos son las de "IT  
+> Professionals" (Mac OS X and Mac OS X Server) y principalmente a  
+> nuestro "Channel Partners" / VAR's (no a clientes finales / "end- 
+> users", aunque hemos hechos excepciones que nos han causado  
+> problemas con Cupertino). Solución: Ya existen terceros  
+> certificados para proveer "Pro Apps Training" en México.
+>
+> Estaré hablando con Patricio para ver como podemos ayudar (aun mas)  
+> a esta cuenta (como a las demás).
+>
+> Saludos,
+> Edwin
+> ------------------------------------------------------
+> Edwin (Ed) Estrada
+> Sr. Sales & Channel Support Mgr
+> Apple Latin America / Caribbean (ALAC)
+> Office:   1-510-402-4155
+> Cell:      1-408-425-3104
+> ------------------------------------------------------
+>
+>
+> On May 10, 2006, at 8:11 PM, Jose Rosales wrote:
+>
+>> Estimados Amigos,
+>>
+>> Tenemos un buen proyecto en el ITESM Estado de México, y la magna
+>> conferencia de Edwin recientemente nos ayudo a acelerarlo.
+>>
+>> El dia de hoy tuve una reunion con el Mtro Fernando Gutierrez,  
+>> Director del
+>> Departamento de Comunicación y Jonah Zeiger, Coordinador del  
+>> Laboratorio de
+>> Video que asistieron a la platica.
+>>
+>> Me externaron varias inquietudes para apoyarlos en la instalacion  
+>> de un
+>> nuevo laboratorio de 40 equipos para el nuevo edificio CEDETEC,  
+>> para lo cual
+>> solicitamos su apoyo en el éxito del mismo.
+>>
+>> 1)Requieren cursos certificados sobre Pro-Apps ya que no hasta la  
+>> fecha solo
+>> han conocido de forma empìrica programas como Final Cut.
+>>
+>> 2)Un Brief sobre lo ultimo en Pro-Apps para Apple.
+>>
+>> 3)Una propuesta de HW/SW para este laboratorio.
+>>
+>> A recomendación de Guillermo, nos gustaria solicitar el apoyo de  
+>> Rodrigo
+>> para el punto 1 y 2 y obviamente de Patricio para el 3, el  
+>> proyecto debe
+>> estar funcionando en Agosto, y nuestro objetivo es embarcarlo a  
+>> finales de
+>> Junio.
+>>
+>> Me pongo a sus ordenes para coordinar la mejor fecha del brief y la
+>> información que requieran del cliente.
+>>
+>> Atentamente.
+>>
+>> José Luis Rosales
+>>
+>> PD (Gracias Edwin por el gran apoyo!)
+>>
+>>
+>
+
+
+
+===== id=27591 | Sat, 24 Apr 2004 22:30:16 -0700 | Edwin Estrada <eestrada@apple.com>
+SUBJ: F&CS Team Highlights - Q2/Q4¹04 for Monday	ALAC Call
+Good day Javier,
+
+Since I¹ll be up in the air (± 30K feet) during the Quarterly ALAC
+Conference Call this Monday, as agreed, below I provide a brief summary you
+can present on my behalf; (thank you).
+
+I¹ve cc¹ed my team on this email as a heads-up and you can count on them to
+address any questions that may arise during call that pertains to our team.
+BTW ­ In additional to my absence from call, Manny will probably miss the
+call too, (he¹s scheduled to be conducting all training sessions on Monday
+and Tuesday).
+
+Cheers,
+Edwin
+----------------------------------------------------------------------------
+----
+
+F&CS Team Highlights ­ Q2 & Q3¹04 for Monday¹s ALAC Quarterly Conference
+Call
+
+Q2¹04 Highlights
+
+*  Brief summary on some of the things we did in Q2¹04 (entire team
+contibuted to the following, in way or another):
+       Macworld/SF (worked and afterward re-transmit corp. messages to
+field)
+       Meetings (ASTO, Accelerate, VAR¹s, Apple Consulting Network,  Biz
+Review¹s among others)
+       Present at briefings / events in multiple locations throughout
+region
+       Conduct reseller training sessions,
+       Customer support visits
+       Press briefings
+
+* This past quarter, our team lost an excellent employee, Isidro Corominas.
+Opinions may differ on why he left, but most of us agree that he was a very
+good co-worker and that his ³can do² attitude, his support and his smile is
+already being missed. He went to a good company, BOSE and we wish him the
+best in his new career path.
+
+Q3¹04 Planned / Forecast F&CS Activities
+
+       Apple Consulting Network is again being worked on to become
+accessible outside of USA & Canada (details as they become available)
+       Some progress on the certification efforts (Edwin be communicating
+over the next few days with affected parties)
+       Team members will be presenting in briefings / events at multiple
+locations throughout region & Cupertino
+       We¹ll be conducting reseller training sessions at various locations,
+              (many thanks to those organizing and assisting in the
+coordination of said sessions)
+       Xserve Certification Seminars for Resellers (multiple locations and
+dates have already been agreed upon and communicated)
+        LOCATIONS   /   DATES   /  LANGUAGE  (conducted in)
+        -   Mexico City  /  April 28  /  Spanish
+        -   São Paulo  /  May 06  /  Portuguese
+        -   Coral Gables (Miami)  /  June 10  /  English
+            (Day after above dates will be to cover Apple¹s Vision and all
+other products & technologies for new resellers/VAR¹s)
+       Technical Trainings kicked-off again for Xserve Certification:
+            April 2004  -   Mac OS X Help Desk Essentials v10.3
+            May 2004    -  Mac OS X Server Essentials v10.3
+>  Q4 -2004    -   System Administration Using Mac OS X Server v10.3
+       Worldwide Developers Conference, San Francisco June 28 - July 2,
+2004 (SE¹s will be attending)
+
+Option Reading ­ Recap of upcoming Xserve Authorization and Training Program
+for Authorized and Certified Resellers
+(from email sent April 21st to ALAC AE Managers)
+
+Please note that as of  Apr 20, 2004, we have on the ALAC ASW the ³Reseller
+Invitation to ALAC¹s 2004 Xserve Certification (LE)².
+
+There readers will get the dates for each location and additional
+information (including registration page link). Please visit, review and
+notify (strongly encourage) your Account Executives to ³walk thru² the
+invite process with their accounts contacts that want to be there!
+
+NOTE #1: The ³ALAC Xserve Auth Reseller Policy² doc is downloadable from the
+above mentioned site. (Please read it & understand it.)
+
+NOTE #2: To register for the ALAC 2004 Xserve Training and Certification
+seminar, we have the link active at http://www.apple.com/la/channelreg/,
+also suggesting that they contact their Account Executive for additional
+information. 
+
+NOTE #3: I listed ONLY one day for each city! You will all recall that I
+said something about a second day! Here are the details that you and AE¹s
+should communicate to the appropriate audiences:
+> DAY 1 (April 28 / May 6 / June 10) is for everyone that is in the process of
+> being certified or re-certified as an Xserve Authorized Reseller. This day is
+> all about Xserve G5, Xserve RAID and related topics.
+> DAY 2 (April 29 / May 7 / June 11) is only for NEW VAR¹s to learn about the
+> Apple Vision and the rest of our products and technologies.
+
+RECAP: So everyone there for DAY 1 - Xserve Sales Training
+…[trunc]…
+
+===== id=27744 | Mon, 17 Nov 2003 12:13:14 -0600 | Isidro Corominas <isidro@apple.com>
+SUBJ: Re: Xserve en Peru
+Gracias Jorge,
+
+No te pude contestar antes por que me tomé unas vacaciones con la familia y
+ahora parece que me voy a Colombia.
+Gracias por tu respuesta, si vas a estar en Miami por favor habla con Grace
+sobre este proyecto.
+
+Saludos
+
+Isidro
+
+On 11/13/03 11:34 PM, "Jorge Sagasti" <jorge@sagasti.com> wrote:
+
+> Isidro,
+> Tanto Jaguar como Panther tienen integración en mayor o menor medida
+> con Active Directory, te parece que hablemos la semana que viene que
+> voy a estar en Miami?
+> De cualquier forma, lo ideal sería que tomen los cursos, podemos hablar
+> con ellos y definir que que grado de integración necesitan y decidir
+> como los ayudamos.
+> 
+> Besos.
+> 
+> 
+> ________________________________________________
+> Jorge Sagasti
+> Jorge@Sagasti.com
+> 
+> 
+> On Nov 11, 2003, at 4:31 PM, Isidro Corominas wrote:
+> 
+>> Hola Jorge,
+>> 
+>> Como va todo?
+>> 
+>> Solicito tu consejo en este asunto. Me contacto Grace (de Miami) para
+>> resolver un problema de configuración de Xserve en Perú. Te copio
+>> parte del
+>> mail.
+>> 
+>> Me parece que Panther soluciona parte de este problema de integración.
+>> Crees
+>> que podamos ayudarle vía remota conociendo los datos con mayor
+>> detalle? No
+>> se si sea indispensable mandar a alguien.
+>> 
+>> Saludos
+>> 
+>> Isidro
+>> 
+>> Grace,
+>> 
+>> The absolutely urgent area we need tech support from Apple is on
+>> helping us
+>> set
+>> up our XServe in a Windows environment.  We are having trouble getting
+>> all
+>> the
+>> details straight so that our OSX machines can authentice against the
+>> Active
+>> Directory on our Windows 2000 Domain Controllers.  We are learning a
+>> lot
+>> about
+>> this, believe me, but this is the area in which we are weakest and
+>> have the
+>> least experience.  We continue to work on our imaging and deployment
+>> processes
+>> and could use some help there too.
+>> 
+>> Getting the Macs to use the active directory is of the highest
+>> priority for
+>> us.
+>> We need to to this for security purposes and also for monitoring
+>> printing
+>> through the queues we have set up on our windows 2000 server, like we
+>> do on
+>> the
+>> Dells.  We purchased the XServe for this purpose, but we still haven't
+>> be
+>> able
+>> to figure out to authenticate users against the AD in Windows.
+>> 
+>> Once we have resolved this issue wiht the person you send, it might be
+>> nice
+>> to
+>> have him or her spend some time with Daniel, Gaby, Ximena, and John for
+>> questions of a minor nature compared to the big one here in the Server
+>> Room.
+>> 
+>> 
+>> 
+>> 
+>> 
+> 
+
+
+
+===== id=27948 | Mon, 28 Apr 2003 19:57:56 -0300 | Lalo <epaolucci@apple.com>
+SUBJ: Programa de Certificación Xserve 2003
+hola bonbon, como andas ?
+
+Segun el contenido del archivo que te mando, evidentemente este es un 
+curso netamente comercial
+orientado a los ejecutivos que haran las ventas  del poroducto en el 
+mercado
+local.  Basado en ello me resulta evidente que no esta orientado a los
+proveedores de servicio, por favor dame tu  opinion, ademas sabes si es 
+en
+español?
+Tenes algo con respecto al canal de servicios, hay algo netamente 
+tecnico  en
+calendario.
+Tengo que solicitarselo a Edwin ?????
+llamame a casa 48992045
+
+besos
+yo
+
+>
+
+Edgardo Lalo Paolucci
+
+Service & Support Manager
+Southern Cone.                                            
+Apple                                          
+
+
