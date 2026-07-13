@@ -1,53 +1,42 @@
 # Photos Library → /Volumes/Extra (2026-07-13)
 
-## Hecho por Brisa
-- Cerrada app **Photos**.
-- Copia bit-a-bit con `ditto` (exit 0):
-  - **Origen (backup):** `/Users/jorge/Pictures/Photos Library.photoslibrary` (~29 GB)
-  - **Nueva:** `/Volumes/Extra/downloads/Photos/Photos Library.photoslibrary` (~29 GB)
-- Apertura: `open -a Photos "/Volumes/Extra/downloads/Photos/Photos Library.photoslibrary"`
-- `lsof` confirma que **Photos** tiene abierta la DB de **Extra**.
-- Raíz de Extra es **root:wheel** (no se pudo crear `/Volumes/Extra/Photos` sin sudo password) → quedó bajo `downloads/Photos` (escribible por jorge).
+## Estado final (verificado)
 
-## Te falta a vos (1 minuto en la Mac)
+| Pieza | Path / valor |
+|--------|----------------|
+| **System Photo Library (CPL)** | `/Volumes/Extra/photos/Photos Library.photoslibrary` |
+| **Modo iCloud** | Sync **sin optimizar** (originales en el disco de la lib = Extra) |
+| **Fotos UI** | Abierta sobre Extra (sqlite en Extra) |
+| **cloudphotod SystemLibrary** | `clientLibraryBasePath` → Extra `…/resources/cpl/cloudsync.noindex` |
+| **Backup viejo (Pictures)** | `/Users/jorge/Pictures/Photos Library.photoslibrary` (~18 GB residual, bajando de 29 GB) |
 
-1. En **Fotos** (ya debería mostrar la lib de Extra):
-2. **Fotos → Ajustes…** (o Preferencias) → pestaña **General**.
-3. Clic en **Usar como Librería de fotos del sistema** / **Use as System Photo Library**.
-4. (Recomendado) dejá **Fotos de iCloud** activado; cuando termine de asentar, ahí sí podés valorar quitar optimización en el **disco interno** porque la lib vive afuera.
+## Hecho
 
-### Que la próxima máquina arranque en Extra
-- Mantené el disco **Extra** enchufado al login.
-- Opcional: al abrir Fotos con **Option** apretado, elegí siempre la de Extra hasta que quede System Library.
+1. Copia `ditto` de la lib a Extra.
+2. Path final: **`/Volumes/Extra/photos/Photos Library.photoslibrary`** (no `downloads/Photos`).
+3. Jorge marcó **System Photo Library** + **sincronizar sin optimizar**.
+4. Free en interno: ~**29 GB** libres en `/` al momento del check post-cambio.
 
-### Liberar espacio del interno (solo cuando confirmes)
-Cuando veas bien caras/iCloud en Extra y System Photo Library seteada:
+## Qué esperar ahora
 
-```bash
-# NO borrar todavía — opcional: renombrar el backup
-mv "/Users/jorge/Pictures/Photos Library.photoslibrary" \
-   "/Users/jorge/Pictures/Photos Library.photoslibrary.BACKUP-$(date +%Y%m%d)"
-```
+- Descarga de **originales** a Extra: puede tardar **mucho** (depende del tamaño real en iCloud). Disco Extra ~1.9 TB libres.
+- Personas/caras del iPhone deberían **pegar mejor** con originales locales.
+- `photolibraryd` puede seguir mirando Pictures un rato: residual, no es la System Library de iCloud.
 
-Solo **trash**/borrar el BACKUP cuando confirmes que Extra + iCloud están OK **varios días**.
+## NO hacer todavía
 
-### Acceso a subcarpeta limpia (opcional)
-Si preferís `/Volumes/Extra/Photos/...` en vez de `downloads/Photos`:
+- **No borrar** `~/Pictures/Photos Library.photoslibrary` hoy.
+- Esperar **1–2 días** de sync estable con Extra enchufado.
+- Luego renombrar a `.BACKUP-YYYYMMDD` y, si todo OK, `trash`.
+
+## Checklist post-sync
 
 ```bash
-sudo mkdir -p /Volumes/Extra/Photos
-sudo chown jorge:staff /Volumes/Extra/Photos
-# luego mover el package y reabrir
+defaults read com.apple.cloudphotod | rg -A5 'CPLEngineParameters-SystemLibrary'
+lsof -c Photos | rg 'Extra/photos/Photos Library'
+du -sh "/Volumes/Extra/photos/Photos Library.photoslibrary"
 ```
 
-## Notas
-- Dispositivo: USB APFS “Extra”, ~1.9 TB libres.
-- No se tocó “Optimizar en la Mac” automáticamente.
-- Accessibility bloqueó automatizar keystrokes a Photos (`osascript is not allowed to send keystrokes`).
+## Extra tiene que estar montado
 
-## Verif
-```bash
-lsof -c Photos | rg 'Photos Library.photoslibrary/database/Photos.sqlite'
-# debería listar path under /Volumes/Extra/...
-du -sh "/Volumes/Extra/downloads/Photos/Photos Library.photoslibrary"
-```
+Si arrancás sin Extra, Fotos se va a quejar o no abre la System Library.
