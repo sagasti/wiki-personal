@@ -15,7 +15,7 @@ sources: ["Telegram Jorge 2026-07-13", "LinkedIn Paul Waller", "RocketReach"]
 Según Jorge (2026-07-13): el **primer AppleCentre de Latinoamérica**, en sociedad con **[[paul-waller|Paul Waller]]**.
 
 - **Nombre:** Sagasti & Waller  
-- **Ubicación:** **Av. Santa Fe entre Suipacha y Esmeralda**, Ciudad de Buenos Aires  
+- **Ubicación:** **Av. Santa Fe entre Suipacha y Esmeralda**, CABA — candidato fuerte: **Santa Fe 931** (Jorge 2026-07-13, a confirmar)  
 - **Época (inferida de Waller + “primer”):** ~**1990–1992** (Waller LinkedIn: Apple Argentina 1990–nov 1992; webpicking: rep Apple AR/UY 1986–1993)
 
 ## Personas
