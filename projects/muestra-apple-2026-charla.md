@@ -21,7 +21,31 @@ Formulario del doc pide: mini bio, línea de tiempo (período / hitos / empresa 
 
 ---
 
-## Mini bio (borrador usable)
+## Viajes autorizados Apple (iCloud / travel.res@apple.com)
+
+Fuente: mails **Trip Authorization / International Travel Request** a nombre de **JORGE SAGASTI**, cargo **Senior System Engineer** (a veces + Technical Trainer / Mentor), **Div 56 / Dept 5055**, manager **Edwin Estrada**, contract/badge **C419643**.
+
+| Cuándo | Destino / objetivo (del mail) | Notas |
+|--------|-------------------------------|--------|
+| **nov 2003** | **Miami** — TRAINING | ~2 semanas Coral Gables área |
+| **jul–ago 2004** | **Brunswick / Portland ME** — **SummerCamp '04** | AA/UA vía EEUU |
+| **oct–nov 2004** | **San José / Cupertino** — Meetings **RACK** | Rack & Roll / HQ |
+| **dic 2004** | (autorización JORGE SAGASTI) | trip code EKURRS |
+| **feb 2005** | **Monterrey MX** (Universidad Americana) + **Cupertino** **Xsan Train-the-Trainer (T3)** | MVD↔BUE↔DFW↔SJC; hotel Cypress Cupertino; badge/iform en curso |
+| **mar 2005** | **Miami / Coral Gables** ~9 noches Hyatt | HQ ALAC regional |
+| **may 2005** | **Miami** Coral Gables | |
+| **jun–sep 2005** | varios (incl. Miami / US) | + **Post NAB Road Tour** (Manny/Edwin) |
+| **feb 2006** | **Santiago CL** — CUSTOMER VISIT | LAN BUE–SCL ida y vuelta 1 día |
+| **ene–jun 2006** | varios US/LATAM | **WWDC 2006** (TravelMtgs reg.) |
+| **jun 2006** | múltiples autorizaciones | |
+| **feb 2007** | **Punta del Este** event **Young & Rubicam IT/CEO** + **BUE** con **Edwin Estrada** y **Tiago Ribeiro** | Sofitel BUE; PDE↔AEP; Tiago firma SE F&CS Coral Gables |
+| **mar 2007** | **Santiago** — VENDOR VISIT (MVD–SCL–BUE–MVD) | |
+| **jun 2007** | **BUE** — **Channel Training** (desde PDE) | Sofitel; PO 474031514 |
+
+**También en hilo de travel/colleagues:** Road Tour travel Edwin 2003; WWDC tickets/badges 2003–2008; badge Apple ID aprobado **feb 2005** (#**419643**); Manny Cernuda en WWDC/Road Tour threads.
+
+Esto documenta el **circuito regional real** (no solo charlas 98): training HQ, channel training, customer/vendor visits, Road Tour, WWDC.
+
 
 Emiliano Jorge Sagasti Montero (Buenos Aires, 31/01/1964). Programador de cuna: hacia **1989** **Olduvai** publicó **MultiClip** (con **José Maestro**). Cofundador de **GetInfo** y socio/docente de **The Mac House** (con Gabriel Sobek, Compuware, Córdoba 466). Con **Paul Waller**, **primer AppleCentre de Latinoamérica** — **Sagasti & Waller**, Av. Santa Fe entre Suipacha y Esmeralda (~1990–92). Cofundador de **MundoMac** en **Montevideo** (1995) con **Fernando Palermo** y **Walter Soto** — **Sagasti Palermo y Soto S.R.L.**; más tarde **MundoMac Punta** en Galería Sagasti, Punta del Este. **Contractor de Apple ALAC** (~1998–2007): prensa 1998 gerente Ventas sur LATAM; mail 2003–07 **Senior System Engineer** + **Mentor** F&CS (vía Macaldia). Charlas y training de canal en **toda LATAM**. Luego **Radar.Media**, **Macaldia** vendor y **Totalneo** (seguridad eléctrica + ENACOM). Vendió Totalneo **24/4/2026**.
 
@@ -47,7 +71,8 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 | **may–jun 1998** | **Apple Product Road Tour / Road Show ALAC** (invite + schedule en Drive). Tour: Caracas 18/5, México DF 21/5, San Juan 26/5, Bogotá 28/5, Santiago 2/6, **BA 4/6** (Paseo La Plaza, Sala Pablo Neruda), San Pablo 9/6. Partners en invite: **Microsoft, Adobe, Oracle, Macromedia, Symantec**. Agenda BA: hardware (CPUs, PowerBooks) + Mac OS 8.1 + slots partners. Autor schedule: Marcelo Giles. | Apple ALAC + partners | Evangelización multi-país | Partners creativos | Circuito LATAM 1998 (pre-contrato feb 99) |
 | **1 feb 1999 – 31 ene 2000** | **Contrato formal Apple Computer, Inc. — Agreement for Consulting Services (Fixed Term)** con Jorge Sagasti. Rol: **sales and marketing consultant / manufacturer’s representative** para **Argentina, Chile y Perú**. Fee **US$ 8.333,33/mes**. **Independent contractor** explícito. Autor .doc: **Fernando del Granado**. Drive: *Sagasti Contrato 99*. | Apple Computer | Sales & marketing LATAM Sur | Fernando del Granado | **Contractor** documentado |
 | **sep 1998** | **ExpoMac** BA (Sheraton Retiro), org. **Compuware**. Jorge (gerente ventas regional sur LATAM Apple) presenta iMac / OS 8.5 / G3 vs PC; MacHouse en stands; Gabriel Sobek arma seminarios. | Apple + Compuware | Seminarios / canal | Sobek, Freiberg, del Granado, Caram, Estrada | **Contractor** Apple en expo |
-| **sep 1998–~oct 2007** | Continuidad Apple ALAC como **contractor**: prensa 1998 gerente Ventas sur LATAM; mail 2003–07 **Senior System Engineer** + Mentor (F&CS); Macaldia IC; salida `@apple.com` ~fin 2007. | Apple ALAC / Macaldia | SE, mentor, training, canal | Estrada, Manny, Velosa… | **Contractor/IC** |
+| **sep 1998–~oct 2007** | Continuidad Apple ALAC como **contractor**: prensa 1998 gerente Ventas; mail 2003–07 **Senior System Engineer** + Mentor (F&CS); Macaldia IC; salida `@apple.com` ~fin 2007. | Apple ALAC / Macaldia | SE, mentor, training, canal | Estrada, Manny, Velosa… | **Contractor/IC** |
+| **nov 2003–jun 2007** | Decenas de **Trip Authorization** Apple Corporate Travel a nombre de Jorge: Miami/Coral Gables (training/HQ), **Cupertino** (Rack, Xsan T3), **Maine SummerCamp '04**, **Monterrey** customer, **Santiago** customer/vendor, **WWDC**, **Channel Training** BUE, evento **Young&Rubicam PDE** con **Estrada + Tiago Ribeiro**. Div **56/5055**, badge **C419643**. | Apple ALAC F&CS | Viajes de trabajo documentados | Estrada, Ribeiro, Manny, travel.res | Evidencia fuerte de rol regional en movimiento |
 | **nov 1998** | **AppleWorld Brasil** (San Pablo). Misma prensa lo cita como gerente de Ventas sur LATAM; anuncia **Apple Punta** y **AppleWorld Argentina** | Apple | Ventas regionales / eventos | Mike Caram, Luciano Kubrulsky, F. del Granado, Jeff Martin | Continuidad rol regional |
 | 1998–2000 | Planes **Apple Punta** y **AppleWorld Argentina** | Apple | Eventos de marca | — | Continuidad rol regional |
 | **oct 2002** | **Expo Aldeamac** (BA): presenta **Mac OS X 10.2 Jaguar** | Referente / Apple ecosystem | Conferencia OS X | Comunidad Mac hispana | Speaker regional |
