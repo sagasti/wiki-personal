@@ -23,7 +23,11 @@ Socio de Jorge en **[[sagasti-waller-applecentre|Sagasti & Waller]]**, primer **
 ## Hoy (público)
 
 - Boxeway LLC (Presidente), Multihousing Laundry SA, IBox S.A. (Vicepresidente).
+- **Mail vivo con Jorge:** `paul.waller@boxeway.com` — **24 nov 2016** “Certificaciones Wash”: *“te copio con Jorge Sagasti para que coordinen reunión”* (CC a Juan X. Gruss). Hay más hilos **boxeway.com** 2020 (WashInn / placas). Relación **post-Apple business**, no solo el 86–90.
+- ZoomInfo 2026: previous **Presidente at The Apple Centre**.
 
 ## Nota
 
 Distinguir del “primer Apple Center” de **Mac Station** (prensa ~2000s, iProfesional) — otra generación de programa/retail. El de Sagasti & Waller es el **primer AppleCentre** del relato de Jorge + arco Waller 86–93.
+
+iCloud `FROM "waller"` machea **Cindy Waller** (@apple.com ops/orders 2006–07) — **no** es Paul.

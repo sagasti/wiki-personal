@@ -15,6 +15,7 @@ confidence: high
 **Fecha tentativa:** sábado 14 y domingo 15 de noviembre 2026 · Bahía Blanca  
 **Organización (doc compartido):** Diego Akerman · Doc `JORGE - Info Apple`  
 `https://docs.google.com/document/d/1YSiijlHKc_HbywqbVU7557mUnnvKDgR8SUlZAHLevxE/edit`  
+**Formulario:** **completado** (Jorge, 2026-07-13). Borrador wiki `muestra-apple-2026-formulario-akerman.md` · Drive `JORGE - Info Apple COMPLETADO.docx` (`1lrFdtficin8uh1pb5FLiO0L2xQtc078I`).  
 **Sede material histórico:** Espacio TEC · Thompson 665, Bahía Blanca · Museo de Informática  
 
 **Meeting en curso (calendar, 2026-07-13):** desayuno **ETEC Diego <> Jorge** en **Tostado Obelisco**, Av. Corrientes 999, CABA. Primera invite **jueves 16/7 8–10**; update: *“Día equivocado, era miércoles, no jueves”* → **miércoles 15/7 8–10** (GMT-3). From `Diego Akerman <doglan@drwn.com.ar>`.
@@ -419,11 +420,11 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 1. **Origen (pre-95 → 18/01/95):** amistad + parrillero + “más ganas que oficina”.  
 2. **Apple te elige como canal:** El País / recomendación Apple.  
 3. **Del dealer al lado Apple:** rol de ventas LATAM Sur (AppleWorld Brasil 1998).  
-4. **Comunidad y evangelización:** no solo BA — **charlas en expos Apple en toda LATAM**, junto a **Macromedia, Adobe** y el ecosistema creativo; ExpoMac 98, AppleWorld Brasil, Aldeamac/Jaguar 2002.  
-5. **Segunda vida en Argentina:** Macaldia como vendor + apps.  
-6. **La capa invisible:** Totalneo — que un Mac/cargador pueda **importarse y venderse legal** en Argentina (seguridad eléctrica + ENACOM), al servicio de Apple y los importadores.  
-7. **Lo que no se vende:** amistad 30+ años con Fer y Walter; la empresa que sigue sin vos y te sigue escribiendo.  
-8. **Hoy:** misma manzana, otro rol (builder + usuario Silicon).
+4. **Comunidad y evangelización:** GetInfo/Macanas + Mac House; expos con **Macromedia/Adobe** (testigo vivo: **Gaby Menta**, mails 2003 + bio pública Evangelist Adobe/“testea Apple”); ExpoMac 98, AppleWorld Brasil, Aldeamac/Jaguar 2002.  
+5. **Del dealer al contractor Apple:** ventas LATAM Sur 98 → contract 99 → IC Macaldia SE/Mentor 02–07 (IRAM/AATC en SOW).  
+6. **La capa invisible:** Totalneo — import legal en AR (seguridad eléctrica + ENACOM).  
+7. **Lo que no se vende:** amistad 30+ con Fer/Walter; Masanti devuelve **Macanas** en 2026.  
+8. **Hoy:** misma manzana Silicon; charla 50 años.
 
 ---
 
@@ -444,13 +445,33 @@ Fuente: https://smalltalks2025.fast.org.ar/speakers
 
 ## Gaps / validar con Jorge
 
-1. Fechas exactas de **ingreso y salida de Apple** (SE/Mentor + rol ventas LATAM Sur).  
+1. ~~Fechas exactas ingreso/salida Apple~~ → **Contractor** documentado 1999 agreement + Macaldia 2002–07 + outbox hasta **~18 oct 2007**; no hay “día de baja” limpio.  
 2. Cuándo dejó de ser **socio de MundoMac** (¿mudanza a AR? ¿años?).  
-3. Historia **pre-1995 / 1986**: primera app Mac en USA — nombre, plataforma, qué hacía.  
-4. **The Mac House** (cursos) y **Get Info** (newsletter/org): casi sin rastro digital → papel, dominio viejo, fotos.  
-5. Título exacto: **Senior** Systems Engineer vs Systems Engineer + Mentor (bio Smalltalks).  
-6. **Totalneo** — confirmado: servicio a Apple para importadores (seguridad eléctrica + ENACOM); vendida 24/4/2026.  
-7. Material físico en Malibú / depósitos para Espacio TEC.
+3. ~~Primera app~~ → **MultiClip ~1989** (Bobker + MR + MacUser Oct 89). About box/créditos físicos todavía gap.  
+4. **The Mac House / GetInfo / Macanas** papel: **en curso** con Masanti mié 15/7.  
+5. ~~Título SE~~ → firma outbox 2006–07: *Senior System Engineer · ACSA / Mentor · ALAC*; org chart **Independent Contractor**.  
+6. **Totalneo** — confirmado.  
+7. Material físico Malibú / depósito + lo que salga de Masanti.  
+8. **Salida exacta Sagasti Waller** (Jorge no recuerda; ventana LI Waller 86–90/92).  
+9. **José Maestro** recontacto (co-autor MultiClip) — sin mail útil.  
+10. **Gaby Menta** recontacto opcional (circuito Adobe/Apple expos) — mails iCloud 2003–04 en `gabrielmenta@acroworld.com.ar` / `gmenta@fibertel.com.ar`.  
+11. **Paul Waller** recontacto vía `paul.waller@boxeway.com` si se quiere cierre “primer AppleCentre”.
+
+## Fase D — Comunidad / early career (2026-07-13)
+
+Barrido iCloud SUBJECT/FROM (early brands + gente): assets `phase_d_early_community_*.txt` + `phase_d_menta_samples.txt`.
+
+| Query / pista | Resultado |
+|---------------|-----------|
+| MultiClip / Olduvai / GetInfo / Macanas / MacHouse / ExpoMac / Sagasti Waller | **0** subjects útiles en INBOX iCloud (era pre-correo o otro buzón) |
+| **Gaby Menta** FROM | **~80+** mails 2003–04; amistad + **Acrobat/FileMaker** + mention WWDC-Ed + cena c/ **Sobek** |
+| **Paul Waller** | **No** en iCloud como FROM; sí Gmail 2016 **boxeway** certificaciones/wash |
+| FROM waller@ | **Cindy Waller** Apple (otro Waller; no confundir) |
+| José Maestro | Sin rastro laboral; Foursquare name-drop 2014 |
+| **MacUser Oct 1989** | Lista MultiClip 1.01 Olduvai (web) |
+| **Gaby Menta público** | Evangelist Adobe; testea Adobe/Macromedia/**Apple**; Acroworld / Squoosh |
+
+**Lectura charla:** el corpus mail **no** reconstruye 80s MacHouse — eso es **papel + Masanti + Sobek**. Sï prueba que en 2002–04 ya estabas en el **mismo tecido social** que Menta/Sobek (expos creativas).
 
 ## Script de investigación (listo)
 

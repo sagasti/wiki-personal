@@ -1,7 +1,9 @@
 # Muestra Apple 2026 — Formulario José / Diego Akerman (completado)
 
 **Doc original:** [JORGE - Info Apple](https://docs.google.com/document/d/1YSiijlHKc_HbywqbVU7557mUnnvKDgR8SUlZAHLevxE/edit)  
-**Completado:** 2026-07-13 · Jorge Sagasti (borrador listo para pegar)
+**Estado:** Jorge marcó el formulario como **hecho** (2026-07-13).  
+**Anexo Drive:** [JORGE - Info Apple COMPLETADO.docx](https://docs.google.com/document/d/1lrFdtficin8uh1pb5FLiO0L2xQtc078I/edit) · id `1lrFdtficin8uh1pb5FLiO0L2xQtc078I`  
+**Este md:** texto de apoyo / misma sustancia para pegar o revisar.
 
 ---
 

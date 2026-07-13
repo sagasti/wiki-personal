@@ -36,10 +36,12 @@ Utilidad / **INIT (Startup document)** de **portapapeles múltiple** en Mac clá
 
 Review: **Bobker, Steven. (September 1989). MultiClip.**  
 Ficha: https://www.macintoshrepository.org/40086-multiclip  
-Author en MR: **Olduvai Corporation** · Year: **1989**
+Author en MR: **Olduvai Corporation** · Year: **1989**  
+Catálogo: **MacUser Oct 1989** lista **MultiClip 1.01** (Olduvai Software item ~4503) — ancla de producto en venta ese mes.  
+Expo: 32by32 notes Macworld 1988/89 — Olduvai “showing MultiClip”.
 
 Descargas: `MultiClip_1.0.image_.zip`, `MultiClip_1.0_1.dsk`  
-También: **MultiClip Pro** (Olduvai) en el mismo sitio.
+También: **MultiClip Pro** (Olduvai) en el mismo sitio / eBay sealed.
 
 ## Para la charla
 
