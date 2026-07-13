@@ -18,7 +18,9 @@ Según Jorge (2026-07-13): tuvo **The Mac House** con una empresa llamada **Comp
 ## Personas
 
 - [[jorge-sagasti]] — socio y docente
-- **[[gabriel-sobek]]** — socio The Mac House; ExpoMac 1998 (seminarios)
+- **[[gabriel-sobek]]** — cofundador Mac House (Trainings + Software + Support diseño gráfico); ExpoMac 98 seminarios; hoy **ALAB S.A.** (VAD, desde 1999)
+- **[[florencia-duarte]]** — coordinadora de cursos The Mac House
+- **[[dolores-turro]]** — profesora (una de las mejores); `celtic_witch2000@yahoo.com`
 
 ## Estado
 
