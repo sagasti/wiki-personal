@@ -1,292 +1,160 @@
 #!/usr/bin/env python3
-"""
-Busca mails de viaje Apple en iCloud IMAP (sagasti@mac.com).
-
-Password: NO hardcodear.
-Orden de carga:
-  1) env ICLOUD_IMAP_APP_PASSWORD / ICLOUD_APP_PASSWORD / IMAP_PASSWORD
-  2) ~/.hermes/secrets/icloud-imap.env  (clave ICLOUD_IMAP_APP_PASSWORD)
-
-Uso:
-  python3 ~/Desktop/search_apple_travel_mails.py
-  python3 ~/Desktop/search_apple_travel_mails.py | tee ~/Desktop/viajes_apple_result.txt
-
-Si falla AUTH: NO pegues la password en el chat.
-  - appleid.apple.com → Inicio de sesión y seguridad → Contraseñas de apps
-  - regenerá una para «Mail» y actualizá ICLOUD_IMAP_APP_PASSWORD en el .env
-  - disturb éste:  python3 -c "from pathlib import Path; print(Path.home()/'.hermes/secrets/icloud-imap.env')"
-"""
+"""Fast-ish Apple travel mail scan for iCloud IMAP. No password printed."""
 from __future__ import annotations
 
 import email
 import imaplib
-import os
 import re
+import socket
 import sys
 from email.header import decode_header
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-ICLOUD_EMAIL = "sagasti@mac.com"
-ICLOUD_HOST = "imap.mail.me.com"
-ICLOUD_PORT = 993
-START_YEAR = 1998
-END_YEAR = 2009
-SECRETS_FILE = Path.home() / ".hermes/secrets/icloud-imap.env"
-
-PW_KEYS = (
-    "ICLOUD_IMAP_APP_PASSWORD",
-    "ICLOUD_APP_PASSWORD",
-    "IMAP_PASSWORD",
-    "APP_PASSWORD",
-    "PASSWORD",
-)
-USER_KEYS = (
-    "ICLOUD_IMAP_USER",
-    "ICLOUD_USER",
-    "USER",
-    "EMAIL",
-)
+HOST = "imap.mail.me.com"
+PORT = 993
+USER = "sagasti@mac.com"
+SECRETS = Path.home() / ".hermes/secrets/icloud-imap.env"
+START_YEAR, END_YEAR = 1998, 2009
+SOCK_TIMEOUT = 90
 
 
-def _clean(v: str) -> str:
-    v = v.strip().strip("\ufeff")  # BOM
-    if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
-        v = v[1:-1]
-    # app passwords de Apple: conviene quitar espacios internos
-    return re.sub(r"\s+", "", v)
-
-
-def load_credentials() -> tuple[str, str, str]:
-    """Returns (email, password, source_description). Never returns secrets in prints."""
-    user = ICLOUD_EMAIL
-    # 1) env
-    for k in USER_KEYS:
-        if os.environ.get(k):
-            user = _clean(os.environ[k])
-            break
-    for k in PW_KEYS:
-        if os.environ.get(k):
-            return user, _clean(os.environ[k]), f"env:{k}"
-
-    # 2) secrets file
-    if not SECRETS_FILE.is_file():
-        raise SystemExit(
-            f"No hay password. Creá {SECRETS_FILE} con ICLOUD_IMAP_APP_PASSWORD=xxxx-xxxx-xxxx-xxxx\n"
-            "o export ICLOUD_IMAP_APP_PASSWORD=..."
-        )
-    text = SECRETS_FILE.read_text(encoding="utf-8-sig", errors="replace")
-    file_pw = None
+def load_pw() -> str:
+    text = SECRETS.read_text(encoding="utf-8-sig", errors="replace")
     for line in text.splitlines():
         line = line.strip()
         if not line or line.startswith("#") or "=" not in line:
             continue
         k, v = line.split("=", 1)
-        key = k.strip().upper()
-        if key in USER_KEYS:
-            user = _clean(v)
-        if key in PW_KEYS:
-            file_pw = _clean(v)
-    if file_pw:
-        return user, file_pw, f"file:{SECRETS_FILE.name}:ICLOUD_IMAP_APP_PASSWORD"
-    raise SystemExit(
-        f"En {SECRETS_FILE} no encontré ninguna de: {', '.join(PW_KEYS)}"
-    )
+        if k.strip().upper() == "ICLOUD_IMAP_APP_PASSWORD":
+            v = v.strip().strip("\"'").replace(" ", "")
+            return v
+    raise SystemExit(f"no ICLOUD_IMAP_APP_PASSWORD in {SECRETS}")
 
 
-def decode_subj(raw) -> str:
+def dec_subj(raw) -> str:
     if not raw:
         return ""
-    parts = decode_header(raw)
     out = []
-    for part, charset in parts:
+    for part, cs in decode_header(raw):
         if isinstance(part, bytes):
-            out.append(part.decode(charset or "utf-8", errors="replace"))
+            out.append(part.decode(cs or "utf-8", errors="replace"))
         else:
             out.append(str(part))
     return "".join(out)
 
 
-def login(user: str, password: str):
-    """Try as-is and without dashes (Apple a veces acepta ambas)."""
-    candidates = []
-    for label, cand in (
-        ("as_is", password),
-        ("no_dashes", password.replace("-", "")),
-    ):
-        if cand and cand not in {c for _, c in candidates}:
-            candidates.append((label, cand))
+def p(msg: str) -> None:
+    print(msg, flush=True)
 
-    last_err = None
-    for label, cand in candidates:
-        try:
-            M = imaplib.IMAP4_SSL(ICLOUD_HOST, ICLOUD_PORT)
-            M.login(user, cand)
-            M.select("INBOX", readonly=True)
-            return M, label
-        except imaplib.IMAP4.error as e:
-            last_err = e
-            continue
-    raise imaplib.IMAP4.error(str(last_err) if last_err else "login failed")
+
+def search(M: imaplib.IMAP4_SSL, criterion: str) -> set[str]:
+    try:
+        typ, data = M.search(None, criterion)
+    except imaplib.IMAP4.error as e:
+        p(f"  SEARCH fail [{criterion[:80]}]: {e}")
+        return set()
+    if typ != "OK" or not data or not data[0]:
+        return set()
+    return {x.decode() if isinstance(x, bytes) else str(x) for x in data[0].split() if x}
 
 
 def main() -> None:
-    user, password, source = load_credentials()
-    # Diagnóstico SEGURO: nunca imprimir la password
-    dashed = bool(
-        re.fullmatch(
-            r"[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}", password, re.I
-        )
-    )
-    print(f"User: {user}")
-    print(f"Password source: {source}")
-    print(f"Password len: {len(password)} | looks_like_apple_app_pw: {dashed}")
-    print(f"Secrets file exists: {SECRETS_FILE.is_file()} ({SECRETS_FILE})")
-    print(f"Conectando {user} @ {ICLOUD_HOST}...")
+    socket.setdefaulttimeout(SOCK_TIMEOUT)
+    pw = load_pw()
+    p(f"login {USER}...")
+    M = imaplib.IMAP4_SSL(HOST, PORT)
+    M.sock.settimeout(SOCK_TIMEOUT)
+    M.login(USER, pw)
+    M.select("INBOX", readonly=True)
+    p("login OK")
 
-    try:
-        M, variant = login(user, password)
-        print(f"Login OK (variant={variant})")
-    except imaplib.IMAP4.error as e:
-        print(f"\nAUTHENTICATION FAILED: {e}", file=sys.stderr)
-        print(
-            """
-Qué hacer:
-1) Abrí el secrets (solo en tu Mac, NO me pegues la password):
-     open -e ~/.hermes/secrets/icloud-imap.env
-2) Confirmá que ICLOUD_IMAP_APP_PASSWORD sea una App Password de Apple
-   (16 letras, a veces con guiones xxxx-xxxx-xxxx-xxxx).
-3) Si la regeneraste, actualizá esa línea y volvé a correr.
-4) Si exportaste env vieja en la shell, limpiá:
-     unset ICLOUD_APP_PASSWORD ICLOUD_IMAP_APP_PASSWORD IMAP_PASSWORD
-5) appleid.apple.com → Inicio de sesión y seguridad → Contraseñas de apps
-""".strip(),
-            file=sys.stderr,
-        )
-        raise SystemExit(1)
-
-    subject_terms = [
-        "trip",
-        "travel",
-        "flight",
-        "hotel",
-        "itinerary",
-        "conference",
-        "meeting",
-        "seminar",
-        "event",
-        "training",
-        "roadshow",
-        "visit",
-        "tour",
-    ]
-    body_terms = [
+    # Phase 1: high-signal SUBJECT queries only (fast on iCloud)
+    subjects = [
         "Trip Authorization",
         "International Travel Request",
+        "Travel Authorization",
+        "itinerary",
         "flight confirmation",
         "hotel reservation",
-        "Itinerary for Jorge Sagasti",
-        "conference agenda",
-        "meeting schedule",
-        "training session",
-        "travel arrangements",
-        "customer visit",
-        "vendor visit",
+        "Part 2: Trip Authorization",
+        "Travel Request",
+        "travel.res",
     ]
-    destinations = [
-        "miami",
-        "cupertino",
-        "mexico city",
-        "mexico",
-        "santiago",
-        "buenos aires",
-        "sao paulo",
-        "bogota",
-        "caracas",
-        "san juan",
-        "portland",
-        "maine",
-        "austin",
-        "chicago",
-        "los angeles",
-        "london",
-        "toronto",
-        "vancouver",
-        "seattle",
-        "new york",
-        "dallas",
-        "san francisco",
-        "denver",
-        "orlando",
-        "las vegas",
-        "lima",
-        "quito",
-        "panama",
-        "coral gables",
-        "monterrey",
-        "spain",
-        "barcelona",
-        "madrid",
-    ]
-    email_filters = [
+    filters = [
         'FROM "@apple.com"',
         'TO "sagasti@apple.com"',
-        'CC "sagasti@apple.com"',
+        'FROM "travel.res@apple.com"',
+        'FROM "travel@"',
     ]
 
-    all_msg_ids: set[str] = set()
-    for ef in email_filters:
-        for term in subject_terms:
-            try:
-                status, data = M.search(None, f'({ef} SUBJECT "{term}")')
-                if status == "OK" and data and data[0]:
-                    all_msg_ids.update(x.decode() if isinstance(x, bytes) else str(x) for x in data[0].split())
-            except imaplib.IMAP4.error as e:
-                print(f"IMAP subject err ({term}, {ef}): {e}")
-        for term in body_terms:
-            try:
-                status, data = M.search(None, f'({ef} BODY "{term}")')
-                if status == "OK" and data and data[0]:
-                    all_msg_ids.update(x.decode() if isinstance(x, bytes) else str(x) for x in data[0].split())
-            except imaplib.IMAP4.error as e:
-                print(f"IMAP body err ({term}, {ef}): {e}")
+    ids: set[str] = set()
+    n = 0
+    for f in filters:
+        for s in subjects:
+            n += 1
+            crit = f'({f} SUBJECT "{s}")'
+            got = search(M, crit)
+            if got:
+                p(f"  [{n}] {len(got)} hits: {crit[:70]}")
+            ids |= got
+    p(f"unique ids after subject filters: {len(ids)}")
 
-    print(f"Hits potenciales (IDs únicos): {len(all_msg_ids)}")
+    # Phase 2: travel.res any mail (still subject-less but FROM-limited)
+    for crit in (
+        'FROM "travel.res@apple.com"',
+        'FROM "travel.res"',
+        'TO "sagasti@apple.com" FROM "@apple.com" SUBJECT "trip"',
+        'TO "sagasti@apple.com" FROM "@apple.com" SUBJECT "travel"',
+        'FROM "@apple.com" SUBJECT "trip"',
+        'FROM "@apple.com" SUBJECT "Travel"',
+        'FROM "@apple.com" SUBJECT "WWDC"',
+        'FROM "@apple.com" SUBJECT "Road Tour"',
+        'FROM "@apple.com" SUBJECT "Roadshow"',
+        'FROM "@apple.com" SUBJECT "SummerCamp"',
+        'FROM "@apple.com" SUBJECT "Channel Training"',
+    ):
+        n += 1
+        got = search(M, crit)
+        if got:
+            p(f"  [{n}] {len(got)} hits: {crit[:70]}")
+        ids |= got
+    p(f"unique ids total: {len(ids)}")
 
-    messages = []
-    for msg_id in all_msg_ids:
-        if not msg_id:
-            continue
+    # Fetch headers only (small)
+    rows = []
+    for i, mid in enumerate(sorted(ids, key=lambda x: int(x) if x.isdigit() else 0), 1):
+        if i % 50 == 0:
+            p(f"  fetch headers {i}/{len(ids)}...")
         try:
-            status, data = M.fetch(
-                msg_id, "(BODY.PEEK[HEADER.FIELDS (DATE SUBJECT FROM TO CC)])"
-            )
-            if status != "OK" or not data or data[0] is None:
+            typ, data = M.fetch(mid, "(BODY.PEEK[HEADER.FIELDS (DATE SUBJECT FROM TO CC)])")
+            if typ != "OK" or not data or not data[0] or not isinstance(data[0], tuple):
                 continue
             raw = data[0][1]
             if not isinstance(raw, (bytes, bytearray)):
                 continue
             msg = email.message_from_bytes(raw)
-            subject = decode_subj(msg.get("subject"))
-            sender = msg.get("from") or ""
+            subj = dec_subj(msg.get("subject"))
+            fr = msg.get("from") or ""
             date_hdr = msg.get("date")
             try:
-                msg_date = parsedate_to_datetime(date_hdr) if date_hdr else None
+                dt = parsedate_to_datetime(date_hdr) if date_hdr else None
             except Exception:
-                msg_date = None
-            if msg_date and (msg_date.year < START_YEAR or msg_date.year > END_YEAR):
+                dt = None
+            if dt and (dt.year < START_YEAR or dt.year > END_YEAR):
                 continue
-            messages.append(
+            rows.append(
                 {
-                    "id": msg_id,
-                    "date": msg_date.isoformat() if msg_date else None,
-                    "subject": subject,
-                    "from": sender,
+                    "id": mid,
+                    "date": dt.isoformat() if dt else "?",
+                    "year": dt.year if dt else None,
+                    "subject": subj,
+                    "from": fr,
                     "to": msg.get("to") or "",
-                    "cc": msg.get("cc") or "",
                 }
             )
-        except Exception:
+        except Exception as e:
+            p(f"  fetch err id={mid}: {e}")
             continue
 
     try:
@@ -294,30 +162,35 @@ Qué hacer:
     except Exception:
         pass
 
-    dest_re = r"(" + "|".join(re.escape(d) for d in destinations) + r")"
-    rows = []
-    for msg in messages:
-        subj_l = (msg["subject"] or "").lower()
-        tags = []
-        if "trip authorization" in subj_l or "international travel request" in subj_l:
-            tags.append("AUTH")
-        elif "flight" in subj_l or "itinerary" in subj_l:
-            tags.append("ITIN")
-        elif any(x in subj_l for x in ("conference", "event", "training", "roadshow")):
-            tags.append("EVENT_TRAINING")
-        m = re.search(r"(to|for|via|in)\s+" + dest_re, subj_l)
-        tags.append(m.group(2).upper().replace(" ", "_") if m else "UNKNOWN_DEST")
-        rows.append((msg["date"] or "?", tags, msg))
+    p(f"\n=== RESULTS {len(rows)} messages in {START_YEAR}-{END_YEAR} ===")
+    rows.sort(key=lambda r: r["date"])
 
-    print(f"\n--- Viajes candidate ({len(rows)}) ---")
-    if not rows:
-        print("Nada en el rango de años con esos filtros.")
-        return
-    for date, tags, msg in sorted(rows, key=lambda x: x[0]):
-        d = date[:10] if date != "?" else "?"
-        subj = (msg["subject"] or "")[:90]
-        fr = (msg["from"] or "")[:55]
-        print(f"Date: {d} | tags={'+'.join(tags)} | Subject: {subj} | From: {fr} | id: {msg['id']}")
+    by_year: dict[int, int] = {}
+    for r in rows:
+        y = r["year"] or 0
+        by_year[y] = by_year.get(y, 0) + 1
+    p("by year: " + ", ".join(f"{y}:{c}" for y, c in sorted(by_year.items())))
+
+    out_path = Path("/tmp/viajes_apple_result.txt")
+    with out_path.open("w", encoding="utf-8") as f:
+        f.write(f"# Apple travel-related mail scan {START_YEAR}-{END_YEAR}\n")
+        f.write(f"# count={len(rows)}\n\n")
+        for r in rows:
+            line = (
+                f"{r['date'][:10] if r['date'] != '?' else '?'} | "
+                f"{(r['subject'] or '')[:100]} | "
+                f"{(r['from'] or '')[:50]} | id={r['id']}\n"
+            )
+            f.write(line)
+            print(line.rstrip(), flush=True)
+
+    # copy to Desktop for Jorge
+    desk = Path.home() / "Desktop" / "viajes_apple_result.txt"
+    try:
+        desk.write_text(out_path.read_text(encoding="utf-8"), encoding="utf-8")
+        p(f"\nwrote {out_path} and {desk}")
+    except Exception as e:
+        p(f"\nwrote {out_path} (desktop copy failed: {e})")
 
 
 if __name__ == "__main__":

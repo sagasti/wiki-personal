@@ -25,26 +25,51 @@ Formulario del doc pide: mini bio, línea de tiempo (período / hitos / empresa 
 
 Fuente: mails **Trip Authorization / International Travel Request** a nombre de **JORGE SAGASTI**, cargo **Senior System Engineer** (a veces + Technical Trainer / Mentor), **Div 56 / Dept 5055**, manager **Edwin Estrada**, contract/badge **C419643**.
 
-| Cuándo | Destino / objetivo (del mail) | Notas |
-|--------|-------------------------------|--------|
-| **nov 2003** | **Miami** — TRAINING | ~2 semanas Coral Gables área |
-| **jul–ago 2004** | **Brunswick / Portland ME** — **SummerCamp '04** | AA/UA vía EEUU |
-| **oct–nov 2004** | **San José / Cupertino** — Meetings **RACK** | Rack & Roll / HQ |
-| **dic 2004** | (autorización JORGE SAGASTI) | trip code EKURRS |
-| **feb 2005** | **Monterrey MX** (Universidad Americana) + **Cupertino** **Xsan Train-the-Trainer (T3)** | MVD↔BUE↔DFW↔SJC; hotel Cypress Cupertino; badge/iform en curso |
-| **mar 2005** | **Miami / Coral Gables** ~9 noches Hyatt | HQ ALAC regional |
-| **may 2005** | **Miami** Coral Gables | |
-| **jun–sep 2005** | varios (incl. Miami / US) | + **Post NAB Road Tour** (Manny/Edwin) |
-| **feb 2006** | **Santiago CL** — CUSTOMER VISIT | LAN BUE–SCL ida y vuelta 1 día |
-| **ene–jun 2006** | varios US/LATAM | **WWDC 2006** (TravelMtgs reg.) |
-| **jun 2006** | múltiples autorizaciones | |
-| **feb 2007** | **Punta del Este** event **Young & Rubicam IT/CEO** + **BUE** con **Edwin Estrada** y **Tiago Ribeiro** | Sofitel BUE; PDE↔AEP; Tiago firma SE F&CS Coral Gables |
-| **mar 2007** | **Santiago** — VENDOR VISIT (MVD–SCL–BUE–MVD) | |
-| **jun 2007** | **BUE** — **Channel Training** (desde PDE) | Sofitel; PO 474031514 |
+**Barrido 2026-07-13 (script liviano, SUBJECT-only):** **190** mails travel-related 1998–2009 en iCloud. Por año: **2003:13 · 2004:35 · 2005:43 · 2006:61 · 2007:34 · 2008:4**. Dump completo: `muestra-apple-2026-assets/viajes_apple_result.txt` (+ Desktop).
 
-**También en hilo de travel/colleagues:** Road Tour travel Edwin 2003; WWDC tickets/badges 2003–2008; badge Apple ID aprobado **feb 2005** (#**419643**); Manny Cernuda en WWDC/Road Tour threads.
+### Trip codes a nombre de JORGE SAGASTI (travel.res)
 
-Esto documenta el **circuito regional real** (no solo charlas 98): training HQ, channel training, customer/vendor visits, Road Tour, WWDC.
+| Fecha mail | Code | Subject tipo |
+|------------|------|--------------|
+| 2003-11-11 | **IFHOJW** 14NOV | Trip Auth + Passport |
+| 2004-04-15 | **FOLQNY** 18APR | Trip Confirmation |
+| 2004-05-04 | **EFCGQX** 16MAY | Trip Confirmation |
+| 2004-07-15 | **EMWWRC** 31JUL | Passport (SummerCamp window) |
+| 2004-09-10 | **KNKSUL** 13SEP | Trip Auth |
+| 2004-09-30 | **IQHYYO** 02OCT | Auth + Confirmation |
+| 2004-10-21/22 | **IYIOMP** 03NOV | Auth + Confirmation (RACK/Cupertino window) |
+| 2004-11-12 | **EGHVWM** 21NOV | Trip Auth |
+| 2004-12-02 | **EKURRS** 12DEC | Auth + Passport |
+| 2005-02-04 | **FGDJTT** 19FEB | Auth + Passport (Monterrey/Xsan T3 window) |
+| 2005-03-07 | **KHHSUZ** 08MAR | Auth + Passport (Coral Gables) |
+| 2005-04-22/25 | **JTULXA** 08–09MAY | Auth + Confirmation |
+| 2005-05-19 | **CZQIHL** 21MAY | Trip Auth |
+| 2005-06-03 | **HUDDKB** 12JUN | Trip Auth |
+| 2005-06-29 | **HDGYDR** 30JUN | Trip Auth |
+| 2005-07-05/06 | **DHAFQR** 30JUL | Auth + Confirmation (Post-NAB Road Tour window) |
+| 2005-08-31 / 09-07 | **GUVJBP** 10SEP | Auth + Confirmation (Manny en hilo) |
+| 2006-01-23/25 | **FSGFVM** 30JAN | Auth + Confirmation |
+| 2006-02-14/16 | **KYIEUS** 16FEB | Auth + Confirmation (Santiago customer window) |
+| 2006-06-21/22 | **EDRLTX** 26JUN + **JIVYUV** 28JUN | dos auth mismas fechas (pre-WWDC) |
+| 2006-07-05/07 | **DJNDGP** 05–06AUG | Auth + Confirmation (WWDC 2006) |
+| 2007-02-08/14 | **MEGHVD** 28FEB | Auth + Passport + schedule change (PDE/Y&R + BUE; Edwin+Tiago) |
+| 2007-03-20/22 | **CLAZJJ** 27MAR | Auth + Confirmation (Santiago vendor) |
+
+### Resumen piedra + contexto (destinos ya leídos en cuerpos previos)
+
+| Cuándo | Destino / objetivo | Notas |
+|--------|---------------------|--------|
+| **nov 2003** | **Miami** TRAINING | IFHOJW |
+| **2004** | varios + **Maine SummerCamp** + **Cupertino RACK** | EMWWRC, IYIOMP, EKURRS… |
+| **feb 2005** | **Monterrey** + **Xsan T3 Cupertino** | FGDJTT |
+| **mar–jun 2005** | **Coral Gables / Miami** HQ | KHHSUZ, JTULXA, HUDDKB… |
+| **jul–sep 2005** | **Post NAB / HD Road Tour** | DHAFQR, GUVJBP; Manny/Edwin |
+| **2006** | **Santiago**, **WWDC**, channel training | KYIEUS, EDRLTX/JIVYUV, DJNDGP |
+| **feb 2007** | **PDE Y&R** + **BUE** con Edwin + Tiago | MEGHVD |
+| **mar 2007** | **Santiago** vendor | CLAZJJ |
+| **jun 2007** | Channel training / ITR (posible BUE) | hilos ITR sin code en subject |
+
+**También:** Road Tour Edwin sep 2003; **Tiago Ribeiro** “My trip to Argentina” feb 2005; WWDC needles 2004–2008 (en 2008 solo “Ticket for WWDC…” de Edwin — post-salida formal). Badge **C419643**. Dump: `viajes_apple_result.txt`.
 
 ## Cómo minar mails `@apple.com` (playbook)
 
