@@ -1,11 +1,11 @@
 ---
 title: "Hermes configuration (Brisa ops)"
 created: "2026-07-12"
-updated: "2026-07-13"
+updated: "2026-07-14"
 type: "concept"
 tags: ["#hermes", "#brisa", "#ops", "#configuration"]
-related: [[brisa]], [[brisa-tools]], [[brisa-email-gateway]], [[hermes-cli-send-command-gap]], [[hermes-whatsapp-bridge-failure-mode]], [[fernando-palermo]], [[hermes-quality-first-model-stack]], [[hermes-gemini-google-alias-native-client]]
-sources: ["MEMORY.md weekly maintenance 2026-07-12", "Telegram session 20260710_213913_df08e117 2026-07-12/13"]
+related: [[brisa]], [[brisa-tools]], [[brisa-email-gateway]], [[hermes-cli-send-command-gap]], [[hermes-whatsapp-bridge-failure-mode]], [[fernando-palermo]], [[hermes-quality-first-model-stack]], [[hermes-gemini-google-alias-native-client]], [[runpod]]
+sources: ["MEMORY.md weekly maintenance 2026-07-12", "Telegram session 20260710_213913_df08e117 2026-07-12/13", "Desktop OpenArt MCP 20260713_174939_5f4b63", "Telegram Apple/Brave 20260713_122217_cf1951"]
 confidence: high
 ---
 
@@ -25,6 +25,7 @@ Cheat sheet de config operativa que antes vivía como punteros sueltos en MEMORY
 | Gateway logs | `~/.hermes/logs/` |
 | Local patches | `~/.hermes/patches/` (p.ej. Gemini alias) |
 | Pre-update backups | `~/.hermes/backups/` |
+| MCP OAuth tokens | `~/.hermes/mcp-tokens/` |
 
 ## Model stack (calidad-first, 2026-07-12/13)
 
@@ -39,12 +40,43 @@ Decision: [[hermes-quality-first-model-stack]]. Resumen:
 | session_search | `auto` |
 | image_gen | `xai` / `grok-imagine-image-quality` |
 | TTS | Gemini (path TTS; distinto del chat) |
+| `model.max_tokens` | **16384** (2026-07-13; evita 402 OR por max_tokens altos y tool_calls cortados) |
 
 Editar config con `hermes config set` / shell — no patch ciego de `config.yaml`.
+
+**Gotcha Desktop (2026-07-13):** si SuperGrok da **403 spending-limit** y el fallback OpenRouter hincha tool results, los `tool_call` se truncan (`finish_reason=length`). Fix: `/new` + créditos SuperGrok/OR + no reenviar el texto de error como mensaje.
 
 **Gotcha Gemini:** alias `google` sin canónica → 400 `thinking_config`. Parche local: [[hermes-gemini-google-alias-native-client]] (`~/.hermes/patches/gemini-google-alias-native-client.patch`, reaplicar post-`hermes update`).
 
 Versión post-update 2026-07-12: Hermes Agent v0.18.2 · upstream `aaf56912` (patch Gemini quedó dirty y validado).
+
+## Web search (2026-07-13)
+
+| Pieza | Estado |
+|-------|--------|
+| `web.search_backend` | **`brave-free`** |
+| `BRAVE_SEARCH_API_KEY` | en `~/.hermes/.env` |
+| `SEARXNG_URL` | **comentado** en `.env` (valor conservado) |
+| Docker `searxng-brisa` (8889) / `searxng-fleet` (8888) | **stopped** (Jorge OK 2026-07-13) |
+| `web.extract_backend` | Brave free **no** hace extract; usar firecrawl/tavily/exa/browser |
+
+Brave free: 429 si spameás queries en paralelo — serializar / reintentar.
+
+## MCP servers
+
+| Name | Transport | Notas |
+|------|-----------|--------|
+| **openart** | HTTPS OAuth → `https://mcp.openart.ai/mcp` | **16 tools**; timeout 300s; login 1×: `hermes mcp login openart` + `/reload-mcp` |
+| comfyui | npx comfyui-mcp | local/RunPod |
+| gemini-imagen | uv script | Imagen barato; **Veo** = pedir OK (plata) |
+
+### OpenArt MCP (listo 2026-07-13)
+
+- OAuth cacheado en `~/.hermes/mcp-tokens/openart.*`
+- Flujo: `openart_model_list` → `openart_model_form_get` → `openart_generate_{image,video}` → `openart_creation_wait` / `show`
+- También: account/projects, cost estimate, uploads/references, creation list
+- **NSFW: no** (help: restricted/flagged). Adulto → Comfy local/[[runpod]]
+- No reemplaza Comfy: es marketplace multi-modelo (Kling, Seedance, GPT Image, etc.) con credits de la cuenta OpenArt
 
 ## TTS
 

@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-13"
+updated: "2026-07-14"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,13 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-14 — Daily consolidation (~02:00)
+
+- **Fuentes:** Telegram `20260713_122217_cf1951` + `20260713_165241_21c6604d` (Apple/Brave); Desktop `20260713_174939_5f4b63` (OpenArt + RunPod models).
+- **Updated:** [[hermes-configuration]] (OpenArt MCP, brave-free, max_tokens 16384, Desktop 403), [[runpod]] (JGG/CRPony/FaceID on S3 vol; pod stop 13/7), [[brisa-face-pipeline-evaluation]] (estado pipeline + cloud NSFW no).
+- MEMORY/USER punteros refinados (sin páginas nuevas Apple — dossier ya absorbido en sesión).
+- **Crítico:** app-password iCloud apareció en plaintext en transcript de sesión Apple (comando IMAP). **Rotar** app password de `sagasti@mac.com` y no re-pegar secrets en chat.
 
 ## 2026-07-13 — Daily consolidation (02:00)
 

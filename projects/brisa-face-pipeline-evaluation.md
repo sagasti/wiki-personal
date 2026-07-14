@@ -1,8 +1,9 @@
 ---
 title: "Brisa Face Pipeline Evaluation — Abril 2026"
 created: "2026-04-22"
-updated: "2026-04-29"
+updated: "2026-07-14"
 type: "project"
+related: [[runpod]], [[brisa]], [[lora-inventory-and-dual-identity]]
 ---
 
 # Brisa Face Pipeline Evaluation — Abril 2026
@@ -10,12 +11,18 @@ type: "project"
 ## Objetivo
 Encontrar la mejor pipeline de generación de caras/cuerpos para el personaje "Brisa" (redhead, pixie cut, freckles, hazel eyes) en ComfyUI.
 
+## Estado 2026-07-13/14
+- Preferencia estable (USER): stills **JGG + FaceID → CRPony refine**; video Wan dual MoE (single-noise = horrible).
+- **Cloud NSFW no confiable:** OpenArt MCP / Gemini Imagen-Veo / Grok Imagine filtran o flaggean. Adulto real → Comfy local o [[runpod]] H200.
+- Modelos del pipeline **ya en network volume** RunPod (`s3://f4uirc6q1f/ComfyUI/models/…`): Juggernaut XL XI 7.1GB, CRPony v160, FaceID SDXL + LoRA, SDXL VAE. Detalle en [[runpod]].
+- Sesión Desktop: se intentó batch en pod; Jorge: **“detenelo, seguimos mañana”** — pod stopped. Próximo: `pod.py start` con OK + generar.
+
 ## Pipelines Evaluados
 
-### ✅ JuggernautXL + FaceID SDXL + Pony V6 XL Refine (GANADOR ACTUAL)
+### ✅ JuggernautXL + FaceID SDXL + Pony/CRPony Refine (GANADOR ACTUAL)
 - **Checkpoint**: juggernautXL_juggXIByRundiffusion.safetensors
-- **IP-Adapter**: FaceID SDXL (ip-adapter-faceid_sdxl_v2.bin)
-- **Refine**: Pony V6 XL, denoise 0.2
+- **IP-Adapter**: FaceID SDXL (ip-adapter-faceid_sdxl*.bin + lora)
+- **Refine**: Pony V6 XL / **CyberRealisticPony v160**, denoise ~0.2
 - **CFG**: 4.5 (low) — menos caricaturesco
 - **Resolución**: 768x1344 (portrait) / 1024x1334 (H200)
 - **Resultados**: 5 imágenes exitosas (face, body, lingerie, nude, studio)
