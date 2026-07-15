@@ -145,7 +145,6 @@
 2006-07-20 | subj_Jorges_ID | You (Jorge Sagasti) have sent an Apple iCard | from=Jorge Sagasti <jorge@sagasti.com> | id=16246
 2006-07-20 | subj_Jorges_ID | You (Jorge Sagasti) have sent an Apple iCard | from=Jorge Sagasti <sagasti@mac.com> | id=191
 2006-07-20 | subj_Jorges_ID | Jorge, has recibido una tarjeta de Andrea bruszo | from=Andrea bruszo <info@tarjetasbubba.com> | id=25610
-2006-07-20 | subj_iForm | Crollege scghoolgirl in uniform ever | from="Felecia Best" <khrogalmvzf@rogal.net> | id=25608
 2006-07-20 | subj_Jorges_ID | Fwd: Jorge Sagasti has sent you an Apple iCard | from=Edwin Estrada <eestrada@mac.com> | id=15976
 2006-07-20 | subj_Jorges_ID | RE: Jorge Sagasti has sent you an Apple iCard | from="Ignacio Socas" <Ignacio.Socas@cadallas.com> | id=15977
 2006-07-20 | subj_Jorges_ID | RE: Jorge Sagasti has sent you an Apple iCard | from="Ignacio Socas" <Ignacio.Socas@cadallas.com> | id=15975
