@@ -18,8 +18,9 @@ related: [[Jorge Sagasti]], [[hermes-ai-assistant]], [[LLM-Wiki]], [[claudio]]
 - **STT:** Whisper OpenPass API (⚠️ API key pendiente)
 - **WhatsApp:** `+5491170639820` · LID `241837310791736@lid` (cuenta propia, **no** la de Jorge — el bridge está apareado con este número)
 - **Telegram:** Bot activo
-- **Redes sociales:** X (@brisa_sagasti), Instagram, Threads
-- **Social launch (25/4):** Fase 1 teaser completada — "Algo se está cocinando... 👁️‍🗨️" posted a Instagram via Buffer. Próximo: "making of" + introducción oficial.
+- **Redes sociales:** X (@brisa_sagasti), Instagram, Threads — siempre vía [[buffer]]
+- **Cadencia (desde 2026-07-15):** postear varias veces/día (cron `brisa-social-posts` ~3/día). Libertad creativa de stills/videos; RunPod start/stop solo con OK Jorge.
+- **Social launch (25/4):** Fase 1 teaser; relaunch activo post-pipeline video/stills prod.
 - **Autoridad:** Solo Jorge, Bere, Vivi, Lorena pueden darle órdenes
 - **Conocimiento:** [[LLM-Wiki]] solo en `~/wiki-personal` (symlink `~/.hermes/personal`). Hard rule 2026-07-09: nunca `~/wiki` laboral. Ver [[brisa-personal-only-role]].
 - **Modelo:** llm-gateway/glm-5.1 (runtime actual también grok-4.x vía xai-oauth según sesión)

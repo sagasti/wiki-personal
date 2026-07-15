@@ -14,7 +14,7 @@ related: [[brisa-face-pipeline-evaluation]], [[runpod-s3-forklift-access]], [[br
 
 ## Pod comfyui-luz-h200 (on-demand)
 
-> **2026-07:** el pod **se recrea on-demand** (skill `comfy-ui` / `runpod` / `pod.py`). No asumir IP/Pod ID fijos de entradas viejas. Verificar con skill antes de usar. **Nunca levantar sin OK de Jorge** (caro). H200 ~$4.39/h.
+> **2026-07:** el pod **se recrea on-demand** (skill `comfy-ui` / `runpod` / `pod.py`). No asumir IP/Pod ID fijos de entradas viejas. Verificar con skill antes de usar. **Nunca levantar sin OK de Jorge** (caro). H200 ~$4.39/h. **Post-job: SIEMPRE preguntar si apaga** — no `stop --force` automático (Jorge 15/7).
 
 - **Name actual (scripts):** `comfyui-luz-h200` (histórico: brisa-comfyui-h200)
 - **Pod ID reciente (puede cambiar):** `1n0whm7wacau00` (sesión 13–15/7; re-chequear con `pod.py status`)
