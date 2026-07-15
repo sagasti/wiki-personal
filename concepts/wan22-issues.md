@@ -28,3 +28,12 @@ Wan 2.2 I2V **no mantiene identidad** de la imagen source. El video arranca con 
 3. Re-entrenar LoRA con settings diferentes
 4. Modelo diferente (Hunyuan Video, CogVideoX)
 5. Frame-by-frame con ControlNet + face reference
+
+---
+
+## Update 2026-07-15 — resuelto en producción
+
+- **LoRA ganador:** `brisa_wan22_v2_all6_comfy` (dim32, train con frames de 6 escenas + stills dense). Ver [[brisa-video-production]].
+- Pipeline: still distinta por escena (JGG+dense→Pony d0.4) → Wan dual MoE + all6 @1.0.
+- El v2 original sigue débil; no usarlo. Spike/prod son backups.
+- Builder API: `/workspace/scripts/bere/wan_i2v_api_builder.py` (dual high/low).
