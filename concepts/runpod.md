@@ -1,43 +1,47 @@
 ---
 title: "RunPod GPU Setup"
 created: "2026-04-26"
-updated: "2026-07-14"
+updated: "2026-07-15"
 type: "concept"
 tags: ["#reference", "#devops", "#ai"]
 date: "2026-04-26"
-source: "MEMORY.md rotation (weekly maintenance); Desktop 20260713_174939_5f4b63"
+source: "MEMORY.md rotation; Desktop 20260713_174939_5f4b63 → 20260714_142753_b2cf3c"
 valid_until: "2026-08-12"
-related: [[brisa-face-pipeline-evaluation]], [[runpod-s3-forklift-access]], [[brisa]]
+related: [[brisa-face-pipeline-evaluation]], [[runpod-s3-forklift-access]], [[brisa]], [[brisa-video-production]]
 ---
 
 # RunPod GPU Setup
 
 ## Pod comfyui-luz-h200 (on-demand)
 
-> **2026-07:** el pod **se recrea on-demand** (skill `comfy-ui` / `runpod` / `pod.py`). No asumir IP/Pod ID fijos de entradas viejas. Verificar con skill antes de usar. **Nunca levantar sin OK de Jorge** (caro).
+> **2026-07:** el pod **se recrea on-demand** (skill `comfy-ui` / `runpod` / `pod.py`). No asumir IP/Pod ID fijos de entradas viejas. Verificar con skill antes de usar. **Nunca levantar sin OK de Jorge** (caro). H200 ~$4.39/h.
 
 - **Name actual (scripts):** `comfyui-luz-h200` (histórico: brisa-comfyui-h200)
-- **Pod ID (puede cambiar):** gt7xw3blwtrthx (último documentado; re-chequear)
+- **Pod ID reciente (puede cambiar):** `1n0whm7wacau00` (sesión 13–15/7; re-chequear con `pod.py status`)
 - **GPU:** H200 143GB VRAM
-- **SSH:** cambia cada restart/recreate. Key histórica `/opt/data/.ssh/id_ed25519` en pods con template `t9hgwtx2xb` (post 13/6).
-- **Network Volume:** f4uirc6q1f (300GB, us-nc-1) — estable
-- **ComfyUI URL:** https://comfy.sagasti.com (Basic auth `api:$COMFYUI_API_PASSWORD`)
+- **SSH:** host `103.196.86.23`, **puerto público cambia en cada start** (ej. 10985 → 17264 → 18700 → 19210). Key local `~/.ssh/id_rsa`; en pod a veces también template key. Usar `StrictHostKeyChecking=no` si rota host key.
+- **Network Volume:** f4uirc6q1f (us-nc-1) — estable; se llenó ~700GB durante uploads 13/7 → limpiar caches regenerables (`.hf_cache/`, downloads) **sin** tocar LoRAs/training_runs
+- **ComfyUI URL:** https://comfy.sagasti.com (cloudflared a veces 530) · proxy RunPod confiable: `https://<podId>-8089.proxy.runpod.net`
 - **Autostart:** Template `t9hgwtx2xb` → ComfyUI + nginx + cloudflared (~2–4 min a 8188 listo)
-- **2026-07-13 noche:** Jorge pidió batch Brisa → se levantó el pod y se **apagó** el mismo día (`pod.py stop --force`) para no facturar; reanudar cuando diga.
+- **2026-07-15 ~02:50:** batch erótico 6/6 + prod limpia → `pod.py stop --force` → **EXITED** (no factura). Reanudar solo con OK Jorge.
+- **Train Wan:** apagar Comfy (OOM). Scripts I2V: `/workspace/scripts/bere/wan_i2v_api_builder.py`
 
-## Modelos SDXL en network volume (staged 2026-07-13)
+## Modelos SDXL en network volume (staged 2026-07-13/14)
 
-Prefijo S3: `s3://f4uirc6q1f/ComfyUI/models/` (endpoint `https://s3api-us-nc-1.runpod.io`, region `us-nc-1`). Subida multi-GB **con pod EXITED** vía `aws s3 cp`.
+Prefijo S3: `s3://f4uirc6q1f/ComfyUI/models/` (endpoint `https://s3api-us-nc-1.runpod.io`, region `us-nc-1`). Subida multi-GB **preferible con pod EXITED** vía `aws s3 cp` (SCP multi-GB inestable; Civitai corta ~1.5GB).
 
 | Archivo | Path en volume | Notas |
 |---------|----------------|--------|
-| Juggernaut XL XI | `checkpoints/juggernautXL_juggXIByRundiffusion.safetensors` | **7.1 GB** — OK_JGG 2026-07-13 21:52 |
-| CyberRealistic Pony v160 | `checkpoints/Pony/cyberrealisticPony_v160.safetensors` | ~5.1 GB |
+| Juggernaut XL XI | `checkpoints/juggernautXL_juggXIByRundiffusion.safetensors` | **7.1 GB** — OK 2026-07-13 |
+| CyberRealistic Pony v160 | `checkpoints/Pony/cyberrealisticPony_v160.safetensors` | ~5.1 GB — **UNet Diffusers only** (0 VAE/CLIP en el file) |
 | FaceID SDXL | `ipadapter/ip-adapter-faceid_sdxl.bin` | + plusv2 ya presente |
 | FaceID LoRA | `loras/…/ip-adapter-faceid_sdxl_lora.safetensors` | ~372 MB |
 | SDXL VAE | `vae/SDXL/sdxl_vae.safetensors` | ~335 MB |
+| CLIP-G | `text_encoders/clip_g.safetensors` | ~1.3 GB — DualCLIP con CRPony (subido 14/7) |
+| LoRA stills | `loras/brisa_sdxl/brisa_stills.safetensors` (+ alias PRODUCTION) | prod 15/7 |
+| LoRA video | `loras/identity/brisa_video.safetensors` (+ alias wan22 PRODUCTION) | all6 / prod 15/7 |
 
-**Pipeline stills Brisa (USER):** Juggernaut + FaceID → refine CyberRealisticPony. Ver [[brisa-face-pipeline-evaluation]].
+**Pipeline stills Brisa (prod):** Jugg + `brisa_stills` + FaceID light → CRPony d=0.4 DualCLIP. Ver [[brisa-video-production]] + [[brisa-face-pipeline-evaluation]].
 
 ## Pod ideogram-nc1 (experimental)
 - **Pod ID:** 8jx9xeju7h2fsi

@@ -30,15 +30,18 @@
 `~/Desktop/brisa_prod/`
 - `loras/brisa_stills.safetensors`
 - `loras/brisa_video.safetensors`
-- `stills/*.png` — bed, mirror, window, close_face, sofa, standing
-- `videos/*.mp4` — I2V de esas stills
-- `README.md`
+- `stills/*.png` — bed, mirror, window, close_face, sofa, standing (+ variety grid)
+- `videos/*.mp4` — I2V variety + eróticos 2026-07-15
+- `docs/` + `README.md`
+
+### Videos eróticos (6/6, 2026-07-15, LoRA `brisa_video`, still distinta c/u)
+`erotic_bed`, `erotic_window`, `erotic_sofa`, `erotic_mirror`, `erotic_standing`, `erotic_close` (+ variety: bed_lingerie, mirror_selfie, window_nude, sofa_lounge, standing_studio, close_face, GRID_variety)
 
 ## Pod outputs
-`/workspace/ComfyUI/output/brisa_prod/{stills,videos}/`
+`/workspace/ComfyUI/output/brisa_prod/{stills,videos}/` — copiado al Desktop; pod **EXITED** post-batch
 
 ## Dataset (si re-entrenás)
-- Stills: Extra `ComfyUI/brisa/datasets/brisa_sdxl_v1/`
+- Stills: Extra `ComfyUI/brisa/datasets/brisa_sdxl_v1/` (100 PNG+txt, trigger `brisa,`, QC Jorge 14/7 OK; buckets v4/sheet/hero/jgg/ref)
 - Video frames train: pod `brisa/datasets/brisa_wan22_v2_all6/` (histórico; el LoRA actual ya salió de ahí)
 
 ## Reglas operativas

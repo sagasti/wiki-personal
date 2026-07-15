@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-14"
+updated: "2026-07-15"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,14 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-15 — Daily consolidation (~02:00)
+
+- **Fuente principal:** Desktop `20260714_142753_b2cf3c` (OpenArt/Brisa prod noche 14→15). Telegram Apple del 13 ya absorbido el 14/7.
+- **Updated:** [[brisa-face-pipeline-evaluation]] (prod JGG+stills→Pony d0.4 DualCLIP; lección denoise; CRPony UNet-only), [[runpod]] (pod `1n0whm7wacau00` EXITED post-eróticos; clip_g; LoRAs stills/video; SSH ports rotan), [[brisa-video-production]] (lista erotic 6/6 + variety).
+- **Ya en sesión (sin re-escribir):** MEMORY/USER punteros prod; [[wan22-issues]] update all6; canónicos `brisa_stills`/`brisa_video` en Desktop `brisa_prod/`.
+- **MEMORY ~93% / USER ~90%:** no se agregaron punteros nuevos (rotar en pass semanal).
+- **Crítico (pendiente de Jorge):** app-password iCloud sigue en plaintext en transcripts Apple históricos — rotar si aún no se hizo (flag del 14/7).
 
 ## 2026-07-14 — Daily consolidation (~02:00)
 
