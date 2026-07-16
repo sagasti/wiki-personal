@@ -23,7 +23,10 @@ Vamos por **(1) Fanvue** + **(2) OnlyFans**.
 3. **Bio (EN/ES) mínimo:**
    - “Brisa is a **fully AI-generated** virtual character. Not a real person.”
    - Age: **25+** en lore; nunca “barely 18”, school, etc.
-4. Watermark suave en packs duros: `AI · @brisa_sagasti` (opcional pero safe).
+4. **Captions de cada post (reglas Jorge):**
+   - **Corto:** 2–4 líneas.
+   - **Siempre** la línea `AI-generated` (disclosure por media es obligatorio; **en caption alcanza** — no hace falta watermark en la imagen).
+   - **Siempre** un empujón a la acción: seguir / suscribirse / escribirle.
 5. Pricing sugerido de arranque:
    - Sub mensual: USD 9.99–14.99
    - PPV still pack 5–10: 5–12 USD
