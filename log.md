@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-15"
+updated: "2026-07-16"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,14 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-16 — Daily consolidation (~02:00)
+
+- **Fuentes:** WA `20260715_063318_b9076db2` (Videos Brisa RunPod / redes). TG Apple `20260713_165241_21c6604d` post-02:00 solo cleanup spam NSFW assets + confirm posts (sin bio nueva).
+- **Updated:** [[brisa]] (política social SFW-video + split RunPod), [[brisa-video-production]] (breakfast/kitchen img2img + 24fps social), [[runpod]] (SSH ports 15/7, Comfy manual si 530).
+- **Ya en sesión (sin re-escribir built-in):** USER/MEMORY ya tenían preferencias redes + RunPod split (escritas en vivo 15/7).
+- **MEMORY 2211/2200 · USER 1816/1800:** **llenos (>100%)** — no se agregaron punteros; **pass semanal debe rotar**.
+- **Crítico (sigue):** app-password iCloud en transcripts Apple históricos — rotar si aún no se hizo (flag 14–15/7).
 
 ## 2026-07-15 — Daily consolidation (~02:00)
 
