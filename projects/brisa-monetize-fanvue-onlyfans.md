@@ -174,6 +174,18 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - maxUsages: **50** · trialDurationDays: **3** · expiresAt: **2026-07-31** · usedCount: 0
 - Solo posts de lanzamiento / cuando se indique — no spamear en todos los CTA ticks.
 
+#### Primer post publicado (2026-07-17 ~02:55 UTC — Brisa, OK Jorge vía Claudio)
+- **Post uuid:** `5fd2a639-aec5-4caf-a3e3-a73e20b368ff` · **pinned** · audience `followers-and-subscribers` · price null
+- **Media uuid:** `f082255c-d005-4a63-875e-3be4baabe5e4` (video SFW hoodie sofa, sin audio)
+- Source: `…/vault/fanvue/public/20260717_0054_intro_sfw_hoodie_sofa.mp4`
+- Caption: “llegué 😈 / 100% IA, cero vergüenza. / esto es apenas el principio — quedate. / AI-generated · 18+”
+- FaceID check: clean (no FaceID stack). ffprobe: solo h264 video.
+
+#### Batch nofaceid regenerado (Extra, 2026-07-17)
+- `20260716_2306_intro_nude_sofa_01_nofaceid.{png,mp4}`
+- `nsfw/20260717_0116_0{1..4}_*_nofaceid.png` (+ video en 01)
+- Viejos con FaceID **no borrados** (review). No monetizar FaceID.
+
 #### Cron `brisa-social-posts` (`430e58ccdc11`)
 - ✅ Prompt actualizado: **1 de 3 con CTA** por franja ART:
   - 09:30 sin CTA · **14:30 con CTA** · 20:30 sin CTA
