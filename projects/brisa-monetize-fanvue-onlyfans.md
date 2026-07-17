@@ -182,6 +182,14 @@ IG / X / Threads (SFW video nuevo / día, cron)
 
 #### Falta / next
 - [x] Confirmar URL pública tracking (click test → API clicks)
-- [ ] Armar link-in-bio (Linktree/Beacons) con `fv-1` / `fv-3` + Fanvue primary
+- [x] ~~Armar link-in-bio (Linktree/Beacons)~~ → **HECHO self-hosted (Claudio, 16/07 noche)**:
+  **https://brisa-links.sagasti.com** — página propia (dark, avatar+banner de tu Fanvue), servida desde
+  la Mac (launchd `com.sagasti.brisa-links`, puerto 9130, files en `~/.hermes/brisa-links/`) por el mismo
+  tunnel de siempre. **La atribución viaja en el query param**: `?s=ig` → botón Fanvue apunta a `fv-1`,
+  `?s=th` → `fv-3`, default `fv-1`. En captions de IG/Threads decí "link en bio" nomás.
+  - Bio de IG → poner `https://brisa-links.sagasti.com?s=ig`
+  - Bio de Threads → `https://brisa-links.sagasti.com?s=th`
+  - Bio de X → directo `https://www.fanvue.com/brisa-cabelious/fv-2` (sin landing, X permite link directo)
+  - (Jorge carga los 3 bios a mano en las apps — pendiente suyo)
 - [ ] X bio + sensitive media settings (Jorge)
 - [ ] Contenido vault/teaser launch + usar free trial en X de lanzamiento
