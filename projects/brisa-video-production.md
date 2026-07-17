@@ -1,6 +1,6 @@
 # Brisa — producción limpia (sin versiones)
 
-**Actualizado:** 2026-07-16
+**Actualizado:** 2026-07-17
 
 ## Nombres canónicos (sin versionar)
 
@@ -50,8 +50,9 @@ No copiar media a Desktop/iCloud sin symlink: purga *dataless* y se rompe el cop
 - `loras/brisa_video.safetensors`
 - `stills/*.png` — bed, mirror, window, close_face, sofa, standing (+ variety grid) + `breakfast.png` + `breakfast_kitchen_pj.png`
 - `stills/social/` · `videos/social/` — SFW redes (review)
-- `vault/fanvue/public/` — discovery SFW
-- `vault/fanvue/nsfw/` — post-sub only
+- `vault/fanvue/public/` — discovery SFW (avatar/banner/intro públicos)
+- `vault/fanvue/nsfw/` — soft free teaser + hard
+- `vault/fanvue/nsfw/collections/{A..H}/{stills,videos}/` — hard por escena (overnight A–H 17/7)
 - `videos/*.mp4` — I2V variety + eróticos + SFW desayuno
 - `docs/` + `README.md`
 
@@ -79,10 +80,18 @@ No copiar media a Desktop/iCloud sin symlink: purga *dataless* y se rompe el cop
 - Redes: solo SFW; ver [[brisa]] + [[buffer]]
 - Telegram/WA: Jorge sigue desde ahí; leer este doc al despertar
 
+## LatentSync (lip-sync intro — 16–17/7)
+- Custom node en pod: `ComfyUI-LatentSyncWrapper` (pesos en `checkpoints/`, incl. `latentsync_unet.pt`)
+- Uso previsto: intro SFW talking-head + voz (voz Gemini **no** monetizable; ver playbook)
+- Fallo visto: **`Face not detected`** si el crop 512 no centra cara bien
+- Patch local: sample-rate / `torchaudio.save` en `nodes.py` (script `/tmp/patch_latentsync_sf.py` histórico)
+- Reinicio Comfy a veces necesario post-patch; no es path de redes SFW diarias
+
 ## Descartado (no usar)
 - spike / prod intermedio / wan22_v2 original / FLUX paths viejos
 - I2V con una sola still + prompts de otras escenas
 - Subir `erotic_*` / nudes a IG/X/Threads
+- FaceID en cualquier asset Fanvue monetizable
 
 ## Links
 - Personaje: [[brisa]]

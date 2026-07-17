@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-16"
+updated: "2026-07-17"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,14 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-17 — Daily consolidation (~02:00)
+
+- **Fuente:** TG `20260716_084703_952c46` (Fanvue launch + collections overnight). CLI Fanvue get-me sin facts. Emails Claudio ya absorbidos en playbook/log FaceID.
+- **Updated:** [[brisa-monetize-fanvue-onlyfans]] (soft free posts, audience rules, collections A–H UUIDs, batch ah_hard 80 clips), [[brisa-video-production]] (collections path + LatentSync notes), [[brisa-email-gateway]] (canal Hermes, sin cron mail).
+- **MEMORY:** puntero Fanvue comprimido → detalle colls en playbook (límites ~llenos; rotar semanal).
+- **USER:** sin preferencias nuevas estables (soft free/hard subs ya en Fanvue USER/MEMORY).
+- **Pendiente Jorge:** bios redes + X sensitive; avatar/banner web; review batch A–H.
 
 ## 2026-07-17 — FaceID ban Fanvue + regen nofaceid (email Claudio)
 - FaceID/InstantID/PuLID **prohibidos** en material Fanvue (InsightFace research-only).

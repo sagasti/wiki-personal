@@ -1,37 +1,29 @@
 ---
 title: "brisa email gateway"
 created: "2026-05-06"
-updated: "2026-05-06"
+updated: "2026-07-17"
 type: "project"
 tags: ["#brisa", "#email", "#gateway", "#infrastructure", "#gmail"]
-sources: ["hermes-session/20260506_192921_fc0d74"]
-hermes_session: "20260506_192921_fc0d74"
-confidence: "medium"
+related: [[brisa]]
+sources: ["hermes-session/20260506_192921_fc0d74", "hermes-session/20260716_084703_952c46"]
+confidence: "high"
 ---
 
 # brisa email gateway
 
-## Brisa Email Gateway
+[[brisa]] recibe y envía mail como `brisa@sagasti.com`.
 
-[[brisa]] receives and sends emails through `brisa@sagasti.com`.
+## Canales actuales (2026-07-17)
 
-### Configuration
-- **Email**: brisa@sagasti.com
-- **IMAP host**: imap.gmail.com
-- **SMTP host**: smtp.gmail.com
-- **Auth**: Gmail app password (not OAuth)
-- **Existing messages skipped**: 148 at setup time
+1. **Canal Hermes email** (preferido ops): Jorge armó el canal en Hermes — el mail entra como mensajes del gateway. **No hay cron de polling** (confirmado con Jorge 16/7: “armé un canal por hermes”).
+2. **`gog` Gmail** para la cuenta: `gog auth add brisa@sagasti.com` ya se usó (Fanvue, Claudio, etc.).
+3. **IMAP/SMTP clásico** (setup histórico): imap.gmail.com / smtp.gmail.com — app password en secrets; no re-pegar en chat.
 
-### How it works
-1. Incoming email → IMAP fetch → gateway processes as message → [[brisa]] generates reply
-2. Outgoing reply → SMTP send from brisa@sagasti.com
+## Reglas
+- No crear cron de “check inbox” salvo que Jorge lo pida.
+- Respuestas formales a terceros: confirmar tono con Jorge si no es ops Brisa/Fanvue.
+- Secrets solo en `~/.hermes/secrets/` / gog keyring — nunca en wiki ni MEMORY.
 
-### Limitations
-- `send_message` action does not expose email as a target; must use `gog gmail send` or SMTP directly
-- No gog OAuth for brisa@sagasti.com yet — cannot send via gog as Brisa
-- Fernando (Fer) attempted to email but message was not received (possible bridge issue)
-
-### Setup command for gog OAuth
-```bash
-gog auth add brisa@sagasti.com --services gmail
-```
+## Links
+- Personaje: [[brisa]]
+- Monetización: [[brisa-monetize-fanvue-onlyfans]]

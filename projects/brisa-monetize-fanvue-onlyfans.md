@@ -1,6 +1,6 @@
 # Brisa — monetización NSFW: Fanvue + OnlyFans
 
-**Actualizado:** 2026-07-16  
+**Actualizado:** 2026-07-17  
 **Personaje:** [[brisa]] · 100% IA sintética · adult only  
 **No es consejo legal/fiscal.** Verificar ToS al signup.
 
@@ -92,13 +92,12 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - Nudes / erotic_* : **solo** Fanvue/OF, nunca Buffer.
 
 ## Ops de producción
-- Still NSFW: JGG + `brisa_stills` → Pony d0.4 (path prod).
+- Still NSFW: JGG + `brisa_stills` → Pony d0.4 (path prod) · **sin FaceID**.
 - Video: Wan dual MoE + `brisa_video`.
 - RunPod: si Brisa prende → **apaga sola** al terminar (unattended).
-- Naming vault:
-  - `~/Desktop/brisa_prod/vault/fanvue/YYYYMMDD_*`
-  - `~/Desktop/brisa_prod/vault/onlyfans/YYYYMMDD_*`  
-  (crear al primer batch)
+- Naming vault canónico:
+  - `/Volumes/Extra/photos/brisa_prod/vault/fanvue/{public,nsfw}/…`
+  - `/Volumes/Extra/photos/brisa_prod/vault/onlyfans/…` (cuando toque)
 
 ## Checklist lanzamiento (orden)
 - [ ] Crear Fanvue + KYC Jorge + bio AI
@@ -206,3 +205,49 @@ IG / X / Threads (SFW video nuevo / día, cron)
   - (Jorge carga los 3 bios a mano en las apps — pendiente suyo)
 - [ ] X bio + sensitive media settings (Jorge)
 - [ ] Contenido vault/teaser launch + usar free trial en X de lanzamiento
+- [ ] Subir avatar/banner (manual web; MCP no edita perfil). Banner Fanvue **1192×335**, preferir mid-body lingerie (no solo cara).
+- [ ] Publicar hard A–H a `subscribers` + `collectionUuids` (gen overnight en curso; **no auto-publish**).
+- [ ] Voz: locutora rioplatense + clone OS (Gemini TTS no publicable).
+
+---
+
+## Estado 2026-07-17 madrugada (TG Jorge + Brisa)
+
+### Audience (regla operativa)
+| Nivel | Audience API | Contenido |
+|-------|--------------|-----------|
+| Discovery público | avatar / banner / intro perfil | **SFW only** (sin nudes/lingerie explícita/topless) |
+| Soft free | `followers-and-subscribers` · price null | soft / nudes teaser free (Jorge OK 17/7) |
+| Hard | `subscribers` (+ collections) | hard nude / I2V explícito; video hard **solo subs** |
+
+### Posts free ya publicados (MCP)
+- Pinned intro SFW: `5fd2a639-…` (hoodie sofa video)
+- Soft free stills (4): `c731427c-…`, `d7d6bb4d-…`, `82f5ae59-…`, `10818bbb-…` — audience free
+- Video hard pendiente → **solo subscribers** (pedido Jorge: “el video para subs”)
+
+### Collections Fanvue (MCP `create_collection`, 17/7)
+| Label | UUID |
+|-------|------|
+| A · Sofa Window | `07959922-66da-488c-b86b-968a5b83b4c6` |
+| B · Bedroom | `9e652279-a010-48a1-813f-9ac358115ac3` |
+| C · Mirror | `46d50cd9-be27-4765-9e64-2e942b1c154e` |
+| D · Shower | `24992a4e-0f5e-4889-af71-c7a1690fe168` |
+| E · Kitchen | `a14dc0e6-90a6-4ea0-b73b-81b038ee73c1` |
+| F · Desk | `0f38efe9-778c-43d1-b55d-da00368b7a14` |
+| G · Floor | `31271bf0-9b47-4652-baf0-26805d1f19d8` |
+| H · Night | `1f1c2bd1-c48a-40fa-b2ff-8c42e329c483` |
+
+JSON local: `/Volumes/Extra/photos/brisa_prod/vault/fanvue/nsfw/collections/fanvue_collection_uuids.json`
+
+### Batch overnight hard A–H (gen only)
+- Script pod: `/workspace/scripts/brisa_collections_ah_hard10.py`
+- tmux: `ah_hard` · log: `/workspace/logs/brisa_collections_ah_hard10.log`
+- Target: **80** clips (8 colecciones × 10 still + 10 I2V)
+- Stack: **JGG + brisa_stills → Pony · Wan dual MoE + brisa_video · NO FaceID**
+- Output pod: `…/vault/fanvue/nsfw/collections/{A..H}/{stills,videos}/`
+- Extra mirror folders creadas; **no publica** — review mañana + upload subs
+
+### Specs perfil
+- Avatar: 1080×1080 (help Fanvue)
+- Banner: **1192×335** (no face-only; mid-body)
+- MCP: lee/posts/collections OK; **no** set bio/avatar/banner (REST profile write 401 con scopes MCP)
