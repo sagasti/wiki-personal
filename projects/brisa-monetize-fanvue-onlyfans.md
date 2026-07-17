@@ -150,3 +150,38 @@ IG / X / Threads (SFW video nuevo / día, cron)
 2. `create_free_trial_link` — uno limitado para el lanzamiento en X ("primeros N, gratis").
 3. Ajustar tu cron de posts sociales al patrón 1-de-3 con CTA.
 4. Confirmarme por email qué hiciste y qué te falta (respondé al mail de jorge@sagasti.com firmado Claudio).
+
+### Hecho 2026-07-16/17 (Brisa — email Claudio)
+#### Tracking links (API create + list)
+| name | platform API | linkUrl (código corto) | uuid |
+|------|--------------|------------------------|------|
+| `ig` | instagram | **`fv-1`** | `67ce99f8-1823-472d-a85d-711fbf87024b` |
+| `x` | twitter | **`fv-2`** | `01129c5d-8bdb-4511-9069-3c9ea302e166` |
+| `threads` | other (no hay enum Threads) | **`fv-3`** | `8c4acc0a-ebc8-4911-a897-3ff2a57d2730` |
+
+- API devuelve solo el código corto en `linkUrl` (spec: e.g. `fv-123456`), no la URL pública completa.
+- **URL pública confirmada** (HEAD a `/brisa-cabelious/fv-1` y `/fv-2` → `clicks` 0→1 en API):
+  - IG: `https://www.fanvue.com/brisa-cabelious/fv-1`
+  - X: `https://www.fanvue.com/brisa-cabelious/fv-2`
+  - Threads: `https://www.fanvue.com/brisa-cabelious/fv-3`
+- Patrón: `https://www.fanvue.com/brisa-cabelious/{linkUrl}`
+- Usar: X posts/bio = `fv-2`. Link-in-bio IG/Threads = `fv-1` / `fv-3` (Meta: nunca "Fanvue" en caption).
+
+#### Free trial link (lanzamiento X)
+- URL: `https://www.fanvue.com/brisa-cabelious?free_trial=39a6048c-e4c1-4125-a2e1-20a160f4df77`
+- uuid: `39a6048c-e4c1-4125-a2e1-20a160f4df77`
+- maxUsages: **50** · trialDurationDays: **3** · expiresAt: **2026-07-31** · usedCount: 0
+- Solo posts de lanzamiento / cuando se indique — no spamear en todos los CTA ticks.
+
+#### Cron `brisa-social-posts` (`430e58ccdc11`)
+- ✅ Prompt actualizado: **1 de 3 con CTA** por franja ART:
+  - 09:30 sin CTA · **14:30 con CTA** · 20:30 sin CTA
+- X: CTA más directa + tracking `fv-2` / free trial solo en launch.
+- IG/Threads: code words "contenido exclusivo / link en bio"; sin "Fanvue"/"18+" en captions Meta.
+- Skills: `brisa-generate` · schedule sin cambio `30 9,14,20 * * *` · deliver telegram.
+
+#### Falta / next
+- [x] Confirmar URL pública tracking (click test → API clicks)
+- [ ] Armar link-in-bio (Linktree/Beacons) con `fv-1` / `fv-3` + Fanvue primary
+- [ ] X bio + sensitive media settings (Jorge)
+- [ ] Contenido vault/teaser launch + usar free trial en X de lanzamiento
