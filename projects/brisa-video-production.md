@@ -33,11 +33,19 @@
 5. Prompt de **motion** sobre la escena de la still
 6. **Redes:** reencode a **24 fps** h264 yuv420p si se sube a IG/Threads (16 fps rechaza)
 
+## Path canónico (2026-07-16)
+**Real:** `/Volumes/Extra/photos/brisa_prod`  
+**Symlink:** `~/Desktop/brisa_prod` → Extra (compat cron/scripts)  
+No guardar en Desktop/iCloud sin symlink: purga *dataless* y se rompe el copy.
+
 ## Desktop prolijo
-`~/Desktop/brisa_prod/`
+`~/Desktop/brisa_prod/` (= Extra)
 - `loras/brisa_stills.safetensors`
 - `loras/brisa_video.safetensors`
 - `stills/*.png` — bed, mirror, window, close_face, sofa, standing (+ variety grid) + `breakfast.png` + `breakfast_kitchen_pj.png`
+- `stills/social/` · `videos/social/` — SFW redes (review)
+- `vault/fanvue/public/` — discovery SFW
+- `vault/fanvue/nsfw/` — post-sub only
 - `videos/*.mp4` — I2V variety + eróticos + SFW desayuno
 - `docs/` + `README.md`
 
