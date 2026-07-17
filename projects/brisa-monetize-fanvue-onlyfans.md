@@ -92,11 +92,13 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - Nudes / erotic_* : **solo** Fanvue/OF, nunca Buffer.
 
 ## Ops de producción
-- Still NSFW: JGG + `brisa_stills` → Pony d0.4 (path prod) · **sin FaceID**.
+- Still NSFW hard: JGG + `brisa_stills` + **FaceID** → Pony d0.4 (Jorge 17/7 se hace cargo de licencia InsightFace).
+- `*_nofaceid` también válidos — no tirar.
 - Video: Wan dual MoE + `brisa_video`.
 - RunPod: si Brisa prende → **apaga sola** al terminar (unattended).
 - Naming vault canónico:
   - `/Volumes/Extra/photos/brisa_prod/vault/fanvue/{public,nsfw}/…`
+  - hard PPV inventory: `…/nsfw/` + `…/nsfw/collections/{A..H}/`
   - `/Volumes/Extra/photos/brisa_prod/vault/onlyfans/…` (cuando toque)
 
 ## Checklist lanzamiento (orden)
@@ -128,9 +130,9 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - ✅ **Sub = USD 3.99** (decisión Jorge — pisa el 9.99–14.99 de arriba; sube más adelante con librería).
 - ✅ Mensajes automáticos cargados por Jorge (new subscriber/follower/canceled/renewed/purchase/first reply).
 - ✅ Licencias verificadas: Z-Image y Wan Apache OK; Juggernaut/CyberRealistic OK (Civitai `{Image}`).
-  🔴 **IP-Adapter FaceID / InstantID / PuLID PROHIBIDOS en renders para Fanvue** (InsightFace research-only).
-  El LoRA `brisa_stills` sostiene la identidad. Regen sin FaceID: `brisa_fanvue_nofaceid_regen.py`.
-  Assets viejos con FaceID se conservan para review pero **no se monetizan**.
+  🔴 ~~IP-Adapter FaceID PROHIBIDO~~ → **ANULADO 17/7 noche (Jorge se hace cargo).** FaceID OK en Fanvue.
+  El LoRA `brisa_stills` + FaceID = stack hard calidad. Assets `*_nofaceid` se conservan y son válidos.
+  **Tiers (plata, no licencia):** FREE=SFW · SUB muro=soft · hard=**PPV por DM** (no muro).
 - 🎤 **VOZ: intro SIN VOZ (música + texto overlay).** `20260716_intro_voice.mp3` = **Gemini TTS Aoede**
   (confirmado Brisa 17/7) → **no publicable** en Fanvue. Voz definitiva = locutora rioplatense (Workana)
   + clone open-source. Debut como momento de contenido.
@@ -211,19 +213,67 @@ IG / X / Threads (SFW video nuevo / día, cron)
 
 ---
 
-## Estado 2026-07-17 madrugada (TG Jorge + Brisa)
+## Estado 2026-07-17 tarde — DESBLOQUEADO FaceID + reacomodo tiers (Claudio)
 
-### Audience (regla operativa)
+### Decisión Jorge
+- **FaceID se usa** (él responsable). No regenerar ni borrar por licencia.
+- Batch `20260717_0545` A–D (36 stills + ~35 videos) = **válido**.
+- `*_nofaceid` = keep, igual de buenos.
+
+### Escalera de tiers (LOCK)
+| Nivel | Qué va | Dónde |
+|-------|--------|-------|
+| **GRATIS** | intro SFW + social; tacaño en piel | feed `followers-and-subscribers` |
+| **SUB $3.99** | lencería / topless soft / implied; NUNCA hard | muro `subscribers` sin price |
+| **PPV por DM** | hard nudes / genital / sets A–H hard; $5–12 sets, $8–20 videos | **no se publica en el muro** — vault + venta conversando |
+| **CUSTOMS** | a pedido | DM cotizado |
+
+### Live en Fanvue ahora (API get_posts 17/7)
+| Tier | Post uuid | Media local | Audience |
+|------|-----------|-------------|----------|
+| **GRATIS · pin** | `5fd2a639-aec5-4caf-a3e3-a73e20b368ff` | `public/20260717_0054_intro_sfw_hoodie_sofa.mp4` | followers-and-subscribers · pinned |
+| **SUB soft still** | `869a1485-b716-4802-b457-6c232254ae93` | `public/20260717_0354_nofaceid_lingerie_sofa.png` | subscribers · coll A Sofa |
+| **SUB soft still** | `1e49c245-2be8-4d84-980a-39162b2a795f` | `stills/bed_lingerie.png` | subscribers · coll B Bedroom |
+| **SUB soft video** | `87b211cf-7d52-45a3-a107-e47b27a47a32` | `public/20260717_0354_nofaceid_lingerie_sofa.mp4` | subscribers · coll A Sofa |
+
+### Sacado del muro (estaba mal de tier; no se re-publica al wall)
+Hard free wall + video hard en sub — **soft-deleted** en el control de daños anterior. **Bien para la escalera**: hard no va al muro.
+Paths en Extra listos para **PPV por DM** (no wall posts):
+
+| Set | Paths (FaceID original + nofaceid) |
+|-----|-------------------------------------|
+| sofa window | `nsfw/20260717_0116_01_nude_sofa_window{.png,.mp4,_nofaceid.png,_nofaceid.mp4}` |
+| bed sheets | `nsfw/20260717_0116_02_bed_sheets{.png,_nofaceid.png}` |
+| mirror | `nsfw/20260717_0116_03_mirror_selfie{.png,_nofaceid.png}` |
+| kneeling | `nsfw/20260717_0116_04_kneeling_close{.png,_nofaceid.png}` |
+| intro nude | `vault/fanvue/20260716_2306_intro_nude_sofa_01{_nofaceid}.{png,mp4}` |
+| **Batch A–D 0545** | `nsfw/collections/{A_sofa_window,B_bedroom,C_mirror,D_shower}/{stills,videos}/` · 36 stills FaceID + ~35 mp4 · hard → **solo PPV DM** |
+
+### Pod
+- `comfyui-luz-h200` **EXITED** (no facturando).
+
+### Next (cuando digan)
+- [ ] Más soft al muro sub (volumen/constancia)
+- [ ] Primer pack PPV hard por DM (pricing $5–12 / $8–20) desde vault 0116 o A01
+- [ ] No auto-publicar A–H hard al muro — solo vault + DM
+- [ ] X bio + sensitive media (Jorge)
+- [ ] Banner mid-body web manual si aún no subido
+
+---
+
+## Estado 2026-07-17 madrugada (TG Jorge + Brisa) — histórico
+
+### Audience (regla operativa — SUPERSEDED por escalera de la tarde)
 | Nivel | Audience API | Contenido |
 |-------|--------------|-----------|
-| Discovery público | avatar / banner / intro perfil | **SFW only** (sin nudes/lingerie explícita/topless) |
-| Soft free | `followers-and-subscribers` · price null | soft / nudes teaser free (Jorge OK 17/7) |
-| Hard | `subscribers` (+ collections) | hard nude / I2V explícito; video hard **solo subs** |
+| Discovery público | avatar / banner / intro perfil | **SFW only** |
+| ~~Soft free hard~~ | ~~followers free nudes~~ | **NO** — hard no en free |
+| Soft sub | `subscribers` | lingerie / soft |
+| Hard | **PPV DM** | no muro |
 
-### Posts free ya publicados (MCP)
-- Pinned intro SFW: `5fd2a639-…` (hoodie sofa video)
-- Soft free stills (4): `c731427c-…`, `d7d6bb4d-…`, `82f5ae59-…`, `10818bbb-…` — audience free
-- Video hard pendiente → **solo subscribers** (pedido Jorge: “el video para subs”)
+### Posts free ya publicados (MCP) — histórico
+- Pinned intro SFW: `5fd2a639-…` (sigue live)
+- Soft free stills hard (4) + video hard: **deleted** → material en vault PPV
 
 ### Collections Fanvue (MCP `create_collection`, 17/7)
 | Label | UUID |
@@ -239,13 +289,10 @@ IG / X / Threads (SFW video nuevo / día, cron)
 
 JSON local: `/Volumes/Extra/photos/brisa_prod/vault/fanvue/nsfw/collections/fanvue_collection_uuids.json`
 
-### Batch overnight hard A–H (gen only)
-- Script pod: `/workspace/scripts/brisa_collections_ah_hard10.py`
-- tmux: `ah_hard` · log: `/workspace/logs/brisa_collections_ah_hard10.log`
-- Target: **80** clips (8 colecciones × 10 still + 10 I2V)
-- Stack: **JGG + brisa_stills → Pony · Wan dual MoE + brisa_video · NO FaceID**
-- Output pod: `…/vault/fanvue/nsfw/collections/{A..H}/{stills,videos}/`
-- Extra mirror folders creadas; **no publica** — review mañana + upload subs
+### Batch overnight hard A–D (gen)
+- Stamp `20260717_0545` · FaceID · A10/B10/C10/D6 stills + videos casi full
+- Output: `…/vault/fanvue/nsfw/collections/{A..D}/{stills,videos}/`
+- **Uso:** vault PPV DM — **no** muro sub
 
 ### Specs perfil
 - Avatar: 1080×1080 (help Fanvue)
