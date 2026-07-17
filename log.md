@@ -10,6 +10,13 @@ tags: ["#log", "#meta"]
 
 Append-only. Entradas nuevas **arriba**.
 
+## 2026-07-17 — FaceID ban Fanvue + regen nofaceid (email Claudio)
+- FaceID/InstantID/PuLID **prohibidos** en material Fanvue (InsightFace research-only).
+- Voz intro: Gemini TTS Aoede — no publicable; intro sin voz.
+- Path canónico: `/Volumes/Extra/photos/brisa_prod` (sin Desktop symlink).
+- Script: `brisa-generate/scripts/brisa_fanvue_nofaceid_regen.py` (JGG+brisa_stills→Pony, mismos seeds).
+- Wiki: [[brisa-video-production]], [[brisa-monetize-fanvue-onlyfans]], skill refs actualizados.
+
 ## 2026-07-16 — Daily consolidation (~02:00)
 
 - **Fuentes:** WA `20260715_063318_b9076db2` (Videos Brisa RunPod / redes). TG Apple `20260713_165241_21c6604d` post-02:00 solo cleanup spam NSFW assets + confirm posts (sin bio nueva).
