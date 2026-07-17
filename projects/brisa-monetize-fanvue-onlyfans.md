@@ -129,11 +129,12 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - ✅ **Sub = USD 3.99** (decisión Jorge — pisa el 9.99–14.99 de arriba; sube más adelante con librería).
 - ✅ Mensajes automáticos cargados por Jorge (new subscriber/follower/canceled/renewed/purchase/first reply).
 - ✅ Licencias verificadas: Z-Image y Wan Apache OK; Juggernaut/CyberRealistic OK (Civitai `{Image}`).
-  🔴 **IP-Adapter FaceID PROHIBIDO en renders para Fanvue** (research-only). El LoRA sostiene la identidad.
-- 🎤 **VOZ: el intro video va SIN VOZ (música + texto overlay).** La voz definitiva viene de una locutora
-  contratada (casting ya publicado en Workana) que se clona con TTS open-source. **NUNCA uses ni clones la
-  voz Gemini/Aoede para Fanvue** (ToS de Google + cero exclusividad). La voz debuta después como momento
-  de contenido ("les presento mi voz").
+  🔴 **IP-Adapter FaceID / InstantID / PuLID PROHIBIDOS en renders para Fanvue** (InsightFace research-only).
+  El LoRA `brisa_stills` sostiene la identidad. Regen sin FaceID: `brisa_fanvue_nofaceid_regen.py`.
+  Assets viejos con FaceID se conservan para review pero **no se monetizan**.
+- 🎤 **VOZ: intro SIN VOZ (música + texto overlay).** `20260716_intro_voice.mp3` = **Gemini TTS Aoede**
+  (confirmado Brisa 17/7) → **no publicable** en Fanvue. Voz definitiva = locutora rioplatense (Workana)
+  + clone open-source. Debut como momento de contenido.
 
 ### Plan de promoción (embudo redes → Fanvue)
 - **X = el canal de venta**: cuenta marcada "sensitive media" (lo hace Jorge en settings de X), previews

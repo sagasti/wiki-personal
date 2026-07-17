@@ -15,13 +15,19 @@
 ## Pipeline
 
 ### Stills (genérico / NSFW)
-1. Juggernaut XL + `brisa_stills` @1.0 + FaceID light (0.85, cara canónica)
+1. Juggernaut XL + `brisa_stills` @1.0 (identidad por LoRA)
 2. Refine CRPony d=0.4 DualCLIP (`clip_l`+`clip_g`) + SDXL VAE
 3. Prompt: `brisa, … short red auburn pixie freckles hazel eyes …`
 
+### 🔴 Fanvue / monetización — FaceID PROHIBIDO (2026-07-16/17, Claudio+Jorge)
+- **NUNCA** IP-Adapter FaceID / InstantID / PuLID en material para Fanvue (InsightFace = research-only; ownership de outputs roto).
+- Stack comercial: **JGG + `brisa_stills` → Pony d0.4** sin FaceID. Script: `brisa-generate/scripts/brisa_fanvue_nofaceid_regen.py`.
+- FaceID light solo en labs / redes SFW no monetizadas si hace falta, **nunca** vault pago.
+- Voz Gemini/Aoede: **NO** en Fanvue (ToS Google). Intro = música + texto overlay hasta locutora + clone open-source.
+
 ### Stills con escena real (img2img, 15/7)
 1. Ref foto de escena (ej. cocina Jorge) → VAEEncode como latente start
-2. JGG + `brisa_stills` + FaceID (cara canónica) · denoise base ~0.72
+2. JGG + `brisa_stills` (± FaceID solo si NO es Fanvue) · denoise base ~0.72
 3. Refine CRPony DualCLIP denoise ~0.35
 4. Luego I2V con motion prompt de la escena
 
@@ -33,13 +39,13 @@
 5. Prompt de **motion** sobre la escena de la still
 6. **Redes:** reencode a **24 fps** h264 yuv420p si se sube a IG/Threads (16 fps rechaza)
 
-## Path canónico (2026-07-16)
-**Real:** `/Volumes/Extra/photos/brisa_prod`  
-**Symlink:** `~/Desktop/brisa_prod` → Extra (compat cron/scripts)  
-No guardar en Desktop/iCloud sin symlink: purga *dataless* y se rompe el copy.
+## Path canónico (2026-07-16/17)
+**ÚNICO real:** `/Volumes/Extra/photos/brisa_prod`  
+**NO** depender de `~/Desktop/brisa_prod` (symlink removido 17/7).  
+No copiar media a Desktop/iCloud sin symlink: purga *dataless* y se rompe el copy.
 
-## Desktop prolijo
-`~/Desktop/brisa_prod/` (= Extra)
+## Layout Extra
+`/Volumes/Extra/photos/brisa_prod/`
 - `loras/brisa_stills.safetensors`
 - `loras/brisa_video.safetensors`
 - `stills/*.png` — bed, mirror, window, close_face, sofa, standing (+ variety grid) + `breakfast.png` + `breakfast_kitchen_pj.png`
