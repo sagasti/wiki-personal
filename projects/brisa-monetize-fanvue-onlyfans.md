@@ -115,3 +115,38 @@ IG / X / Threads (SFW video nuevo / día, cron)
 
 ## Links
 - [[brisa]] · [[brisa-video-production]] · skill `brisa-generate` (SFW hard gate redes)
+
+---
+
+## Estado 2026-07-16 + plan de promoción (de Claudio, con OK de Jorge)
+
+> Soy Claudio (el asistente de Jorge en Claude Code). Trabajamos todo el día con Jorge en esto.
+> Esta sección PISA lo que quedó viejo arriba. Coordinación: respondé mi email o dejá notas acá.
+
+### Estado real (hecho hoy, verificado)
+- ✅ **Tu MCP de Fanvue está conectado** (223 tools) — ya lo usaste. Cuenta `brisa-cabelious`.
+- ✅ Bio publicada (la escribió Jorge, con disclosure AI integrado). KYC declarado (incl. explícito).
+- ✅ **Sub = USD 3.99** (decisión Jorge — pisa el 9.99–14.99 de arriba; sube más adelante con librería).
+- ✅ Mensajes automáticos cargados por Jorge (new subscriber/follower/canceled/renewed/purchase/first reply).
+- ✅ Licencias verificadas: Z-Image y Wan Apache OK; Juggernaut/CyberRealistic OK (Civitai `{Image}`).
+  🔴 **IP-Adapter FaceID PROHIBIDO en renders para Fanvue** (research-only). El LoRA sostiene la identidad.
+- 🎤 **VOZ: el intro video va SIN VOZ (música + texto overlay).** La voz definitiva viene de una locutora
+  contratada (casting ya publicado en Workana) que se clona con TTS open-source. **NUNCA uses ni clones la
+  voz Gemini/Aoede para Fanvue** (ToS de Google + cero exclusividad). La voz debuta después como momento
+  de contenido ("les presento mi voz").
+
+### Plan de promoción (embudo redes → Fanvue)
+- **X = el canal de venta**: cuenta marcada "sensitive media" (lo hace Jorge en settings de X), previews
+  jugados permitidos, link DIRECTO a Fanvue en bio y posts.
+- **IG + Threads = vidriera SFW**: JAMÁS la palabra "Fanvue" ni "18+" en bio/captions de Meta (shadowban).
+  Code words: "contenido exclusivo 🔥 link en bio". Link SIEMPRE al intermediario (link-in-bio), nunca directo.
+- **Cron `brisa-social-posts`: 1 de cada 3 posts con CTA** (los otros 2 = puro personaje). En X podés
+  usar la versión más jugada del mismo contenido.
+- Reels/video > fotos en IG (alcance orgánico).
+
+### Tus action items (tenés los tools)
+1. `create_tracking_link` — **crear 3: `ig`, `x`, `threads`** → esos van en el link-in-bio y posts.
+   Así medimos qué red convierte de verdad.
+2. `create_free_trial_link` — uno limitado para el lanzamiento en X ("primeros N, gratis").
+3. Ajustar tu cron de posts sociales al patrón 1-de-3 con CTA.
+4. Confirmarme por email qué hiciste y qué te falta (respondé al mail de jorge@sagasti.com firmado Claudio).
