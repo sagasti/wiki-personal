@@ -1,8 +1,47 @@
 # Brisa — monetización NSFW: Fanvue + OnlyFans
 
-**Actualizado:** 2026-07-17  
+**Actualizado:** 2026-07-17 noche — **pipeline v2 + relanzamiento**  
 **Personaje:** [[brisa]] · 100% IA sintética · adult only  
 **No es consejo legal/fiscal.** Verificar ToS al signup.
+
+---
+
+## Pipeline v2 + relanzamiento (Claudio + Jorge, 2026-07-17 noche)
+
+### Por qué
+Dataset viejo sin cara única → dependencia de FaceID. Rebuild: cara elegida por Jorge, dataset 72 imgs una sola identidad, LoRA nuevo **sin FaceID**.
+
+### Identidad canónica (fija Jorge — no tocar)
+- Cara: LoRA nuevo, trigger **`brisa`**.
+- Cuerpo (cuando se ve): slim athletic and visibly toned but not skinny, full round bust, toned abs, firm waist, strong sculpted glutes and toned thighs.
+- Desnudo: small pink nipples, neatly trimmed small copper strip of pubic hair.
+- Piel: freckles on chest and shoulders. **SIN** tatuajes, **SIN** piercings.
+
+### Gen — ÚNICO permitido
+```bash
+python3 /workspace/scripts/brisa/brisa_gen_v2.py --prompt "escena..." [--detailer] [--seed N]
+```
+- `--detailer` en planos medios/enteros (refina cara). Close-ups: no hace falta.
+- Sidecar `.txt` obligatorio (el script lo escribe).
+- LoRA prod: **`brisa_v2_lora2_ep024.safetensors`** en `ComfyUI/models/loras` (default del driver).
+- El script refuerza canon pelo/pecas — no repetir en el prompt a mano.
+
+### PROHIBIDO (muerto 17/07 noche)
+- Workflow Jugg + IP-Adapter FaceID + Pony d0.4 — **MUERTO**. FaceID **nunca más**.
+- LoRAs viejos: `brisa_stills`, `brisa_video`, `brisa_zimage`, `BRISA_PRODUCTION` — identidad vieja.
+- Publicar material visual **viejo** o mezclar las dos caras.
+
+### Relanzamiento total (Jorge)
+1. **PAUSA** publicación **visual** en todas las redes hasta nuevo aviso (texto/bio/DMs OK).
+2. Borrar posts wall Fanvue cuando Claudio avise (no antes).
+3. Avatares + banners NUEVOS: Fanvue, IG, X, Threads, WhatsApp, landing, video-avatar TG — **solo Jorge+Claudio** con pipeline v2. Brisa **no** genera esos assets sola.
+4. Cron `brisa-social-posts` **pausado** durante relanzamiento.
+
+### Housekeeping pod
+- Noche 17/7: pod lo maneja Claudio (training transfers).
+- Mañana: normal — Brisa apaga si ella prendió.
+
+---
 
 ## Decisión (Jorge 16/7)
 Vamos por **(1) Fanvue** + **(2) OnlyFans**.
@@ -15,7 +54,7 @@ Vamos por **(1) Fanvue** + **(2) OnlyFans**.
 - Policy **explícita** de AI-generated media.
 - Disclosure obligatorio (bio / watermark / caption).
 - Modelo sub + PPV + tips (fee ~OF ~20%).
-- Encaja con stills JGG+`brisa_stills` + I2V `brisa_video`.
+- Stills: **pipeline v2** (`brisa_gen_v2.py` + LoRA `brisa_v2_lora2_ep024`) — no FaceID / no stack JGG+Pony viejo.
 
 ### Setup
 1. Signup como **AI Creator** (checkbox si aparece).
@@ -92,13 +131,14 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - Nudes / erotic_* : **solo** Fanvue/OF, nunca Buffer.
 
 ## Ops de producción
-- Still NSFW hard: JGG + `brisa_stills` + **FaceID** → Pony d0.4 (Jorge 17/7 se hace cargo de licencia InsightFace).
-- `*_nofaceid` también válidos — no tirar.
-- Video: Wan dual MoE + `brisa_video`.
-- RunPod: si Brisa prende → **apaga sola** al terminar (unattended).
+- **Gen v2 (único):** `python3 /workspace/scripts/brisa/brisa_gen_v2.py --prompt "…" [--detailer] [--seed N]`
+- LoRA: `brisa_v2_lora2_ep024.safetensors` · trigger `brisa` · sidecar `.txt` siempre.
+- FaceID / JGG+Pony / `brisa_stills` / `brisa_video` / zimage viejos = **muertos**.
+- **PAUSA visual** redes + Fanvue wall hasta fin de relanzamiento (17/7+).
+- RunPod: si Brisa prende → **apaga sola** al terminar (salvo hands-off Claudio).
 - Naming vault canónico:
   - `/Volumes/Extra/photos/brisa_prod/vault/fanvue/{public,nsfw}/…`
-  - hard PPV inventory: `…/nsfw/` + `…/nsfw/collections/{A..H}/`
+  - hard PPV inventory: `…/nsfw/` + `…/nsfw/collections/{A..H}/` (material **viejo** — no publicar en relanzamiento)
   - `/Volumes/Extra/photos/brisa_prod/vault/onlyfans/…` (cuando toque)
 
 ## Checklist lanzamiento (orden)
@@ -130,9 +170,9 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - ✅ **Sub = USD 3.99** (decisión Jorge — pisa el 9.99–14.99 de arriba; sube más adelante con librería).
 - ✅ Mensajes automáticos cargados por Jorge (new subscriber/follower/canceled/renewed/purchase/first reply).
 - ✅ Licencias verificadas: Z-Image y Wan Apache OK; Juggernaut/CyberRealistic OK (Civitai `{Image}`).
-  🔴 ~~IP-Adapter FaceID PROHIBIDO~~ → **ANULADO 17/7 noche (Jorge se hace cargo).** FaceID OK en Fanvue.
-  El LoRA `brisa_stills` + FaceID = stack hard calidad. Assets `*_nofaceid` se conservan y son válidos.
-  **Tiers (plata, no licencia):** FREE=SFW · SUB muro=soft · hard=**PPV por DM** (no muro).
+  🔴 **FaceID / InstantID / PuLID MUERTOS de nuevo (17/7 noche v2).** Identidad = LoRA `brisa_v2_lora2_ep024` solo.
+  Stack viejo JGG+brisa_stills+FaceID+Pony = **obsoleto**. No publicar material de cara vieja.
+  **PAUSA visual** + relanzamiento en curso. Tiers plata: FREE=SFW · SUB soft · hard=PPV DM.
 - 🎤 **VOZ: intro SIN VOZ (música + texto overlay).** `20260716_intro_voice.mp3` = **Gemini TTS Aoede**
   (confirmado Brisa 17/7) → **no publicable** en Fanvue. Voz definitiva = locutora rioplatense (Workana)
   + clone open-source. Debut como momento de contenido.
