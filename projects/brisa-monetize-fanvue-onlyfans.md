@@ -1,12 +1,19 @@
 # Brisa — monetización NSFW: Fanvue + OnlyFans
 
-**Actualizado:** 2026-07-17 noche — **pipeline v2 + relanzamiento**  
-**Personaje:** [[brisa]] · 100% IA sintética · adult only  
-**No es consejo legal/fiscal.** Verificar ToS al signup.
+**Actualizado:** 2026-07-18 — **ops redes/Fanvue fuera de Brisa (agencia)**  
 
 ---
 
-## Pipeline v2 + relanzamiento (Claudio + Jorge, 2026-07-17 → update post-relaunch)
+## Ops redes/Fanvue — handover (Jorge 18/07)
+
+Brisa (este agente Hermes) **NO** genera ni publica en IG/X/Threads/Fanvue.  
+Cron `brisa-social-posts` **eliminado**. Operación comercial del personaje → **agente de agencia**.  
+Brisa sigue como asistente personal (TG/WA/mail, memoria, Ciudadanías BC, etc.).  
+Si se pide redes/Fanvue por chat → redirigir a agencia salvo orden explícita de Jorge.
+
+---
+
+## Pipeline v2 + relanzamiento (histórico Claudio + Jorge, 2026-07-17 → post-relaunch)
 
 ### Por qué
 Dataset viejo sin cara única → dependencia de FaceID. Rebuild: cara elegida por Jorge, dataset 72 imgs una sola identidad, LoRA nuevo **sin FaceID**.

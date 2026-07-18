@@ -1,13 +1,12 @@
 # Brisa — log de posts sociales
 
-**Regla Jorge (2026-07-18):** NUNCA repetir prompt de render ni caption. Revisar este log antes de proponer/generar.  
-Una línea (o bloque) por post: fecha · red · estado · seed · flags · prompt · caption · ancla realidad · fuente clima.
+**CIERRE OPERATIVO (Jorge 2026-07-18 via Claudio/hermes-admin):**  
+Brisa **deja de generar y publicar** en IG/X/Threads (Buffer) y Fanvue.  
+Cron `brisa-social-posts` **ELIMINADO** — no recrear. Ops comercial del personaje → **agente de agencia**.  
+Este log queda como histórico / anti-repeat si algún día Jorge ordena algo puntual.
 
-**Regla permanente prompts (Jorge/Claudio 2026-07-18):**  
-Prompts = **ESCENA + OUTFIT + LUZ** solamente.  
-**NUNCA** cara, pelo, ojos ni cuerpo base (el driver `brisa_gen_v2.py` inyecta el canon solo: pelo copper, pecas, etc.).  
-Meter identidad a mano (ej. “red auburn”, “hazel eyes”, “pixie”) **pisa el canon y deriva la cara**.  
-Excepción OK: canon de cuerpo/desnudo **cuando el plano lo muestra** (ej. freckles on chest and shoulders).
+**Regla Jorge (2026-07-18):** NUNCA repetir prompt de render ni caption (histórico).  
+**Regla permanente prompts:** ESCENA + OUTFIT + LUZ; driver inyecta canon.
 
 Estados: `PROPUESTO` | `APROBADO` | `RENDERED` | `PUBLICADO` | `DESCARTADO`
 
