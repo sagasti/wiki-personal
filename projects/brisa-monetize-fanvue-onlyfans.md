@@ -24,6 +24,7 @@ python3 /workspace/scripts/brisa/brisa_gen_v2.py --prompt "escena..." [--detaile
 - `--detailer` en planos medios/enteros (refina cara). Close-ups: no hace falta.
 - Sidecar `.txt` obligatorio; válido si incluye `stack=zimage+brisa_v2`.
 - LoRA prod: **`brisa_v2_lora2_ep024.safetensors`**.
+- **Prompts (LOCK Jorge 18/7):** solo ESCENA + OUTFIT + LUZ. **Nunca** descriptores de cara/pelo/ojos/cuerpo base (el driver inyecta canon copper/pecas). Excepción: cuerpo/desnudo canónico si el plano lo muestra. Log: `projects/brisa-social-posts-log.md`.
 
 ### Fuentes de imagen PERMITIDAS (única lista)
 1. Renders nuevos con `brisa_gen_v2.py`.
