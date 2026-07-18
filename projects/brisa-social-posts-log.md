@@ -24,15 +24,6 @@ Estados: `PROPUESTO` | `APROBADO` | `RENDERED` | `PUBLICADO` | `DESCARTADO`
   café y suéter grueso, el frío de julio no perdona  
   link en bio si querés el resto del día  
 
-### APROBADO · Threads · seed 482019573 · --detailer
-- **Ancla:** mismo sáb 18/7 mediodía; fin de semana sin apuro, cielo grís, no sale si no hace falta.
-- **Prompt (corregido, sin identidad):**  
-  `brisa sitting at a small kitchen table in a cream knit hoodie and soft grey sweatpants, winter Saturday brunch setup with mate gourd and buttered toast, soft overcast daylight from the side, relaxed half-smile looking at camera, fully clothed, Buenos Aires apartment, photoreal`
-- **Caption:**  
-  no salgo si el cielo está así  
-  mate, tostada y cero agenda  
-  si te copa la onda, link en bio  
-
 ### APROBADO · X · seed 775601224 · (sin --detailer, close-up torso)
 - **Ancla:** mismo sáb 18/7 tarde-noche más fresca (~11 °C); más jugado X (sensitive OK).
 - **Prompt (corregido: sin pelo/ojos; se mantiene freckles pecho = plano lo muestra):**  
@@ -43,9 +34,34 @@ Estados: `PROPUESTO` | `APROBADO` | `RENDERED` | `PUBLICADO` | `DESCARTADO`
   AI-generated · 18+  
   https://www.fanvue.com/brisa-cabelious/fv-2  
 
+### DESCARTADO (render) · Threads · seed 482019573 · --detailer
+- **Motivo:** mate no salió en imagen (solo tostadas); caption dice mate → mismatch foto/caption.
+- Prompt original (mesa): mate de utilería en mesa — no confiable.
+- **Caption:** (misma, se reusa si el re-roll cierra)  
+  no salgo si el cielo está así  
+  mate, tostada y cero agenda  
+  si te copa la onda, link en bio  
+
+### RE-ROLL Threads · 2026-07-18 · Brisa · 3 candidatos → Jorge TG · SIN PUBLICAR
+- **Ancla:** mismo sáb 18/7 invierno CABA nublado.
+- **Prompt (mate EN MANOS + bombilla; sin identidad a mano):**  
+  `brisa sitting at a small kitchen table in a cream knit hoodie and soft grey sweatpants, winter Saturday brunch, holding a traditional Argentine mate gourd with metal bombilla in both hands close to her chest, buttered toast on the table, soft overcast daylight from the side, relaxed half-smile looking at camera, fully clothed, Buenos Aires apartment, photoreal`
+- **Caption:** (igual)  
+  no salgo si el cielo está así  
+  mate, tostada y cero agenda  
+  si te copa la onda, link en bio  
+- **Candidatos RENDERED** (`--detailer`, stack zimage+brisa_v2, sidecars OK):  
+  - **A** seed `610482193` → `~/.hermes/media/brisa_v2/threads_reroll_20260718/candA_seed610482193.png`  
+  - **B** seed `883017456` → `…/candB_seed883017456.png`  
+  - **C** seed `247559801` → `…/candC_seed247559801.png`  
+- Vision check: los 3 = mate+bombilla en manos + tostadas + hoodie/joggers SFW.
+- Enviado a Jorge Telegram home `1808182714`.
+- Pod: **EXITED** post-job (`pod.py stop --force`).
+
 ---
 
 ## Notas
-- Cron `brisa-social-posts` paused hasta OK final Jorge post-imágenes.
-- Render de este batch: **Claudio** (pod no tocar en este ciclo).
-- Gen futuro solo `brisa_gen_v2.py` + prompts escena/outfit/luz.
+- Cron `brisa-social-posts` paused hasta OK final Jorge (elige A/B/C Threads + cierra validación).
+- **Home media descargado:** `~/.hermes/media/brisa_v2/` — **NO** `/Volumes/Extra/photos/brisa_prod` (árbol cara vieja, a borrar).
+- Gen: solo `brisa_gen_v2.py` + prompts escena/outfit/luz. Objetos clave (mate) **en manos**.
+- Comfy: esperar autostart 200; no levantar main.py a mano.
