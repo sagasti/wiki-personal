@@ -1,13 +1,20 @@
 # Brisa — producción limpia (sin versiones)
 
-**Actualizado:** 2026-07-17
+**Actualizado:** 2026-07-18
 
-## Nombres canónicos (sin versionar)
+## Pipeline actual (Fanvue / relanzamiento — 17/7 noche v2)
+
+**Único gen permitido:** `python3 /workspace/scripts/brisa/brisa_gen_v2.py --prompt "…" [--detailer] [--seed N]`  
+- LoRA: **`brisa_v2_lora2_ep024.safetensors`** · trigger **`brisa`** · sidecar `.txt` siempre.  
+- FaceID / JGG+Pony / `brisa_stills` / `brisa_video` / zimage / BRISA_PRODUCTION = **MUERTOS** para prod nueva.  
+- Detalle playbook: [[brisa-monetize-fanvue-onlyfans]] § Pipeline v2.
+
+## Nombres canónicos históricos (vault / labs — no gen nueva)
 
 | Rol | Archivo | Dónde |
 |---|---|---|
-| Stills LoRA | `brisa_stills.safetensors` | Desktop `brisa_prod/loras/` · Pod `loras/brisa_sdxl/` |
-| Video LoRA | `brisa_video.safetensors` | Desktop `brisa_prod/loras/` · Pod `loras/identity/` |
+| Stills LoRA (viejo) | `brisa_stills.safetensors` | Extra `brisa_prod/loras/` · Pod `loras/brisa_sdxl/` |
+| Video LoRA (viejo) | `brisa_video.safetensors` | Extra `brisa_prod/loras/` · Pod `loras/identity/` |
 | Alias stills | `brisa_sdxl_PRODUCTION` → stills | pod |
 | Alias video | `brisa_wan22_PRODUCTION` → video | pod |
 | Trigger | `brisa` | captions / prompts |
@@ -19,10 +26,10 @@
 2. Refine CRPony d=0.4 DualCLIP (`clip_l`+`clip_g`) + SDXL VAE
 3. Prompt: `brisa, … short red auburn pixie freckles hazel eyes …`
 
-### 🔴 Fanvue / monetización — FaceID PROHIBIDO (2026-07-16/17, Claudio+Jorge)
-- **NUNCA** IP-Adapter FaceID / InstantID / PuLID en material para Fanvue (InsightFace = research-only; ownership de outputs roto).
-- Stack comercial: **JGG + `brisa_stills` → Pony d0.4** sin FaceID. Script: `brisa-generate/scripts/brisa_fanvue_nofaceid_regen.py`.
-- FaceID light solo en labs / redes SFW no monetizadas si hace falta, **nunca** vault pago.
+### 🔴 Fanvue / monetización — FaceID PROHIBIDO de nuevo (v2 17/7 noche)
+- **NUNCA** IP-Adapter FaceID / InstantID / PuLID (InsightFace research-only + identidad ahora = LoRA v2).
+- Gen comercial nueva: **solo** `brisa_gen_v2.py` + `brisa_v2_lora2_ep024` (ver playbook).
+- Histórico 16–17/7: Jorge prefirió calidad FaceID sobre batch sin FaceID; batch stamp `20260717_0545` A–D en Extra = vault viejo (cara anterior). **No publicar en relanzamiento v2.**
 - Voz Gemini/Aoede: **NO** en Fanvue (ToS Google). Intro = música + texto overlay hasta locutora + clone open-source.
 
 ### Stills con escena real (img2img, 15/7)
@@ -77,8 +84,12 @@ No copiar media a Desktop/iCloud sin symlink: purga *dataless* y se rompe el cop
 - Train Wan → **apagar Comfy** (OOM)
 - SSH: puerto RunPod cambia al reboot; host key puede fallar → `StrictHostKeyChecking=no`
 - Comfy a veces pide `pip install sqlalchemy --break-system-packages`; cloudflared 530 → arrancar Comfy por SSH/tmux
-- Redes: solo SFW; ver [[brisa]] + [[buffer]]
+- Redes: solo SFW; ver [[brisa]] + [[buffer]] · **pausa visual** durante relanzamiento v2
 - Telegram/WA: Jorge sigue desde ahí; leer este doc al despertar
+- **Save solo final** (Pony/output final): no dump intermedios `*_jgg_*` (decisión Jorge 17/7)
+- **Resume batch por stamp:** pin `STAMP = "YYYYMMDD_HHMM"` en el script si el resume saltea por path existente; no regenerar con stamp nuevo
+- Pull S3 → Extra cuando pod EXITED: `aws s3 sync` del vault; path canónico Extra
+- FaceID (labs/histórico): requiere CLIPVision ViT-H + `ip-adapter-faceid_sdxl.bin` — sin eso stills fallan
 
 ## LatentSync (lip-sync intro — 16–17/7)
 - Custom node en pod: `ComfyUI-LatentSyncWrapper` (pesos en `checkpoints/`, incl. `latentsync_unet.pt`)

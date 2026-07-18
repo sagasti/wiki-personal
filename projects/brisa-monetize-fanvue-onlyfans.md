@@ -248,17 +248,18 @@ IG / X / Threads (SFW video nuevo / día, cron)
 - [ ] X bio + sensitive media settings (Jorge)
 - [ ] Contenido vault/teaser launch + usar free trial en X de lanzamiento
 - [ ] Subir avatar/banner (manual web; MCP no edita perfil). Banner Fanvue **1192×335**, preferir mid-body lingerie (no solo cara).
-- [ ] Publicar hard A–H a `subscribers` + `collectionUuids` (gen overnight en curso; **no auto-publish**).
+- [ ] Publicar hard A–H a muro: **NO** — hard = PPV DM only; además A–H FaceID es cara vieja (post-v2 no relanzamiento sin OK Jorge)
 - [ ] Voz: locutora rioplatense + clone OS (Gemini TTS no publicable).
 
 ---
 
-## Estado 2026-07-17 tarde — DESBLOQUEADO FaceID + reacomodo tiers (Claudio)
+## Estado 2026-07-17 tarde — DESBLOQUEADO FaceID + tiers (Claudio) — **SUPERSEDED** por pipeline v2 noche
 
-### Decisión Jorge
-- **FaceID se usa** (él responsable). No regenerar ni borrar por licencia.
-- Batch `20260717_0545` A–D (36 stills + ~35 videos) = **válido**.
-- `*_nofaceid` = keep, igual de buenos.
+> **Superseded 17/7 noche:** FaceID vuelve a estar **muerto**; gen solo v2. Esta sección queda como histórico de live posts + inventory vault. Tiers FREE/SUB soft/PPV DM **siguen** vigentes.
+
+### Decisión Jorge (tarde — luego pisada por v2)
+- FaceID se usó temporalmente (él responsable). Batch `20260717_0545` A–D quedó en Extra como vault hard.
+- Post-v2: ese material = **cara vieja** → no feed de relanzamiento; inventory PPV solo si Jorge autoriza.
 
 ### Escalera de tiers (LOCK)
 | Nivel | Qué va | Dónde |
@@ -329,12 +330,13 @@ Paths en Extra listos para **PPV por DM** (no wall posts):
 
 JSON local: `/Volumes/Extra/photos/brisa_prod/vault/fanvue/nsfw/collections/fanvue_collection_uuids.json`
 
-### Batch overnight hard A–D (gen)
-- Stamp `20260717_0545` · FaceID · A10/B10/C10/D6 stills + videos casi full
+### Batch overnight hard A–D (gen) — ops 17/7 TG
+- Stamp `20260717_0545` · FaceID · pull Extra mañana 17/7: **A10/B10/C10/D6 stills + D5 videos** (~35/80); E–H no gen en ese pull
+- Resume mismo día: pin `STAMP=20260717_0545` en `brisa_collections_ah_faceid.py` + skip por path existente; cron `faceid-batch-watch-stop` (cada 30m sync+stop) **creado y removido** por Jorge (“Stop reminder FaceID”) — no re-armar sin pedido
 - Output: `…/vault/fanvue/nsfw/collections/{A..D}/{stills,videos}/`
-- **Uso:** vault PPV DM — **no** muro sub
+- **Uso post-v2:** vault histórico (cara vieja) — **no** relanzamiento visual; hard nunca al muro sub
 
 ### Specs perfil
 - Avatar: 1080×1080 (help Fanvue)
-- Banner: **1192×335** (no face-only; mid-body)
+- Banner: **1192×335** (no face-only; mid-body) — relanzamiento v2 solo Jorge+Claudio
 - MCP: lee/posts/collections OK; **no** set bio/avatar/banner (REST profile write 401 con scopes MCP)

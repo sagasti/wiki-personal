@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-17"
+updated: "2026-07-18"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,13 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-18 — Daily consolidation (~02:00)
+
+- **Fuentes humanas (48h):** TG `20260716_084703_952c46` (madrugada 17/7 FaceID QC + relaunch A–H) + TG `20260717_083833_75d70557` (pull Extra + resume batch + stop cron reminder). WA `20260715` handoff “Termino runpod?”. WA ciudadanías “No me gusta” = iteración de diseño (sin preferencia estable). CLI 16/7 sin facts nuevos. Email Claudio (v2) ya absorbido en playbook/skills la noche del 17.
+- **Updated:** [[brisa-monetize-fanvue-onlyfans]] (ops batch 0545 + supersede FaceID-desbloqueo por pipeline v2), [[brisa-video-production]] (v2 note + save-final + resume stamp), [[technical-lessons]] (CLIPVision FaceID, pin STAMP, save solo final).
+- **MEMORY:** puntero RunPod hands-off de la noche 17/7 → normal unattended (MEMORY ~95%; sin punteros nuevos). USER: sin preferencias nuevas.
+- **Nota:** pipeline v2 + pausa visual siguen vigentes; material FaceID vault = histórico / no relanzamiento.
 
 ## 2026-07-17 — Daily consolidation (~02:00)
 

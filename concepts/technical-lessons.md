@@ -1,11 +1,11 @@
 ---
 title: "Technical lessons (índice)"
 created: "2026-07-12"
-updated: "2026-07-13"
+updated: "2026-07-18"
 type: "concept"
 tags: ["#ops", "#lessons", "#index", "#brisa"]
-related: [[hermes-whatsapp-bridge-failure-mode]], [[hermes-cli-send-command-gap]], [[brisa-tools]], [[runpod]], [[comfyui]], [[hermes-gemini-google-alias-native-client]]
-sources: ["MEMORY.md weekly maintenance 2026-07-12", "Telegram 2026-07-12/13"]
+related: [[hermes-whatsapp-bridge-failure-mode]], [[hermes-cli-send-command-gap]], [[brisa-tools]], [[runpod]], [[comfyui]], [[hermes-gemini-google-alias-native-client]], [[brisa-video-production]]
+sources: ["MEMORY.md weekly maintenance 2026-07-12", "Telegram 2026-07-12/13", "Telegram 2026-07-17"]
 confidence: high
 ---
 
@@ -40,6 +40,10 @@ Hub de lecciones técnicas durables. El detalle vive en las páginas hijas; MEMO
 | VAE latent cache incompat | [[vae-latent-cache-incompatibility]] |
 | Wan 2.2 issues | [[wan22-issues]] |
 | Dual LoRA stacking limita a blend de caras (no 2 personas distintas) | [[lora]] |
+| FaceID stills: sin CLIPVision ViT-H / faceid bin → `Missing CLIPVision` | [[comfyui]], [[brisa-video-production]] |
+| Resume overnight: pin `STAMP` al batch existente o regenera todo con stamp nuevo | [[brisa-video-production]], [[runpod]] |
+| Save solo output final (no intermedios `*_jgg_*`) | [[brisa-video-production]] |
+| Prod Fanvue post-17/7: solo `brisa_gen_v2.py` + LoRA `brisa_v2_lora2_ep024` | [[brisa-monetize-fanvue-onlyfans]] |
 
 ## Comportamiento operativo
 
