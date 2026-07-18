@@ -6,7 +6,7 @@
 
 ---
 
-## Pipeline v2 + relanzamiento (Claudio + Jorge, 2026-07-17 noche)
+## Pipeline v2 + relanzamiento (Claudio + Jorge, 2026-07-17 → update post-relaunch)
 
 ### Por qué
 Dataset viejo sin cara única → dependencia de FaceID. Rebuild: cara elegida por Jorge, dataset 72 imgs una sola identidad, LoRA nuevo **sin FaceID**.
@@ -22,24 +22,40 @@ Dataset viejo sin cara única → dependencia de FaceID. Rebuild: cara elegida p
 python3 /workspace/scripts/brisa/brisa_gen_v2.py --prompt "escena..." [--detailer] [--seed N]
 ```
 - `--detailer` en planos medios/enteros (refina cara). Close-ups: no hace falta.
-- Sidecar `.txt` obligatorio (el script lo escribe).
-- LoRA prod: **`brisa_v2_lora2_ep024.safetensors`** en `ComfyUI/models/loras` (default del driver).
-- El script refuerza canon pelo/pecas — no repetir en el prompt a mano.
+- Sidecar `.txt` obligatorio; válido si incluye `stack=zimage+brisa_v2`.
+- LoRA prod: **`brisa_v2_lora2_ep024.safetensors`**.
 
-### PROHIBIDO (muerto 17/07 noche)
-- Workflow Jugg + IP-Adapter FaceID + Pony d0.4 — **MUERTO**. FaceID **nunca más**.
-- LoRAs viejos: `brisa_stills`, `brisa_video`, `brisa_zimage`, `BRISA_PRODUCTION` — identidad vieja.
-- Publicar material visual **viejo** o mezclar las dos caras.
+### Fuentes de imagen PERMITIDAS (única lista)
+1. Renders nuevos con `brisa_gen_v2.py`.
+2. Drive carpeta **"Relanzamiento v2"** (avatars/banners oficiales — re-subir si hace falta).
+3. **Nada más.** Ni chats viejos, cache, `/Volumes` legacy, ni regenerar avatars sola.  
+   Si aparece archivo pre-17/07 o sin sidecar `stack=zimage+brisa_v2` → **no usar, avisar, se borra**.
 
-### Relanzamiento total (Jorge)
-1. **PAUSA** publicación **visual** en todas las redes hasta nuevo aviso (texto/bio/DMs OK).
-2. Borrar posts wall Fanvue cuando Claudio avise (no antes).
-3. Avatares + banners NUEVOS: Fanvue, IG, X, Threads, WhatsApp, landing, video-avatar TG — **solo Jorge+Claudio** con pipeline v2. Brisa **no** genera esos assets sola.
-4. Cron `brisa-social-posts` **pausado** durante relanzamiento.
+### PROHIBIDO
+- FaceID / Jugg+Pony / `brisa_stills` / `brisa_video` / zimage viejo / `BRISA_PRODUCTION`.
+- Material cara vieja o mezclar caras.
+- Tocar el **muro Fanvue** mientras el goteo programado esté activo (14 soft posts hasta ~25/07, 2/día).
+
+### Estado relanzamiento (hecho por Jorge+Claudio — no repetir)
+- Fanvue: wall viejo borrado · avatar+banner nuevos · intro pineado · 14 soft programados → **NO tocar muro**.
+- Avatares/banners: IG, X, Threads, WhatsApp, Telegram + landing brisa-links (cara nueva).
+
+### Reglas POR RED (Jorge — no negociables)
+| Red | Contenido | CTA / texto |
+|-----|-----------|-------------|
+| **IG + Threads** | SOLO SFW: vestida o sugerido leve. **NO** lencería explícita, nudes, transparencias | **PROHIBIDO** “Fanvue” / “18+”. CTA solo link-in-bio (brisa-links) y **solo tick 14:30 ART**. Tag IA en bio alcanza |
+| **X** | Más jugado OK (topless/implied; cuenta sensitive) | Link directo Fanvue OK. Siempre `AI-generated · 18+` en texto |
+| **Fanvue** | Soft muro sub; hard **nunca** al muro (PPV DM) | **Ahora no publicar** — goteo armado |
+| **Toda red** | Solo renders v2 | Duda de “muy jugada” → no publicar, preguntar |
+
+### Cómo se levanta la PAUSA visual
+1. Brisa prepara **3 posts propuestos SIN PUBLICAR**: 1 IG + 1 Threads + 1 X (imagen v2 + caption + red).
+2. Manda a Jorge (Telegram o mail) para review.
+3. Jorge aprueba → **él** despausa cron `brisa-social-posts`. Brisa **no** se despausa sola.
+4. Hasta entonces: cron **paused**; cero Buffer visual.
 
 ### Housekeeping pod
-- Noche 17/7: pod lo maneja Claudio (training transfers).
-- Mañana: normal — Brisa apaga si ella prendió.
+- Hands-off si Claudio lo pide; normal: Brisa apaga si ella prendió.
 
 ---
 
