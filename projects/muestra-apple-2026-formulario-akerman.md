@@ -1,3 +1,12 @@
+---
+title: "Muestra Apple 2026 — Formulario Akerman (completado)"
+created: "2026-07-13"
+updated: "2026-07-19"
+type: "project"
+tags: ["#apple", "#charla", "#bio"]
+related: [[muestra-apple-2026-charla]], [[jorge-sagasti]]
+---
+
 # Muestra Apple 2026 — Formulario José / Diego Akerman (completado)
 
 **Doc original:** [JORGE - Info Apple](https://docs.google.com/document/d/1YSiijlHKc_HbywqbVU7557mUnnvKDgR8SUlZAHLevxE/edit)  

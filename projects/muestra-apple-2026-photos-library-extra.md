@@ -1,3 +1,12 @@
+---
+title: "Photos Library → /Volumes/Extra"
+created: "2026-07-13"
+updated: "2026-07-19"
+type: "project"
+tags: ["#apple", "#photos", "#ops"]
+related: [[muestra-apple-2026-charla]], [[osxphotos-tool-for-apple-photos]]
+---
+
 # Photos Library → /Volumes/Extra (2026-07-13)
 
 ## Estado final (verificado)

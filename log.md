@@ -10,6 +10,18 @@ tags: ["#log", "#meta"]
 
 Append-only. Entradas nuevas **arriba**.
 
+## 2026-07-19 — Mantenimiento semanal estructural
+
+- **Tipo:** Mantenimiento
+- **MEMORY/USER audit:** MEMORY estaba **96.9%** (2131/2200) → compactado a **60.0%** (1320/2200). USER 69% (1244/1800) — preferencias estables OK; se limpió un `§` vacío.
+- **Rotación:** ops detalladas (OpenArt/Brave/Desktop 403/max_tokens/Photos path/Akerman HECHO/duplicado identidad Nina+redes) ya vivían en wiki ([[hermes-configuration]], [[brisa]], [[muestra-apple-2026-charla]], etc.) → MEMORY solo punteros. Sin setup puntual de pods/IPs en built-in. Links MEMORY: 0 rotos.
+- **Index:** desfasado vs disco (faltaban 11 páginas post-Apple/Fanvue) → rebuild completo. Counts: entities 36 · projects 30 · concepts 48 · decisions 6 · comparisons 1 · queries 1. Paridad index↔disco OK.
+- **SCHEMA hygiene:** frontmatter agregado a [[muestra-apple-2026-photos-library-extra]] y [[muestra-apple-2026-formulario-akerman]].
+- **Daily 02:00 hoy:** [[brisa]]/[[claudio]]/[[brisa-social-posts-log]] + Nina rename — verificado, sin conflicto con compactación.
+- **Secrets built-in:** limpio. Flag histórico iCloud app-password en transcripts Apple (dailies 14–16/7) sigue siendo tema de Jorge si no rotó — no reaparece en MEMORY/USER.
+- **~/wiki laboral:** solo menciones hard-rule negativas (OK).
+- **RunPod [[runpod]]:** `valid_until` 2026-08-12 aún vigente; IDs/ports siguen marcados como rotables.
+
 ## 2026-07-19 — Daily consolidation (~02:00)
 
 - **Fuentes humanas (~48h):** TG `20260717_083833_75d70557` (cierre/pull FaceID, stop reminder, re-roll Threads, clima, saludo pre-rename) + TG `20260718_193033_36e6a45a` + CLI `20260718_155714_370a1e` (presentación **Nina**). Email Claudio/hermes-admin (handover+rename+mail) ya actuado en sesión; no es source humano del filtro pero alineó SOUL/MEMORY.
