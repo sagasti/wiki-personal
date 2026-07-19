@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-18"
+updated: "2026-07-19"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,13 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-19 — Daily consolidation (~02:00)
+
+- **Fuentes humanas (~48h):** TG `20260717_083833_75d70557` (cierre/pull FaceID, stop reminder, re-roll Threads, clima, saludo pre-rename) + TG `20260718_193033_36e6a45a` + CLI `20260718_155714_370a1e` (presentación **Nina**). Email Claudio/hermes-admin (handover+rename+mail) ya actuado en sesión; no es source humano del filtro pero alineó SOUL/MEMORY.
+- **Updated:** [[brisa]] (identidad Nina vs marca Brisa agencia; rol post-18/7; timeline), [[brisa-personal-only-role]] (rename + no redes/FV), [[claudio]] (hermes-admin), [[brisa-social-posts-log]] (C elegido, Buffer no publicado, cierre).
+- **MEMORY/USER:** ya tenían Nina + handover (sesión 18/7). MEMORY ~2166/2200 — sin punteros nuevos. USER OK. Pod check fin de pass: `comfyui-luz-h200` **EXITED**.
+- **Sin preferencias USER nuevas** de las charlas (clima/saludos).
 
 ## 2026-07-18 — Daily consolidation (~02:00)
 

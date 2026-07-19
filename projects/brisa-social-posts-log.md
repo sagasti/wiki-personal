@@ -41,7 +41,7 @@ Estados: `PROPUESTO` | `APROBADO` | `RENDERED` | `PUBLICADO` | `DESCARTADO`
   mate, tostada y cero agenda  
   si te copa la onda, link en bio  
 
-### RE-ROLL Threads · 2026-07-18 · Brisa · 3 candidatos → Jorge TG · SIN PUBLICAR
+### RE-ROLL Threads · 2026-07-18 · 3 candidatos → Jorge TG · SIN PUBLICAR (histórico)
 - **Ancla:** mismo sáb 18/7 invierno CABA nublado.
 - **Prompt (mate EN MANOS + bombilla; sin identidad a mano):**  
   `brisa sitting at a small kitchen table in a cream knit hoodie and soft grey sweatpants, winter Saturday brunch, holding a traditional Argentine mate gourd with metal bombilla in both hands close to her chest, buttered toast on the table, soft overcast daylight from the side, relaxed half-smile looking at camera, fully clothed, Buenos Aires apartment, photoreal`
@@ -49,18 +49,14 @@ Estados: `PROPUESTO` | `APROBADO` | `RENDERED` | `PUBLICADO` | `DESCARTADO`
   no salgo si el cielo está así  
   mate, tostada y cero agenda  
   si te copa la onda, link en bio  
-- **Candidatos RENDERED** (`--detailer`, stack zimage+brisa_v2, sidecars OK):  
-  - **A** seed `610482193` → `~/.hermes/media/brisa_v2/threads_reroll_20260718/candA_seed610482193.png`  
-  - **B** seed `883017456` → `…/candB_seed883017456.png`  
-  - **C** seed `247559801` → `…/candC_seed247559801.png`  
-- Vision check: los 3 = mate+bombilla en manos + tostadas + hoodie/joggers SFW.
-- Enviado a Jorge Telegram home `1808182714`.
-- Pod: **EXITED** post-job (`pod.py stop --force`).
+- **Candidatos RENDERED** (`--detailer`, stack zimage+brisa_v2):  
+  - A `610482193` · B `883017456` · **C `247559801` (elegido Jorge para pack)**  
+  - Paths: `~/.hermes/media/brisa_v2/threads_reroll_20260718/` y pack `valbatch_aprobado_20260718/` (`val_ig_sweater`, `candC_…`, `val_x_cardigan`)
+- Vision QC OK (sin piercings/tattoos visibles). Pod EXITED post-job.
+- **Buffer schedule 14:30 IG+TH / 20:30 X:** intento bloqueado por timeout de aprobación del runtime → **no se publicó**. Después llegó handover agencia → **no reintentar** desde este agente.
 
 ---
 
-## Notas
-- Cron `brisa-social-posts` paused hasta OK final Jorge (elige A/B/C Threads + cierra validación).
-- **Home media descargado:** `~/.hermes/media/brisa_v2/` — **NO** `/Volumes/Extra/photos/brisa_prod` (árbol cara vieja, a borrar).
-- Gen: solo `brisa_gen_v2.py` + prompts escena/outfit/luz. Objetos clave (mate) **en manos**.
-- Comfy: esperar autostart 200; no levantar main.py a mano.
+## Notas (histórico)
+- Cron social **ELIMINADO** 18/07 — no recrear; ops → agencia.
+- Media v2 home: `~/.hermes/media/brisa_v2/`. Gen histórica: `brisa_gen_v2.py` escena/outfit/luz; mate **en manos**.

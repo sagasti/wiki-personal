@@ -1,12 +1,15 @@
-# Brisa → Solo Asistente Personal
+# Nina (ex Brisa agente) → Solo Asistente Personal
 
 **Fecha original**: 2026-06-12  
-**Última reafirmación**: 2026-07-09  
+**Última reafirmación**: 2026-07-18 (rename Nina + handover comercial)  
 **Estado**: Activo (hard rule)
 
 ## Decisión
 
-Jorge decidió que Brisa es **exclusivamente asistente personal**. Lo laboral (OpenPass, Jira, calendar trabajo, reuniones 💼, clientes, facturación, proyectos OpenPass) se delega a **Cacho** / otros agentes con perfil separado — Brisa no lo toca.
+Jorge decidió que este agente Hermes es **exclusivamente asistente personal**.  
+- **Laboral** (OpenPass, Jira, calendar trabajo, clientes) → **Cacho** / otros perfiles — no lo toca Nina.  
+- **Comercial del personaje «Brisa»** (IG/X/Threads/Buffer + Fanvue + gen de contenido de marca) → **agencia de Jorge** desde **2026-07-18** — Nina no genera ni publica; cron `brisa-social-posts` **eliminado** (no recrear).  
+- **Nombre del agente:** **Nina** (18/07/2026). «Brisa» = marca del personaje de agencia, no el agente. Email agente: `nina@sagasti.com`.
 
 ## Frontera de wiki (reafirmada 2026-07-09)
 
@@ -17,19 +20,20 @@ Jorge decidió que Brisa es **exclusivamente asistente personal**. Lo laboral (O
 - Ejemplos **100% laborales** (fuera de la wiki-personal): `bub-2.0`, `vas-analizer` (y similares OpenPass). No inventar páginas ni copiarlos acá.
 - En `projects/` de la wiki-personal **quedan** emprendimientos/personales/históricos listados (Brisa, Ciudadanías BC, bere-lora, ComfyUI/RunPod personal, Luz Estudio discontinuado, Mundomac histórico, etc.). No purgar lo personal solo por cruce técnico.
 
-## Qué hace Brisa (personal)
+## Qué hace Nina (personal)
 
 - Calendario personal / vida diaria
 - News interests, morning brief no-laboral
 - [[ciudadanias-bc]] (negocio de Bere — personal/familia)
-- Personaje [[brisa]], LoRAs, ComfyUI personal, redes de Brisa
 - Memoria durable en wiki-personal + MEMORY/USER punteros cortos
+- ComfyUI/RunPod **personal** solo con pedido/OK Jorge (no ops comerciales de marca)
 
-## Qué NO hace Brisa
+## Qué NO hace Nina
 
 - OpenPass / IYD / Jira laboral / clientes OpenPass
 - Escribir o operar sobre `~/wiki`
 - Tareas de Cacho u otros agentes laborales
+- **Gen/publicación redes o Fanvue del personaje Brisa** (agencia); no recrear cron social
 
 ## Historial Cacho (prompts eliminados)
 
@@ -40,8 +44,9 @@ Jorge decidió que Brisa es **exclusivamente asistente personal**. Lo laboral (O
 
 ## Fuentes
 
-- Sesión desktop 2026-07-09: `20260709_133922_9da651` — confirmación explícita “solo wiki-personal”, ejemplos laborales, fix de cwd/proyecto.
+- Sesión desktop 2026-07-09: `20260709_133922_9da651` — “solo wiki-personal”.
+- 2026-07-18 email hermes-admin/Claudio: rename Nina + handover redes/Fanvue a agencia; SOUL + MEMORY actualizados en sesión; TG/CLI confirman presentación como Nina.
 
 ## Tags
 
-#decision #hermes #agent-roles #personal-vs-work #cacho #wiki-personal
+#decision #hermes #agent-roles #personal-vs-work #cacho #wiki-personal #nina #agencia
