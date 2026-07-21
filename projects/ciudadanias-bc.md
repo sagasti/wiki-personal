@@ -1,7 +1,7 @@
 ---
 title: "Ciudadanías BC"
 created: "2026-04-19"
-updated: "2026-07-09"
+updated: "2026-07-20"
 type: "project"
 tags: ["#project", "#bere", "#instagram", "#citizenship"]
 related: [[Berenice Carbajo]], [[Buffer]]
@@ -89,8 +89,18 @@ Lección de tooling asociada: [[technical-lessons]] (lag de tool-results en Clau
 ## Calidad de avisos / vs ChatGPT (2026-07-09)
 
 - Jorge reenvió feedback de Bere: venía pensando en usar ChatGPT para avisos porque “los hace mejor / más de diseño / distintos al resto de la ciudad”.
-- Brisa reaccionó actualizando el pipeline de placas (skill `ciudadanias-bc-ig` + estilo editorial) y mandó a WhatsApp **CIUDADANÍAS BC** dos muestras 9:16:
+- Brisa/Nina reaccionó actualizando el pipeline de placas (skill `ciudadanias-bc-ig` + estilo editorial) y mandó a WhatsApp **CIUDADANÍAS BC** dos muestras 9:16:
   - italiana (`ciudadaniasbc_pitch_italiana_20260709.png`)
   - española (`ciudadaniasbc_pitch_espanola_20260709.png`, logo dorado)
 - Dirección visual: card elevada, gradiente con profundidad, vibe luxury magazine; logo/footer Pillow exactos; voseo **Tramitá**; `--magic OFF`.
-- Pendiente: feedback de Bere (qué le gusta / no / ejemplo de ChatGPT a igualar o superar). Ver [[ciudadanias-bc-cartel-design-pipeline]].
+- Ver [[ciudadanias-bc-cartel-design-pipeline]] + skill ref `ciudadanias-bc-story-patterns.md`.
+
+## Stories / feedback Bere (2026-07-20, WhatsApp)
+
+- Pedidos del día: “más armada/elaborada”, ganchos de servicio (“armado de carpeta” / “lista para presentar”), y placa **topical** por Argentina subcampeona del Mundial 2026.
+- **Pipeline LOCK:** skill `ciudadanias-bc-ig` / `ideogram_post.py` (Ideogram + logo/footer Pillow). No xAI text-to-image from-scratch para marca. Si Ideogram deja basura tipográfica o pasaporte con lettering falso → cleanup i2i/`image_generate` edit **sobre** el draft Ideogram + **re-stamp** logo/footer Pillow (ver skill ref `ideogram-garbage-text-cleanup.md`).
+- Entregas guardadas en `~/wiki/projects/ciudadanias-bc/`:
+  - Cron lunes italiana canónica: `ciudadaniasbc_story_lunes_italiana_20260720.png` (Tramitá OK)
+  - Italiana elaborada (pedido Bere): `ciudadaniasbc_story_lunes_italiana_elaborada_20260720.png` — carpeta 3D, cinta tricolor, pasaporte limpio, “Carpeta armada y lista para presentar” / “Tramitá sin vueltas”
+  - Argentina subcampeón: `ciudadaniasbc_story_argentina_subcampeon_20260720.png` — ¡Vamos Argentina! · Subcampeones del mundo · Orgullo argentino · logo+footer OK
+- Cron diario `ciudadanias-bc-daily-story` sigue activo (rotación por día de semana); Nina entrega a WA CIUDADANÍAS BC.
