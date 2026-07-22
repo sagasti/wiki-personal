@@ -1,7 +1,7 @@
 ---
 title: "Technical lessons (índice)"
 created: "2026-07-12"
-updated: "2026-07-18"
+updated: "2026-07-21"
 type: "concept"
 tags: ["#ops", "#lessons", "#index", "#brisa"]
 related: [[hermes-whatsapp-bridge-failure-mode]], [[hermes-cli-send-command-gap]], [[brisa-tools]], [[runpod]], [[comfyui]], [[hermes-gemini-google-alias-native-client]], [[brisa-video-production]]
@@ -44,6 +44,7 @@ Hub de lecciones técnicas durables. El detalle vive en las páginas hijas; MEMO
 | Resume overnight: pin `STAMP` al batch existente o regenera todo con stamp nuevo | [[brisa-video-production]], [[runpod]] |
 | Save solo output final (no intermedios `*_jgg_*`) | [[brisa-video-production]] |
 | Prod Fanvue post-17/7: solo `brisa_gen_v2.py` + LoRA `brisa_v2_lora2_ep024` | [[brisa-monetize-fanvue-onlyfans]] |
+| Placas BC: logo siempre Pillow asset oficial; modelo inventa monograma → Bere lo marca mal | [[ciudadanias-bc-cartel-design-pipeline]], [[ciudadanias-bc]] |
 
 ## Comportamiento operativo
 

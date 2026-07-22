@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-19"
+updated: "2026-07-22"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,13 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-22 — Daily consolidation (~02:00)
+
+- **Fuente humana (~24h):** WA `20260623_102206_6752c31e` (CIUDADANÍAS BC) — 21/7 ~09:16 ART: Bere “Está mal el logo de BC” sobre story Argentina subcampeón; restamp logo oficial + footer. Otras WA/TG/CLI sin activity humana nueva post-pass 21/7 (café/RunPod y story AR del 20/7 ya en personal).
+- **Updated:** [[ciudadanias-bc]] (fix logo 21/7), [[ciudadanias-bc-cartel-design-pipeline]] (LOCK logo Pillow), [[technical-lessons]] (fila logo BC).
+- **MEMORY/USER:** puntero BC refinado (logo LOCK). Sin preferencias USER nuevas de fondo; refuerzo QA marca.
+- **Sin críticos** (no secrets).
 
 ## 2026-07-19 — Mantenimiento semanal estructural
 

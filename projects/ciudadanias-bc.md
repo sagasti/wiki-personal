@@ -1,7 +1,7 @@
 ---
 title: "Ciudadanías BC"
 created: "2026-04-19"
-updated: "2026-07-20"
+updated: "2026-07-21"
 type: "project"
 tags: ["#project", "#bere", "#instagram", "#citizenship"]
 related: [[Berenice Carbajo]], [[Buffer]]
@@ -102,5 +102,6 @@ Lección de tooling asociada: [[technical-lessons]] (lag de tool-results en Clau
 - Entregas guardadas en `~/wiki/projects/ciudadanias-bc/`:
   - Cron lunes italiana canónica: `ciudadaniasbc_story_lunes_italiana_20260720.png` (Tramitá OK)
   - Italiana elaborada (pedido Bere): `ciudadaniasbc_story_lunes_italiana_elaborada_20260720.png` — carpeta 3D, cinta tricolor, pasaporte limpio, “Carpeta armada y lista para presentar” / “Tramitá sin vueltas”
-  - Argentina subcampeón: `ciudadaniasbc_story_argentina_subcampeon_20260720.png` — ¡Vamos Argentina! · Subcampeones del mundo · Orgullo argentino · logo+footer OK
+  - Argentina subcampeón: `ciudadaniasbc_story_argentina_subcampeon_20260720.png` — ¡Vamos Argentina! · Subcampeones del mundo · Orgullo argentino · footer OK
+- **2026-07-21 WA (Bere, “Está mal el logo de BC”):** el draft había quedado con monograma/logo inventado (Grok/i2i o stamp débil). Fix: wipe top strip + `compose_logo` del asset oficial `ciudadanias-bc-logo-azul_oscuro.png` (monograma BC entrelazado + wordmark CIUDADANÍAS) + `compose_footer` exacto. Mismo path de salida reescrito. **QA marca:** nunca confiar logo generado por modelo; siempre Pillow desde assets del skill. Sin respuesta de Bere post-fix (pendiente “¿te cierra?”).
 - Cron diario `ciudadanias-bc-daily-story` sigue activo (rotación por día de semana); Nina entrega a WA CIUDADANÍAS BC.

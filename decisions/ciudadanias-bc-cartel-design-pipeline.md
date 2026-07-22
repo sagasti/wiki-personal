@@ -1,7 +1,7 @@
 ---
 title: "ciudadanias-bc cartel design pipeline"
 created: "2026-05-06"
-updated: "2026-07-09"
+updated: "2026-07-21"
 type: "decision"
 tags: ["#ciudadanias-bc", "#bere", "#design", "#decision", "#cartel", "#ideogram"]
 sources: ["hermes-session/20260506_184142_cea83c", "hermes-session/20260621_201756_f86828b8"]
@@ -38,9 +38,17 @@ Jorge retransmitió que Bere comparaba avisos con ChatGPT (“los hace mejor / m
 - Oferta de iterar con feedback de Bere o con ejemplo de ChatGPT.
 - Guardar feedback de Bere en el skill/reference de patrones (loop de mejora del skill).
 
+## LOCK logo (Bere 2026-07-21)
+
+- **Nunca** dejar logo BC dibujado por Ideogram/Grok/i2i: inventa monogramas o deforma el wordmark.
+- **Siempre** estampar el PNG oficial del skill (`ciudadanias-bc-logo-azul_oscuro.png` default; variantes dorado/rojo/blanco/carbón) vía `compose_logo` + footer vía `compose_footer`.
+- Si el modelo pintó un logo falso arriba: cover del top strip (sample sky/bg) → restamp oficial. Validar crop de región logo con vision antes de mandar a Bere.
+- Feedback real: story Argentina subcampeón 20/7 → “Está mal el logo de BC” → fix 21/7 en mismo archivo. Ver [[ciudadanias-bc]].
+
 ## Outputs
 
 - Carteles PIL: `~/wiki-personal/projects/ciudadanias-bc-cartel-<service>.png` o assets en `projects/ciudadanias-bc-assets/`
 - Muestras Ideogram pitch 2026-07-09: `ciudadaniasbc_pitch_italiana_20260709.png` / `ciudadaniasbc_pitch_espanola_20260709.png` (enviadas por WA). Futuros assets: guardar en wiki-personal, no en `~/wiki`.
+- Topical 20–21/7: `~/wiki/projects/ciudadanias-bc/ciudadaniasbc_story_argentina_subcampeon_20260720.png` (logo restamp 21/7).
 
 See also: [[berenice-carbajo]], [[ciudadanias-bc]], [[ciudadanias-bc-portuguesa-services]]
