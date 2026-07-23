@@ -1,7 +1,7 @@
 ---
 title: "log"
 created: "2026-07-12"
-updated: "2026-07-22"
+updated: "2026-07-23"
 type: "log"
 tags: ["#log", "#meta"]
 ---
@@ -9,6 +9,13 @@ tags: ["#log", "#meta"]
 # log
 
 Append-only. Entradas nuevas **arriba**.
+
+## 2026-07-23 — Daily consolidation (~02:00)
+
+- **Fuente humana (~24h):** WA `20260623_102206_6752c31e` (CIUDADANÍAS BC) — 22/7 ~19:56 ART: Bere en Malibú cuidando perros; Jorge viaje Chile; pidió tel Club House (no en memoria). Resto del día = crons (news, story española 22/7, log-rotate) — ignorados.
+- **Updated:** [[jorge-sagasti]] (estado viaje Chile + Club House s/tel), [[berenice-carbajo]] (estado dog-sitting Malibú).
+- **MEMORY:** puntero estado casa/viaje. USER: sin preferencias nuevas.
+- **Sin críticos.**
 
 ## 2026-07-22 — Daily consolidation (~02:00)
 

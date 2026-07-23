@@ -1,7 +1,7 @@
 ---
 title: "Jorge Sagasti — Perfil Personal"
 created: "2026-04-08"
-updated: "2026-05-06"
+updated: "2026-07-23"
 type: "entity"
 ---
 
@@ -11,6 +11,13 @@ type: "entity"
 **Nacido:** 31/01/1964, Buenos Aires
 **Vive:** Barrio Malibú, Lote 102, RP58 km 11, Presidente Perón, BA (CP B1862)
 **Timezone:** America/Buenos_Aires (GMT-3)
+
+## Estado actual
+
+> ⚠️ **Sección transitoria — actualizar / borrar cuando expire.**
+
+- **Viaje Chile:** desde al menos **2026-07-22** (fuente: Bere por WA CIUDADANÍAS BC). Duración/regreso no confirmados.
+- Mientras tanto en Malibú: [[berenice-carbajo]] cuidando a **Mushu** y **Chimi**.
 
 ## Familia
 - **Hijo mayor:** Emiliano Sagasti (25/03/1999), vive con su novia Rocío
@@ -27,7 +34,8 @@ type: "entity"
 
 ## Casa
 - **Guillermina:** Paseadora, Barrio El Rebenque
-- **Lorena Nápoli:** House manager — ayuda con la casa, los perros y más
+- **Lorena Nápoli:** House manager — ayuda con la casa, los perros y más (persona; no confundir con el Club House del barrio)
+- **Club House / House Malibú:** amenities/resto adentro del country; se puede pedir comida. **Teléfono: desconocido** (pedido de Bere 2026-07-22; si llega, guardarlo acá)
 - **Edesur:** Proveedor electricidad actual
 - **Telecentro:** Internet
 - **Consorcio Amenabar**
